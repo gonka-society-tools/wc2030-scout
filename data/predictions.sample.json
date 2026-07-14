@@ -1,0 +1,168 @@
+{
+  "generatedAt": "2026-07-15T00:00:00.000Z",
+  "_note": "SAMPLE / MOCK DATA — generated for frontend development without a live GONKA_API_KEY. Run scripts/precompute.ts to produce real data/predictions.json.",
+  "players": [
+    {
+      "name": "Juan Musso",
+      "team": "ARG",
+      "kimi": {
+        "probability2030": 22,
+        "reasoning": "门将2030年将36岁，虽门将职业生涯较长，但当前非绝对主力，年龄劣势明显。",
+        "requestId": "mock-req-kimi-arg-musso-0001",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 18,
+        "reasoning": "36岁门将入选概率偏低，需观察未来几年状态与竞争位置的年轻门将。",
+        "requestId": "mock-req-minimax-arg-musso-0001",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 20,
+      "divergence": 4
+    },
+    {
+      "name": "Marcos Senesi",
+      "team": "ARG",
+      "kimi": {
+        "probability2030": 45,
+        "reasoning": "中卫33岁仍具竞争力，英超经验加分，但需应对新生代中卫冲击。",
+        "requestId": "mock-req-kimi-arg-senesi-0002",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 38,
+        "reasoning": "33岁中卫处于下滑区间边缘，概率中等偏低。",
+        "requestId": "mock-req-minimax-arg-senesi-0002",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 42,
+      "divergence": 7
+    },
+    {
+      "name": "Nicolás Tagliafico",
+      "team": "ARG",
+      "kimi": {
+        "probability2030": 8,
+        "reasoning": "2030年将38岁，边后卫位置对速度要求高，高龄大幅降低入选概率。",
+        "requestId": "mock-req-kimi-arg-tagliafico-0003",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 12,
+        "reasoning": "尽管经验丰富，38岁边后卫继续入选国家队大名单的先例较少。",
+        "requestId": "mock-req-minimax-arg-tagliafico-0003",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 10,
+      "divergence": 4
+    },
+    {
+      "name": "Brice Samba",
+      "team": "FRA",
+      "kimi": {
+        "probability2030": 25,
+        "reasoning": "门将2030年36岁，法国门将梯队竞争激烈，替补出身进一步降低概率。",
+        "requestId": "mock-req-kimi-fra-samba-0004",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 20,
+        "reasoning": "高龄门将且当前非首发，入选希望有限。",
+        "requestId": "mock-req-minimax-fra-samba-0004",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 23,
+      "divergence": 5
+    },
+    {
+      "name": "Malo Gusto",
+      "team": "FRA",
+      "kimi": {
+        "probability2030": 78,
+        "reasoning": "2030年仅27岁，正值边后卫黄金年龄，英超豪门效力提供稳定曝光。",
+        "requestId": "mock-req-kimi-fra-gusto-0005",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 72,
+        "reasoning": "年轻且已获国家队认可，未来几年大概率持续入选。",
+        "requestId": "mock-req-minimax-fra-gusto-0005",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 75,
+      "divergence": 6
+    },
+    {
+      "name": "Lucas Digne",
+      "team": "FRA",
+      "kimi": {
+        "probability2030": 15,
+        "reasoning": "2030年37岁，边后卫位置竞争激烈，高龄使入选概率较低。",
+        "requestId": "mock-req-kimi-fra-digne-0006",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 19,
+        "reasoning": "经验丰富但年龄是主要制约因素。",
+        "requestId": "mock-req-minimax-fra-digne-0006",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 17,
+      "divergence": 4
+    }
+  ],
+  "teams": [
+    {
+      "team": "ARG",
+      "newcomers": [
+        {
+          "name": "Claudio Echeverri",
+          "position": "MF",
+          "note": "[模型推断] 年轻攻击型中场已获俱乐部与青年队认可，预计2030年前晋升主力。",
+          "requestId": "mock-req-kimi-arg-newcomers-0001",
+          "model": "moonshotai/Kimi-K2.6"
+        },
+        {
+          "name": "Ian Subiabre",
+          "position": "FW",
+          "note": "[模型推断] 青训体系内新星前锋，具备晋升国家队大名单潜力。",
+          "requestId": "mock-req-kimi-arg-newcomers-0001",
+          "model": "moonshotai/Kimi-K2.6"
+        },
+        {
+          "name": "Valentín Carboni",
+          "position": "MF",
+          "note": "[模型推断] 意甲效力年轻中场，技术特点契合国家队体系。",
+          "requestId": "mock-req-kimi-arg-newcomers-0001",
+          "model": "moonshotai/Kimi-K2.6"
+        }
+      ]
+    },
+    {
+      "team": "FRA",
+      "newcomers": [
+        {
+          "name": "Warren Zaïre-Emery",
+          "position": "MF",
+          "note": "[模型推断] 已在顶级俱乐部担纲重任的年轻中场，预计成为2030年核心。",
+          "requestId": "mock-req-kimi-fra-newcomers-0002",
+          "model": "moonshotai/Kimi-K2.6"
+        },
+        {
+          "name": "Désiré Doué",
+          "position": "FW",
+          "note": "[模型推断] 攻击型球员进步迅速，具备长期入选潜力。",
+          "requestId": "mock-req-kimi-fra-newcomers-0002",
+          "model": "moonshotai/Kimi-K2.6"
+        },
+        {
+          "name": "Lesley Ugochukwu",
+          "position": "MF",
+          "note": "[模型推断] 后腰新星，符合法国队中场更新换代方向。",
+          "requestId": "mock-req-kimi-fra-newcomers-0002",
+          "model": "moonshotai/Kimi-K2.6"
+        }
+      ]
+    }
+  ]
+}
