@@ -1,0 +1,4911 @@
+{
+  "generatedAt": "2026-07-14T23:23:56.433Z",
+  "players": [
+    {
+      "name": "Juan Musso",
+      "team": "ARG",
+      "kimi": {
+        "probability2030": 15,
+        "reasoning": "门将生涯较长，36岁仍可能竞技状态尚可，但国家队仅4次出场说明是边缘替补，且阿根廷有马丁内斯等竞争者及新生代涌现，入选概率较低。",
+        "requestId": "devshard-28024-52",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 35,
+        "reasoning": "门将职业生涯较长，36岁仍可保持竞技状态；Musso在马竞效力，水平不低；但仅4次出场，竞争激烈，2030年可能被新生代取代。综合来看，入选概率约35%",
+        "requestId": "devshard-28069-2302",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 25,
+      "divergence": 20
+    },
+    {
+      "name": "Marcos Senesi",
+      "team": "ARG",
+      "kimi": {
+        "probability2030": 5,
+        "reasoning": "33岁中卫虽仍可一战，但国家队仅3次出场且阿根廷该位置人才济济，英超中下游球队背景难以支撑其高龄入选。",
+        "requestId": "devshard-27984-67",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 10,
+        "reasoning": "33岁仍可能保持状态，但阿根廷防线竞争激烈且其国家队经验有限，进大名单概率较低。",
+        "requestId": "devshard-28069-2376",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 8,
+      "divergence": 5
+    },
+    {
+      "name": "Nicolás Tagliafico",
+      "team": "ARG",
+      "kimi": {
+        "probability2030": 5,
+        "reasoning": "边后卫38岁属超高龄，体能要求严苛；虽经验丰富且为冠军成员，但2030年竞技状态难维持，阿根廷新生代亦将接班。",
+        "requestId": "devshard-28006-70",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "38岁左后卫已进入职业后期，速度和体能下降，阿根廷已有更年轻球员，竞争激烈，仍入选概率约15%。",
+        "requestId": "devshard-28103-3054",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 28,
+      "divergence": 45
+    },
+    {
+      "name": "Gonzalo Montiel",
+      "team": "ARG",
+      "kimi": {
+        "probability2030": 25,
+        "reasoning": "33岁边后卫已过巅峰，且已回南美联赛竞技水平下滑；虽经验丰富但阿根廷该位置有新人涌现，仅可能以老将替补身份入选，概率偏低。",
+        "requestId": "devshard-28024-53",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "33岁防守球员，状态可能下滑；国家队右后卫竞争激烈；虽经验丰富，但位置可能被新人取代。",
+        "requestId": "devshard-28110-1762",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 38,
+      "divergence": 25
+    },
+    {
+      "name": "Leandro Paredes",
+      "team": "ARG",
+      "kimi": {
+        "probability2030": 5,
+        "reasoning": "2030年36岁，中场体能要求高；已离开欧洲顶级联赛回归阿甲，竞技水平下滑；阿根廷中场人才济济，老将难获征召。",
+        "requestId": "devshard-27984-72",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "36岁、位置竞争激烈、在国内联赛表现一般、经验虽丰富但年龄劣势，2030年进入大名单的可能性较低。",
+        "requestId": "devshard-28069-2515",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 28,
+      "divergence": 45
+    },
+    {
+      "name": "Rodrigo De Paul",
+      "team": "ARG",
+      "kimi": {
+        "probability2030": 15,
+        "reasoning": "2030年De Paul将满36岁，对于中场球员已属高龄；且效力于竞技水平较低的MLS，体能与竞技状态恐难满足世界杯高强度要求。阿根廷中场人才储备充足，老将难以竞争位置。",
+        "requestId": "devshard-27984-73",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "36岁中场，MLS水平相对较低，阿根廷中场竞争激烈，年龄偏大，状态维持存疑；但经验丰富，若保持高水平，或有替补机会，概率约20%。",
+        "requestId": "devshard-28093-2318",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 33,
+      "divergence": 35
+    },
+    {
+      "name": "Julián Alvarez",
+      "team": "ARG",
+      "kimi": {
+        "probability2030": 82,
+        "reasoning": "30岁前锋仍处于巅峰末期，经验丰富且已是阿根廷主力框架成员，只要无重大伤病，大概率仍入选。",
+        "requestId": "devshard-27984-85",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "30岁的前锋仍在巅峰期，且在马竞保持高水平，国家队已有丰富经验，2030年仍是阿根廷核心人选，概率约80%。",
+        "requestId": "devshard-28050-3126",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 66,
+      "divergence": 32
+    },
+    {
+      "name": "Lionel Messi (captain)",
+      "team": "ARG",
+      "kimi": {
+        "probability2030": 5,
+        "reasoning": "2030年时梅西将年满43岁，远超前锋正常退役年龄；虽为传奇队长且经验丰富，但身体机能难以支撑世界杯强度，MLS竞技水平亦难维持国家队水准，极大概率已退役或退出国家队。",
+        "requestId": "devshard-28024-59",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "43岁的前锋在世界杯前保持顶级竞技状态极为罕见，且阿根廷锋线人才充足，梅西届时大概率已退役或淡出国家队，入选概率极低。",
+        "requestId": "devshard-28083-3491",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 28,
+      "divergence": 45
+    },
+    {
+      "name": "Giovani Lo Celso",
+      "team": "ARG",
+      "kimi": {
+        "probability2030": 25,
+        "reasoning": "2030年34岁，中场球员已过巅峰；阿根廷中场人才济济，竞争激烈；虽经验丰富，但年龄和状态下滑风险大，入选概率偏低。",
+        "requestId": "devshard-27984-86",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 30,
+        "reasoning": "34岁中场球员，职业生涯后期，竞争激烈，但经验丰富，仍有入选可能，估计概率约30%。",
+        "requestId": "devshard-28083-3535",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 28,
+      "divergence": 5
+    },
+    {
+      "name": "Gerónimo Rulli",
+      "team": "ARG",
+      "kimi": {
+        "probability2030": 15,
+        "reasoning": "2030年38岁虽在门将合理区间尾声，但国家队仅8次出场说明非核心人选，阿根廷新生代门将涌现，且同年龄段有大马丁压制，入选概率较低。",
+        "requestId": "devshard-27984-88",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "38岁门将，职业生涯仍可持续，但阿根廷已有更年轻的门将竞争，Rulli仅为替补，入选可能性中等偏低。",
+        "requestId": "devshard-28050-3447",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 33,
+      "divergence": 35
+    },
+    {
+      "name": "Lisandro Martínez",
+      "team": "ARG",
+      "kimi": {
+        "probability2030": 65,
+        "reasoning": "32岁对后卫属经验巅峰末期，英超豪门主力身份有利；但阿根廷后防竞争激烈且其伤病史存隐患，届时状态需视身体保持情况而定。",
+        "requestId": "devshard-28006-71",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 30,
+        "reasoning": "作为中后场多面手，32岁仍在巅峰期，俱乐部水平高，国家队经验丰富，但阿根廷后防竞争激烈，仍有约30%可能入选。",
+        "requestId": "devshard-28103-5598",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 48,
+      "divergence": 35
+    },
+    {
+      "name": "Valentín Barco",
+      "team": "ARG",
+      "kimi": {
+        "probability2030": 55,
+        "reasoning": "2030年26岁正值中场巅峰年龄，法甲平台尚可；但目前国家队资历浅，阿根廷中场竞争激烈，需持续进化才能成为常规人选。",
+        "requestId": "devshard-28006-72",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "26岁正值中场黄金期，若在斯特拉斯堡保持高水平并进入欧洲杯或欧冠舞台，有望在阿根廷中场竞争中占据一席之地。",
+        "requestId": "devshard-28050-4311",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 53,
+      "divergence": 5
+    },
+    {
+      "name": "Cristian Romero",
+      "team": "ARG",
+      "kimi": {
+        "probability2030": 72,
+        "reasoning": "32岁对中后卫属巅峰末期，仍具竞争力；英超主力且国家队经验丰富，阿根廷需老将压阵。但需规避伤病与新人冲击。",
+        "requestId": "devshard-27984-90",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "作为主力中卫，32岁仍在竞技高峰期，托特纳姆高水平联赛经验，51场国家队出场奠定地位，仍有竞争力，入选概率较高。",
+        "requestId": "devshard-28050-4342",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 61,
+      "divergence": 22
+    },
+    {
+      "name": "Exequiel Palacios",
+      "team": "ARG",
+      "kimi": {
+        "probability2030": 45,
+        "reasoning": "32岁中场处于竞技末期，虽在勒沃库森保持高水平且国家队经验丰富，但阿根廷新生代竞争激烈，体能下滑将削弱其主力位置竞争力，入选概率中等偏低。",
+        "requestId": "devshard-28006-88",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 35,
+        "reasoning": "32岁中场仍有竞争力，但阿根廷中场竞争激烈且帕洛斯缺乏进球威胁，需保持高水平俱乐部表现才可能入选。",
+        "requestId": "devshard-28110-3163",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 40,
+      "divergence": 10
+    },
+    {
+      "name": "Nicolás González",
+      "team": "ARG",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "32岁边锋处于下滑期，阿根廷攻击线人才济济，虽具备丰富国家队经验且效力高水平联赛，但面临激烈代际竞争，入选概率中等偏低。",
+        "requestId": "devshard-28024-83",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 35,
+        "reasoning": "年龄32岁仍可能在顶级联赛保持状态，但阿根廷中场竞争激烈，年轻球员崛起，入选概率中等。",
+        "requestId": "devshard-28069-4695",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 35,
+      "divergence": 0
+    },
+    {
+      "name": "Thiago Almada",
+      "team": "ARG",
+      "kimi": {
+        "probability2030": 65,
+        "reasoning": "29岁正值前场球员巅峰末期，马竞平台与西甲水平利于保持状态；但阿根廷前场人才济济，16场国家队资历尚浅，需持续高光表现方可保住名额。",
+        "requestId": "devshard-28024-90",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "29岁仍处于前锋黄金期，效力马德里竞技保持高水平，已有一定国际赛经验，阿根廷锋线竞争激烈但仍有位置。",
+        "requestId": "devshard-28110-3483",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 58,
+      "divergence": 15
+    },
+    {
+      "name": "Giuliano Simeone",
+      "team": "ARG",
+      "kimi": {
+        "probability2030": 45,
+        "reasoning": "2030年28岁处于前锋巅峰末期，但阿根廷锋线竞争激烈，其国家队数据一般，需在马竞持续进步并保持健康，入选概率中等。",
+        "requestId": "devshard-27984-115",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "28岁仍属前锋黄金期，效力马竞且已有国家队经验，若保持状态并提升得分能力，入选概率约45%。",
+        "requestId": "devshard-28050-5210",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 48,
+      "divergence": 5
+    },
+    {
+      "name": "Nico Paz",
+      "team": "ARG",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "26岁虽处前锋巅峰年龄，但效力意甲中下游球队Como，平台竞争力不足；国家队资历尚浅，阿根廷锋线人才济济，若无法跃升豪门或持续高光，入选难度较大。",
+        "requestId": "devshard-27984-124",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "26岁正值前锋黄金期，若能在更高水平联赛或豪门效力，国家队经验仍有限但有上升空间，入选概率约30-40%。",
+        "requestId": "devshard-28083-5689",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 43,
+      "divergence": 15
+    },
+    {
+      "name": "Nicolás Otamendi",
+      "team": "ARG",
+      "kimi": {
+        "probability2030": 2,
+        "reasoning": "2030年Otamendi将年满42岁，作为后卫身体机能难以支撑世界杯强度，虽经验丰富但阿根廷中后卫已换代，超龄入选概率极低。",
+        "requestId": "devshard-27984-131",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "42岁后卫已过巅峰，退役可能性大，入选国家队概率极低。",
+        "requestId": "devshard-28069-7263",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 26,
+      "divergence": 48
+    },
+    {
+      "name": "Alexis Mac Allister",
+      "team": "ARG",
+      "kimi": {
+        "probability2030": 65,
+        "reasoning": "32岁中场仍处合理竞技区间，现效力利物浦保持高水平，已有46场国家队经验，但6年间伤病与新生代竞争存变数。",
+        "requestId": "devshard-27984-211",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "32岁中场仍处竞技期，顶级联赛经验与国家队出场多，但新人竞争和伤病风险略降概率。",
+        "requestId": "devshard-28069-7319",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 58,
+      "divergence": 15
+    },
+    {
+      "name": "José Manuel López",
+      "team": "ARG",
+      "kimi": {
+        "probability2030": 15,
+        "reasoning": "30岁前锋年龄尚可，但国家队仅5场0球，非核心成员；阿根廷锋线竞争激烈，且效力巴甲非欧洲主流，难以在4年后逆袭入选。",
+        "requestId": "devshard-28024-122",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "30岁前锋仍有机会，但国家队仅5场且无进球，竞争力不足，且阿根廷锋线竞争激烈，预计入选概率较低。",
+        "requestId": "devshard-28083-7920",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 33,
+      "divergence": 35
+    },
+    {
+      "name": "Lautaro Martínez",
+      "team": "ARG",
+      "kimi": {
+        "probability2030": 45,
+        "reasoning": "33岁前锋虽过巅峰，但意甲节奏较缓利于延续状态；77场37球经验丰富，若保持竞技水平仍有机会以老将身份入选，但需面对新生代竞争。",
+        "requestId": "devshard-27984-214",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "按前锋职业寿命，33岁仍有竞争力，但阿根廷锋线竞争激烈，若保持状态有望入选。",
+        "requestId": "devshard-28093-8155",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 48,
+      "divergence": 5
+    },
+    {
+      "name": "Emiliano Martínez",
+      "team": "ARG",
+      "kimi": {
+        "probability2030": 45,
+        "reasoning": "门将职业生涯较长，38岁仍处于可竞技区间，且其大赛经验丰富、现役英超主力。但四年后状态难料，阿根廷需培养新人，更可能以老带新担任替补门将。",
+        "requestId": "devshard-28006-177",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "门将职业生涯较长，38岁仍可能保持高水平，但届时阿根廷可能已有更年轻门将，竞争激烈，入选概率约15%。",
+        "requestId": "devshard-28190-2137",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 48,
+      "divergence": 5
+    },
+    {
+      "name": "Enzo Fernández",
+      "team": "ARG",
+      "kimi": {
+        "probability2030": 85,
+        "reasoning": "29岁正值中场球员黄金年龄，兼具经验与体能；作为现役主力国脚，在顶级联赛保持高竞技水平，若无重大伤病，入选概率极高。",
+        "requestId": "devshard-28006-199",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "29岁正值中场巅峰，经验丰富、效力顶级联赛，只要保持状态，入选概率很高。",
+        "requestId": "devshard-28190-3573",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 68,
+      "divergence": 35
+    },
+    {
+      "name": "Facundo Medina",
+      "team": "ARG",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "31岁后卫年龄尚可，但当前国家队出场仅9次属边缘人选，阿根廷该位置竞争激烈，需长期保持法甲主力水准并战胜新生代，入选难度较大。",
+        "requestId": "devshard-27984-246",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "作为中卫，31岁仍处于竞技黄金期，当前在马赛表现稳定，国家队已有9次出场，若保持状态有望进入2030大名单，但竞争激烈，概率约40%。",
+        "requestId": "devshard-28110-7459",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 43,
+      "divergence": 15
+    },
+    {
+      "name": "Nahuel Molina",
+      "team": "ARG",
+      "kimi": {
+        "probability2030": 45,
+        "reasoning": "2030年32岁，边后卫体能要求高，虽具大赛经验且效力顶级联赛，但阿根廷该位置新人辈出，届时竞技状态存疑，入选概率中等偏低。",
+        "requestId": "devshard-27984-248",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "32岁仍可能保持高水平，但右后卫竞争激烈且身体下滑风险增大，预计仍有约50%入选可能。",
+        "requestId": "devshard-28110-7621",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 48,
+      "divergence": 5
+    },
+    {
+      "name": "Brice Samba",
+      "team": "FRA",
+      "kimi": {
+        "probability2030": 15,
+        "reasoning": "门将生涯较长，但36岁已处下滑期；国家队仅4次出场资历浅，法国队门将竞争激烈，迈尼昂等正值巅峰，届时更年轻门将将涌现。法甲雷恩平台竞争力有限。",
+        "requestId": "devshard-28024-154",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "门将职业生涯长，但法国阵容竞争激烈，36岁时仅4次出场，入选可能性较低。",
+        "requestId": "devshard-28192-1622",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 33,
+      "divergence": 35
+    },
+    {
+      "name": "Malo Gusto",
+      "team": "FRA",
+      "kimi": {
+        "probability2030": 65,
+        "reasoning": "27岁正值后卫巅峰期，效力英超切尔西平台顶级，已有11场国家队经验；但法国队该位置人才济济，6年间状态与伤病存在不确定性。",
+        "requestId": "devshard-28006-202",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 70,
+        "reasoning": "27岁仍处巅峰期，切尔西平台保持竞争力，法国右后卫竞争激烈但经验丰富，入选可能性较高。",
+        "requestId": "devshard-28190-4087",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 68,
+      "divergence": 5
+    },
+    {
+      "name": "Lucas Digne",
+      "team": "FRA",
+      "kimi": {
+        "probability2030": 5,
+        "reasoning": "边后卫对体能与速度要求极高，37岁远超该位置合理竞技区间；法国队该位置人才济济，即便经验丰富，2030年入选概率极低。",
+        "requestId": "devshard-28024-157",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "Digne届时将37岁，速度和体能下降，且法国左后卫竞争激烈，伤病风险高，入选可能性极低，估计约5%。",
+        "requestId": "devshard-28110-8594",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 28,
+      "divergence": 45
+    },
+    {
+      "name": "Dayot Upamecano",
+      "team": "FRA",
+      "kimi": {
+        "probability2030": 65,
+        "reasoning": "32岁对中后卫仍属合理竞技期，现效力于顶级俱乐部拜仁，国家队经验丰富。但6年间需保持状态并应对法国队激烈竞争与潜在伤病风险。",
+        "requestId": "devshard-28024-159",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 45,
+        "reasoning": "作为中卫，32岁仍可保持高水平，但法国中卫竞争激烈且伤病风险大，预计仍有约四成入选机会。",
+        "requestId": "devshard-28110-8639",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 55,
+      "divergence": 20
+    },
+    {
+      "name": "Jules Koundé",
+      "team": "FRA",
+      "kimi": {
+        "probability2030": 55,
+        "reasoning": "32岁对后卫仍属合理竞技区间，且效力于巴萨保持高水平；但6年间伤病、状态波动及法国新生代后卫竞争激烈，存在较大不确定性。",
+        "requestId": "devshard-27984-262",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "作为顶级联赛主力后卫，32岁仍在竞技黄金期，国家队经验丰富且位置需求稳定，入选概率较高。",
+        "requestId": "devshard-28192-2948",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 53,
+      "divergence": 5
+    },
+    {
+      "name": "Manu Koné",
+      "team": "FRA",
+      "kimi": {
+        "probability2030": 55,
+        "reasoning": "29岁对中场属巅峰期末，仍处合理区间；现效力罗马，意甲水平尚可；但国家队仅14场，中场竞争激烈，需持续高光表现方能保住位置。",
+        "requestId": "devshard-28024-167",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "29岁仍处中场黄金期，若保持在意甲高水平并提升国家队出场次数，有望进入大名单；但法国中场竞争激烈且目前仅14次出场，概率约三成。",
+        "requestId": "devshard-28069-10051",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 53,
+      "divergence": 5
+    },
+    {
+      "name": "Ousmane Dembélé",
+      "team": "FRA",
+      "kimi": {
+        "probability2030": 25,
+        "reasoning": "33岁边锋已过速度巅峰，法国队锋线人才济济，加之其伤病史较长，虽经验丰富但竞技状态难保，入选概率偏低。",
+        "requestId": "devshard-28024-174",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "33岁的前锋在2030年仍保持高水平有难度，但若保持健康且在顶级联赛效力，仍有入选可能。法国锋线竞争激烈，估计概率约35%。",
+        "requestId": "devshard-28192-3599",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 38,
+      "divergence": 25
+    },
+    {
+      "name": "Aurélien Tchouaméni",
+      "team": "FRA",
+      "kimi": {
+        "probability2030": 75,
+        "reasoning": "30岁对中场属巅峰末期，皇马主力且已46场国家队经验，只要无重大伤病，仍具竞争力；但法国队中场人才济济，存在换代压力。",
+        "requestId": "devshard-28006-215",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "30岁正值中场黄金期，效力皇马且已有丰富国家队经验，仍是法国核心候选，只要保持状态，入选概率较高。",
+        "requestId": "devshard-28192-3729",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 63,
+      "divergence": 25
+    },
+    {
+      "name": "Marcus Thuram",
+      "team": "FRA",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "33岁前锋已过巅峰，法国队锋线人才济济竞争激烈，虽在意甲豪门保持状态，但届时更可能已被新生代取代。",
+        "requestId": "devshard-27984-280",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 25,
+        "reasoning": "年龄33岁，前锋位置职业生涯通常在30岁后下滑；法国锋线竞争激烈，进球数偏少，保持高水平状态和入选难度较大，预计仍有约25%可能。",
+        "requestId": "devshard-28192-3904",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 30,
+      "divergence": 10
+    },
+    {
+      "name": "Kylian Mbappé (captain)",
+      "team": "FRA",
+      "kimi": {
+        "probability2030": 75,
+        "reasoning": "32岁对顶级前锋仍属合理竞技区间，且身为队长、皇马核心，经验与地位极高。虽速度和爆发力或略有下滑，但射术与大赛经验足以支撑入选，前提是避免重大伤病。",
+        "requestId": "devshard-27984-281",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "32岁仍处于前锋巅峰，经验丰富、状态保持良好，仍是法国核心，伤病风险低，预计入选。",
+        "requestId": "devshard-28205-277",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 63,
+      "divergence": 25
+    },
+    {
+      "name": "Michael Olise",
+      "team": "FRA",
+      "kimi": {
+        "probability2030": 55,
+        "reasoning": "29岁处于前锋巅峰期末期，效力拜仁证明竞技水平顶尖，但法国队锋线人才济济竞争激烈，且伤病史与状态持续性存疑，入选概率中等。",
+        "requestId": "devshard-28006-217",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "29岁仍处前锋黄金期，效力拜仁保持曝光，国家队已有稳定表现，竞争激烈但仍有竞争力，预计入选概率约65%。",
+        "requestId": "devshard-28192-4193",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 53,
+      "divergence": 5
+    },
+    {
+      "name": "Bradley Barcola",
+      "team": "FRA",
+      "kimi": {
+        "probability2030": 65,
+        "reasoning": "28岁正值前锋巅峰期末段，效力巴黎圣日耳曼可维持高竞技水平；但法国队锋线人才济济，需持续表现才能保住位置。",
+        "requestId": "devshard-28006-218",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 80,
+        "reasoning": "28岁正值前锋黄金期，已在法国队有稳定出场，效力巴黎且具备竞争力，保持状态的概率高。",
+        "requestId": "devshard-28083-11091",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 73,
+      "divergence": 15
+    },
+    {
+      "name": "N'Golo Kanté",
+      "team": "FRA",
+      "kimi": {
+        "probability2030": 5,
+        "reasoning": "2030年Kanté将年满39岁，中场位置对体能要求极高，该年龄远超中场球员合理竞技区间；且届时已远离五大联赛多年，法国队中场人才储备充足，极难入选。",
+        "requestId": "devshard-28024-183",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "39岁中场，状态保持良好但竞争激烈，且已转战土超，2029年后入选可能性极低。",
+        "requestId": "devshard-28205-488",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 28,
+      "divergence": 45
+    },
+    {
+      "name": "Adrien Rabiot",
+      "team": "FRA",
+      "kimi": {
+        "probability2030": 15,
+        "reasoning": "2030年35岁，中场球员体能需求高，通常已过巅峰；法国队中场新星辈出，竞争激烈；虽经验丰富且在意甲效力，但高龄入选概率偏低。",
+        "requestId": "devshard-28024-186",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "Rabiot届时35岁，状态可能下滑，但经验丰富且仍在高水平联赛踢球，仍有进入大名单的可能性，估计约30%。",
+        "requestId": "devshard-28190-5909",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 33,
+      "divergence": 35
+    },
+    {
+      "name": "Ibrahima Konaté",
+      "team": "FRA",
+      "kimi": {
+        "probability2030": 65,
+        "reasoning": "中后卫31岁仍处于巅峰末期，职业生涯较长；效力利物浦可维持顶级竞技状态；但法国队该位置人才储备深厚，面临萨利巴等后辈竞争，非绝对主力，概率中等偏上。",
+        "requestId": "devshard-28006-220",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 65,
+        "reasoning": "作为31岁中卫，仍处于竞技巅峰期，若保持健康且在利物浦保持主力，极有可能继续入选法国队，但竞争激烈，概率约65%。",
+        "requestId": "devshard-28083-11363",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 65,
+      "divergence": 0
+    },
+    {
+      "name": "Mike Maignan",
+      "team": "FRA",
+      "kimi": {
+        "probability2030": 45,
+        "reasoning": "门将职业寿命较长，35岁仍在合理竞技区间，且具备丰富大赛经验；但5年间状态波动及法国新生代门将竞争将显著影响其入选概率。",
+        "requestId": "devshard-28006-221",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "门将职业生涯长，Maignan保持高水平且已有丰富经验，2030年35岁仍有竞争力，入选概率较高。",
+        "requestId": "devshard-28190-6286",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 48,
+      "divergence": 5
+    },
+    {
+      "name": "William Saliba",
+      "team": "FRA",
+      "kimi": {
+        "probability2030": 85,
+        "reasoning": "29岁正值中卫巅峰期，英超顶级俱乐部主力，国家队经验丰富，如无重大伤病，大概率仍是法国后防核心人选。",
+        "requestId": "devshard-27984-285",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 85,
+        "reasoning": "作为中卫，29岁仍处巅峰期，已是法国主力，俱乐部水平高，保持健康情况下入选概率很高。",
+        "requestId": "devshard-28190-6742",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 85,
+      "divergence": 0
+    },
+    {
+      "name": "Warren Zaïre-Emery",
+      "team": "FRA",
+      "kimi": {
+        "probability2030": 85,
+        "reasoning": "24岁正值中场球员黄金年龄，已立足巴黎圣日耳曼并获国家队信任，技术全面且大赛经验将持续积累，如无重大伤病，大概率仍是法国中场核心人选。",
+        "requestId": "devshard-27984-287",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 80,
+        "reasoning": "24岁正值中场黄金期，效力巴黎且已有国际赛经验，竞争力强，入选概率高。",
+        "requestId": "devshard-28192-5757",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 83,
+      "divergence": 5
+    },
+    {
+      "name": "Théo Hernandez",
+      "team": "FRA",
+      "kimi": {
+        "probability2030": 15,
+        "reasoning": "33岁边后卫已过体能巅峰，沙特联赛竞技水平低于欧洲主流，法国队该位置人才储备充足，难保主力或替补席位。",
+        "requestId": "devshard-28006-225",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 35,
+        "reasoning": "33岁仍可保持防守状态，但沙特联赛曝光度低且法国左后卫竞争激烈，伤病风险亦存，入选概率约三成左右。",
+        "requestId": "devshard-28190-6866",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 25,
+      "divergence": 20
+    },
+    {
+      "name": "Désiré Doué",
+      "team": "FRA",
+      "kimi": {
+        "probability2030": 72,
+        "reasoning": "2030年25岁正值前锋黄金年龄，已立足PSG并获国家队征召，若持续发展应能入选。但法国队锋线竞争激烈，存在不确定性。",
+        "requestId": "devshard-28024-189",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 85,
+        "reasoning": "25岁正值前锋黄金期，效力巴黎已有7场国际赛经验，保持状态入选概率高。",
+        "requestId": "devshard-28069-11222",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 79,
+      "divergence": 13
+    },
+    {
+      "name": "Lucas Hernandez",
+      "team": "FRA",
+      "kimi": {
+        "probability2030": 25,
+        "reasoning": "34岁后卫虽仍可竞技，但法国队该位置人才济济，且其伤病史频繁，近年状态与出勤率下滑明显，难以保证四年后仍获征召。",
+        "requestId": "devshard-27984-288",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 30,
+        "reasoning": "防守球员在34岁仍可能保持水平，但法国后防竞争激烈且位置需求下降，入选概率约30%。",
+        "requestId": "devshard-28192-6227",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 28,
+      "divergence": 5
+    },
+    {
+      "name": "Jean-Philippe Mateta",
+      "team": "FRA",
+      "kimi": {
+        "probability2030": 5,
+        "reasoning": "33岁前锋已过巅峰，国家队资历极浅，法国锋线人才济济，且效力中游俱乐部，六年后入选概率极低。",
+        "requestId": "devshard-28006-229",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "33岁的前锋已进入职业后期，且仅获4次国家队出场，法国锋线竞争激烈，除非在顶级联赛保持高产，否则入选可能性很低。",
+        "requestId": "devshard-28205-1633",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 28,
+      "divergence": 45
+    },
+    {
+      "name": "Robin Risser",
+      "team": "FRA",
+      "kimi": {
+        "probability2030": 15,
+        "reasoning": "26岁门将虽处黄金年龄，但目前国家队零出场，且法国该位置竞争激烈（迈尼昂等），效力朗斯非顶级平台，六年内逆袭入选世界杯大名单难度较大。",
+        "requestId": "devshard-27984-293",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "作为26岁门将，职业生涯长且仍在巅峰，若能在朗斯保持主力并积累国际赛经验，有望进入法国队大名单，但竞争激烈，概率约20%。",
+        "requestId": "devshard-28192-6595",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 33,
+      "divergence": 35
+    },
+    {
+      "name": "Rayan Cherki",
+      "team": "FRA",
+      "kimi": {
+        "probability2030": 72,
+        "reasoning": "27岁正值中场球员黄金巅峰期，效力于曼城可维持顶级竞技状态，已有国家队基础，但法国队中场人才济济，需保持持续进步才能稳固位置。",
+        "requestId": "devshard-27984-301",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "27岁仍处中场黄金期，效力曼城保持高水平，法国中场竞争激烈但若保持稳定出场，入选概率较高。",
+        "requestId": "devshard-28083-12080",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 61,
+      "divergence": 22
+    },
+    {
+      "name": "Maghnes Akliouche",
+      "team": "FRA",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "28岁中场处于竞技黄金期，但法国队该位置人才济济，目前国家队资历尚浅，需持续在俱乐部保持高水准并突破竞争重围。",
+        "requestId": "devshard-28024-196",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 30,
+        "reasoning": "年龄28岁仍处中场黄金期，俱乐部水平尚可，但法国中场竞争激烈，当前国家队经验有限，状态保持不确定，预计入选概率约三成。",
+        "requestId": "devshard-28190-7654",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 33,
+      "divergence": 5
+    },
+    {
+      "name": "Maxence Lacroix",
+      "team": "FRA",
+      "kimi": {
+        "probability2030": 25,
+        "reasoning": "30岁中卫年龄尚可，但国家队仅4场资历浅，法国队该位置人才济济，且效力于非豪门俱乐部，六年间需持续逆袭竞争激烈。",
+        "requestId": "devshard-27984-304",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "中卫职业生涯长，30岁仍处巅峰，俱乐部稳定；但法国中卫竞争激烈，仅有4次国家队出场，入选机会有限，预计约20%概率。",
+        "requestId": "devshard-28069-11873",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 38,
+      "divergence": 25
+    },
+    {
+      "name": "Jordan Pickford",
+      "team": "ENG",
+      "kimi": {
+        "probability2030": 40,
+        "reasoning": "门将职业生涯较长，36岁仍属可竞技年龄，且其国家队经验丰富；但6年间新生代门将崛起及状态下滑风险较大，主力位置恐难稳固。",
+        "requestId": "devshard-27984-307",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "36岁门将仍有竞争力，但英格兰年轻门将冲击大，保持状态才能入选，估计约35%概率。",
+        "requestId": "devshard-28208-169",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 45,
+      "divergence": 10
+    },
+    {
+      "name": "Ezri Konsa",
+      "team": "ENG",
+      "kimi": {
+        "probability2030": 25,
+        "reasoning": "33岁中卫仍处可竞技区间，但6年间英格兰后防新星涌现概率高，且其非绝对主力，年龄增长后竞争劣势明显。",
+        "requestId": "devshard-28024-200",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "作为中卫，33岁仍在巅峰末期；目前在维拉表现稳定，已有20场国际赛经验；但英格兰竞争激烈，年轻球员冲击大，仍入选概率约35%。",
+        "requestId": "devshard-28192-7425",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 38,
+      "divergence": 25
+    },
+    {
+      "name": "Nico O'Reilly",
+      "team": "ENG",
+      "kimi": {
+        "probability2030": 65,
+        "reasoning": "25岁后卫正值黄金年龄，效力曼城可保竞技水平，但当前国家队资历尚浅，需持续在俱乐部获得稳定出场并巩固主力位置。",
+        "requestId": "devshard-28024-202",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "作为曼城主力后卫，25岁正值巅峰，已有5次出场，竞争力强，仍入选概率较高。",
+        "requestId": "devshard-28190-8149",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 58,
+      "divergence": 15
+    },
+    {
+      "name": "Declan Rice",
+      "team": "ENG",
+      "kimi": {
+        "probability2030": 75,
+        "reasoning": "31岁对中场仍处合理竞技期，Rice作为现任核心且效力顶级俱乐部，只要无重大伤病，大概率仍入选。",
+        "requestId": "devshard-27984-309",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "年龄31仍属中场黄金期，效力阿森纳保持高水平，国家队经验丰富，竞争压力不大，入选概率高。",
+        "requestId": "devshard-28069-12280",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 63,
+      "divergence": 25
+    },
+    {
+      "name": "John Stones",
+      "team": "ENG",
+      "kimi": {
+        "probability2030": 25,
+        "reasoning": "2030年 Stones 将年满36岁，虽后卫生涯较长且具备顶级联赛经验，但英格兰后防人才济济，高龄球员状态下滑与伤病风险显著，入选概率偏低。",
+        "requestId": "devshard-28006-247",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "约翰·斯通斯届时36岁，防守位置通常可踢至35-38岁，但竞争激烈且伤病风险高，仍入选的可能性较低，预计约10%。",
+        "requestId": "devshard-28201-3704",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 38,
+      "divergence": 25
+    },
+    {
+      "name": "Marc Guéhi",
+      "team": "ENG",
+      "kimi": {
+        "probability2030": 65,
+        "reasoning": "中后卫30岁仍处巅峰末期，效力曼城可保持顶级竞技状态，现有29场国家队经验证明实力，但6年间伤病、新人竞争及状态下滑存在不确定性。",
+        "requestId": "devshard-27984-316",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "30岁中卫仍在巅峰期，曼城平台保障状态，英格兰已有稳定出场，伤病和竞争是主要风险，估计约七成概率入选。",
+        "requestId": "devshard-28192-8196",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 58,
+      "divergence": 15
+    },
+    {
+      "name": "Bukayo Saka",
+      "team": "ENG",
+      "kimi": {
+        "probability2030": 85,
+        "reasoning": "29岁边锋处于竞技巅峰末期，现为英格兰核心主力且效力顶级俱乐部，若无重大伤病，入选概率极高。",
+        "requestId": "devshard-28006-249",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "29岁仍处巅峰，经验丰富，状态稳定，伤病风险低，预计仍是英格兰核心阵容。",
+        "requestId": "devshard-28190-8821",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 68,
+      "divergence": 35
+    },
+    {
+      "name": "Elliot Anderson",
+      "team": "ENG",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "28岁正值中场巅峰，但诺丁汉森林平台有限，且目前国家队定位边缘，英格兰中场竞争激烈，需持续高光表现才有机会。",
+        "requestId": "devshard-27984-318",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 30,
+        "reasoning": "目前仅9次出场且未进球，俱乐部水平一般，28岁若未成为核心，进入世界杯名单难度大，预计概率约30%。",
+        "requestId": "devshard-28208-1059",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 33,
+      "divergence": 5
+    },
+    {
+      "name": "Harry Kane (captain)",
+      "team": "ENG",
+      "kimi": {
+        "probability2030": 25,
+        "reasoning": "37岁前锋属高龄，但Kane作为英格兰队长及历史射手王，经验丰富、地位特殊。若竞技状态未严重下滑，仍可能以精神领袖或替补身份入选，但概率偏低。",
+        "requestId": "devshard-28024-210",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "...",
+        "requestId": "devshard-28205-3258",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 38,
+      "divergence": 25
+    },
+    {
+      "name": "Jude Bellingham",
+      "team": "ENG",
+      "kimi": {
+        "probability2030": 92,
+        "reasoning": "27岁正值中场球员巅峰期，皇马核心且已是英格兰主力，若无重大伤病，入选概率极高。",
+        "requestId": "devshard-28024-211",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "27岁仍属中场黄金期，俱乐部水平高，国家队经验丰富，伤病风险低，入选概率高。",
+        "requestId": "devshard-28192-8667",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 71,
+      "divergence": 42
+    },
+    {
+      "name": "Marcus Rashford",
+      "team": "ENG",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "33岁前锋已处生涯下滑期，英格兰该位置人才济济竞争激烈；虽效力巴萨且经验丰富，但年龄和体能难保主力，入选概率中等偏低。",
+        "requestId": "devshard-28024-215",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 35,
+        "reasoning": "33岁的前锋在顶级联赛保持状态有机会入选，但竞争激烈且年龄劣势，概率约35%。",
+        "requestId": "devshard-28192-8730",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 35,
+      "divergence": 0
+    },
+    {
+      "name": "Trevoh Chalobah",
+      "team": "ENG",
+      "kimi": {
+        "probability2030": 25,
+        "reasoning": "31岁对中卫属合理年龄，但国家队仅1次出场，根基太浅；英格兰该位置人才济济，且其在切尔西主力位置不稳，6年间需持续突破多重竞争，概率偏低。",
+        "requestId": "devshard-28024-216",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "作为中卫，31岁仍可保持高水平；仅1次出场说明尚未锁定位置，切尔西表现和英格兰后防竞争激烈，2030年入选概率约30%。",
+        "requestId": "devshard-28192-8816",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 38,
+      "divergence": 25
+    },
+    {
+      "name": "Dean Henderson",
+      "team": "ENG",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "门将33岁仍处合理竞技期，但国家队仅5次出场且非豪门主力，英格兰该位置竞争激烈，需在未来数年持续逆袭才有望入选。",
+        "requestId": "devshard-28024-219",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "33岁门将仍具竞争力，但英格兰门将竞争激烈且其仅5次出场，状态与伤病是关键，保持高水平有望入选。",
+        "requestId": "devshard-28205-3532",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 43,
+      "divergence": 15
+    },
+    {
+      "name": "Jordan Henderson",
+      "team": "ENG",
+      "kimi": {
+        "probability2030": 2,
+        "reasoning": "40岁中场球员体能难以满足世界杯要求，且英格兰中场人才济济，即便经验丰富，年龄已远超该位置合理竞技区间。",
+        "requestId": "devshard-28024-236",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "40岁中场进入世界杯大名单概率极低，状态和年龄是主要障碍。",
+        "requestId": "devshard-28208-1608",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 26,
+      "divergence": 48
+    },
+    {
+      "name": "Dan Burn",
+      "team": "ENG",
+      "kimi": {
+        "probability2030": 2,
+        "reasoning": "2030年Burn将满38岁，远超后卫常规巅峰期；目前国家队资历浅仅8场，且非核心球员，届时极难保持英超顶级竞技状态入选。",
+        "requestId": "devshard-28024-237",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "38岁、后卫位置、经验有限、英格兰防线竞争激烈，2030年入选可能性极低。",
+        "requestId": "devshard-28190-9473",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 26,
+      "divergence": 48
+    },
+    {
+      "name": "Kobbie Mainoo",
+      "team": "ENG",
+      "kimi": {
+        "probability2030": 78,
+        "reasoning": "2030年25岁正值中场巅峰年龄，已在曼联和国家队站稳脚跟，技术全面且大赛气质佳。英格兰中场竞争激烈，但年龄和平台优势显著，保持健康大概率仍是主力人选。",
+        "requestId": "devshard-28024-239",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 85,
+        "reasoning": "年龄25岁正值中场巅峰，效力曼联顶级联赛，已获14次出场，状态保持良好且竞争位置稳固，预计仍入选。",
+        "requestId": "devshard-28201-4362",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 82,
+      "divergence": 7
+    },
+    {
+      "name": "Morgan Rogers",
+      "team": "ENG",
+      "kimi": {
+        "probability2030": 65,
+        "reasoning": "28岁正值中场球员巅峰期，英超平台优质，已有15场国家队经验。但英格兰中场人才竞争激烈，需持续保持俱乐部状态和伤病控制。",
+        "requestId": "devshard-27984-327",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "目前已获15场出场，28岁正值中场黄金期，若保持状态并继续效力强队，入选概率较高。",
+        "requestId": "devshard-28201-4806",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 58,
+      "divergence": 15
+    },
+    {
+      "name": "Anthony Gordon",
+      "team": "ENG",
+      "kimi": {
+        "probability2030": 45,
+        "reasoning": "29岁前锋仍处当打之年，但英格兰该位置人才济济，6年间竞争激烈且状态变数大，目前国家队资历尚未稳固，入选概率中等。",
+        "requestId": "devshard-28024-247",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "29岁仍属前锋黄金期，纽卡稳定出场，已获19次国家队经验，若保持状态，入选概率较高。",
+        "requestId": "devshard-28201-4918",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 48,
+      "divergence": 5
+    },
+    {
+      "name": "Ollie Watkins",
+      "team": "ENG",
+      "kimi": {
+        "probability2030": 3,
+        "reasoning": "前锋35岁通常已过巅峰，且英格兰锋线人才济济；其非绝对核心，届时竞技状态难保，入选概率极低。",
+        "requestId": "devshard-28024-250",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 5,
+        "reasoning": "沃特金斯届时将35岁，前锋位置衰退期，竞争对手多，国家队出场有限，保持顶级状态难度大，入选概率低。",
+        "requestId": "devshard-28192-10267",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 4,
+      "divergence": 2
+    },
+    {
+      "name": "Noni Madueke",
+      "team": "ENG",
+      "kimi": {
+        "probability2030": 45,
+        "reasoning": "28岁正值前锋巅峰末期，英超阿森纳平台顶级，但当前国家队资历较浅且英格兰该位置人才济济，需持续高光表现才能稳固席位。",
+        "requestId": "devshard-27984-331",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "28岁仍属前锋黄金期，效力阿森纳保持高水平，国家队已有经验，只要保持状态和健康，入选机会较大。",
+        "requestId": "devshard-28190-10548",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 48,
+      "divergence": 5
+    },
+    {
+      "name": "Ivan Toney",
+      "team": "ENG",
+      "kimi": {
+        "probability2030": 5,
+        "reasoning": "34岁前锋已属高龄，且效力沙特联赛竞技水平较低，难以保持国家队所需状态；国家队资历浅、进球少，英格兰锋线人才济济，入选概率极低。",
+        "requestId": "devshard-27984-333",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "34岁的前锋在英格兰队竞争激烈，且仅8次出场1球，转会沙特联赛关注度下降，入选2030世界杯大名单的可能性较低。",
+        "requestId": "devshard-28192-10756",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 28,
+      "divergence": 45
+    },
+    {
+      "name": "James Trafford",
+      "team": "ENG",
+      "kimi": {
+        "probability2030": 65,
+        "reasoning": "门将28岁正值巅峰，职业生涯较长；效力曼城处于顶级联赛，具备硬件优势。但目前国家队资历尚浅，需在未来六年持续获得俱乐部出场并积累国际赛经验，面临队内竞争与出场时间不确定性。",
+        "requestId": "devshard-28024-253",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "28岁是门将黄金期，效力曼城提升曝光度；英格兰老门将逐渐退役，竞争格局向年轻球员倾斜；目前仅2次出场需提升主力位置，但潜力大，入选大名单概率约65%。",
+        "requestId": "devshard-28192-10879",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 58,
+      "divergence": 15
+    },
+    {
+      "name": "Reece James",
+      "team": "ENG",
+      "kimi": {
+        "probability2030": 45,
+        "reasoning": "能力顶尖且31岁对后卫不算高龄，但伤病史极严重是最大隐患；若无法保证出勤率，即便在切尔西也难保状态，右后卫位置竞争激烈亦存变数。",
+        "requestId": "devshard-28006-278",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "作为防守球员，31岁仍在竞技巅峰，切尔西平台保持竞争力，但伤病史和右后卫竞争激烈，可能影响入选机会，估计约60%概率。",
+        "requestId": "devshard-28190-11076",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 48,
+      "divergence": 5
+    },
+    {
+      "name": "Djed Spence",
+      "team": "ENG",
+      "kimi": {
+        "probability2030": 25,
+        "reasoning": "30岁边后卫年龄尚可，但英格兰该位置人才济济，其国家队资历仅6场且俱乐部地位不稳，5年后竞争难度大。",
+        "requestId": "devshard-27984-335",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 30,
+        "reasoning": "作为防守球员，30岁仍可保持高水平，但需在热刺保持主力位置并保持健康；英格兰右后卫竞争激烈，机会取决于表现和新人冲击，估计约30%概率入选。",
+        "requestId": "devshard-28208-3302",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 28,
+      "divergence": 5
+    },
+    {
+      "name": "Jarell Quansah",
+      "team": "ENG",
+      "kimi": {
+        "probability2030": 55,
+        "reasoning": "27岁正值中卫巅峰年龄，德甲冠军队平台优质；但目前国家队资历仅3场，需持续进步以在英格兰激烈的中卫竞争中脱颖而出。",
+        "requestId": "devshard-27984-336",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 65,
+        "reasoning": "27岁仍处于后卫巅峰期，效力欧冠级别勒沃库森，竞争力强；国家队仅3次出场，需保持稳定表现才能确保入选。综合来看，入选概率约65%。",
+        "requestId": "devshard-28190-11414",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 60,
+      "divergence": 10
+    },
+    {
+      "name": "Alisson",
+      "team": "BRA",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "门将生涯较长，38岁仍可能保持竞技状态，且拥有丰富大赛经验。但巴西门将人才储备充足，届时阿利松需与当打之年的埃德森及新生代竞争，年龄和伤病风险将显著降低入选概率。",
+        "requestId": "devshard-27984-340",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "Alisson届时38岁，门将职业生涯较长且经验丰富，但巴西已有更年轻门将竞争。综合年龄、状态和竞争，概率约35%。",
+        "requestId": "devshard-28192-11850",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 43,
+      "divergence": 15
+    },
+    {
+      "name": "Éderson Silva",
+      "team": "BRA",
+      "kimi": {
+        "probability2030": 15,
+        "reasoning": "31岁中场虽处巅峰末期，但现有国家队履历仅3场，根基过浅；巴西中场人才济济，届时更可能被新星取代，仅保留极低概率。",
+        "requestId": "devshard-27984-341",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 15,
+        "reasoning": "31岁中场，俱乐部水平良好但国家队经验不足，竞争激烈，入选概率偏低。",
+        "requestId": "devshard-28208-4118",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 15,
+      "divergence": 0
+    },
+    {
+      "name": "Gabriel Magalhães",
+      "team": "BRA",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "中后卫33岁仍处可竞技区间，但巴西人才济济，其17场国家队资历偏浅，且届时面临新一代中卫竞争，需保持英超顶级状态方可入选。",
+        "requestId": "devshard-28006-284",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "中后卫常能踢到35岁，33岁时仍具竞争力，但巴西后防竞争激烈，若保持高水平仍有机会入选。",
+        "requestId": "devshard-28201-6046",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 43,
+      "divergence": 15
+    },
+    {
+      "name": "Marquinhos (capt.)",
+      "team": "BRA",
+      "kimi": {
+        "probability2030": 15,
+        "reasoning": "36岁中后卫已属高龄，虽经验丰富且为队长，但巴西后卫人才济济，身体机能下滑难以支撑高强度世界杯赛事，大概率已完成新老交替。",
+        "requestId": "devshard-28024-257",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 35,
+        "reasoning": "作为36岁中卫，状态保持良好且有领袖经验，仍有机会进入国家队，但竞争激烈，落选概率不低。",
+        "requestId": "devshard-28208-4450",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 25,
+      "divergence": 20
+    },
+    {
+      "name": "Casemiro",
+      "team": "BRA",
+      "kimi": {
+        "probability2030": 5,
+        "reasoning": "2030年Casemiro将满38岁，中场球员对体能与跑动要求极高，该年龄通常已远离顶级赛事；巴西中场人才济济，高龄老将极难入选。",
+        "requestId": "devshard-28024-258",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 10,
+        "reasoning": "38岁防守中场体能下降，巴西中场竞争激烈，入选概率低。",
+        "requestId": "devshard-28208-4525",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 8,
+      "divergence": 5
+    },
+    {
+      "name": "Alex Sandro",
+      "team": "BRA",
+      "kimi": {
+        "probability2030": 2,
+        "reasoning": "2030年39岁，边后卫对体能速度要求极高，此年龄极少能维持世界杯级竞技状态；已回归巴甲，国家队竞争激烈，大概率已退役或淡出。",
+        "requestId": "devshard-28024-259",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 8,
+        "reasoning": "39岁左后卫，体能下降，巴西已有新生代竞争，入选可能性较低。",
+        "requestId": "devshard-28190-12182",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 5,
+      "divergence": 6
+    },
+    {
+      "name": "Vinícius Júnior",
+      "team": "BRA",
+      "kimi": {
+        "probability2030": 75,
+        "reasoning": "30岁边锋仍处于竞技巅峰末期，效力皇马保持顶级竞技状态，国家队经验丰富。只要避免重大伤病，仍是巴西锋线核心人选。",
+        "requestId": "devshard-28024-267",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "30岁仍处前锋黄金期，俱乐部水平高，国家队经验丰富，竞争激烈但状态保持良好，入选概率较高。",
+        "requestId": "devshard-28216-696",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 63,
+      "divergence": 25
+    },
+    {
+      "name": "Bruno Guimarães",
+      "team": "BRA",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "2030年33岁，中场球员虽可能维持竞技状态，但巴西中场人才济济，且其并非绝对核心，年龄偏大后入选概率中等偏低。",
+        "requestId": "devshard-27984-348",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 70,
+        "reasoning": "33岁仍属中场黄金期，若保持状态并继续在顶级联赛效力，进入2030巴西名单的概率较高，预计约七成。",
+        "requestId": "devshard-28216-906",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 53,
+      "divergence": 35
+    },
+    {
+      "name": "Matheus Cunha",
+      "team": "BRA",
+      "kimi": {
+        "probability2030": 25,
+        "reasoning": "31岁前锋虽处巅峰末期，但国家队23场仅1球效率过低，巴西锋线竞争激烈，且6年间状态变数大，入选概率偏低。",
+        "requestId": "devshard-28006-311",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "年龄31仍在前锋黄金期，效力曼联保持高水平，但巴西锋线竞争激烈且进球效率偏低，入选机会约30%。",
+        "requestId": "devshard-28216-1003",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 38,
+      "divergence": 25
+    },
+    {
+      "name": "Neymar",
+      "team": "BRA",
+      "kimi": {
+        "probability2030": 5,
+        "reasoning": "2030年时38岁，前锋位置对身体机能要求极高，此年龄远超巅峰期；虽经验丰富，但近年伤病频繁且已远离欧洲顶级联赛，竞技状态难以支撑国家队水准。",
+        "requestId": "devshard-28024-269",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "38岁的前锋在国家队已属高龄，且近年伤病频繁，竞争对手年轻有活力，保持状态难度大，入选概率约20%。",
+        "requestId": "devshard-28216-1147",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 28,
+      "divergence": 45
+    },
+    {
+      "name": "Raphinha",
+      "team": "BRA",
+      "kimi": {
+        "probability2030": 25,
+        "reasoning": "2030年34岁，前锋位置依赖速度与爆发力，巅峰期通常已过；虽效力巴萨且具备一定国家队经验，但巴西锋线人才济济，高龄入选概率偏低。",
+        "requestId": "devshard-28006-312",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 30,
+        "reasoning": "34岁的前锋通常进入职业生涯后期，若保持高水平仍有机会。巴西锋线竞争激烈，年轻球员崛起，保持主力位置概率约30%。",
+        "requestId": "devshard-28201-7054",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 28,
+      "divergence": 5
+    },
+    {
+      "name": "Weverton",
+      "team": "BRA",
+      "kimi": {
+        "probability2030": 2,
+        "reasoning": "2030年时年满43岁，远超门将合理竞技区间；虽门将生涯较长，但巴西队竞争激烈，11场国脚经验亦难支撑高龄入选，极大概率已退役或淡出。",
+        "requestId": "devshard-28024-271",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "门将可踢至40+，但43岁已超常规，且仅11次出场，竞争力不足，2030年巴西阵中年轻门将众多，入选概率极低。",
+        "requestId": "devshard-28201-7178",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 26,
+      "divergence": 48
+    },
+    {
+      "name": "Danilo Luiz",
+      "team": "BRA",
+      "kimi": {
+        "probability2030": 5,
+        "reasoning": "39岁边后卫体能下滑显著，巴西该位置人才济济，虽经验丰富但难抗年龄门槛，且巴甲竞技强度低于欧洲主流，入选概率极低。",
+        "requestId": "devshard-27984-353",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "39岁防守球员进入国家队概率极低，职业生涯已进入尾声，竞争对手多，除非保持顶级状态，否则难以入选。",
+        "requestId": "devshard-28213-3805",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 28,
+      "divergence": 45
+    },
+    {
+      "name": "Bremer",
+      "team": "BRA",
+      "kimi": {
+        "probability2030": 25,
+        "reasoning": "33岁中卫虽仍可竞技，但巴西后卫人才济济，其国家队资历仅8场且非绝对主力，届时状态下滑后难保位置。",
+        "requestId": "devshard-28024-285",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "Bremer 33岁仍可保持中卫竞技状态，防守球员职业生涯长，但巴西中卫竞争激烈且其国家队经验有限，预计仍有约六成入选可能。",
+        "requestId": "devshard-28213-3827",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 38,
+      "divergence": 25
+    },
+    {
+      "name": "Léo Pereira",
+      "team": "BRA",
+      "kimi": {
+        "probability2030": 5,
+        "reasoning": "34岁后卫虽仍可竞技，但国家队出场仅4次，非核心老将；巴西后卫人才济济，世界杯大名单倾向欧洲主流联赛球员，巴甲老将入选概率极低。",
+        "requestId": "devshard-28024-286",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "34岁中卫，职业生涯末期，国家队仅4次出场，竞争激烈，仍在弗拉门戈表现稳定，但进入巴西大名单可能性较低。",
+        "requestId": "devshard-28201-7375",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 28,
+      "divergence": 45
+    },
+    {
+      "name": "Douglas Santos",
+      "team": "BRA",
+      "kimi": {
+        "probability2030": 2,
+        "reasoning": "36岁边后卫已超巅峰，体能速度难支撑；俄超竞争力下滑且远离主流视野；国家队仅7场边缘资历，巴西该位置人才济济，极难入选。",
+        "requestId": "devshard-28024-290",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 5,
+        "reasoning": "36岁、仅7场出场、俄超水平一般、巴西左后卫竞争激烈，保持状态难度大，预计入选概率低。",
+        "requestId": "devshard-28216-2243",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 4,
+      "divergence": 3
+    },
+    {
+      "name": "Fabinho",
+      "team": "BRA",
+      "kimi": {
+        "probability2030": 5,
+        "reasoning": "2030年Fabinho将年满37岁，中场位置对体能要求极高，该年龄远超合理竞技区间；且已远离欧洲主流联赛转战沙特，竞技水平存疑。巴西中场人才济济，除非出现极端伤病潮，否则极难入选。",
+        "requestId": "devshard-28024-298",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "37岁中场，状态下滑，近年未入选，巴西更倾向年轻球员，概率极低。",
+        "requestId": "devshard-28213-4306",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 28,
+      "divergence": 45
+    },
+    {
+      "name": "Danilo Santos",
+      "team": "BRA",
+      "kimi": {
+        "probability2030": 15,
+        "reasoning": "29岁对中场属当打之年，但当前仅4场国家队经历且效力巴甲，巴西中场竞争激烈，除非登陆欧洲并持续高光，否则难入选。",
+        "requestId": "devshard-28024-303",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "29岁仍处中场巅峰，Botafogo核心有望保持竞争力，但巴西中场竞争激烈，仅4次出场提升难度。综合概率约35%。",
+        "requestId": "devshard-28216-2842",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 33,
+      "divergence": 35
+    },
+    {
+      "name": "Endrick",
+      "team": "BRA",
+      "kimi": {
+        "probability2030": 78,
+        "reasoning": "24岁正值前锋黄金年龄，已积累17场国家队经验；法甲里昂平台尚可，若持续发展有望稳获征召，但需面对巴西锋线激烈竞争。",
+        "requestId": "devshard-28024-306",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 75,
+        "reasoning": "24岁正值前锋巅峰，已获17场出场且有进球潜力，若保持健康并提升水平，入选机会较高，但巴西锋线竞争激烈，仍有不确定性。",
+        "requestId": "devshard-28213-4445",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 77,
+      "divergence": 3
+    },
+    {
+      "name": "Lucas Paquetá",
+      "team": "BRA",
+      "kimi": {
+        "probability2030": 25,
+        "reasoning": "33岁中场已过巅峰，虽经验丰富且回归巴甲弗拉门戈，但巴西国家队人才济济，本土联赛竞争力弱于欧洲，高龄入选世界杯大名单概率偏低。",
+        "requestId": "devshard-28024-307",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 35,
+        "reasoning": "中场球员常能踢至35岁，Paquetá若保持状态、伤病少，仍有竞争力；不过巴西中场人才充足，33岁时状态和竞争是主要变数，预计概率约35%。",
+        "requestId": "devshard-28205-8124",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 30,
+      "divergence": 10
+    },
+    {
+      "name": "Luiz Henrique",
+      "team": "BRA",
+      "kimi": {
+        "probability2030": 25,
+        "reasoning": "29岁前锋年龄尚可，但俄超因制裁竞争力与曝光度大幅下降，远离巴西队选材主流视野；且15场2球的国家队履历较浅，未确立不可替代性，难保席位。",
+        "requestId": "devshard-28006-326",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "年龄仍在前锋黄金期，俱乐部水平一般，国家队经验有限但已有基础，竞争激烈，保持状态概率约30%。",
+        "requestId": "devshard-28213-4748",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 38,
+      "divergence": 25
+    },
+    {
+      "name": "Gabriel Martinelli",
+      "team": "BRA",
+      "kimi": {
+        "probability2030": 65,
+        "reasoning": "29岁前锋仍处于巅峰期末段，英超顶级俱乐部主力身份有利；但巴西锋线竞争激烈，需保持健康与状态，概率中等偏上。",
+        "requestId": "devshard-28006-327",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "29岁仍属前锋黄金期，俱乐部顶级，国家队已有经验，竞争力强，仍有望入选，但需保持状态和健康。",
+        "requestId": "devshard-28218-1139",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 58,
+      "divergence": 15
+    },
+    {
+      "name": "Ederson Moraes",
+      "team": "BRA",
+      "kimi": {
+        "probability2030": 15,
+        "reasoning": "门将生涯虽长，但37岁属高龄；土超竞技水平低于五大联赛，且巴西门将人才储备深厚，新生代上位压力大。32场经验难抵年龄与联赛下滑劣势。",
+        "requestId": "devshard-28024-311",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 25,
+        "reasoning": "门将职业生涯较长，37岁仍可保持竞技状态，但巴西已有更年轻的门将竞争，且在土超效力影响曝光度，入选概率约25%。",
+        "requestId": "devshard-28213-4986",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 20,
+      "divergence": 10
+    },
+    {
+      "name": "Roger Ibañez",
+      "team": "BRA",
+      "kimi": {
+        "probability2030": 15,
+        "reasoning": "32岁中卫年龄尚可，但沙特联竞技水平低于欧洲主流，且目前仅7次出场属边缘国脚，巴西该位置人才济济，届时入选可能性低。",
+        "requestId": "devshard-27984-375",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "年龄32岁，后卫仍可保持竞技状态，但巴西防线竞争激烈且其国家队经验有限，效力沙特联赛影响曝光度，入选概率偏低。",
+        "requestId": "devshard-28213-5098",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 33,
+      "divergence": 35
+    },
+    {
+      "name": "Igor Thiago",
+      "team": "BRA",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "29岁前锋仍处巅峰，但巴西锋线竞争激烈，目前仅4次出场未确立主力，且布伦特福德平台有限，需持续高光表现才有机会。",
+        "requestId": "devshard-27984-376",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "29岁仍在前锋黄金期，英超中游球队有稳定出场，国家队仅4次出场且竞争激烈，2030年进入大名单概率中等。",
+        "requestId": "devshard-28218-1554",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 43,
+      "divergence": 15
+    },
+    {
+      "name": "Rayan",
+      "team": "BRA",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "2030年24岁正值前锋黄金年龄，英超平台有助成长，但巴西锋线人才济济，目前仅2场国家队经历，竞争主力位置难度较大，需持续爆发式进步。",
+        "requestId": "devshard-28024-330",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "24岁正值前锋黄金期，若在英超强队或欧洲顶级联赛有稳定进球表现，仍有机会进入巴西队大名单，但竞争激烈且目前仅两场国家队经验，概率约30%。",
+        "requestId": "devshard-28220-116",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 43,
+      "divergence": 15
+    },
+    {
+      "name": "David Raya",
+      "team": "ESP",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "门将35岁仍可竞技，但西班牙门将竞争激烈，Raya目前非绝对主力且同龄门将较多，2030年更可能由年轻门将接班，仅保留较低概率作为经验替补入选。",
+        "requestId": "devshard-27984-391",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 35,
+        "reasoning": "门将职业生涯长，35岁仍可保持高水平，但西班牙可能培养新秀，竞争激烈，入选概率约35%。",
+        "requestId": "devshard-28208-7510",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 35,
+      "divergence": 0
+    },
+    {
+      "name": "Marc Pubill",
+      "team": "ESP",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "27岁正值后卫巅峰年龄，且效力于马竞这样的顶级俱乐部具备平台优势。但目前国家队资历极浅（仅2场），西班牙后卫线人才济济，六年内需持续突破才有望入选，不确定性较高。",
+        "requestId": "devshard-27984-394",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "27岁仍处防守黄金期，效力马竞高水平联赛，国家队已有2次出场，竞争激烈但保持健康和状态，入选概率约六成。",
+        "requestId": "devshard-28218-1884",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 43,
+      "divergence": 15
+    },
+    {
+      "name": "Álex Grimaldo",
+      "team": "ESP",
+      "kimi": {
+        "probability2030": 15,
+        "reasoning": "边后卫35岁体能速度下滑明显，西班牙该位置新人辈出，且其国家队资历仅14场非绝对核心，虽在勒沃库森效力但高龄入选概率低。",
+        "requestId": "devshard-27984-397",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 15,
+        "reasoning": "左后卫可踢至35岁，但西班牙已有新生代竞争，格拉梅尔多仅14次出场，状态保持难度大，2030年入选概率偏低。",
+        "requestId": "devshard-28220-463",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 15,
+      "divergence": 0
+    },
+    {
+      "name": "Eric García",
+      "team": "ESP",
+      "kimi": {
+        "probability2030": 65,
+        "reasoning": "2030年29岁正值中卫巅峰期，巴萨主力背景与出球能力契合西班牙体系，但需面对拉玛西亚新秀竞争及保持六年稳定状态。",
+        "requestId": "devshard-28006-343",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 70,
+        "reasoning": "作为中卫，29岁仍在巅峰期，已有21次国家队出场，俱乐部水平高，仍有较大概率进入2030年世界杯大名单。",
+        "requestId": "devshard-28216-4706",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 68,
+      "divergence": 5
+    },
+    {
+      "name": "Marcos Llorente",
+      "team": "ESP",
+      "kimi": {
+        "probability2030": 15,
+        "reasoning": "届时35岁，虽效力于马竞且经验丰富，但西班牙该位置人才济济，高龄边缘国脚难获征召。",
+        "requestId": "devshard-27984-401",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "年龄35岁，防守球员可踢至38，但竞争激烈且已有24场，出线机会约25%",
+        "requestId": "devshard-28220-907",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 33,
+      "divergence": 35
+    },
+    {
+      "name": "Mikel Merino",
+      "team": "ESP",
+      "kimi": {
+        "probability2030": 25,
+        "reasoning": "34岁中场虽仍可竞技，但西班牙中场人才济济（佩德里、加维等），且其并非绝对核心，随年龄增长入选概率较低。",
+        "requestId": "devshard-27984-403",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "34岁中场在西班牙队竞争激烈，状态保持良好或有替补机会，但年龄和新人冲击使入选概率约为20%。",
+        "requestId": "devshard-28216-5283",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 38,
+      "divergence": 25
+    },
+    {
+      "name": "Ferran Torres",
+      "team": "ESP",
+      "kimi": {
+        "probability2030": 45,
+        "reasoning": "30岁前锋仍处合理区间，但西班牙锋线人才井喷，且其依赖速度的风格随年龄下滑风险较大，巴萨平台虽优却难保主力地位。",
+        "requestId": "devshard-28006-346",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "30岁仍在前锋黄金期，巴萨平台稳定，国家队经验丰富且进球效率尚可，竞争激烈但仍有主力可能，估计约65%入选。",
+        "requestId": "devshard-28220-1107",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 48,
+      "divergence": 5
+    },
+    {
+      "name": "Fabián Ruiz",
+      "team": "ESP",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "34岁中场已过巅峰，西班牙中场人才济济（佩德里、加维等），虽在PSG效力且经验丰富，但6年后大概率已被新生代取代，仅保留极低概率以老将身份入选。",
+        "requestId": "devshard-28006-349",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 30,
+        "reasoning": "34岁中场在西班牙竞争激烈，除非保持顶级状态且无重大伤病，否则入选机会有限，预计约30%。",
+        "requestId": "devshard-28218-2749",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 33,
+      "divergence": 5
+    },
+    {
+      "name": "Gavi",
+      "team": "ESP",
+      "kimi": {
+        "probability2030": 85,
+        "reasoning": "26岁正值中场巅峰期，效力于巴萨且已有30场国家队经验，若无重大伤病，技术和竞技状态均处黄金阶段，入选概率极高。",
+        "requestId": "devshard-28006-357",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 70,
+        "reasoning": "Gavi 26岁正值中场巅峰，效力巴萨且已有30场经验，西班牙中场竞争激烈但状态保持良好，仍有较大概率入选。",
+        "requestId": "devshard-28216-5760",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 78,
+      "divergence": 15
+    },
+    {
+      "name": "Dani Olmo",
+      "team": "ESP",
+      "kimi": {
+        "probability2030": 45,
+        "reasoning": "32岁攻击手处于生涯末期，西班牙前场人才济济，虽具大赛经验且效力巴萨，但年龄与位置竞争使其入选概率中等偏低。",
+        "requestId": "devshard-28006-358",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "32岁的前锋仍有竞争力，但西班牙锋线竞争激烈，若保持状态和健康，入选概率约为50%左右。",
+        "requestId": "devshard-28220-1722",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 48,
+      "divergence": 5
+    },
+    {
+      "name": "Yéremy Pino",
+      "team": "ESP",
+      "kimi": {
+        "probability2030": 55,
+        "reasoning": "28岁正值前锋巅峰末期，英超平台有助保持竞技状态；但国家队已有亚马尔、尼科等新生代，且其进球效率一般，需持续俱乐部高光表现才能保住席位。",
+        "requestId": "devshard-28222-9",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "28岁仍在前锋黄金期，西班牙锋线竞争激烈，若保持水晶宫主力并提升进球效率，入选概率约五成左右。",
+        "requestId": "devshard-28218-3185",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 53,
+      "divergence": 5
+    },
+    {
+      "name": "Pedro Porro",
+      "team": "ESP",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "边后卫31岁虽处合理区间末端，但西班牙该位置人才储备厚，Porro目前非绝对主力，6年后面临新生代冲击，体能下滑风险较大。",
+        "requestId": "devshard-28222-10",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "防守球员31岁仍具竞争力，托特纳姆在英超有平台，国家队已有18次出场，但西班牙右后卫竞争激烈，年龄和状态是关键因素。",
+        "requestId": "devshard-28208-8913",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 43,
+      "divergence": 15
+    },
+    {
+      "name": "Joan Garcia",
+      "team": "ESP",
+      "kimi": {
+        "probability2030": 45,
+        "reasoning": "门将29岁正值巅峰，效力巴萨保障竞技水平；但西班牙门将人才济济，目前国家队资历过浅，需在未来几年确立顶级地位并挤掉竞争对手，入选存在较大不确定性。",
+        "requestId": "devshard-28222-12",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "29岁仍处门将黄金期，效力巴萨保持高水平，国家队已有2次出场，西班牙门将竞争激烈但仍有位置，预计入选概率较高。",
+        "requestId": "devshard-28208-9005",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 48,
+      "divergence": 5
+    },
+    {
+      "name": "Aymeric Laporte",
+      "team": "ESP",
+      "kimi": {
+        "probability2030": 15,
+        "reasoning": "中后卫36岁已属高龄，竞技状态通常明显下滑；虽经验丰富，但西班牙青训人才辈出，高龄老将难获征召。",
+        "requestId": "devshard-28006-361",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "36岁后卫状态可能下滑，西班牙已有新生代中卫竞争，入选概率约20%。",
+        "requestId": "devshard-28216-6794",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 33,
+      "divergence": 35
+    },
+    {
+      "name": "Álex Baena",
+      "team": "ESP",
+      "kimi": {
+        "probability2030": 55,
+        "reasoning": "29岁正值中场球员黄金期末段，经验丰富且处于马竞这一顶级平台，但西班牙中场人才济济，届时面临新生代激烈竞争，入选存在不确定性。",
+        "requestId": "devshard-28006-362",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 75,
+        "reasoning": "目前已获17次出场，效力马德里竞技，仍处巅峰期，2030年29岁，若保持状态，入选概率较高。",
+        "requestId": "devshard-28218-4064",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 65,
+      "divergence": 20
+    },
+    {
+      "name": "Rodri (captain)",
+      "team": "ESP",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "后腰34岁虽仍可一战，但6年后竞技状态难料，且西班牙中场人才济济；队长身份与丰富经验或成加分，然身体机能下滑大概率导致淡出主力。",
+        "requestId": "devshard-28222-16",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "34岁防守型中场仍可保持高水平，但竞争激烈且年龄劣势明显，入选可能性约四成。",
+        "requestId": "devshard-28201-9907",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 43,
+      "divergence": 15
+    },
+    {
+      "name": "Nico Williams",
+      "team": "ESP",
+      "kimi": {
+        "probability2030": 65,
+        "reasoning": "28岁正值前锋巅峰末期，当前已是西班牙主力边锋；但8年间伤病、新星竞争及状态波动风险较大，西甲平台稳定入选概率中等偏上。",
+        "requestId": "devshard-28222-18",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "28岁仍属前锋黄金期，已有30场国际赛经验，竞技状态若保持，入选概率高。",
+        "requestId": "devshard-28220-3148",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 58,
+      "divergence": 15
+    },
+    {
+      "name": "Martín Zubimendi",
+      "team": "ESP",
+      "kimi": {
+        "probability2030": 65,
+        "reasoning": "2030年31岁，对防守型中场属合理竞技年龄；现处英超顶级俱乐部且已有26场国家队经验，若保持状态仍具竞争力，但需面对新生代冲击。",
+        "requestId": "devshard-28222-19",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "31岁仍处于中场黄金期，效力阿森纳顶级联赛，国家队经验丰富，竞争激烈但状态保持良好，入选概率较高。",
+        "requestId": "devshard-28208-9867",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 58,
+      "divergence": 15
+    },
+    {
+      "name": "Lamine Yamal",
+      "team": "ESP",
+      "kimi": {
+        "probability2030": 92,
+        "reasoning": "2030年仅23岁，正值前锋黄金上升期；已为巴萨和西班牙绝对主力，天赋与大赛经验持续累积；若无重大伤病，几乎锁定核心席位。",
+        "requestId": "devshard-28224-2",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "23岁正值巅峰，经验丰富且天赋出众，伤病风险低，仍是西班牙核心前锋，入选概率高。",
+        "requestId": "devshard-28208-9960",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 71,
+      "divergence": 42
+    },
+    {
+      "name": "Pedri",
+      "team": "ESP",
+      "kimi": {
+        "probability2030": 90,
+        "reasoning": "28岁正值中场球员黄金巅峰期，Pedri已是西班牙核心且效力巴萨顶级联赛，只要无重大伤病，保持竞技状态入选概率极高。",
+        "requestId": "devshard-28222-20",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "Pedri 28岁正值中场黄金期，俱乐部核心，国家队经验丰富，仍是西班牙关键球员，伤病若可控，入选概率高。",
+        "requestId": "devshard-28218-4871",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 70,
+      "divergence": 40
+    },
+    {
+      "name": "Mikel Oyarzabal",
+      "team": "ESP",
+      "kimi": {
+        "probability2030": 25,
+        "reasoning": "2030年33岁，前锋位置巅峰期已过，且西班牙锋线新生代涌现，竞争激烈；虽具备丰富国家队经验，但高龄前锋入选概率偏低。",
+        "requestId": "devshard-28224-4",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 30,
+        "reasoning": "奥亚萨瓦尔33岁仍可能保持高水平，但西班牙锋线竞争激烈，年龄和俱乐部水平是限制因素，预计入选概率约30%。",
+        "requestId": "devshard-28220-3839",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 28,
+      "divergence": 5
+    },
+    {
+      "name": "Pau Cubarsí",
+      "team": "ESP",
+      "kimi": {
+        "probability2030": 85,
+        "reasoning": "Cubarsí年仅17岁已坐稳巴萨和西班牙主力中卫，天赋顶级。2030年23岁正值中卫上升期，远未达巅峰，且后卫生涯较长。只要无重大伤病，几乎必然入选。",
+        "requestId": "devshard-28222-22",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "23岁正值巅峰期，巴萨主力后卫，已获12场国家队出场，保持健康和状态，入选机会极大。",
+        "requestId": "devshard-28218-5145",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 68,
+      "divergence": 35
+    },
+    {
+      "name": "Unai Simón",
+      "team": "ESP",
+      "kimi": {
+        "probability2030": 72,
+        "reasoning": "门将33岁仍处巅峰末期，现役西班牙一号门将且经验丰富，西甲主力水平稳定，除非状态大幅下滑或新人超常崛起，否则入选概率较高。",
+        "requestId": "devshard-28224-5",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "门将职业生涯长，33岁仍处巅峰或轻微下滑；已有58场经验，俱乐部稳定；2030年西班牙可能仍有位置竞争，但保持状态入选概率较高。",
+        "requestId": "devshard-28220-4013",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 61,
+      "divergence": 22
+    },
+    {
+      "name": "Víctor Muñoz",
+      "team": "ESP",
+      "kimi": {
+        "probability2030": 25,
+        "reasoning": "27岁虽处前锋巅峰年龄，但俱乐部平台有限且国家队资历过浅，西班牙锋线竞争激烈，需持续爆发才有望入选。",
+        "requestId": "devshard-28224-8",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "27岁仍处前锋黄金期，若在更高水平俱乐部持续进球有机会，但国家队竞争激烈且目前经验不足，概率约35%。",
+        "requestId": "devshard-28218-5537",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 38,
+      "divergence": 25
+    },
+    {
+      "name": "Borja Iglesias",
+      "team": "ESP",
+      "kimi": {
+        "probability2030": 1,
+        "reasoning": "2030年37岁的前锋已远超巅峰年龄，且其国家队履历仅8场0球，并非核心球员；西班牙锋线人才储备充足，届时更不可能征召高龄边缘国脚。",
+        "requestId": "devshard-28006-386",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "37岁的前锋已过巅峰期，国家队经验有限（8场0球），西班牙锋线人才充足，入选可能性极低。",
+        "requestId": "devshard-28226-884",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 26,
+      "divergence": 49
+    },
+    {
+      "name": "Manuel Neuer",
+      "team": "GER",
+      "kimi": {
+        "probability2030": 1,
+        "reasoning": "诺伊尔已退出国家队，2030年将满44岁，远超门将正常退役年龄；虽门将生涯较长且经验丰富，但44岁竞技状态难以为继，入选概率极低。",
+        "requestId": "devshard-28222-29",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "44岁门将已超出常规巅峰期，伤病风险大，德国已有新生代门将，2026年后基本淡出，2030入选概率极低，约2-3%。",
+        "requestId": "devshard-28230-579",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 26,
+      "divergence": 49
+    },
+    {
+      "name": "Antonio Rüdiger",
+      "team": "GER",
+      "kimi": {
+        "probability2030": 15,
+        "reasoning": "中后卫37岁属高龄，虽后卫生涯较长且效力皇马经验丰富，但国家队更新换代快，2030年竞技状态大概率显著下滑，极难保持顶级水准入选。",
+        "requestId": "devshard-28222-30",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "37岁中卫体力和速度下降明显，虽有丰富经验，但德国队已有新生代防守人才，入选可能性较低。",
+        "requestId": "devshard-28201-11215",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 33,
+      "divergence": 35
+    },
+    {
+      "name": "Waldemar Anton",
+      "team": "GER",
+      "kimi": {
+        "probability2030": 25,
+        "reasoning": "2030年34岁，后卫虽 career 较长，但德国青训人才辈出，其13场资历较浅，6年后竞技状态难料，大概率已被新生代取代。",
+        "requestId": "devshard-28006-390",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "34岁中卫年龄偏大，竞争激烈，虽在多特保持高水平，但国家队仅13次出场，入选可能性较低，预计约12%。",
+        "requestId": "devshard-28226-1505",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 38,
+      "divergence": 25
+    },
+    {
+      "name": "Jonathan Tah",
+      "team": "GER",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "34岁中卫虽仍可能保持竞技状态，但德国队人才储备充足，且届时大概率已完成新老交替，老将入选概率偏低。",
+        "requestId": "devshard-28006-403",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 35,
+        "reasoning": "34岁后卫仍在高水平联赛，但国家队竞争激烈，仍需保持状态。",
+        "requestId": "devshard-28201-11647",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 35,
+      "divergence": 0
+    },
+    {
+      "name": "Aleksandar Pavlović",
+      "team": "GER",
+      "kimi": {
+        "probability2030": 78,
+        "reasoning": "26岁正值中场球员黄金年龄，效力于拜仁 Munich 且已有国家队经验，若无重大伤病，大概率仍是德国中场核心人选。",
+        "requestId": "devshard-28222-31",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 75,
+        "reasoning": "26岁正值巅峰，效力拜仁，国家队已有出场，保持状态有望入选。",
+        "requestId": "devshard-28220-5871",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 77,
+      "divergence": 3
+    },
+    {
+      "name": "Joshua Kimmich (captain)",
+      "team": "GER",
+      "kimi": {
+        "probability2030": 25,
+        "reasoning": "35岁后腰体能下滑风险高，虽经验丰富且为队长，但德国队历来重视更新换代，2030年大概率已完成新老交替，仅当状态极佳才可能以替补/精神领袖身份入选。",
+        "requestId": "devshard-28224-12",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "35岁、后卫位置仍可保持竞技状态，但德国队已开始更新换代，Kimmich可能逐步淡出国家队，入选2030大名单概率约为30%。",
+        "requestId": "devshard-28213-9688",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 38,
+      "divergence": 25
+    },
+    {
+      "name": "Kai Havertz",
+      "team": "GER",
+      "kimi": {
+        "probability2030": 65,
+        "reasoning": "31岁对前锋属合理下滑区间但非退役年龄，效力英超顶级俱乐部利于保持竞技状态，且已有58场国家队经验，若状态维持良好，仍有机会以老将身份入选。",
+        "requestId": "devshard-28222-34",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "31岁仍属前锋黄金期，经验丰富且位置灵活，若保持状态，入选概率较高。",
+        "requestId": "devshard-28230-1908",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 58,
+      "divergence": 15
+    },
+    {
+      "name": "Leon Goretzka",
+      "team": "GER",
+      "kimi": {
+        "probability2030": 15,
+        "reasoning": "2030年Goretzka将年满35岁，作为B2B中场身体机能下滑明显；且德国国家队正处年轻化换代周期，同位置新人涌现，即便经验丰富，高龄入选概率较低。",
+        "requestId": "devshard-28222-35",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 25,
+        "reasoning": "35岁中场体能下降，竞争激烈，但若保持健康且状态良好，仍有入选可能。预计概率约25%。",
+        "requestId": "devshard-28220-6465",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 20,
+      "divergence": 10
+    },
+    {
+      "name": "Jamie Leweling",
+      "team": "GER",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "29岁正值中场巅峰年龄，但目前国家队资历尚浅且非豪门核心。6年间需持续进步并突破德国中场激烈竞争，不确定性较大。",
+        "requestId": "devshard-28224-16",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "中场球员巅峰期可至33岁，29岁仍有竞争力；但Leweling仅5场出场，尚未成为核心，德国中场人才充足，2030年进入大名单的概率约30%。",
+        "requestId": "devshard-28220-6540",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 43,
+      "divergence": 15
+    },
+    {
+      "name": "Jamal Musiala",
+      "team": "GER",
+      "kimi": {
+        "probability2030": 92,
+        "reasoning": "27岁正值中场球员黄金巅峰，已为国家队主力且效力顶级俱乐部拜仁，如无重大伤病，基本锁定核心位置。",
+        "requestId": "devshard-28222-37",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "Musiala技术出色，正值巅峰期，2030年约27岁，仍是德国核心中场，国家队经验丰富，伤病风险低，落选概率极低。",
+        "requestId": "devshard-28213-10295",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 71,
+      "divergence": 42
+    },
+    {
+      "name": "Nick Woltemade",
+      "team": "GER",
+      "kimi": {
+        "probability2030": 62,
+        "reasoning": "28岁正值前锋巅峰，英超平台优质；但当前国家队资历尚浅，需持续保持俱乐部状态并应对德国队锋线激烈竞争。",
+        "requestId": "devshard-28222-39",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 70,
+        "reasoning": "28岁仍处前锋黄金期，效力英超纽卡，已获11次出场且有进球，状态保持前提下，入选可能性较高。",
+        "requestId": "devshard-28230-2232",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 66,
+      "divergence": 8
+    },
+    {
+      "name": "Oliver Baumann",
+      "team": "GER",
+      "kimi": {
+        "probability2030": 2,
+        "reasoning": "40岁门将虽偶有特例，但Baumann仅为边缘国脚且德国门将人才济济，2030年入选概率极低。",
+        "requestId": "devshard-28222-40",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "门将可踢至40岁，但德国队竞争激烈且届时会有更年轻选手。Baumann已退役或状态下滑，入选可能性极低。",
+        "requestId": "devshard-28220-7099",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 26,
+      "divergence": 48
+    },
+    {
+      "name": "Pascal Groß",
+      "team": "GER",
+      "kimi": {
+        "probability2030": 2,
+        "reasoning": "2030年届时39岁，中场球员对体能要求极高，此年龄通常已退役或远离顶级联赛；且其国家队资历较浅（18场），非核心老将，几乎不可能再获征召。",
+        "requestId": "devshard-28224-23",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "39岁中场在德国队竞争激烈，经验有限且状态下滑机率大，入选可能性很低。",
+        "requestId": "devshard-28220-7157",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 26,
+      "divergence": 48
+    },
+    {
+      "name": "Maximilian Beier",
+      "team": "GER",
+      "kimi": {
+        "probability2030": 55,
+        "reasoning": "28岁正值前锋巅峰年龄，效力多特蒙德平台优越，已有国家队经历；但当前9场0球，锋线竞争激烈，需持续进步才能稳固席位。",
+        "requestId": "devshard-28006-412",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 60,
+        "reasoning": "28岁仍处前锋黄金期，效力多特蒙德保持高水平，国家队已有9场经验，若持续进球并保持健康，入选概率约六成。",
+        "requestId": "devshard-28230-2519",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 58,
+      "divergence": 5
+    },
+    {
+      "name": "Nico Schlotterbeck",
+      "team": "GER",
+      "kimi": {
+        "probability2030": 55,
+        "reasoning": "31岁中卫仍处于竞技合理区间，但6年间伤病、状态波动及德国新生代竞争将显著影响其位置，概率中等。",
+        "requestId": "devshard-28224-25",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "作为中卫，31岁仍在巅峰期，效力多特蒙德保持高水平，国家队已有27次出场，仍是德国防线的关键候选，2030年入选概率较高。",
+        "requestId": "devshard-28220-7717",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 53,
+      "divergence": 5
+    },
+    {
+      "name": "Angelo Stiller",
+      "team": "GER",
+      "kimi": {
+        "probability2030": 55,
+        "reasoning": "29岁属中场巅峰期末，德甲平台优质；但目前国家队资历尚浅（8场），需持续保持俱乐部状态并面临新生代竞争，入选存在较大不确定性。",
+        "requestId": "devshard-28222-47",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "年龄仍属中场黄金期，德甲中游有上升空间，但德国中场竞争激烈且目前仅8次出场，入选2030名单概率约20%。",
+        "requestId": "devshard-28230-2755",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 53,
+      "divergence": 5
+    },
+    {
+      "name": "Florian Wirtz",
+      "team": "GER",
+      "kimi": {
+        "probability2030": 92,
+        "reasoning": "27岁正值中场巅峰期，效力于顶级联赛豪门，已是国家队核心骨干，竞技状态与经验均处黄金阶段，如无重大伤病，入选概率极高。",
+        "requestId": "devshard-28222-48",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "27岁仍处中场巅峰，效力顶级俱乐部，已是德国主力，经验丰富，伤病风险低，2030年入选概率高。",
+        "requestId": "devshard-28218-8599",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 71,
+      "divergence": 42
+    },
+    {
+      "name": "Nathaniel Brown",
+      "team": "GER",
+      "kimi": {
+        "probability2030": 65,
+        "reasoning": "27岁正值后卫巅峰期，德甲法兰克福平台稳定；但目前仅5次国家队出场，尚未确立主力地位，需持续进步以在竞争激烈的后卫线中保住位置。",
+        "requestId": "devshard-28222-49",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 35,
+        "reasoning": "27岁正值后卫巅峰期，已获5次出场，效力法兰克福具备竞争力，但德国后防竞争激烈，保持稳定表现才能入选。",
+        "requestId": "devshard-28226-3688",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 50,
+      "divergence": 30
+    },
+    {
+      "name": "Leroy Sané",
+      "team": "GER",
+      "kimi": {
+        "probability2030": 15,
+        "reasoning": "2030年34岁的边锋通常已过巅峰，且土超竞技水平低于五大联赛，难以满足德国队要求。虽经验丰富，但德国队倾向年轻化，高龄边锋入选概率低。",
+        "requestId": "devshard-28222-50",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "年龄34岁，位置竞争激烈，土耳其联赛水平略低，但经验丰富，仍有入选可能。",
+        "requestId": "devshard-28220-8236",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 33,
+      "divergence": 35
+    },
+    {
+      "name": "Nadiem Amiri",
+      "team": "GER",
+      "kimi": {
+        "probability2030": 5,
+        "reasoning": "34岁中场已过巅峰，且仅为德甲中游美因茨效力，国家队资历浅（11场），德国中场人才济济，边缘国脚难获高龄征召。",
+        "requestId": "devshard-28224-29",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "年龄34岁已超出常规中场巅峰期，国家队仅有11次出场且缺乏核心位置，德国队中场竞争激烈，2030年继续入选可能性很低。",
+        "requestId": "devshard-28226-3989",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 28,
+      "divergence": 45
+    },
+    {
+      "name": "Alexander Nübel",
+      "team": "GER",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "门将34岁仍处合理区间，但目前国家队出场仅3次地位边缘，且面临新生代竞争，入选概率中等偏低。",
+        "requestId": "devshard-28006-417",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "门将职业生涯长，34岁仍可保持竞技状态，但德国队2030年门将位置将由更年轻的球员主导，Nübel在斯图加特表现一般，入选机会有限，估计概率约15%。",
+        "requestId": "devshard-28220-8675",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 43,
+      "divergence": 15
+    },
+    {
+      "name": "Felix Nmecha",
+      "team": "GER",
+      "kimi": {
+        "probability2030": 45,
+        "reasoning": "30岁中场尚处合理竞技期，但当前国家队资历较浅，六年期间面临新人竞争与状态波动，入选存在不确定性。",
+        "requestId": "devshard-28222-58",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "30岁中场仍在竞技期，效力多特蒙德保持高水平，但德国中场竞争激烈且目前仅8次出场，状态持续才能入选。",
+        "requestId": "devshard-28213-11637",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 48,
+      "divergence": 5
+    },
+    {
+      "name": "Malick Thiaw",
+      "team": "GER",
+      "kimi": {
+        "probability2030": 45,
+        "reasoning": "29岁正值中卫巅峰，但当前国家队出场仅5次，尚未确立主力地位；6年间需面对伤病、新人竞争及状态波动，英超高水平环境有利但入选存在不确定性。",
+        "requestId": "devshard-28222-59",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "29岁中卫仍处巅峰，纽卡主力位置稳定，德国防线竞争激烈但仍有空间，保持健康和状态入选概率约65%。",
+        "requestId": "devshard-28213-11825",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 48,
+      "divergence": 5
+    },
+    {
+      "name": "Assan Ouédraogo",
+      "team": "GER",
+      "kimi": {
+        "probability2030": 65,
+        "reasoning": "24岁正值中场球员上升期，效力于德甲强队莱比锡，平台优越。虽目前国家队资历尚浅，但6年成长窗口充足，天赋与年龄结构有利。然德国中场竞争激烈，需持续进化以稳固席位。",
+        "requestId": "devshard-28224-34",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "年仅24岁，效力强队，潜力大，若持续成长并累积国际赛经验，入选机会较高。",
+        "requestId": "devshard-28220-9955",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 58,
+      "divergence": 15
+    },
+    {
+      "name": "Deniz Undav",
+      "team": "GER",
+      "kimi": {
+        "probability2030": 15,
+        "reasoning": "34岁前锋已超巅峰期，且非国家队绝对主力；德国队锋线年轻化趋势明显，届时更可能启用新生代球员。",
+        "requestId": "devshard-28222-80",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 25,
+        "reasoning": "34岁的前锋在德国队竞争激烈，若保持状态或有替补机会，入选概率约25%。",
+        "requestId": "devshard-28238-1256",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 20,
+      "divergence": 10
+    },
+    {
+      "name": "Zion Suzuki",
+      "team": "JPN",
+      "kimi": {
+        "probability2030": 72,
+        "reasoning": "门将31岁正值巅峰，意甲历练提升竞技水平，已有24场国家队经验。若保持状态且无重大伤病，作为日本新生代门将代表，入选2030名单概率较高，但需面对后辈竞争。",
+        "requestId": "devshard-28222-83",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "门将职业生涯长，31岁仍处巅峰；已在国家队有24场经验，帕尔马在意甲表现稳定；日本门将竞争激烈但他具备主力实力，保持状态有望入选2030阵容。",
+        "requestId": "devshard-28244-39",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 61,
+      "divergence": 22
+    },
+    {
+      "name": "Yukinari Sugawara",
+      "team": "JPN",
+      "kimi": {
+        "probability2030": 65,
+        "reasoning": "30岁边后卫处于竞技巅峰末期，德甲水平较高；但21场国家队经验中等，且日本该位置人才储备充足，需保持状态才能入选。",
+        "requestId": "devshard-28222-85",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "30岁后卫，职业生涯通常可延续至34-36岁，当前在德甲中游有稳定出场，21场国际赛经验丰富，仍有竞争力，入选可能性较高。",
+        "requestId": "devshard-28213-12469",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 58,
+      "divergence": 15
+    },
+    {
+      "name": "Shōgo Taniguchi",
+      "team": "JPN",
+      "kimi": {
+        "probability2030": 5,
+        "reasoning": "2030年届时将年满39岁，远超后卫常规竞技巅峰期；日本后卫人才储备充足，且其现效力比利时中游俱乐部，竞技状态难以维持国家队水准。",
+        "requestId": "devshard-28224-39",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "39岁后卫接近退役，竞争力下降，日本队更倾向年轻球员，入选概率极低。",
+        "requestId": "devshard-28238-1495",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 28,
+      "divergence": 45
+    },
+    {
+      "name": "Kō Itakura (captain)",
+      "team": "JPN",
+      "kimi": {
+        "probability2030": 45,
+        "reasoning": "33岁中卫仍处合理竞技区间，荷甲Ajax水平尚可且身为队长经验丰富；但日本后卫人才储备充足，四年后状态存疑，入选概率中等。",
+        "requestId": "devshard-28222-87",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 70,
+        "reasoning": "作为经验丰富的中后卫，33岁仍在竞技巅峰，且担任国家队队长，留在日本队的可能性较高，但年轻球员竞争可能略有影响。",
+        "requestId": "devshard-28230-4659",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 58,
+      "divergence": 25
+    },
+    {
+      "name": "Yūto Nagatomo",
+      "team": "JPN",
+      "kimi": {
+        "probability2030": 0,
+        "reasoning": "2030年时年满44岁，远超后卫合理竞技年龄；虽经验丰富，但身体机能无法支撑顶级国际赛事，且J1联赛44岁球员亦极罕见。",
+        "requestId": "devshard-28224-44",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "44岁已超出大多数后卫的竞技年龄，国家队大名单极难进入，预计概率极低。",
+        "requestId": "devshard-28230-4739",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 25,
+      "divergence": 50
+    },
+    {
+      "name": "Shūto Machino",
+      "team": "JPN",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "31岁前锋处于下滑期，日本锋线人才辈出竞争激烈；虽在德甲效力水平较高，但当前国脚资历较浅，六年后状态与新人冲击下入选难度较大。",
+        "requestId": "devshard-28224-48",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "31岁前锋仍有竞争力，但日本锋线竞争激烈且年龄劣势明显，保持状态并入选的概率约为三成。",
+        "requestId": "devshard-28226-5493",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 43,
+      "divergence": 15
+    },
+    {
+      "name": "Ao Tanaka",
+      "team": "JPN",
+      "kimi": {
+        "probability2030": 45,
+        "reasoning": "32岁中场处于竞技状态末期，虽具备英超水准与38场国家队经验，但日本中场人才储备深厚，且该年龄体能与角色易被新生代取代，入选概率中等偏低。",
+        "requestId": "devshard-28224-50",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 30,
+        "reasoning": "32岁中场仍可能保持状态，但日本年轻球员竞争激烈，且状态和伤病因素不确定，预计仍有约30%机会入选。",
+        "requestId": "devshard-28213-13040",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 38,
+      "divergence": 15
+    },
+    {
+      "name": "Takefusa Kubo",
+      "team": "JPN",
+      "kimi": {
+        "probability2030": 88,
+        "reasoning": "29岁正值中场球员巅峰末期，技术型踢法衰退较慢；已是日本国家队核心，西甲主力身份稳固，若无重大伤病，入选概率极高。",
+        "requestId": "devshard-28222-108",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 70,
+        "reasoning": "年龄29岁仍处中场巅峰期，国家队经验丰富，俱乐部水平稳定，保持状态可能性大，但竞争和伤病风险仍存。",
+        "requestId": "devshard-28213-13125",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 79,
+      "divergence": 18
+    },
+    {
+      "name": "Keisuke Gotō",
+      "team": "JPN",
+      "kimi": {
+        "probability2030": 45,
+        "reasoning": "2030年25岁正值前锋黄金年龄，但当前国家队仅4场0球根基尚浅，且比甲圣图尔登平台有限，日本锋线竞争激烈，需跃升至更高联赛并持续输出才能稳固席位。",
+        "requestId": "devshard-28222-112",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "25岁正值前锋黄金期，已获国家队出场，所在比甲水平尚可，若保持状态并提升进球效率，入选机会较大。",
+        "requestId": "devshard-28238-2390",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 48,
+      "divergence": 5
+    },
+    {
+      "name": "Ritsu Dōan",
+      "team": "JPN",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "32岁边锋已过巅峰，日本该位置人才济济竞争激烈，虽德甲经验丰富但体能下滑难保主力，大概率淡出国家队。",
+        "requestId": "devshard-28224-64",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 60,
+        "reasoning": "年龄32岁仍处中场球员的竞技期，经验丰富且在德甲保持出场，但竞争激烈，仍有一定可能被新秀取代。",
+        "requestId": "devshard-28213-13642",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 48,
+      "divergence": 25
+    },
+    {
+      "name": "Daizen Maeda",
+      "team": "JPN",
+      "kimi": {
+        "probability2030": 15,
+        "reasoning": "2030年33岁，边锋/前锋位置竞技状态通常明显下滑；日本该位置人才济济，新人辈出；苏超水平有限，且其国家队资历与产出均非不可替代，入选概率较低。",
+        "requestId": "devshard-28222-117",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "33岁中场，竞技状态可能下滑，但经验仍在，日本队倾向保留老将；Celtic平台一般，竞争力中等；年轻球员冲击大，仍有约三成可能入选。",
+        "requestId": "devshard-28244-1914",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 33,
+      "divergence": 35
+    },
+    {
+      "name": "Keisuke Ōsako",
+      "team": "JPN",
+      "kimi": {
+        "probability2030": 45,
+        "reasoning": "门将31岁正值巅峰期，J1广岛三箭主力身份稳定，但国家队仅11场且面临铃木彩艳等竞争，2030年入选需保持状态并击败后辈，概率中等。",
+        "requestId": "devshard-28222-125",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "门将职业生涯长，31岁仍在巅峰期，但日本门将竞争激烈且目前仅11次出场，保持状态并入选的可能性约为30%。",
+        "requestId": "devshard-28226-7327",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 48,
+      "divergence": 5
+    },
+    {
+      "name": "Keito Nakamura",
+      "team": "JPN",
+      "kimi": {
+        "probability2030": 45,
+        "reasoning": "2030年30岁处于中场球员合理竞技期，法甲水平可维持状态，但日本边路人才竞争激烈，且需保持近年上升势头，入选存在不确定性。",
+        "requestId": "devshard-28222-126",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "30岁仍处于中场黄金期，国家队已有25场经验，效力里昂（Reims）保持法甲水平，竞争激烈但仍有优势，保持状态入选概率较高。",
+        "requestId": "devshard-28230-6424",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 48,
+      "divergence": 5
+    },
+    {
+      "name": "Junya Itō",
+      "team": "JPN",
+      "kimi": {
+        "probability2030": 5,
+        "reasoning": "2030年37岁的边锋已远超巅峰年龄，体能与速度难以满足高强度比赛需求。日本该位置人才济济，除非转型为纯组织核心且状态极佳，否则极难入选。",
+        "requestId": "devshard-28224-72",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 8,
+        "reasoning": "37岁中场已进入职业后期，状态下滑，且日本中场竞争激烈，仍入选可能性较低，约8%.",
+        "requestId": "devshard-28213-14390",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 7,
+      "divergence": 3
+    },
+    {
+      "name": "Daichi Kamada",
+      "team": "JPN",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "2030年34岁，中场球员已过巅峰期，体能与竞技状态大概率下滑；虽具英超经验与49场国家队资历，但日本中场人才济济，高龄入选概率偏低。",
+        "requestId": "devshard-28222-128",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "年龄34岁，中场球员仍可保持竞技状态，但日本中场竞争激烈，年轻球员崛起，入选可能性中等偏下。",
+        "requestId": "devshard-28213-14503",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 43,
+      "divergence": 15
+    },
+    {
+      "name": "Tsuyoshi Watanabe",
+      "team": "JPN",
+      "kimi": {
+        "probability2030": 15,
+        "reasoning": "33岁中卫已过巅峰，且目前仅为边缘国脚（11场），日本该位置人才储备充足，除非保持顶级状态否则难入选。",
+        "requestId": "devshard-28006-435",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 30,
+        "reasoning": "中卫常能踢至35+，但他仅11场国家队经验且竞争激烈，2030年入选概率约三成。",
+        "requestId": "devshard-28230-6724",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 23,
+      "divergence": 15
+    },
+    {
+      "name": "Yuito Suzuki",
+      "team": "JPN",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "中场29岁仍处合理竞技期，但当前国家队资历较浅仅6场，且日本中场人才竞争激烈，需持续在德甲保持主力水准才有机会。",
+        "requestId": "devshard-28006-437",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "在德甲踢球的日本中场，2030年仍29岁，职业生涯仍处巅峰，若保持状态并提升经验，入选可能性中等偏上。",
+        "requestId": "devshard-28238-3651",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 43,
+      "divergence": 15
+    },
+    {
+      "name": "Ayase Ueda",
+      "team": "JPN",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "32岁前锋通常已过巅峰，速度下滑；日本锋线竞争激烈，新生代崛起；虽经验丰富且效力欧洲联赛，但届时大概率已淡出主力阵容。",
+        "requestId": "devshard-28222-135",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "32岁前锋，状态保持良好且有丰富经验，但竞争激烈，仍有入选可能。",
+        "requestId": "devshard-28244-3885",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 43,
+      "divergence": 15
+    },
+    {
+      "name": "Kōki Ogawa",
+      "team": "JPN",
+      "kimi": {
+        "probability2030": 25,
+        "reasoning": "2030年33岁对前锋属下滑区间，日本锋线人才辈出竞争激烈，虽国家队效率高但资历与联赛平台一般，高龄入选概率偏低。",
+        "requestId": "devshard-28224-86",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "前锋职业生涯常至35岁左右，33岁仍可保持竞技状态；目前在荷甲中游，状态若能提升或转会更强联赛，入选机会仍存；但日本锋线竞争激烈，年龄因素略有不利。",
+        "requestId": "devshard-28238-4198",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 38,
+      "divergence": 25
+    },
+    {
+      "name": "Ayumu Seko",
+      "team": "JPN",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "30岁后卫年龄尚可，但当前仅为法甲中下游球队主力且国家队边缘人选，6年间需维持状态并抵御后辈竞争，入选概率偏低。",
+        "requestId": "devshard-28224-87",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "30岁防守球员，位置寿命较长，联赛水平中等，国家队经验尚可，仍有竞争力，但年轻球员竞争激烈，预计进入大名单概率约35%。",
+        "requestId": "devshard-28242-4770",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 43,
+      "divergence": 15
+    },
+    {
+      "name": "Hiroki Itō",
+      "team": "JPN",
+      "kimi": {
+        "probability2030": 65,
+        "reasoning": "31岁对后卫属合理竞技年龄，效力拜仁体现顶尖水平，多面手属性稀缺，但需保持状态并应对后辈竞争。",
+        "requestId": "devshard-28224-92",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "作为拜仁主力后卫，31岁仍在巅峰期，国家队经验丰富，入选2030年世界杯大名单的概率较高。",
+        "requestId": "devshard-28244-5089",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 58,
+      "divergence": 15
+    },
+    {
+      "name": "Takehiro Tomiyasu",
+      "team": "JPN",
+      "kimi": {
+        "probability2030": 45,
+        "reasoning": "32岁后卫仍处合理竞技期，但6年间伤病与新人竞争风险高；当前国家队经验丰富，然荷甲平台较五大联赛略逊，维持巅峰状态不确定性较大。",
+        "requestId": "devshard-28222-151",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "32岁后卫在亚洲仍具竞争力，但伤病和新秀竞争可能影响，需保持状态。",
+        "requestId": "devshard-28242-5233",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 48,
+      "divergence": 5
+    },
+    {
+      "name": "Tomoki Hayakawa",
+      "team": "JPN",
+      "kimi": {
+        "probability2030": 25,
+        "reasoning": "门将31岁仍在合理竞技区间，但目前国家队出场仅4次且效力J1联赛，面临留洋门将激烈竞争，需持续突破才能成为世界杯备选。",
+        "requestId": "devshard-28224-112",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "31岁门将仍在巅峰期，J1联赛水平尚可，但仅4次出场且竞争激烈，入选机会约三成。",
+        "requestId": "devshard-28242-5814",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 38,
+      "divergence": 25
+    },
+    {
+      "name": "Kaishū Sano",
+      "team": "JPN",
+      "kimi": {
+        "probability2030": 45,
+        "reasoning": "30岁对中场属巅峰末期，但日本该位置人才济济，13场资历尚浅，需持续在德甲保持主力水准方可竞争。",
+        "requestId": "devshard-28224-128",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "30岁中场仍在巅峰期，13场国家队经验，俱乐部水平中等，需保持状态才能入选。",
+        "requestId": "devshard-28252-1209",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 48,
+      "divergence": 5
+    },
+    {
+      "name": "Junnosuke Suzuki",
+      "team": "JPN",
+      "kimi": {
+        "probability2030": 45,
+        "reasoning": "27岁正值后卫巅峰年龄，但当前仅6场国家队经验且效力于非五大联赛的丹超，需持续进步并面临日本新生代后卫激烈竞争，入选存在不确定性。",
+        "requestId": "devshard-28224-146",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 35,
+        "reasoning": "27岁仍处防守黄金期，效力强队哥本哈根，若保持稳定表现并累积国际赛经验，入选机会较大，但面临国内及欧洲其他日本后卫竞争，概率约三成。",
+        "requestId": "devshard-28252-2190",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 40,
+      "divergence": 10
+    },
+    {
+      "name": "Kento Shiogai",
+      "team": "JPN",
+      "kimi": {
+        "probability2030": 45,
+        "reasoning": "25岁正值前锋巅峰年龄，德甲平台优质，但目前国家队资历极浅且同位置竞争激烈，需持续在俱乐部拿出稳定表现才有机会。",
+        "requestId": "devshard-28254-8",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "年龄正值前锋黄金期，效力德甲中游俱乐部，经验尚浅但有成长空间，若保持状态有望进入日本队大名单。",
+        "requestId": "devshard-28242-7222",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 48,
+      "divergence": 5
+    },
+    {
+      "name": "Yassine Bounou",
+      "team": "MAR",
+      "kimi": {
+        "probability2030": 25,
+        "reasoning": "门将职业生涯较长，39岁虽偏大但仍有先例；然6年间状态难料，且新生代门将将崛起，故概率偏低。",
+        "requestId": "devshard-28224-150",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 35,
+        "reasoning": "门将职业生涯较长，39岁仍可能保持竞技状态，但届时摩洛哥可能出现更年轻的门将，竞争激烈，入选概率约为三成左右。",
+        "requestId": "devshard-28226-10858",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 30,
+      "divergence": 10
+    },
+    {
+      "name": "Achraf Hakimi (captain)",
+      "team": "MAR",
+      "kimi": {
+        "probability2030": 75,
+        "reasoning": "32岁对边后卫属合理竞技年龄，现代球员生涯延长；身为队长且效力顶级俱乐部PSG，经验与领导力对摩洛哥队极重要，只要无重大伤病，大概率仍入选。",
+        "requestId": "devshard-28254-11",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 80,
+        "reasoning": "作为摩洛哥队长且仍在顶级联赛效力，32岁时仍保持高水平，后卫职业生涯较长，入选2030大名单的可能性较大。",
+        "requestId": "devshard-28242-7574",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 78,
+      "divergence": 5
+    },
+    {
+      "name": "Noussair Mazraoui",
+      "team": "MAR",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "边后卫33岁体能下滑风险较高，虽具备英超水平与丰富国脚经验，但摩洛哥新生代崛起及该位置对速度要求高，届时入选概率偏低。",
+        "requestId": "devshard-28254-14",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 45,
+        "reasoning": "33岁仍可保持高水平，但右后卫竞争激烈且可能退役或转位置。保持曼联主力且无重大伤病，入选概率约45%。",
+        "requestId": "devshard-28242-7660",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 40,
+      "divergence": 10
+    },
+    {
+      "name": "Sofyan Amrabat",
+      "team": "MAR",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "防守型中场34岁体能下滑明显，虽具75场大赛经验且效力西甲，但摩洛哥新生代崛起，老将难保主力位置，入选概率偏低。",
+        "requestId": "devshard-28254-30",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 30,
+        "reasoning": "年龄34岁，防守中场职业生涯较长，仍有经验优势，但竞争激烈且状态可能下降，预计仍有约30%机会入选。",
+        "requestId": "devshard-28242-7885",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 33,
+      "divergence": 5
+    },
+    {
+      "name": "Marwane Saâdane",
+      "team": "MAR",
+      "kimi": {
+        "probability2030": 2,
+        "reasoning": "2030年将满38岁，后卫位置竞技状态大幅下滑；国家队仅8次出场非核心球员；摩洛哥后卫人才储备充足，高龄入选概率极低。",
+        "requestId": "devshard-28254-48",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "38岁防守球员已过巅峰，摩洛哥后防竞争激烈，仍在沙特联赛效力，国家队仅8次出场，2030年入选概率极低，约5%。",
+        "requestId": "devshard-28252-3857",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 26,
+      "divergence": 48
+    },
+    {
+      "name": "Ayyoub Bouaddi",
+      "team": "MAR",
+      "kimi": {
+        "probability2030": 72,
+        "reasoning": "23岁正值中场球员上升期，法甲里尔平台优质，已有国家队履历。若正常发展，6年后大概率成为摩洛哥中场主力人选，但年轻球员成长存在不确定性。",
+        "requestId": "devshard-28257-22",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "23岁时仍处中场黄金期，效力里尔在法甲具备竞争力，国家队已有出场记录，若保持发展，入选可能性较高。",
+        "requestId": "devshard-28255-739",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 61,
+      "divergence": 22
+    },
+    {
+      "name": "Chemsdine Talbi",
+      "team": "MAR",
+      "kimi": {
+        "probability2030": 45,
+        "reasoning": "25岁正值中场巅峰年龄，但当前国家队资历尚浅仅5场，且桑德兰非顶级豪门，需持续在英超级联赛成长并巩固主力位置方能入选。",
+        "requestId": "devshard-28257-24",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "25岁中场，职业生涯黄金期，俱乐部稳定，已有国家队经验，仍有机会保持竞争力，预计留在摩洛哥大名单的概率较高。",
+        "requestId": "devshard-28252-4048",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 48,
+      "divergence": 5
+    },
+    {
+      "name": "Azzedine Ounahi",
+      "team": "MAR",
+      "kimi": {
+        "probability2030": 65,
+        "reasoning": "30岁中场仍处于巅峰末期，西甲竞技水平高，且已积累49场国家队经验。但摩洛哥中场人才涌现，需保持状态与伤病控制，概率中等偏上。",
+        "requestId": "devshard-28257-40",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "30岁仍处中场黄金期，效力西甲中游球队，经验丰富且是主力，竞争力强，但年龄和新人冲击略有风险，综合概率约70%。",
+        "requestId": "devshard-28252-4832",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 58,
+      "divergence": 15
+    },
+    {
+      "name": "Soufiane Rahimi",
+      "team": "MAR",
+      "kimi": {
+        "probability2030": 15,
+        "reasoning": "34岁前锋通常已过巅峰，且效力于竞技水平较低的阿联酋联赛，难以维持国家队竞争力；摩洛哥锋线人才辈出，经验丰富但非绝对核心，入选概率较低。",
+        "requestId": "devshard-28257-54",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "34岁的前锋，职业生涯下滑，阿联酋联赛水平一般，摩洛哥锋线竞争激烈，仍有37场经验，但2030年入选可能性不大，估计约25%。",
+        "requestId": "devshard-28255-1394",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 33,
+      "divergence": 35
+    },
+    {
+      "name": "Brahim Díaz",
+      "team": "MAR",
+      "kimi": {
+        "probability2030": 72,
+        "reasoning": "31岁对技术型前锋仍处合理竞技期，效力皇马体现顶级水准，国家队核心地位稳固，且2030年摩洛哥作为联合东道主参赛动力充足。",
+        "requestId": "devshard-28257-56",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 70,
+        "reasoning": "31岁仍在前锋黄金期，皇马主力保持竞技状态，国家队经验丰富，进球效率高，仍有竞争力。",
+        "requestId": "devshard-28242-9651",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 71,
+      "divergence": 2
+    },
+    {
+      "name": "Ismael Saibari",
+      "team": "MAR",
+      "kimi": {
+        "probability2030": 75,
+        "reasoning": "29岁正值中场巅峰期，效力于PSV荷甲豪门且已有30场国家队经验，只要保持竞技状态，入选概率较高。",
+        "requestId": "devshard-28257-57",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "年龄29岁仍处中场黄金期，经验丰富且在PSV保持高水平，竞争力强，入选可能性较大。",
+        "requestId": "devshard-28252-5299",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 63,
+      "divergence": 25
+    },
+    {
+      "name": "Munir Mohamedi",
+      "team": "MAR",
+      "kimi": {
+        "probability2030": 5,
+        "reasoning": "2030年门将年满41岁，虽该位置职业生涯较长，但世界杯级别竞技要求极高；且其效力于本国联赛，摩洛哥足球正崛起，年轻门将将涌现，高龄入选概率极低。",
+        "requestId": "devshard-28254-91",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "41岁门将，竞技状态和年龄劣势大，2030年入选国家队概率极低。",
+        "requestId": "devshard-28252-5429",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 28,
+      "divergence": 45
+    },
+    {
+      "name": "Zakaria El Ouahdi",
+      "team": "MAR",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "29岁对后卫属巅峰年龄，但当前国家队仅3次出场，根基尚浅；未来六年需在俱乐部持续进步并竞争过阿什拉夫等同级或新星，不确定性较高。",
+        "requestId": "devshard-28254-94",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 35,
+        "reasoning": "29岁仍处防守黄金期，俱乐部水平尚可，但国家队经验少，竞争激烈，预测入选概率约35%。",
+        "requestId": "devshard-28242-10004",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 35,
+      "divergence": 0
+    },
+    {
+      "name": "Issa Diop",
+      "team": "MAR",
+      "kimi": {
+        "probability2030": 15,
+        "reasoning": "33岁中卫虽处合理下滑区间，但国家队仅4场出场经验过浅，摩洛哥后卫人才储备充足，边缘老将易被新人取代。",
+        "requestId": "devshard-28254-96",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "年龄33岁，后卫仍可保持竞技状态，但仅4场国家队出场且在摩洛哥中卫竞争激烈，2030年入选可能性偏低，约20%。",
+        "requestId": "devshard-28252-5581",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 33,
+      "divergence": 35
+    },
+    {
+      "name": "Samir El Mourabet",
+      "team": "MAR",
+      "kimi": {
+        "probability2030": 65,
+        "reasoning": "2030年25岁正值中场球员黄金年龄，法甲平台优质；但目前国家队资历尚浅（仅4场），需持续在俱乐部成长并竞争过同位置对手，入选概率中等偏上。",
+        "requestId": "devshard-28254-97",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "25岁正值中场巅峰期，效力法甲中游球队有竞争力，仍有提升空间；摩洛哥中场竞争激烈但经验丰富，4场出场说明已有认可，预计有约六成机会入选2030世界杯大名单。",
+        "requestId": "devshard-28244-9586",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 58,
+      "divergence": 15
+    },
+    {
+      "name": "Gessime Yassine",
+      "team": "MAR",
+      "kimi": {
+        "probability2030": 55,
+        "reasoning": "25岁正值中场球员黄金年龄，法甲平台良好；但目前国家队资历尚浅，需持续进步以在竞争激烈的摩洛哥中场立足。",
+        "requestId": "devshard-28254-106",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "25岁仍处巅峰期，Strasbourg法甲表现稳定，4场国家队经验不足但有成长空间，2030年入选可能性中等。",
+        "requestId": "devshard-28255-2043",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 53,
+      "divergence": 5
+    },
+    {
+      "name": "Amine Sbaï",
+      "team": "MAR",
+      "kimi": {
+        "probability2030": 15,
+        "reasoning": "30岁前锋已处巅峰末期，且目前国家队资历极浅仅2场0球，俱乐部平台一般，摩洛哥锋线竞争激烈，新人辈出，难以在六年后保住边缘位置。",
+        "requestId": "devshard-28254-107",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "目前仅两场出场且无进球，效力于法甲中游球队，30岁仍保持竞技状态，但锋线竞争激烈，入选机会有限，预计概率约20%。",
+        "requestId": "devshard-28238-6543",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 33,
+      "divergence": 35
+    },
+    {
+      "name": "Chadi Riad",
+      "team": "MAR",
+      "kimi": {
+        "probability2030": 80,
+        "reasoning": "2030年27岁正值后卫巅峰期，英超联赛水平高利于保持竞技状态，已有国家队征召基础，只要稳定发展入选概率较高。",
+        "requestId": "devshard-28224-166",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "作为中后卫，27岁正值巅峰，效力水晶宫保持英超水平，若保持状态，入选机会较大，但需克服竞争和伤病风险。",
+        "requestId": "devshard-28252-6077",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 65,
+      "divergence": 30
+    },
+    {
+      "name": "Youssef Belammari",
+      "team": "MAR",
+      "kimi": {
+        "probability2030": 25,
+        "reasoning": "32岁后卫虽处职业末期仍可能竞技，但摩洛哥近年人才井喷，后卫线竞争激烈；18场国家队经验有限，非绝对主力，且2030年更可能启用新生代，入选概率偏低。",
+        "requestId": "devshard-28224-167",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "32岁后卫仍处竞技期，阿尔阿赫利表现稳定，18场国家队经验尚可，但竞争激烈，预测概率约35%。",
+        "requestId": "devshard-28252-6161",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 38,
+      "divergence": 25
+    },
+    {
+      "name": "Ayoub El Kaabi",
+      "team": "MAR",
+      "kimi": {
+        "probability2030": 10,
+        "reasoning": "前锋37岁已远超巅峰年龄，体能与竞技状态通常难以支撑世界杯强度；虽经验丰富且为国家队射手，但摩洛哥新生代前锋涌现，老将极难入选。",
+        "requestId": "devshard-28224-168",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "37岁的前锋已进入职业后期，状态和竞争压力可能导致落选，但若保持状态或有特殊战术需求，仍有微小可能。",
+        "requestId": "devshard-28261-300",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 30,
+      "divergence": 40
+    },
+    {
+      "name": "Ayoube Amaimouni",
+      "team": "MAR",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "26岁正值前锋巅峰年龄，德甲平台优质；但目前国家队资历极浅仅2场0球，需在未来六年持续进步并击败同位置竞争，不确定性较高。",
+        "requestId": "devshard-28254-110",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 45,
+        "reasoning": "26岁正值前锋黄金期，效力法兰克福有竞争力，但国家队经验少且竞争激烈，保持健康和状态才能入选。",
+        "requestId": "devshard-28238-6810",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 40,
+      "divergence": 10
+    },
+    {
+      "name": "Ahmed Reda Tagnaouti",
+      "team": "MAR",
+      "kimi": {
+        "probability2030": 15,
+        "reasoning": "门将34岁仍属合理区间，但当前国家队出场仅3次且效力国内联赛，摩洛哥门将人才储备日增，竞争下难以跻身世界杯大名单。",
+        "requestId": "devshard-28272-1",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "34岁门将仍可能保持竞技状态，但国家队已有更年轻的首席门将，仅有3次出场记录，竞争力有限，预计入选概率约为35%。",
+        "requestId": "devshard-28255-2842",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 33,
+      "divergence": 35
+    },
+    {
+      "name": "Bilal El Khannouss",
+      "team": "MAR",
+      "kimi": {
+        "probability2030": 85,
+        "reasoning": "2030年26岁正值中场球员黄金巅峰期，目前已是国家队常备主力，效力于德甲高水平联赛，竞技状态与经验均处上升轨道，如无重大伤病，入选概率极高。",
+        "requestId": "devshard-28257-81",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "26岁正值中场黄金期，已是摩洛哥核心成员，俱乐部稳定，保持状态概率高，预计仍有约80%入选可能。",
+        "requestId": "devshard-28252-6695",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 68,
+      "divergence": 35
+    },
+    {
+      "name": "Neil El Aynaoui",
+      "team": "MAR",
+      "kimi": {
+        "probability2030": 72,
+        "reasoning": "2030年29岁正值中场球员巅峰末期，竞技状态通常仍可保持；效力于意甲罗马证明其具备顶级联赛水准；已有16场国家队经验，根基稳固。但需面临新生代竞争及伤病风险，故非绝对主力。",
+        "requestId": "devshard-28272-3",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 75,
+        "reasoning": "29岁仍处中场黄金期，效力罗马保持高水平，已有16场经验，竞争力强，仍有望入选2030摩洛哥大名单。",
+        "requestId": "devshard-28252-7134",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 74,
+      "divergence": 3
+    },
+    {
+      "name": "Anass Salah-Eddine",
+      "team": "MAR",
+      "kimi": {
+        "probability2030": 65,
+        "reasoning": "28岁正值后卫巅峰期，效力荷甲豪门平台良好；但目前国家队出场仅9次，需在未来六年保持进步并竞争过同位置对手，概率中等偏上。",
+        "requestId": "devshard-28257-88",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 80,
+        "reasoning": "防守球员职业生涯较长，28岁仍处巅峰；效力于PSV强队，利于保持状态；已有国家队出场经历，具备竞争力；综合评估，入选概率较高。",
+        "requestId": "devshard-28238-7377",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 73,
+      "divergence": 15
+    },
+    {
+      "name": "Diogo Costa",
+      "team": "POR",
+      "kimi": {
+        "probability2030": 92,
+        "reasoning": "2030年31岁正值门将巅峰期，生涯长度优势明显；现为葡萄牙主力门将且国家队经验丰富，只要保持状态，入选概率极高。",
+        "requestId": "devshard-28254-142",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "门将职业寿命长，31岁仍处巅峰，经验丰富且在顶级联赛效力，竞争力强，仍有望入选。",
+        "requestId": "devshard-28238-7418",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 71,
+      "divergence": 42
+    },
+    {
+      "name": "Nélson Semedo",
+      "team": "POR",
+      "kimi": {
+        "probability2030": 5,
+        "reasoning": "2030年37岁的边后卫已远超常规竞技年龄，土超效力且葡萄牙该位置人才济济，仅极低概率以老将身份入选。",
+        "requestId": "devshard-28254-144",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "37岁体能下降，防守位置要求高，葡萄牙右后卫人才充足，且目前已不在欧洲顶级联赛，2030年入选概率较低。",
+        "requestId": "devshard-28274-601",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 28,
+      "divergence": 45
+    },
+    {
+      "name": "Rúben Dias",
+      "team": "POR",
+      "kimi": {
+        "probability2030": 65,
+        "reasoning": "33岁中卫仍处可竞技区间，曼城顶级平台有助维持状态，且76场国家队经验丰富。但需面对伤病与新生代竞争，概率中等偏上。",
+        "requestId": "devshard-28272-12",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "作为主力中卫，经验丰富且保持高水平，33岁仍在巅峰期，仍有较大概率进入大名单，但需视健康和竞争情况。",
+        "requestId": "devshard-28261-1414",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 58,
+      "divergence": 15
+    },
+    {
+      "name": "Tomás Araújo",
+      "team": "POR",
+      "kimi": {
+        "probability2030": 65,
+        "reasoning": "28岁正值后卫巅峰期，本菲卡平台优质；目前国脚资历尚浅，但6年成长窗口充足，需持续稳定发挥并可能转战五大联赛以巩固地位。",
+        "requestId": "devshard-28254-145",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 70,
+        "reasoning": "28岁仍处后卫黄金期，效力本菲卡保持高水平，国家队经验尚浅但有成长空间，入选概率较高。",
+        "requestId": "devshard-28250-4162",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 68,
+      "divergence": 5
+    },
+    {
+      "name": "Diogo Dalot",
+      "team": "POR",
+      "kimi": {
+        "probability2030": 65,
+        "reasoning": "31岁对边后卫属巅峰末期，职业生涯较长；现于英超顶级俱乐部效力且已有35场国家队经验，竞技水平与资历兼备。但6年间存在伤病、状态波动及新人竞争风险，故概率中等偏上。",
+        "requestId": "devshard-28272-13",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "31岁仍处后卫黄金期，曼联主力，经验丰富，国家队已有35场，竞争力强，但年轻球员冲击，概率约65%。",
+        "requestId": "devshard-28274-803",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 58,
+      "divergence": 15
+    },
+    {
+      "name": "Matheus Nunes",
+      "team": "POR",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "32岁中场处于竞技状态下滑期，且当前国家队出场仅20次非绝对主力；葡萄牙中场人才储备深厚，届时新一代崛起将挤压其空间，虽有曼城平台加持但入选概率偏低。",
+        "requestId": "devshard-28254-154",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "作为中场，32岁仍可保持高水平，效力曼城保持曝光，但葡萄牙中场竞争激烈且年龄因素有下滑风险，预计仍有约40%可能入选。",
+        "requestId": "devshard-28277-95",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 43,
+      "divergence": 15
+    },
+    {
+      "name": "Cristiano Ronaldo (captain)",
+      "team": "POR",
+      "kimi": {
+        "probability2030": 2,
+        "reasoning": "2030年C罗将年满45岁，前锋位置通常35-38岁后即大幅衰退，且届时已远离欧洲顶级联赛多年；虽为历史级射手与队长，但世界杯竞技强度下，45岁入选概率极低。",
+        "requestId": "devshard-28254-155",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "45岁的前锋在职业足坛极为罕见，竞技状态难以保持；虽有丰富经验，但国家队更倾向年轻血液，入选概率极低。",
+        "requestId": "devshard-28261-1580",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 26,
+      "divergence": 48
+    },
+    {
+      "name": "Bruno Fernandes",
+      "team": "POR",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "2030年B费将满36岁，作为中场球员虽经验丰富，但体能与竞技状态大概率显著下滑，且葡萄牙中场新生代崛起，高龄入选世界杯大名单概率偏低。",
+        "requestId": "devshard-28254-168",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "36岁中场在顶级联赛仍能保持竞技状态，但竞争激烈且状态可能下滑，入选概率约30%.",
+        "requestId": "devshard-28261-1789",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 43,
+      "divergence": 15
+    },
+    {
+      "name": "Gonçalo Ramos",
+      "team": "POR",
+      "kimi": {
+        "probability2030": 72,
+        "reasoning": "29岁正值前锋巅峰期末段，效力顶级俱乐部且已有稳定国脚经验；但葡萄牙锋线人才济济，需保持竞技状态以防新人竞争。",
+        "requestId": "devshard-28254-172",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "29岁仍属前锋黄金期，效力巴黎且已有丰富国际赛经验，竞争力强，入选概率高。",
+        "requestId": "devshard-28274-1239",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 61,
+      "divergence": 22
+    },
+    {
+      "name": "Bernardo Silva",
+      "team": "POR",
+      "kimi": {
+        "probability2030": 25,
+        "reasoning": "2030年36岁，中场球员体能要求极高，虽现役顶级且经验丰富，但葡萄牙中场人才济济，高龄入选概率偏低。",
+        "requestId": "devshard-28272-23",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "36岁中场，状态可能下滑，但若保持高水平且位置适应，仍有入选可能。概率约20-30%。",
+        "requestId": "devshard-28279-225",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 38,
+      "divergence": 25
+    },
+    {
+      "name": "João Félix",
+      "team": "POR",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "31岁前锋仍处可战年龄，但沙特联赛竞技水平低于欧洲主流，且葡萄牙锋线新人辈出，其国家队地位易被取代；54场经验虽丰富，状态保持存疑。",
+        "requestId": "devshard-28254-185",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "31岁仍可保持竞技状态，但沙特联赛水平较低且葡萄牙锋线竞争激烈，入选概率约三成。",
+        "requestId": "devshard-28250-4431",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 43,
+      "divergence": 15
+    },
+    {
+      "name": "José Sá",
+      "team": "POR",
+      "kimi": {
+        "probability2030": 15,
+        "reasoning": "门将虽职业寿命长，但届时37岁已处生涯末期；国家队仅5次出场资历浅，葡萄牙门将人才储备充足，难以竞争过更年轻主力。",
+        "requestId": "devshard-28257-106",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "37岁门将，职业生涯后期，竞争力下降；葡萄牙已有更年轻的顶级门将，萨仅5次出场，2030年进入大名单可能性极低。",
+        "requestId": "devshard-28277-1030",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 33,
+      "divergence": 35
+    },
+    {
+      "name": "Renato Veiga",
+      "team": "POR",
+      "kimi": {
+        "probability2030": 65,
+        "reasoning": "27岁正值后卫巅峰期，西甲平台优质且已有13场国家队经验。但需持续保持俱乐部主力水准并应对葡萄牙后防人才竞争，非绝对核心故留一定变数。",
+        "requestId": "devshard-28254-189",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "年龄27岁正值后卫巅峰期，已是国家队常规成员，俱乐部稳定，前景良好，但需保持健康和竞争。",
+        "requestId": "devshard-28279-572",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 58,
+      "divergence": 15
+    },
+    {
+      "name": "Gonçalo Inácio",
+      "team": "POR",
+      "kimi": {
+        "probability2030": 78,
+        "reasoning": "29岁正值中卫巅峰期，已是国家队常规成员；葡超竞技水平尚可，且仍有转会五大联赛提升空间，大概率仍是葡萄牙后防中坚力量。",
+        "requestId": "devshard-28272-27",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 75,
+        "reasoning": "防守球员巅峰期常在27-32岁，29岁仍具竞争力；俱乐部水平高，国家队经验丰富，竞争虽有但入选概率大。",
+        "requestId": "devshard-28274-1716",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 77,
+      "divergence": 3
+    },
+    {
+      "name": "João Neves",
+      "team": "POR",
+      "kimi": {
+        "probability2030": 92,
+        "reasoning": "2030年26岁正值中场球员巅峰期，效力于PSG顶级平台，已有22场国家队经验，如无重大伤病，极大概率仍是葡萄牙中场核心人选。",
+        "requestId": "devshard-28254-190",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "年龄正值巅峰，效力豪门，经验丰富，竞争对手相对有限，入选概率高。",
+        "requestId": "devshard-28261-2467",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 71,
+      "divergence": 42
+    },
+    {
+      "name": "Francisco Trincão",
+      "team": "POR",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "31岁边锋处于下滑期，葡萄牙前场人才济济，其国家队资历较浅且非绝对主力，需保持顶级状态才有机会。",
+        "requestId": "devshard-28272-35",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 30,
+        "reasoning": "31岁的前锋仍可能在国家队，但葡萄牙锋线竞争激烈且其国家队出场有限，保持状态和伤病控制是关键，预计概率约30%。",
+        "requestId": "devshard-28238-8169",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 33,
+      "divergence": 5
+    },
+    {
+      "name": "João Cancelo",
+      "team": "POR",
+      "kimi": {
+        "probability2030": 25,
+        "reasoning": "边后卫36岁属高龄，速度与体能下滑明显；葡萄牙该位置人才辈出，竞争激烈。虽经验丰富且目前效力于巴萨，但2030年入选概率偏低。",
+        "requestId": "devshard-28257-120",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "36岁时体能下降，后辈竞争激烈，虽有经验但位置更替快，入选可能性约二成。",
+        "requestId": "devshard-28238-8483",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 38,
+      "divergence": 25
+    },
+    {
+      "name": "Nuno Mendes",
+      "team": "POR",
+      "kimi": {
+        "probability2030": 85,
+        "reasoning": "28岁正值边后卫巅峰期，效力顶级俱乐部PSG，已有44场国家队经验，只要不遭遇重大伤病，大概率仍是葡萄牙左后卫首选。",
+        "requestId": "devshard-28272-49",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 85,
+        "reasoning": "作为左后卫，28岁正值巅峰，仍是葡萄牙主力，且在巴黎保持高水平，伤病风险低，入选概率高。",
+        "requestId": "devshard-28288-348",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 85,
+      "divergence": 0
+    },
+    {
+      "name": "Eberechi Eze",
+      "team": "ENG",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "32岁中场处于竞技后期，英格兰该位置人才济济（贝林厄姆、赖斯等），17场国家队经验基础不深，且用户所给'效力阿森纳'信息存疑（实际为水晶宫），综合评估入选概率偏低。",
+        "requestId": "devshard-28257-180",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "32岁中场仍具竞争力，效力豪门，经验丰富，但竞争激烈且状态不确定，估计约45%入选。",
+        "requestId": "devshard-28274-4375",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 43,
+      "divergence": 15
+    },
+    {
+      "name": "Marc Cucurella",
+      "team": "ESP",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "2030年32岁对边后卫属合理区间末端，需保持英超主力水准；西班牙该位置人才储备厚，竞争激烈，五年跨度不确定性高。",
+        "requestId": "devshard-28257-184",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 35,
+        "reasoning": "32岁防守球员仍具竞争力，但西班牙左后卫竞争激烈且新人崛起，保持高水平可保持入选机会。",
+        "requestId": "devshard-28286-2431",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 35,
+      "divergence": 0
+    },
+    {
+      "name": "David Raum",
+      "team": "GER",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "32岁边后卫虽处生涯后期，但现代球员体能管理提升；然该位置对速度要求高，且6年间竞争激烈、状态难料，故概率偏低。",
+        "requestId": "devshard-28257-198",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "作为左脚边卫，32岁仍在竞技高峰期，莱比锡仍是强队，国家队经验丰富，但年轻球员竞争激烈，保持健康和状态是关键。综合来看，入选概率约为70%。",
+        "requestId": "devshard-28279-2528",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 43,
+      "divergence": 15
+    },
+    {
+      "name": "Redouane Halhal",
+      "team": "MAR",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "27岁正值后卫巅峰，但当前国家队出场仅3次且效力比甲中游，摩洛哥该位置竞争激烈，需大幅提升俱乐部层级或表现才能稳固国脚地位。",
+        "requestId": "devshard-28257-83",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "作为后卫，27岁仍在巅峰期，摩洛哥后防竞争激烈，仅有3次出场且效力于比甲中游，晋升难度大，但若提升水平或转会更强联赛，仍有入选可能。",
+        "requestId": "devshard-28262-1434",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 43,
+      "divergence": 15
+    },
+    {
+      "name": "Gonçalo Guedes",
+      "team": "POR",
+      "kimi": {
+        "probability2030": 15,
+        "reasoning": "2030年34岁前锋已过巅峰，葡萄牙锋线人才济济，其非核心球员且近年状态起伏，入选概率偏低。",
+        "requestId": "devshard-28257-118",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "34岁的前锋，状态保持良好且有国家队经验，但葡萄牙锋线竞争激烈，年龄和状态是主要风险，预计入选概率约20%。",
+        "requestId": "devshard-28286-3601",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 33,
+      "divergence": 35
+    },
+    {
+      "name": "Rúben Neves",
+      "team": "POR",
+      "kimi": {
+        "probability2030": 25,
+        "reasoning": "33岁中场已过巅峰，沙特联赛竞技水平低于欧洲，葡萄牙中场人才储备充足（B费、维蒂尼亚等），67场经验虽丰富但难以弥补年龄与联赛竞争力下滑。",
+        "requestId": "devshard-28254-211",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "33岁中场，职业寿命尚可，但葡萄牙中场竞争激烈且在沙特联赛曝光度低，入选概率约为30%。",
+        "requestId": "devshard-28288-2913",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 38,
+      "divergence": 25
+    },
+    {
+      "name": "Rui Silva",
+      "team": "POR",
+      "kimi": {
+        "probability2030": 15,
+        "reasoning": "门将位置职业生涯较长，36岁仍可能竞技，但其国家队经验仅3场且非主力，届时葡萄牙更可能依赖迪奥戈·科斯塔等当打之年门将及新生代，其入选概率偏低。",
+        "requestId": "devshard-28254-212",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "门将职业生涯较长，36岁仍可保持竞技状态；但葡萄牙已有更年轻主力，Rui Silva仅3次出场，竞争激烈，入选可能性约为20%。",
+        "requestId": "devshard-28238-9331",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 33,
+      "divergence": 35
+    },
+    {
+      "name": "Vitinha",
+      "team": "POR",
+      "kimi": {
+        "probability2030": 65,
+        "reasoning": "30岁对中场属巅峰末期，技术型球员仍可保持高水准；效力巴黎圣日耳曼证明实力，38场国家队经验稳固，但葡萄牙中场人才济济，竞争激烈。",
+        "requestId": "devshard-28272-45",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "30岁中场正值巅峰，PSG保持高水平，已获38场国家队出场，竞争激烈但状态维持，入选概率约55%。",
+        "requestId": "devshard-28288-3094",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 58,
+      "divergence": 15
+    },
+    {
+      "name": "Samú Costa",
+      "team": "POR",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "30岁后卫仍处合理竞技期，但仅6场国家队经验且效力西甲中游马略卡，葡萄牙该位置人才济济，若无转会豪门或爆发式成长，难保席位。",
+        "requestId": "devshard-28254-214",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 30,
+        "reasoning": "年龄30岁对后卫仍属黄金期，职业生涯长；目前在马洛卡表现稳定，但非顶级联赛强队；国家队仅6次出场，竞争激烈；综合来看，入选概率约30%。",
+        "requestId": "devshard-28289-2136",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 33,
+      "divergence": 5
+    },
+    {
+      "name": "Francisco Conceição",
+      "team": "POR",
+      "kimi": {
+        "probability2030": 65,
+        "reasoning": "2030年28岁正值前锋巅峰末期，效力于尤文可维持竞技水平，已有国家队基础。但葡萄牙锋线人才济济，五年内状态与伤病存在变数，入选概率中等偏上。",
+        "requestId": "devshard-28254-220",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "28岁前锋正值巅峰，效力尤文图斯，17场国家队经验，竞争激烈但状态保持良好，入选概率较高。",
+        "requestId": "devshard-28274-5705",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 58,
+      "divergence": 15
+    },
+    {
+      "name": "Bart Verbruggen",
+      "team": "NED",
+      "kimi": {
+        "probability2030": 72,
+        "reasoning": "28岁正值门将巅峰期，英超平台优质且已有29场国家队经验。但6年间或有新星竞争及状态波动，概率较高但非绝对。",
+        "requestId": "devshard-28257-134",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 85,
+        "reasoning": "作为主力门将，28岁仍处巅峰期，英超经验与已有29场国家队出场为资本，竞争对手多为年轻或老将，保持状态入选概率较高。",
+        "requestId": "devshard-28286-4243",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 79,
+      "divergence": 13
+    },
+    {
+      "name": "Lutsharel Geertruida",
+      "team": "NED",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "30岁对后卫属合理年龄，但桑德兰非顶级豪门且荷兰后卫人才济济，21场国家队经验虽有竞争力，入选概率中等偏低。",
+        "requestId": "devshard-28254-227",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "30岁仍是后卫黄金期，效力英超Sunderland，已有21次出场，状态保持良好时有竞争力，但新人崛起和状态下滑风险存在，预计约60%概率入选。",
+        "requestId": "devshard-28289-2229",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 43,
+      "divergence": 15
+    },
+    {
+      "name": "Marten de Roon",
+      "team": "NED",
+      "kimi": {
+        "probability2030": 2,
+        "reasoning": "2030年39岁的中场球员体能难以支撑世界杯强度，且荷兰中场人才储备充足，非核心老将极难入选。",
+        "requestId": "devshard-28254-228",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "39岁中场通常进入职业生涯末期，状态下滑且竞争激烈，荷兰中场人才充足，继续入选概率很低。",
+        "requestId": "devshard-28289-2366",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 26,
+      "divergence": 48
+    },
+    {
+      "name": "Virgil van Dijk (captain)",
+      "team": "NED",
+      "kimi": {
+        "probability2030": 15,
+        "reasoning": "中后卫39岁属极高龄，即便目前顶级且为队长，身体机能下滑将难以应对世界杯强度。历史上极少有中卫在此年龄入选大赛名单，大概率已退役或退出国家队。",
+        "requestId": "devshard-28254-230",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "年龄39岁且有伤病史，后卫通常在35岁后状态下滑，2030年新生代中卫竞争激烈，入选概率极低。",
+        "requestId": "devshard-28274-3847",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 33,
+      "divergence": 35
+    },
+    {
+      "name": "Nathan Aké",
+      "team": "NED",
+      "kimi": {
+        "probability2030": 25,
+        "reasoning": "35岁后卫虽仍可能竞技，但荷兰新生代后卫人才济济，且届时体能与伤病风险显著增加，大概率已退出国家队主力轮换。",
+        "requestId": "devshard-28254-236",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "作为35岁防守球员，职业生涯仍可持续，但竞争激烈且状态未知，预计仍有约30%机会入选国家队。",
+        "requestId": "devshard-28261-5949",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 38,
+      "divergence": 25
+    },
+    {
+      "name": "Jan Paul van Hecke",
+      "team": "NED",
+      "kimi": {
+        "probability2030": 55,
+        "reasoning": "30岁对中卫属巅峰末期，英超水平高；但荷兰后卫人才储备深厚，12场资历中等，需保持状态并应对新生代竞争。",
+        "requestId": "devshard-28254-238",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "30岁中卫，职业生涯仍处高峰期，英超中游表现稳定，12次出场竞争激烈但仍有机会，预计60%概率入选。",
+        "requestId": "devshard-28286-4511",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 53,
+      "divergence": 5
+    },
+    {
+      "name": "Justin Kluivert",
+      "team": "NED",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "31岁中场仍处合理区间，但12场国家队经验偏浅，且荷兰该位置人才济济；英超中下游主力身份竞争力有限，需持续高光才有望入选。",
+        "requestId": "devshard-28254-240",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "31岁中场仍可保持竞技状态，但国家队经验有限且竞争激烈，留在大名单的可能性约为25%。",
+        "requestId": "devshard-28288-3715",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 43,
+      "divergence": 15
+    },
+    {
+      "name": "Ryan Gravenberch",
+      "team": "NED",
+      "kimi": {
+        "probability2030": 88,
+        "reasoning": "2030年28岁正值中场球员巅峰期，效力于利物浦顶级平台，现有27场国家队经验，若无重大伤病，大概率仍是荷兰中场核心人选。",
+        "requestId": "devshard-28254-241",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 85,
+        "reasoning": "28岁仍属中场黄金期，效力英超豪门，已是荷兰常规国脚，竞争压力虽有但状态保持良好，入选概率较高。",
+        "requestId": "devshard-28288-3775",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 87,
+      "divergence": 3
+    },
+    {
+      "name": "Wout Weghorst",
+      "team": "NED",
+      "kimi": {
+        "probability2030": 5,
+        "reasoning": "2030年时年满38岁，前锋位置对体能与爆发力要求极高，该年龄远超前锋合理竞技区间，且荷甲竞技水平有限，极难维持国家队水准。",
+        "requestId": "devshard-28257-148",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "38岁的前锋已进入职业生涯末期，竞争激烈且状态难以保持，入选可能性很低。",
+        "requestId": "devshard-28289-2600",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 28,
+      "divergence": 45
+    },
+    {
+      "name": "Memphis Depay",
+      "team": "NED",
+      "kimi": {
+        "probability2030": 15,
+        "reasoning": "2030年36岁前锋已过巅峰，虽国家队经验丰富且为队史射手前列，但效力巴甲竞技水平下滑，荷兰新生代前锋崛起，高龄入选概率较低。",
+        "requestId": "devshard-28257-150",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "36岁的前锋状态可能下滑，荷兰锋线竞争激烈，但在巴西联赛保持出场和经验，仍有约25%的入选可能性。",
+        "requestId": "devshard-28289-2690",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 33,
+      "divergence": 35
+    },
+    {
+      "name": "Cody Gakpo",
+      "team": "NED",
+      "kimi": {
+        "probability2030": 65,
+        "reasoning": "31岁前锋处于竞技期末期但仍可保持高水平，利物浦平台与丰富国家队经验有利，但需面对伤病与新生代竞争，入选概率中等偏上。",
+        "requestId": "devshard-28257-152",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 75,
+        "reasoning": "31岁仍处于前锋黄金期，效力顶级俱乐部，经验丰富且状态保持良好，国家队竞争激烈但仍有主力位置，预计入选概率较高。",
+        "requestId": "devshard-28289-2760",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 70,
+      "divergence": 10
+    },
+    {
+      "name": "Mats Wieffer",
+      "team": "NED",
+      "kimi": {
+        "probability2030": 45,
+        "reasoning": "31岁对防守型球员尚处合理区间，但荷兰中场人才储备丰厚，且其当前国家队资历较浅，六年间需持续保持英超主力水准并抵御新生代冲击，不确定性较高。",
+        "requestId": "devshard-28257-153",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 65,
+        "reasoning": "31岁仍属后卫黄金期，俱乐部水平稳定，国家队经验丰富，但竞争激烈，预计约65%入选。",
+        "requestId": "devshard-28289-2862",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 55,
+      "divergence": 20
+    },
+    {
+      "name": "Robin Roefs",
+      "team": "NED",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "门将巅峰期长，27岁正值黄金年龄，但仅1次国家队出场且荷兰门将竞争激烈（如弗莱肯、维尔布鲁根），需在英超持续证明自己才能入选。",
+        "requestId": "devshard-28257-154",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "27岁门将正值巅峰，效力英超桑德兰具备竞争力，但荷兰门将竞争激烈且目前仅一次出场，仍有不确定性，预计约30%概率进入2030名单。",
+        "requestId": "devshard-28261-6263",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 43,
+      "divergence": 15
+    },
+    {
+      "name": "Tijjani Reijnders",
+      "team": "NED",
+      "kimi": {
+        "probability2030": 55,
+        "reasoning": "32岁中场处于竞技期末期但尚可一战，曼城顶级平台有助维持状态，然国家队中场竞争激烈且体能下滑风险大，32场经验具备但非绝对主力，入选概率中等。",
+        "requestId": "devshard-28254-244",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "若保持健康且在曼城保持主力位置，32岁中场仍具竞争力，但新生代竞争激烈，入选概率约40%。",
+        "requestId": "devshard-28289-2926",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 53,
+      "divergence": 5
+    },
+    {
+      "name": "Micky van de Ven",
+      "team": "NED",
+      "kimi": {
+        "probability2030": 72,
+        "reasoning": "29岁正值中卫巅峰期，英超高水平赛事保持竞技状态，现有21场国家队经验且特点鲜明，若无重大伤病仍具竞争力。",
+        "requestId": "devshard-28257-158",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 85,
+        "reasoning": "作为中卫，29岁仍处于巅峰期，已在顶级联赛效力，国家队已有21次出场，只要保持健康和状态，入选概率较高。",
+        "requestId": "devshard-28279-4028",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 79,
+      "divergence": 13
+    },
+    {
+      "name": "Guus Til",
+      "team": "NED",
+      "kimi": {
+        "probability2030": 15,
+        "reasoning": "33岁中场已过巅峰，且国家队仅7场边缘角色，荷甲竞争力有限，易被新生代取代。",
+        "requestId": "devshard-28254-245",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "33岁中场，状态保持良好且在PSV有稳定出场，但国家队经验有限且竞争激烈，2030年仍有入选可能但概率不大。",
+        "requestId": "devshard-28279-4045",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 33,
+      "divergence": 35
+    },
+    {
+      "name": "Noa Lang",
+      "team": "NED",
+      "kimi": {
+        "probability2030": 25,
+        "reasoning": "31岁前锋处于下滑期，土超竞争力不足；国家队仅15场边缘角色，荷兰前场人才济济，难保席位。",
+        "requestId": "devshard-28254-246",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "31岁前锋，状态稳定但竞争激烈，入选概率约30%",
+        "requestId": "devshard-28286-5233",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 38,
+      "divergence": 25
+    },
+    {
+      "name": "Donyell Malen",
+      "team": "NED",
+      "kimi": {
+        "probability2030": 45,
+        "reasoning": "31岁前锋处于巅峰末期，意甲竞技水平可维持状态，但荷兰锋线竞争激烈且届时体能或下滑，53场国家队经验是优势但非保障。",
+        "requestId": "devshard-28257-164",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "31岁的前锋仍有可能保持状态，但竞争激烈且年龄下滑风险较大，预计仍有约三成机会入选。",
+        "requestId": "devshard-28289-3089",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 48,
+      "divergence": 5
+    },
+    {
+      "name": "Teun Koopmeiners",
+      "team": "NED",
+      "kimi": {
+        "probability2030": 45,
+        "reasoning": "32岁中场处于竞技生涯后期，虽效力尤文且具备多面手属性，但荷兰中场人才储备丰厚，六年后状态与伤病风险难以保证，概率中等偏低。",
+        "requestId": "devshard-28254-251",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "32岁中场仍可能在国家队，但竞争激烈且状态伤病不确定，预计入选概率约30%",
+        "requestId": "devshard-28261-6556",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 48,
+      "divergence": 5
+    },
+    {
+      "name": "Frenkie de Jong",
+      "team": "NED",
+      "kimi": {
+        "probability2030": 45,
+        "reasoning": "2030年33岁对中场属合理下滑期，虽具丰富经验且技术型球员衰退较慢，但荷兰中场竞争激烈，届时状态与伤病存变数，大概率边缘或替补角色。",
+        "requestId": "devshard-28257-168",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 75,
+        "reasoning": "中场球员常能踢至35岁，33岁仍处竞技期，若保持健康和状态，入选可能性较高。",
+        "requestId": "devshard-28286-5585",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 60,
+      "divergence": 30
+    },
+    {
+      "name": "Denzel Dumfries",
+      "team": "NED",
+      "kimi": {
+        "probability2030": 25,
+        "reasoning": "边翼卫对体能要求极高，34岁通常已过巅峰；虽经验丰富且效力顶级俱乐部，但6年间荷兰新生代将崛起，老将难保主力位置，入选概率偏低。",
+        "requestId": "devshard-28254-252",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "右后卫职业生涯长，34岁仍可保持高水平；目前在国米主力，经验丰富；但年轻球员竞争激烈，仍有约六成入选可能。",
+        "requestId": "devshard-28279-4307",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 38,
+      "divergence": 25
+    },
+    {
+      "name": "Mark Flekken",
+      "team": "NED",
+      "kimi": {
+        "probability2030": 15,
+        "reasoning": "门将生涯虽长，但37岁已处下滑期；国家队仅12场非绝对主力，2030年荷兰将有更年轻门将处于巅峰，竞争难度大。",
+        "requestId": "devshard-28257-170",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "37岁门将仍有竞争力，但荷兰已有更年轻主力，Flekken的年龄和状态是关键。若保持主力位置并保持健康，仍有约三成入选可能。",
+        "requestId": "devshard-28279-4381",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 33,
+      "divergence": 35
+    },
+    {
+      "name": "Crysencio Summerville",
+      "team": "NED",
+      "kimi": {
+        "probability2030": 35,
+        "reasoning": "29岁对前锋仍处合理区间，英超平台优质；但目前国家队资历极浅仅2场，需在未来六年持续爆发才能竞争荷兰锋线席位，不确定性高。",
+        "requestId": "devshard-28254-254",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "29岁仍处前锋黄金期，若在英超保持主力并获更多国家队出场，仍有入选机会，但荷兰前锋竞争激烈，概率约三成。",
+        "requestId": "devshard-28286-5808",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 43,
+      "divergence": 15
+    },
+    {
+      "name": "Jorrel Hato",
+      "team": "NED",
+      "kimi": {
+        "probability2030": 78,
+        "reasoning": "24岁正值后卫黄金年龄，效力英超豪门且已有国家队资历，6年后大概率成为防线中坚力量。但伤病与竞争存在不确定性。",
+        "requestId": "devshard-28257-174",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 85,
+        "reasoning": "24岁正值后卫巅峰年龄，效力切尔西顶级联赛，已获8次国家队出场，状态稳定的情况下，入选2030世界杯大名单的概率较高。",
+        "requestId": "devshard-28274-7161",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 82,
+      "divergence": 7
+    },
+    {
+      "name": "Quinten Timber",
+      "team": "NED",
+      "kimi": {
+        "probability2030": 55,
+        "reasoning": "29岁正值中场巅峰，法甲马赛平台足够；但目前国家队资历尚浅，五年间需持续进步并面临荷兰中场激烈竞争，不确定性较大。",
+        "requestId": "devshard-28257-177",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "29岁中场仍处巅峰期，Marseille表现稳健，国家队已有11场经验，但荷兰中场竞争激烈，保持状态和避免伤病是关键。",
+        "requestId": "devshard-28261-6790",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 53,
+      "divergence": 5
+    },
+    {
+      "name": "Pedro Neto",
+      "team": "POR",
+      "kimi": {
+        "probability2030": 45,
+        "reasoning": "30岁前锋仍处合理区间，但伤病史较多且葡萄牙前场人才济济，需保持健康与状态才能竞争席位。",
+        "requestId": "devshard-28257-116",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 45,
+        "reasoning": "Pedro Neto 30岁仍处前锋黄金期，切尔西保持高水平，葡萄牙锋线竞争激烈且进球率偏低，保持状态和伤病管理是关键，入选概率约45%。",
+        "requestId": "devshard-28288-2615",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 45,
+      "divergence": 0
+    }
+  ],
+  "teams": [
+    {
+      "team": "ARG",
+      "newcomers": [
+        {
+          "name": "Franco Mastantuono",
+          "position": "MF",
+          "note": "[模型推断] 河床16岁天才中场，脚法出众已引皇马关注，2030年正值当打之年。",
+          "requestId": "devshard-28024-152",
+          "model": "moonshotai/Kimi-K2.6"
+        },
+        {
+          "name": "Claudio Echeverri",
+          "position": "MF",
+          "note": "[模型推断] 曼城已签下的河床新星，前场创造力强，预计2026后逐步上位。",
+          "requestId": "devshard-28024-152",
+          "model": "moonshotai/Kimi-K2.6"
+        },
+        {
+          "name": "Valentín Carboni",
+          "position": "MF",
+          "note": "[模型推断] 国米外租攻击中场，技术细腻，若持续成长可成中场新核。",
+          "requestId": "devshard-28024-152",
+          "model": "moonshotai/Kimi-K2.6"
+        }
+      ]
+    },
+    {
+      "team": "FRA",
+      "newcomers": [
+        {
+          "name": "Leny Yoro",
+          "position": "DF",
+          "note": "[模型推断] 曼联18岁中卫，身体素质与出球能力顶尖，四年后正值中卫黄金上升期，有望接班法国队防线。",
+          "requestId": "devshard-28024-198",
+          "model": "moonshotai/Kimi-K2.6"
+        },
+        {
+          "name": "Mathys Tel",
+          "position": "FW",
+          "note": "[模型推断] 拜仁锋线新星，爆发力强且左右脚均衡，至2030年将积累顶级联赛经验，竞争边路或中锋席位。",
+          "requestId": "devshard-28024-198",
+          "model": "moonshotai/Kimi-K2.6"
+        },
+        {
+          "name": "Lucas Gourna-Douath",
+          "position": "MF",
+          "note": "[模型推断] 萨尔茨堡红牛防守型中场，拦截覆盖出色，风格契合法国队中场需求，有望成长为坎特式屏障。",
+          "requestId": "devshard-28024-198",
+          "model": "moonshotai/Kimi-K2.6"
+        }
+      ]
+    },
+    {
+      "team": "ENG",
+      "newcomers": [
+        {
+          "name": "Archie Gray",
+          "position": "MF",
+          "note": "[模型推断] 热刺多面手，17岁已展现顶级中场潜质，四年后将成熟为国家队常客。",
+          "requestId": "devshard-28024-256",
+          "model": "moonshotai/Kimi-K2.6"
+        },
+        {
+          "name": "Jobe Bellingham",
+          "position": "MF",
+          "note": "[模型推断] 桑德兰中场核心，兄长光环下稳步成长，2030年有望凭实力入选中场。",
+          "requestId": "devshard-28024-256",
+          "model": "moonshotai/Kimi-K2.6"
+        },
+        {
+          "name": "Ethan Nwaneri",
+          "position": "FW",
+          "note": "[模型推断] 阿森纳天才攻击手，17岁即破英超最年轻出场纪录，前景被广泛看好。",
+          "requestId": "devshard-28024-256",
+          "model": "moonshotai/Kimi-K2.6"
+        }
+      ]
+    },
+    {
+      "team": "BRA",
+      "newcomers": [
+        {
+          "name": "Estevão Willian",
+          "position": "FW",
+          "note": "[模型推断] 帕尔梅拉斯天才边锋，突破犀利，2030年将处于黄金上升期，可接班边路进攻。",
+          "requestId": "devshard-28024-333",
+          "model": "moonshotai/Kimi-K2.6"
+        },
+        {
+          "name": "Luis Guilherme",
+          "position": "MF",
+          "note": "[模型推断] 西汉姆联巴西新星，盘带与创造力出众，中场技术型踢法契合巴西传统。",
+          "requestId": "devshard-28024-333",
+          "model": "moonshotai/Kimi-K2.6"
+        },
+        {
+          "name": "Vitor Reis",
+          "position": "DF",
+          "note": "[模型推断] 曼城签下的年轻中卫，出球与拦截兼备，有望成长为后防核心级人物。",
+          "requestId": "devshard-28024-333",
+          "model": "moonshotai/Kimi-K2.6"
+        }
+      ]
+    },
+    {
+      "team": "ESP",
+      "newcomers": [
+        {
+          "name": "Hugo Álvarez",
+          "position": "DF",
+          "note": "[模型推断] 塞尔塔左路新星，爆发力与传中俱佳，有望接班格里马尔多。",
+          "requestId": "devshard-28006-387",
+          "model": "moonshotai/Kimi-K2.6"
+        },
+        {
+          "name": "Assane Diao",
+          "position": "FW",
+          "note": "[模型推断] 拉齐奥边路快马，突破犀利，可补充西班牙边锋深度。",
+          "requestId": "devshard-28006-387",
+          "model": "moonshotai/Kimi-K2.6"
+        },
+        {
+          "name": "Pau Prim",
+          "position": "MF",
+          "note": "[模型推断] 拉玛西亚后腰节拍器，传控视野出众，适合西班牙传统体系。",
+          "requestId": "devshard-28006-387",
+          "model": "moonshotai/Kimi-K2.6"
+        }
+      ]
+    },
+    {
+      "team": "GER",
+      "newcomers": [
+        {
+          "name": "Noah Darvich",
+          "position": "MF",
+          "note": "[模型推断] 巴萨青训攻击中场，技术细腻创造力强，预计2028年后逐步进入国家队轮换。",
+          "requestId": "devshard-28222-82",
+          "model": "moonshotai/Kimi-K2.6"
+        },
+        {
+          "name": "Youssoufa Moukoko",
+          "position": "FW",
+          "note": "[模型推断] 虽曾入选成年队但不在2026名单，2030年正值巅峰，德甲经验丰富有望回归。",
+          "requestId": "devshard-28222-82",
+          "model": "moonshotai/Kimi-K2.6"
+        },
+        {
+          "name": "Lennart Karl",
+          "position": "DF",
+          "note": "[模型推断] 德国U21主力中卫，出球能力突出，有望在老一代后卫淡出后上位。",
+          "requestId": "devshard-28222-82",
+          "model": "moonshotai/Kimi-K2.6"
+        }
+      ]
+    },
+    {
+      "team": "JPN",
+      "newcomers": [
+        {
+          "name": "Kota Takai",
+          "position": "DF",
+          "note": "[模型推断] 川崎前锋19岁中卫，身体模型出色，J联赛已站稳主力，2030年正值当打之年可接班吉田麻也式角色。",
+          "requestId": "devshard-28224-148",
+          "model": "moonshotai/Kimi-K2.6"
+        },
+        {
+          "name": "Tatsuki Seko",
+          "position": "MF",
+          "note": "[模型推断] 川崎中场核心，传控与推进能力突出，森保一体系下符合技术型后腰需求，有望接班守田英正。",
+          "requestId": "devshard-28224-148",
+          "model": "moonshotai/Kimi-K2.6"
+        },
+        {
+          "name": "Shio Fukuda",
+          "position": "FW",
+          "note": "[模型推断] 门兴格拉德巴赫前锋，旅欧攻击手，盘带射门俱佳，2030年有望成长为锋线新爆点。",
+          "requestId": "devshard-28224-148",
+          "model": "moonshotai/Kimi-K2.6"
+        }
+      ]
+    },
+    {
+      "team": "MAR",
+      "newcomers": [
+        {
+          "name": "Salim El Jebari",
+          "position": "FW",
+          "note": "[模型推断] 马竞青训锋线新星，射术与跑位出众，2030年正值当打之年。",
+          "requestId": "devshard-28254-140",
+          "model": "moonshotai/Kimi-K2.6"
+        },
+        {
+          "name": "Ayoub Amraoui",
+          "position": "DF",
+          "note": "[模型推断] 摩洛哥裔年轻边卫，身体素质佳，可补充左路防线深度。",
+          "requestId": "devshard-28254-140",
+          "model": "moonshotai/Kimi-K2.6"
+        },
+        {
+          "name": "Ayman Arguigue",
+          "position": "MF",
+          "note": "[模型推断] 法甲青训中场组织者，传控视野佳，有望接班核心位置。",
+          "requestId": "devshard-28254-140",
+          "model": "moonshotai/Kimi-K2.6"
+        }
+      ]
+    },
+    {
+      "team": "POR",
+      "newcomers": [
+        {
+          "name": "Geovany Quenda",
+          "position": "FW",
+          "note": "[模型推断] 本菲卡超新星，边路爆破能力突出，2030年正值当打之年，极大概率锁定主力边锋位置。",
+          "requestId": "devshard-28254-222",
+          "model": "moonshotai/Kimi-K2.6"
+        },
+        {
+          "name": "Rodrigo Mora",
+          "position": "MF",
+          "note": "[模型推断] 波尔图中场新星，控球与推进能力俱佳，有望接班B费成为葡萄牙中场新核心。",
+          "requestId": "devshard-28254-222",
+          "model": "moonshotai/Kimi-K2.6"
+        },
+        {
+          "name": "Diogo Spencer",
+          "position": "GK",
+          "note": "[模型推断] 葡萄牙新一代门将代表，若奥·科斯塔之后最被看好的葡超年轻国门竞争者。",
+          "requestId": "devshard-28254-222",
+          "model": "moonshotai/Kimi-K2.6"
+        }
+      ]
+    },
+    {
+      "team": "NED",
+      "newcomers": [
+        {
+          "name": "Jaden Slory",
+          "position": "FW",
+          "note": "[模型推断] 费耶诺德边路快马，荷甲突破数据亮眼，2030年正值当打之年。",
+          "requestId": "devshard-28257-179",
+          "model": "moonshotai/Kimi-K2.6"
+        },
+        {
+          "name": "Shaqueel van Persie",
+          "position": "FW",
+          "note": "[模型推断] 范佩西之子，曼城青训前锋，技术全面，有望继承父亲橙衣衣钵。",
+          "requestId": "devshard-28257-179",
+          "model": "moonshotai/Kimi-K2.6"
+        },
+        {
+          "name": "Mylan Flick",
+          "position": "DF",
+          "note": "[模型推断] 阿贾克斯新生代中卫，出球能力出色，可接班范戴克成为后防核心。",
+          "requestId": "devshard-28257-179",
+          "model": "moonshotai/Kimi-K2.6"
+        }
+      ]
+    }
+  ]
+}
