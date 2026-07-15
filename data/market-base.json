@@ -1,0 +1,8741 @@
+{
+  "generatedAt": "2026-07-15T08:57:10.102Z",
+  "entries": {
+    "ARG::juan-musso": {
+      "slug": "juan-musso",
+      "team": "ARG",
+      "base": 0.25,
+      "prob": 25,
+      "source": "model"
+    },
+    "ARG::marcos-senesi": {
+      "slug": "marcos-senesi",
+      "team": "ARG",
+      "base": 0.08,
+      "prob": 8,
+      "source": "model"
+    },
+    "ARG::nicolas-tagliafico": {
+      "slug": "nicolas-tagliafico",
+      "team": "ARG",
+      "base": 0.28,
+      "prob": 28,
+      "source": "model"
+    },
+    "ARG::gonzalo-montiel": {
+      "slug": "gonzalo-montiel",
+      "team": "ARG",
+      "base": 0.38,
+      "prob": 38,
+      "source": "model"
+    },
+    "ARG::leandro-paredes": {
+      "slug": "leandro-paredes",
+      "team": "ARG",
+      "base": 0.28,
+      "prob": 28,
+      "source": "model"
+    },
+    "ARG::lisandro-martinez": {
+      "slug": "lisandro-martinez",
+      "team": "ARG",
+      "base": 0.48,
+      "prob": 48,
+      "source": "model"
+    },
+    "ARG::rodrigo-de-paul": {
+      "slug": "rodrigo-de-paul",
+      "team": "ARG",
+      "base": 0.33,
+      "prob": 33,
+      "source": "model"
+    },
+    "ARG::valentin-barco": {
+      "slug": "valentin-barco",
+      "team": "ARG",
+      "base": 0.53,
+      "prob": 53,
+      "source": "model"
+    },
+    "ARG::julian-alvarez": {
+      "slug": "julian-alvarez",
+      "team": "ARG",
+      "base": 0.66,
+      "prob": 66,
+      "source": "model"
+    },
+    "ARG::lionel-messi": {
+      "slug": "lionel-messi",
+      "team": "ARG",
+      "base": 0.28,
+      "prob": 28,
+      "source": "model"
+    },
+    "ARG::giovani-lo-celso": {
+      "slug": "giovani-lo-celso",
+      "team": "ARG",
+      "base": 0.28,
+      "prob": 28,
+      "source": "model"
+    },
+    "ARG::geronimo-rulli": {
+      "slug": "geronimo-rulli",
+      "team": "ARG",
+      "base": 0.33,
+      "prob": 33,
+      "source": "model"
+    },
+    "ARG::cristian-romero": {
+      "slug": "cristian-romero",
+      "team": "ARG",
+      "base": 0.61,
+      "prob": 61,
+      "source": "model"
+    },
+    "ARG::exequiel-palacios": {
+      "slug": "exequiel-palacios",
+      "team": "ARG",
+      "base": 0.4,
+      "prob": 40,
+      "source": "model"
+    },
+    "ARG::nicolas-gonzalez": {
+      "slug": "nicolas-gonzalez",
+      "team": "ARG",
+      "base": 0.35,
+      "prob": 35,
+      "source": "model"
+    },
+    "ARG::thiago-almada": {
+      "slug": "thiago-almada",
+      "team": "ARG",
+      "base": 0.58,
+      "prob": 58,
+      "source": "model"
+    },
+    "ARG::giuliano-simeone": {
+      "slug": "giuliano-simeone",
+      "team": "ARG",
+      "base": 0.48,
+      "prob": 48,
+      "source": "model"
+    },
+    "ARG::nico-paz": {
+      "slug": "nico-paz",
+      "team": "ARG",
+      "base": 0.43,
+      "prob": 43,
+      "source": "model"
+    },
+    "ARG::nicolas-otamendi": {
+      "slug": "nicolas-otamendi",
+      "team": "ARG",
+      "base": 0.26,
+      "prob": 26,
+      "source": "model"
+    },
+    "ARG::alexis-mac-allister": {
+      "slug": "alexis-mac-allister",
+      "team": "ARG",
+      "base": 0.58,
+      "prob": 58,
+      "source": "model"
+    },
+    "ARG::jose-manuel-lopez": {
+      "slug": "jose-manuel-lopez",
+      "team": "ARG",
+      "base": 0.33,
+      "prob": 33,
+      "source": "model"
+    },
+    "ARG::lautaro-martinez": {
+      "slug": "lautaro-martinez",
+      "team": "ARG",
+      "base": 0.48,
+      "prob": 48,
+      "source": "model"
+    },
+    "ARG::emiliano-martinez": {
+      "slug": "emiliano-martinez",
+      "team": "ARG",
+      "base": 0.48,
+      "prob": 48,
+      "source": "model"
+    },
+    "ARG::enzo-fernandez": {
+      "slug": "enzo-fernandez",
+      "team": "ARG",
+      "base": 0.68,
+      "prob": 68,
+      "source": "model"
+    },
+    "ARG::facundo-medina": {
+      "slug": "facundo-medina",
+      "team": "ARG",
+      "base": 0.43,
+      "prob": 43,
+      "source": "model"
+    },
+    "ARG::nahuel-molina": {
+      "slug": "nahuel-molina",
+      "team": "ARG",
+      "base": 0.48,
+      "prob": 48,
+      "source": "model"
+    },
+    "FRA::brice-samba": {
+      "slug": "brice-samba",
+      "team": "FRA",
+      "base": 0.33,
+      "prob": 33,
+      "source": "model"
+    },
+    "FRA::malo-gusto": {
+      "slug": "malo-gusto",
+      "team": "FRA",
+      "base": 0.68,
+      "prob": 68,
+      "source": "model"
+    },
+    "FRA::lucas-digne": {
+      "slug": "lucas-digne",
+      "team": "FRA",
+      "base": 0.28,
+      "prob": 28,
+      "source": "model"
+    },
+    "FRA::dayot-upamecano": {
+      "slug": "dayot-upamecano",
+      "team": "FRA",
+      "base": 0.55,
+      "prob": 55,
+      "source": "model"
+    },
+    "FRA::jules-kounde": {
+      "slug": "jules-kounde",
+      "team": "FRA",
+      "base": 0.53,
+      "prob": 53,
+      "source": "model"
+    },
+    "FRA::manu-kone": {
+      "slug": "manu-kone",
+      "team": "FRA",
+      "base": 0.53,
+      "prob": 53,
+      "source": "model"
+    },
+    "FRA::ousmane-dembele": {
+      "slug": "ousmane-dembele",
+      "team": "FRA",
+      "base": 0.38,
+      "prob": 38,
+      "source": "model"
+    },
+    "FRA::aurelien-tchouameni": {
+      "slug": "aurelien-tchouameni",
+      "team": "FRA",
+      "base": 0.63,
+      "prob": 63,
+      "source": "model"
+    },
+    "FRA::marcus-thuram": {
+      "slug": "marcus-thuram",
+      "team": "FRA",
+      "base": 0.3,
+      "prob": 30,
+      "source": "model"
+    },
+    "FRA::kylian-mbappe": {
+      "slug": "kylian-mbappe",
+      "team": "FRA",
+      "base": 0.63,
+      "prob": 63,
+      "source": "model"
+    },
+    "FRA::michael-olise": {
+      "slug": "michael-olise",
+      "team": "FRA",
+      "base": 0.53,
+      "prob": 53,
+      "source": "model"
+    },
+    "FRA::bradley-barcola": {
+      "slug": "bradley-barcola",
+      "team": "FRA",
+      "base": 0.73,
+      "prob": 73,
+      "source": "model"
+    },
+    "FRA::ngolo-kante": {
+      "slug": "ngolo-kante",
+      "team": "FRA",
+      "base": 0.28,
+      "prob": 28,
+      "source": "model"
+    },
+    "FRA::adrien-rabiot": {
+      "slug": "adrien-rabiot",
+      "team": "FRA",
+      "base": 0.33,
+      "prob": 33,
+      "source": "model"
+    },
+    "FRA::ibrahima-konate": {
+      "slug": "ibrahima-konate",
+      "team": "FRA",
+      "base": 0.65,
+      "prob": 65,
+      "source": "model"
+    },
+    "FRA::mike-maignan": {
+      "slug": "mike-maignan",
+      "team": "FRA",
+      "base": 0.48,
+      "prob": 48,
+      "source": "model"
+    },
+    "FRA::william-saliba": {
+      "slug": "william-saliba",
+      "team": "FRA",
+      "base": 0.85,
+      "prob": 85,
+      "source": "model"
+    },
+    "FRA::warren-zaire-emery": {
+      "slug": "warren-zaire-emery",
+      "team": "FRA",
+      "base": 0.83,
+      "prob": 83,
+      "source": "model"
+    },
+    "FRA::theo-hernandez": {
+      "slug": "theo-hernandez",
+      "team": "FRA",
+      "base": 0.25,
+      "prob": 25,
+      "source": "model"
+    },
+    "FRA::desire-doue": {
+      "slug": "desire-doue",
+      "team": "FRA",
+      "base": 0.79,
+      "prob": 79,
+      "source": "model"
+    },
+    "FRA::lucas-hernandez": {
+      "slug": "lucas-hernandez",
+      "team": "FRA",
+      "base": 0.28,
+      "prob": 28,
+      "source": "model"
+    },
+    "FRA::jean-philippe-mateta": {
+      "slug": "jean-philippe-mateta",
+      "team": "FRA",
+      "base": 0.28,
+      "prob": 28,
+      "source": "model"
+    },
+    "FRA::robin-risser": {
+      "slug": "robin-risser",
+      "team": "FRA",
+      "base": 0.33,
+      "prob": 33,
+      "source": "model"
+    },
+    "FRA::rayan-cherki": {
+      "slug": "rayan-cherki",
+      "team": "FRA",
+      "base": 0.61,
+      "prob": 61,
+      "source": "model"
+    },
+    "FRA::maghnes-akliouche": {
+      "slug": "maghnes-akliouche",
+      "team": "FRA",
+      "base": 0.33,
+      "prob": 33,
+      "source": "model"
+    },
+    "FRA::maxence-lacroix": {
+      "slug": "maxence-lacroix",
+      "team": "FRA",
+      "base": 0.38,
+      "prob": 38,
+      "source": "model"
+    },
+    "ENG::jordan-pickford": {
+      "slug": "jordan-pickford",
+      "team": "ENG",
+      "base": 0.45,
+      "prob": 45,
+      "source": "model"
+    },
+    "ENG::ezri-konsa": {
+      "slug": "ezri-konsa",
+      "team": "ENG",
+      "base": 0.38,
+      "prob": 38,
+      "source": "model"
+    },
+    "ENG::nico-oreilly": {
+      "slug": "nico-oreilly",
+      "team": "ENG",
+      "base": 0.58,
+      "prob": 58,
+      "source": "model"
+    },
+    "ENG::declan-rice": {
+      "slug": "declan-rice",
+      "team": "ENG",
+      "base": 0.63,
+      "prob": 63,
+      "source": "model"
+    },
+    "ENG::john-stones": {
+      "slug": "john-stones",
+      "team": "ENG",
+      "base": 0.38,
+      "prob": 38,
+      "source": "model"
+    },
+    "ENG::marc-guehi": {
+      "slug": "marc-guehi",
+      "team": "ENG",
+      "base": 0.58,
+      "prob": 58,
+      "source": "model"
+    },
+    "ENG::bukayo-saka": {
+      "slug": "bukayo-saka",
+      "team": "ENG",
+      "base": 0.68,
+      "prob": 68,
+      "source": "model"
+    },
+    "ENG::elliot-anderson": {
+      "slug": "elliot-anderson",
+      "team": "ENG",
+      "base": 0.33,
+      "prob": 33,
+      "source": "model"
+    },
+    "ENG::harry-kane": {
+      "slug": "harry-kane",
+      "team": "ENG",
+      "base": 0.38,
+      "prob": 38,
+      "source": "model"
+    },
+    "ENG::jude-bellingham": {
+      "slug": "jude-bellingham",
+      "team": "ENG",
+      "base": 0.71,
+      "prob": 71,
+      "source": "model"
+    },
+    "ENG::marcus-rashford": {
+      "slug": "marcus-rashford",
+      "team": "ENG",
+      "base": 0.35,
+      "prob": 35,
+      "source": "model"
+    },
+    "ENG::trevoh-chalobah": {
+      "slug": "trevoh-chalobah",
+      "team": "ENG",
+      "base": 0.38,
+      "prob": 38,
+      "source": "model"
+    },
+    "ENG::dean-henderson": {
+      "slug": "dean-henderson",
+      "team": "ENG",
+      "base": 0.43,
+      "prob": 43,
+      "source": "model"
+    },
+    "ENG::jordan-henderson": {
+      "slug": "jordan-henderson",
+      "team": "ENG",
+      "base": 0.26,
+      "prob": 26,
+      "source": "model"
+    },
+    "ENG::dan-burn": {
+      "slug": "dan-burn",
+      "team": "ENG",
+      "base": 0.26,
+      "prob": 26,
+      "source": "model"
+    },
+    "ENG::kobbie-mainoo": {
+      "slug": "kobbie-mainoo",
+      "team": "ENG",
+      "base": 0.82,
+      "prob": 82,
+      "source": "model"
+    },
+    "ENG::morgan-rogers": {
+      "slug": "morgan-rogers",
+      "team": "ENG",
+      "base": 0.58,
+      "prob": 58,
+      "source": "model"
+    },
+    "ENG::anthony-gordon": {
+      "slug": "anthony-gordon",
+      "team": "ENG",
+      "base": 0.48,
+      "prob": 48,
+      "source": "model"
+    },
+    "ENG::ollie-watkins": {
+      "slug": "ollie-watkins",
+      "team": "ENG",
+      "base": 0.04,
+      "prob": 4,
+      "source": "model"
+    },
+    "ENG::noni-madueke": {
+      "slug": "noni-madueke",
+      "team": "ENG",
+      "base": 0.48,
+      "prob": 48,
+      "source": "model"
+    },
+    "ENG::eberechi-eze": {
+      "slug": "eberechi-eze",
+      "team": "ENG",
+      "base": 0.43,
+      "prob": 43,
+      "source": "model"
+    },
+    "ENG::ivan-toney": {
+      "slug": "ivan-toney",
+      "team": "ENG",
+      "base": 0.28,
+      "prob": 28,
+      "source": "model"
+    },
+    "ENG::james-trafford": {
+      "slug": "james-trafford",
+      "team": "ENG",
+      "base": 0.58,
+      "prob": 58,
+      "source": "model"
+    },
+    "ENG::reece-james": {
+      "slug": "reece-james",
+      "team": "ENG",
+      "base": 0.48,
+      "prob": 48,
+      "source": "model"
+    },
+    "ENG::djed-spence": {
+      "slug": "djed-spence",
+      "team": "ENG",
+      "base": 0.28,
+      "prob": 28,
+      "source": "model"
+    },
+    "ENG::jarell-quansah": {
+      "slug": "jarell-quansah",
+      "team": "ENG",
+      "base": 0.6,
+      "prob": 60,
+      "source": "model"
+    },
+    "BRA::alisson": {
+      "slug": "alisson",
+      "team": "BRA",
+      "base": 0.43,
+      "prob": 43,
+      "source": "model"
+    },
+    "BRA::ederson-silva": {
+      "slug": "ederson-silva",
+      "team": "BRA",
+      "base": 0.15,
+      "prob": 15,
+      "source": "model"
+    },
+    "BRA::gabriel-magalhaes": {
+      "slug": "gabriel-magalhaes",
+      "team": "BRA",
+      "base": 0.43,
+      "prob": 43,
+      "source": "model"
+    },
+    "BRA::marquinhos-capt": {
+      "slug": "marquinhos-capt",
+      "team": "BRA",
+      "base": 0.25,
+      "prob": 25,
+      "source": "model"
+    },
+    "BRA::casemiro": {
+      "slug": "casemiro",
+      "team": "BRA",
+      "base": 0.08,
+      "prob": 8,
+      "source": "model"
+    },
+    "BRA::alex-sandro": {
+      "slug": "alex-sandro",
+      "team": "BRA",
+      "base": 0.05,
+      "prob": 5,
+      "source": "model"
+    },
+    "BRA::vinicius-junior": {
+      "slug": "vinicius-junior",
+      "team": "BRA",
+      "base": 0.63,
+      "prob": 63,
+      "source": "model"
+    },
+    "BRA::bruno-guimaraes": {
+      "slug": "bruno-guimaraes",
+      "team": "BRA",
+      "base": 0.53,
+      "prob": 53,
+      "source": "model"
+    },
+    "BRA::matheus-cunha": {
+      "slug": "matheus-cunha",
+      "team": "BRA",
+      "base": 0.38,
+      "prob": 38,
+      "source": "model"
+    },
+    "BRA::neymar": {
+      "slug": "neymar",
+      "team": "BRA",
+      "base": 0.28,
+      "prob": 28,
+      "source": "model"
+    },
+    "BRA::raphinha": {
+      "slug": "raphinha",
+      "team": "BRA",
+      "base": 0.28,
+      "prob": 28,
+      "source": "model"
+    },
+    "BRA::weverton": {
+      "slug": "weverton",
+      "team": "BRA",
+      "base": 0.26,
+      "prob": 26,
+      "source": "model"
+    },
+    "BRA::danilo-luiz": {
+      "slug": "danilo-luiz",
+      "team": "BRA",
+      "base": 0.28,
+      "prob": 28,
+      "source": "model"
+    },
+    "BRA::bremer": {
+      "slug": "bremer",
+      "team": "BRA",
+      "base": 0.38,
+      "prob": 38,
+      "source": "model"
+    },
+    "BRA::leo-pereira": {
+      "slug": "leo-pereira",
+      "team": "BRA",
+      "base": 0.28,
+      "prob": 28,
+      "source": "model"
+    },
+    "BRA::douglas-santos": {
+      "slug": "douglas-santos",
+      "team": "BRA",
+      "base": 0.04,
+      "prob": 4,
+      "source": "model"
+    },
+    "BRA::fabinho": {
+      "slug": "fabinho",
+      "team": "BRA",
+      "base": 0.28,
+      "prob": 28,
+      "source": "model"
+    },
+    "BRA::danilo-santos": {
+      "slug": "danilo-santos",
+      "team": "BRA",
+      "base": 0.33,
+      "prob": 33,
+      "source": "model"
+    },
+    "BRA::endrick": {
+      "slug": "endrick",
+      "team": "BRA",
+      "base": 0.77,
+      "prob": 77,
+      "source": "model"
+    },
+    "BRA::lucas-paqueta": {
+      "slug": "lucas-paqueta",
+      "team": "BRA",
+      "base": 0.3,
+      "prob": 30,
+      "source": "model"
+    },
+    "BRA::luiz-henrique": {
+      "slug": "luiz-henrique",
+      "team": "BRA",
+      "base": 0.38,
+      "prob": 38,
+      "source": "model"
+    },
+    "BRA::gabriel-martinelli": {
+      "slug": "gabriel-martinelli",
+      "team": "BRA",
+      "base": 0.58,
+      "prob": 58,
+      "source": "model"
+    },
+    "BRA::ederson-moraes": {
+      "slug": "ederson-moraes",
+      "team": "BRA",
+      "base": 0.2,
+      "prob": 20,
+      "source": "model"
+    },
+    "BRA::roger-ibanez": {
+      "slug": "roger-ibanez",
+      "team": "BRA",
+      "base": 0.33,
+      "prob": 33,
+      "source": "model"
+    },
+    "BRA::igor-thiago": {
+      "slug": "igor-thiago",
+      "team": "BRA",
+      "base": 0.43,
+      "prob": 43,
+      "source": "model"
+    },
+    "BRA::rayan": {
+      "slug": "rayan",
+      "team": "BRA",
+      "base": 0.43,
+      "prob": 43,
+      "source": "model"
+    },
+    "ESP::david-raya": {
+      "slug": "david-raya",
+      "team": "ESP",
+      "base": 0.35,
+      "prob": 35,
+      "source": "model"
+    },
+    "ESP::marc-pubill": {
+      "slug": "marc-pubill",
+      "team": "ESP",
+      "base": 0.43,
+      "prob": 43,
+      "source": "model"
+    },
+    "ESP::alex-grimaldo": {
+      "slug": "alex-grimaldo",
+      "team": "ESP",
+      "base": 0.15,
+      "prob": 15,
+      "source": "model"
+    },
+    "ESP::eric-garcia": {
+      "slug": "eric-garcia",
+      "team": "ESP",
+      "base": 0.68,
+      "prob": 68,
+      "source": "model"
+    },
+    "ESP::marcos-llorente": {
+      "slug": "marcos-llorente",
+      "team": "ESP",
+      "base": 0.33,
+      "prob": 33,
+      "source": "model"
+    },
+    "ESP::mikel-merino": {
+      "slug": "mikel-merino",
+      "team": "ESP",
+      "base": 0.38,
+      "prob": 38,
+      "source": "model"
+    },
+    "ESP::ferran-torres": {
+      "slug": "ferran-torres",
+      "team": "ESP",
+      "base": 0.48,
+      "prob": 48,
+      "source": "model"
+    },
+    "ESP::fabian-ruiz": {
+      "slug": "fabian-ruiz",
+      "team": "ESP",
+      "base": 0.33,
+      "prob": 33,
+      "source": "model"
+    },
+    "ESP::gavi": {
+      "slug": "gavi",
+      "team": "ESP",
+      "base": 0.78,
+      "prob": 78,
+      "source": "model"
+    },
+    "ESP::dani-olmo": {
+      "slug": "dani-olmo",
+      "team": "ESP",
+      "base": 0.48,
+      "prob": 48,
+      "source": "model"
+    },
+    "ESP::yeremy-pino": {
+      "slug": "yeremy-pino",
+      "team": "ESP",
+      "base": 0.53,
+      "prob": 53,
+      "source": "model"
+    },
+    "ESP::pedro-porro": {
+      "slug": "pedro-porro",
+      "team": "ESP",
+      "base": 0.43,
+      "prob": 43,
+      "source": "model"
+    },
+    "ESP::joan-garcia": {
+      "slug": "joan-garcia",
+      "team": "ESP",
+      "base": 0.48,
+      "prob": 48,
+      "source": "model"
+    },
+    "ESP::aymeric-laporte": {
+      "slug": "aymeric-laporte",
+      "team": "ESP",
+      "base": 0.33,
+      "prob": 33,
+      "source": "model"
+    },
+    "ESP::alex-baena": {
+      "slug": "alex-baena",
+      "team": "ESP",
+      "base": 0.65,
+      "prob": 65,
+      "source": "model"
+    },
+    "ESP::rodri": {
+      "slug": "rodri",
+      "team": "ESP",
+      "base": 0.43,
+      "prob": 43,
+      "source": "model"
+    },
+    "ESP::nico-williams": {
+      "slug": "nico-williams",
+      "team": "ESP",
+      "base": 0.58,
+      "prob": 58,
+      "source": "model"
+    },
+    "ESP::martin-zubimendi": {
+      "slug": "martin-zubimendi",
+      "team": "ESP",
+      "base": 0.58,
+      "prob": 58,
+      "source": "model"
+    },
+    "ESP::lamine-yamal": {
+      "slug": "lamine-yamal",
+      "team": "ESP",
+      "base": 0.71,
+      "prob": 71,
+      "source": "model"
+    },
+    "ESP::pedri": {
+      "slug": "pedri",
+      "team": "ESP",
+      "base": 0.7,
+      "prob": 70,
+      "source": "model"
+    },
+    "ESP::mikel-oyarzabal": {
+      "slug": "mikel-oyarzabal",
+      "team": "ESP",
+      "base": 0.28,
+      "prob": 28,
+      "source": "model"
+    },
+    "ESP::pau-cubarsi": {
+      "slug": "pau-cubarsi",
+      "team": "ESP",
+      "base": 0.68,
+      "prob": 68,
+      "source": "model"
+    },
+    "ESP::unai-simon": {
+      "slug": "unai-simon",
+      "team": "ESP",
+      "base": 0.61,
+      "prob": 61,
+      "source": "model"
+    },
+    "ESP::marc-cucurella": {
+      "slug": "marc-cucurella",
+      "team": "ESP",
+      "base": 0.35,
+      "prob": 35,
+      "source": "model"
+    },
+    "ESP::victor-munoz": {
+      "slug": "victor-munoz",
+      "team": "ESP",
+      "base": 0.38,
+      "prob": 38,
+      "source": "model"
+    },
+    "ESP::borja-iglesias": {
+      "slug": "borja-iglesias",
+      "team": "ESP",
+      "base": 0.26,
+      "prob": 26,
+      "source": "model"
+    },
+    "GER::manuel-neuer": {
+      "slug": "manuel-neuer",
+      "team": "GER",
+      "base": 0.26,
+      "prob": 26,
+      "source": "model"
+    },
+    "GER::antonio-rudiger": {
+      "slug": "antonio-rudiger",
+      "team": "GER",
+      "base": 0.33,
+      "prob": 33,
+      "source": "model"
+    },
+    "GER::waldemar-anton": {
+      "slug": "waldemar-anton",
+      "team": "GER",
+      "base": 0.38,
+      "prob": 38,
+      "source": "model"
+    },
+    "GER::jonathan-tah": {
+      "slug": "jonathan-tah",
+      "team": "GER",
+      "base": 0.35,
+      "prob": 35,
+      "source": "model"
+    },
+    "GER::aleksandar-pavlovic": {
+      "slug": "aleksandar-pavlovic",
+      "team": "GER",
+      "base": 0.77,
+      "prob": 77,
+      "source": "model"
+    },
+    "GER::joshua-kimmich": {
+      "slug": "joshua-kimmich",
+      "team": "GER",
+      "base": 0.38,
+      "prob": 38,
+      "source": "model"
+    },
+    "GER::kai-havertz": {
+      "slug": "kai-havertz",
+      "team": "GER",
+      "base": 0.58,
+      "prob": 58,
+      "source": "model"
+    },
+    "GER::leon-goretzka": {
+      "slug": "leon-goretzka",
+      "team": "GER",
+      "base": 0.2,
+      "prob": 20,
+      "source": "model"
+    },
+    "GER::jamie-leweling": {
+      "slug": "jamie-leweling",
+      "team": "GER",
+      "base": 0.43,
+      "prob": 43,
+      "source": "model"
+    },
+    "GER::jamal-musiala": {
+      "slug": "jamal-musiala",
+      "team": "GER",
+      "base": 0.71,
+      "prob": 71,
+      "source": "model"
+    },
+    "GER::nick-woltemade": {
+      "slug": "nick-woltemade",
+      "team": "GER",
+      "base": 0.66,
+      "prob": 66,
+      "source": "model"
+    },
+    "GER::oliver-baumann": {
+      "slug": "oliver-baumann",
+      "team": "GER",
+      "base": 0.26,
+      "prob": 26,
+      "source": "model"
+    },
+    "GER::pascal-gro": {
+      "slug": "pascal-gro",
+      "team": "GER",
+      "base": 0.26,
+      "prob": 26,
+      "source": "model"
+    },
+    "GER::maximilian-beier": {
+      "slug": "maximilian-beier",
+      "team": "GER",
+      "base": 0.58,
+      "prob": 58,
+      "source": "model"
+    },
+    "GER::nico-schlotterbeck": {
+      "slug": "nico-schlotterbeck",
+      "team": "GER",
+      "base": 0.53,
+      "prob": 53,
+      "source": "model"
+    },
+    "GER::angelo-stiller": {
+      "slug": "angelo-stiller",
+      "team": "GER",
+      "base": 0.53,
+      "prob": 53,
+      "source": "model"
+    },
+    "GER::florian-wirtz": {
+      "slug": "florian-wirtz",
+      "team": "GER",
+      "base": 0.71,
+      "prob": 71,
+      "source": "model"
+    },
+    "GER::nathaniel-brown": {
+      "slug": "nathaniel-brown",
+      "team": "GER",
+      "base": 0.5,
+      "prob": 50,
+      "source": "model"
+    },
+    "GER::leroy-sane": {
+      "slug": "leroy-sane",
+      "team": "GER",
+      "base": 0.33,
+      "prob": 33,
+      "source": "model"
+    },
+    "GER::nadiem-amiri": {
+      "slug": "nadiem-amiri",
+      "team": "GER",
+      "base": 0.28,
+      "prob": 28,
+      "source": "model"
+    },
+    "GER::alexander-nubel": {
+      "slug": "alexander-nubel",
+      "team": "GER",
+      "base": 0.43,
+      "prob": 43,
+      "source": "model"
+    },
+    "GER::david-raum": {
+      "slug": "david-raum",
+      "team": "GER",
+      "base": 0.43,
+      "prob": 43,
+      "source": "model"
+    },
+    "GER::felix-nmecha": {
+      "slug": "felix-nmecha",
+      "team": "GER",
+      "base": 0.48,
+      "prob": 48,
+      "source": "model"
+    },
+    "GER::malick-thiaw": {
+      "slug": "malick-thiaw",
+      "team": "GER",
+      "base": 0.48,
+      "prob": 48,
+      "source": "model"
+    },
+    "GER::assan-ouedraogo": {
+      "slug": "assan-ouedraogo",
+      "team": "GER",
+      "base": 0.58,
+      "prob": 58,
+      "source": "model"
+    },
+    "GER::deniz-undav": {
+      "slug": "deniz-undav",
+      "team": "GER",
+      "base": 0.2,
+      "prob": 20,
+      "source": "model"
+    },
+    "JPN::zion-suzuki": {
+      "slug": "zion-suzuki",
+      "team": "JPN",
+      "base": 0.61,
+      "prob": 61,
+      "source": "model"
+    },
+    "JPN::yukinari-sugawara": {
+      "slug": "yukinari-sugawara",
+      "team": "JPN",
+      "base": 0.58,
+      "prob": 58,
+      "source": "model"
+    },
+    "JPN::shogo-taniguchi": {
+      "slug": "shogo-taniguchi",
+      "team": "JPN",
+      "base": 0.28,
+      "prob": 28,
+      "source": "model"
+    },
+    "JPN::ko-itakura": {
+      "slug": "ko-itakura",
+      "team": "JPN",
+      "base": 0.58,
+      "prob": 58,
+      "source": "model"
+    },
+    "JPN::yuto-nagatomo": {
+      "slug": "yuto-nagatomo",
+      "team": "JPN",
+      "base": 0.25,
+      "prob": 25,
+      "source": "model"
+    },
+    "JPN::shuto-machino": {
+      "slug": "shuto-machino",
+      "team": "JPN",
+      "base": 0.43,
+      "prob": 43,
+      "source": "model"
+    },
+    "JPN::ao-tanaka": {
+      "slug": "ao-tanaka",
+      "team": "JPN",
+      "base": 0.38,
+      "prob": 38,
+      "source": "model"
+    },
+    "JPN::takefusa-kubo": {
+      "slug": "takefusa-kubo",
+      "team": "JPN",
+      "base": 0.79,
+      "prob": 79,
+      "source": "model"
+    },
+    "JPN::keisuke-goto": {
+      "slug": "keisuke-goto",
+      "team": "JPN",
+      "base": 0.48,
+      "prob": 48,
+      "source": "model"
+    },
+    "JPN::ritsu-doan": {
+      "slug": "ritsu-doan",
+      "team": "JPN",
+      "base": 0.48,
+      "prob": 48,
+      "source": "model"
+    },
+    "JPN::daizen-maeda": {
+      "slug": "daizen-maeda",
+      "team": "JPN",
+      "base": 0.33,
+      "prob": 33,
+      "source": "model"
+    },
+    "JPN::keisuke-osako": {
+      "slug": "keisuke-osako",
+      "team": "JPN",
+      "base": 0.48,
+      "prob": 48,
+      "source": "model"
+    },
+    "JPN::keito-nakamura": {
+      "slug": "keito-nakamura",
+      "team": "JPN",
+      "base": 0.48,
+      "prob": 48,
+      "source": "model"
+    },
+    "JPN::junya-ito": {
+      "slug": "junya-ito",
+      "team": "JPN",
+      "base": 0.07,
+      "prob": 7,
+      "source": "model"
+    },
+    "JPN::daichi-kamada": {
+      "slug": "daichi-kamada",
+      "team": "JPN",
+      "base": 0.43,
+      "prob": 43,
+      "source": "model"
+    },
+    "JPN::tsuyoshi-watanabe": {
+      "slug": "tsuyoshi-watanabe",
+      "team": "JPN",
+      "base": 0.23,
+      "prob": 23,
+      "source": "model"
+    },
+    "JPN::yuito-suzuki": {
+      "slug": "yuito-suzuki",
+      "team": "JPN",
+      "base": 0.43,
+      "prob": 43,
+      "source": "model"
+    },
+    "JPN::ayase-ueda": {
+      "slug": "ayase-ueda",
+      "team": "JPN",
+      "base": 0.43,
+      "prob": 43,
+      "source": "model"
+    },
+    "JPN::koki-ogawa": {
+      "slug": "koki-ogawa",
+      "team": "JPN",
+      "base": 0.38,
+      "prob": 38,
+      "source": "model"
+    },
+    "JPN::ayumu-seko": {
+      "slug": "ayumu-seko",
+      "team": "JPN",
+      "base": 0.43,
+      "prob": 43,
+      "source": "model"
+    },
+    "JPN::hiroki-ito": {
+      "slug": "hiroki-ito",
+      "team": "JPN",
+      "base": 0.58,
+      "prob": 58,
+      "source": "model"
+    },
+    "JPN::takehiro-tomiyasu": {
+      "slug": "takehiro-tomiyasu",
+      "team": "JPN",
+      "base": 0.48,
+      "prob": 48,
+      "source": "model"
+    },
+    "JPN::tomoki-hayakawa": {
+      "slug": "tomoki-hayakawa",
+      "team": "JPN",
+      "base": 0.38,
+      "prob": 38,
+      "source": "model"
+    },
+    "JPN::kaishu-sano": {
+      "slug": "kaishu-sano",
+      "team": "JPN",
+      "base": 0.48,
+      "prob": 48,
+      "source": "model"
+    },
+    "JPN::junnosuke-suzuki": {
+      "slug": "junnosuke-suzuki",
+      "team": "JPN",
+      "base": 0.4,
+      "prob": 40,
+      "source": "model"
+    },
+    "JPN::kento-shiogai": {
+      "slug": "kento-shiogai",
+      "team": "JPN",
+      "base": 0.48,
+      "prob": 48,
+      "source": "model"
+    },
+    "MAR::yassine-bounou": {
+      "slug": "yassine-bounou",
+      "team": "MAR",
+      "base": 0.3,
+      "prob": 30,
+      "source": "model"
+    },
+    "MAR::achraf-hakimi": {
+      "slug": "achraf-hakimi",
+      "team": "MAR",
+      "base": 0.78,
+      "prob": 78,
+      "source": "model"
+    },
+    "MAR::noussair-mazraoui": {
+      "slug": "noussair-mazraoui",
+      "team": "MAR",
+      "base": 0.4,
+      "prob": 40,
+      "source": "model"
+    },
+    "MAR::sofyan-amrabat": {
+      "slug": "sofyan-amrabat",
+      "team": "MAR",
+      "base": 0.33,
+      "prob": 33,
+      "source": "model"
+    },
+    "MAR::marwane-saadane": {
+      "slug": "marwane-saadane",
+      "team": "MAR",
+      "base": 0.26,
+      "prob": 26,
+      "source": "model"
+    },
+    "MAR::ayyoub-bouaddi": {
+      "slug": "ayyoub-bouaddi",
+      "team": "MAR",
+      "base": 0.61,
+      "prob": 61,
+      "source": "model"
+    },
+    "MAR::chemsdine-talbi": {
+      "slug": "chemsdine-talbi",
+      "team": "MAR",
+      "base": 0.48,
+      "prob": 48,
+      "source": "model"
+    },
+    "MAR::azzedine-ounahi": {
+      "slug": "azzedine-ounahi",
+      "team": "MAR",
+      "base": 0.58,
+      "prob": 58,
+      "source": "model"
+    },
+    "MAR::soufiane-rahimi": {
+      "slug": "soufiane-rahimi",
+      "team": "MAR",
+      "base": 0.33,
+      "prob": 33,
+      "source": "model"
+    },
+    "MAR::brahim-diaz": {
+      "slug": "brahim-diaz",
+      "team": "MAR",
+      "base": 0.71,
+      "prob": 71,
+      "source": "model"
+    },
+    "MAR::ismael-saibari": {
+      "slug": "ismael-saibari",
+      "team": "MAR",
+      "base": 0.63,
+      "prob": 63,
+      "source": "model"
+    },
+    "MAR::munir-mohamedi": {
+      "slug": "munir-mohamedi",
+      "team": "MAR",
+      "base": 0.28,
+      "prob": 28,
+      "source": "model"
+    },
+    "MAR::zakaria-el-ouahdi": {
+      "slug": "zakaria-el-ouahdi",
+      "team": "MAR",
+      "base": 0.35,
+      "prob": 35,
+      "source": "model"
+    },
+    "MAR::issa-diop": {
+      "slug": "issa-diop",
+      "team": "MAR",
+      "base": 0.33,
+      "prob": 33,
+      "source": "model"
+    },
+    "MAR::samir-el-mourabet": {
+      "slug": "samir-el-mourabet",
+      "team": "MAR",
+      "base": 0.58,
+      "prob": 58,
+      "source": "model"
+    },
+    "MAR::gessime-yassine": {
+      "slug": "gessime-yassine",
+      "team": "MAR",
+      "base": 0.53,
+      "prob": 53,
+      "source": "model"
+    },
+    "MAR::amine-sbai": {
+      "slug": "amine-sbai",
+      "team": "MAR",
+      "base": 0.33,
+      "prob": 33,
+      "source": "model"
+    },
+    "MAR::chadi-riad": {
+      "slug": "chadi-riad",
+      "team": "MAR",
+      "base": 0.65,
+      "prob": 65,
+      "source": "model"
+    },
+    "MAR::youssef-belammari": {
+      "slug": "youssef-belammari",
+      "team": "MAR",
+      "base": 0.38,
+      "prob": 38,
+      "source": "model"
+    },
+    "MAR::ayoub-el-kaabi": {
+      "slug": "ayoub-el-kaabi",
+      "team": "MAR",
+      "base": 0.3,
+      "prob": 30,
+      "source": "model"
+    },
+    "MAR::ayoube-amaimouni": {
+      "slug": "ayoube-amaimouni",
+      "team": "MAR",
+      "base": 0.4,
+      "prob": 40,
+      "source": "model"
+    },
+    "MAR::ahmed-reda-tagnaouti": {
+      "slug": "ahmed-reda-tagnaouti",
+      "team": "MAR",
+      "base": 0.33,
+      "prob": 33,
+      "source": "model"
+    },
+    "MAR::bilal-el-khannouss": {
+      "slug": "bilal-el-khannouss",
+      "team": "MAR",
+      "base": 0.68,
+      "prob": 68,
+      "source": "model"
+    },
+    "MAR::neil-el-aynaoui": {
+      "slug": "neil-el-aynaoui",
+      "team": "MAR",
+      "base": 0.74,
+      "prob": 74,
+      "source": "model"
+    },
+    "MAR::redouane-halhal": {
+      "slug": "redouane-halhal",
+      "team": "MAR",
+      "base": 0.43,
+      "prob": 43,
+      "source": "model"
+    },
+    "MAR::anass-salah-eddine": {
+      "slug": "anass-salah-eddine",
+      "team": "MAR",
+      "base": 0.73,
+      "prob": 73,
+      "source": "model"
+    },
+    "POR::diogo-costa": {
+      "slug": "diogo-costa",
+      "team": "POR",
+      "base": 0.71,
+      "prob": 71,
+      "source": "model"
+    },
+    "POR::nelson-semedo": {
+      "slug": "nelson-semedo",
+      "team": "POR",
+      "base": 0.28,
+      "prob": 28,
+      "source": "model"
+    },
+    "POR::ruben-dias": {
+      "slug": "ruben-dias",
+      "team": "POR",
+      "base": 0.58,
+      "prob": 58,
+      "source": "model"
+    },
+    "POR::tomas-araujo": {
+      "slug": "tomas-araujo",
+      "team": "POR",
+      "base": 0.68,
+      "prob": 68,
+      "source": "model"
+    },
+    "POR::diogo-dalot": {
+      "slug": "diogo-dalot",
+      "team": "POR",
+      "base": 0.58,
+      "prob": 58,
+      "source": "model"
+    },
+    "POR::matheus-nunes": {
+      "slug": "matheus-nunes",
+      "team": "POR",
+      "base": 0.43,
+      "prob": 43,
+      "source": "model"
+    },
+    "POR::cristiano-ronaldo": {
+      "slug": "cristiano-ronaldo",
+      "team": "POR",
+      "base": 0.26,
+      "prob": 26,
+      "source": "model"
+    },
+    "POR::bruno-fernandes": {
+      "slug": "bruno-fernandes",
+      "team": "POR",
+      "base": 0.43,
+      "prob": 43,
+      "source": "model"
+    },
+    "POR::goncalo-ramos": {
+      "slug": "goncalo-ramos",
+      "team": "POR",
+      "base": 0.61,
+      "prob": 61,
+      "source": "model"
+    },
+    "POR::bernardo-silva": {
+      "slug": "bernardo-silva",
+      "team": "POR",
+      "base": 0.38,
+      "prob": 38,
+      "source": "model"
+    },
+    "POR::joao-felix": {
+      "slug": "joao-felix",
+      "team": "POR",
+      "base": 0.43,
+      "prob": 43,
+      "source": "model"
+    },
+    "POR::jose-sa": {
+      "slug": "jose-sa",
+      "team": "POR",
+      "base": 0.33,
+      "prob": 33,
+      "source": "model"
+    },
+    "POR::renato-veiga": {
+      "slug": "renato-veiga",
+      "team": "POR",
+      "base": 0.58,
+      "prob": 58,
+      "source": "model"
+    },
+    "POR::goncalo-inacio": {
+      "slug": "goncalo-inacio",
+      "team": "POR",
+      "base": 0.77,
+      "prob": 77,
+      "source": "model"
+    },
+    "POR::joao-neves": {
+      "slug": "joao-neves",
+      "team": "POR",
+      "base": 0.71,
+      "prob": 71,
+      "source": "model"
+    },
+    "POR::francisco-trincao": {
+      "slug": "francisco-trincao",
+      "team": "POR",
+      "base": 0.33,
+      "prob": 33,
+      "source": "model"
+    },
+    "POR::rafael-leao": {
+      "slug": "rafael-leao",
+      "team": "POR",
+      "base": 0.58,
+      "prob": 58,
+      "source": "model"
+    },
+    "POR::pedro-neto": {
+      "slug": "pedro-neto",
+      "team": "POR",
+      "base": 0.45,
+      "prob": 45,
+      "source": "model"
+    },
+    "POR::goncalo-guedes": {
+      "slug": "goncalo-guedes",
+      "team": "POR",
+      "base": 0.33,
+      "prob": 33,
+      "source": "model"
+    },
+    "POR::joao-cancelo": {
+      "slug": "joao-cancelo",
+      "team": "POR",
+      "base": 0.38,
+      "prob": 38,
+      "source": "model"
+    },
+    "POR::ruben-neves": {
+      "slug": "ruben-neves",
+      "team": "POR",
+      "base": 0.38,
+      "prob": 38,
+      "source": "model"
+    },
+    "POR::rui-silva": {
+      "slug": "rui-silva",
+      "team": "POR",
+      "base": 0.33,
+      "prob": 33,
+      "source": "model"
+    },
+    "POR::vitinha": {
+      "slug": "vitinha",
+      "team": "POR",
+      "base": 0.58,
+      "prob": 58,
+      "source": "model"
+    },
+    "POR::samu-costa": {
+      "slug": "samu-costa",
+      "team": "POR",
+      "base": 0.33,
+      "prob": 33,
+      "source": "model"
+    },
+    "POR::nuno-mendes": {
+      "slug": "nuno-mendes",
+      "team": "POR",
+      "base": 0.85,
+      "prob": 85,
+      "source": "model"
+    },
+    "POR::francisco-conceicao": {
+      "slug": "francisco-conceicao",
+      "team": "POR",
+      "base": 0.58,
+      "prob": 58,
+      "source": "model"
+    },
+    "NED::bart-verbruggen": {
+      "slug": "bart-verbruggen",
+      "team": "NED",
+      "base": 0.79,
+      "prob": 79,
+      "source": "model"
+    },
+    "NED::lutsharel-geertruida": {
+      "slug": "lutsharel-geertruida",
+      "team": "NED",
+      "base": 0.43,
+      "prob": 43,
+      "source": "model"
+    },
+    "NED::marten-de-roon": {
+      "slug": "marten-de-roon",
+      "team": "NED",
+      "base": 0.26,
+      "prob": 26,
+      "source": "model"
+    },
+    "NED::virgil-van-dijk": {
+      "slug": "virgil-van-dijk",
+      "team": "NED",
+      "base": 0.33,
+      "prob": 33,
+      "source": "model"
+    },
+    "NED::nathan-ake": {
+      "slug": "nathan-ake",
+      "team": "NED",
+      "base": 0.38,
+      "prob": 38,
+      "source": "model"
+    },
+    "NED::jan-paul-van-hecke": {
+      "slug": "jan-paul-van-hecke",
+      "team": "NED",
+      "base": 0.53,
+      "prob": 53,
+      "source": "model"
+    },
+    "NED::justin-kluivert": {
+      "slug": "justin-kluivert",
+      "team": "NED",
+      "base": 0.43,
+      "prob": 43,
+      "source": "model"
+    },
+    "NED::ryan-gravenberch": {
+      "slug": "ryan-gravenberch",
+      "team": "NED",
+      "base": 0.87,
+      "prob": 87,
+      "source": "model"
+    },
+    "NED::wout-weghorst": {
+      "slug": "wout-weghorst",
+      "team": "NED",
+      "base": 0.28,
+      "prob": 28,
+      "source": "model"
+    },
+    "NED::memphis-depay": {
+      "slug": "memphis-depay",
+      "team": "NED",
+      "base": 0.33,
+      "prob": 33,
+      "source": "model"
+    },
+    "NED::cody-gakpo": {
+      "slug": "cody-gakpo",
+      "team": "NED",
+      "base": 0.7,
+      "prob": 70,
+      "source": "model"
+    },
+    "NED::mats-wieffer": {
+      "slug": "mats-wieffer",
+      "team": "NED",
+      "base": 0.55,
+      "prob": 55,
+      "source": "model"
+    },
+    "NED::robin-roefs": {
+      "slug": "robin-roefs",
+      "team": "NED",
+      "base": 0.43,
+      "prob": 43,
+      "source": "model"
+    },
+    "NED::tijjani-reijnders": {
+      "slug": "tijjani-reijnders",
+      "team": "NED",
+      "base": 0.53,
+      "prob": 53,
+      "source": "model"
+    },
+    "NED::micky-van-de-ven": {
+      "slug": "micky-van-de-ven",
+      "team": "NED",
+      "base": 0.79,
+      "prob": 79,
+      "source": "model"
+    },
+    "NED::guus-til": {
+      "slug": "guus-til",
+      "team": "NED",
+      "base": 0.33,
+      "prob": 33,
+      "source": "model"
+    },
+    "NED::noa-lang": {
+      "slug": "noa-lang",
+      "team": "NED",
+      "base": 0.38,
+      "prob": 38,
+      "source": "model"
+    },
+    "NED::donyell-malen": {
+      "slug": "donyell-malen",
+      "team": "NED",
+      "base": 0.48,
+      "prob": 48,
+      "source": "model"
+    },
+    "NED::brian-brobbey": {
+      "slug": "brian-brobbey",
+      "team": "NED",
+      "base": 0.53,
+      "prob": 53,
+      "source": "model"
+    },
+    "NED::teun-koopmeiners": {
+      "slug": "teun-koopmeiners",
+      "team": "NED",
+      "base": 0.48,
+      "prob": 48,
+      "source": "model"
+    },
+    "NED::frenkie-de-jong": {
+      "slug": "frenkie-de-jong",
+      "team": "NED",
+      "base": 0.6,
+      "prob": 60,
+      "source": "model"
+    },
+    "NED::denzel-dumfries": {
+      "slug": "denzel-dumfries",
+      "team": "NED",
+      "base": 0.38,
+      "prob": 38,
+      "source": "model"
+    },
+    "NED::mark-flekken": {
+      "slug": "mark-flekken",
+      "team": "NED",
+      "base": 0.33,
+      "prob": 33,
+      "source": "model"
+    },
+    "NED::crysencio-summerville": {
+      "slug": "crysencio-summerville",
+      "team": "NED",
+      "base": 0.43,
+      "prob": 43,
+      "source": "model"
+    },
+    "NED::jorrel-hato": {
+      "slug": "jorrel-hato",
+      "team": "NED",
+      "base": 0.82,
+      "prob": 82,
+      "source": "model"
+    },
+    "NED::quinten-timber": {
+      "slug": "quinten-timber",
+      "team": "NED",
+      "base": 0.53,
+      "prob": 53,
+      "source": "model"
+    },
+    "CZE::matej-kovar": {
+      "slug": "matej-kovar",
+      "team": "CZE",
+      "base": 0.65,
+      "prob": 65,
+      "source": "model"
+    },
+    "CZE::david-zima": {
+      "slug": "david-zima",
+      "team": "CZE",
+      "base": 0.48,
+      "prob": 48,
+      "source": "model"
+    },
+    "CZE::tomas-holes": {
+      "slug": "tomas-holes",
+      "team": "CZE",
+      "base": 0.28,
+      "prob": 28,
+      "source": "model"
+    },
+    "CZE::robin-hranac": {
+      "slug": "robin-hranac",
+      "team": "CZE",
+      "base": 0.7,
+      "prob": 70,
+      "source": "model"
+    },
+    "CZE::vladimir-coufal": {
+      "slug": "vladimir-coufal",
+      "team": "CZE",
+      "base": 0.08,
+      "prob": 8,
+      "source": "model"
+    },
+    "CZE::stepan-chaloupek": {
+      "slug": "stepan-chaloupek",
+      "team": "CZE",
+      "base": 0.53,
+      "prob": 53,
+      "source": "model"
+    },
+    "CZE::ladislav-krejci": {
+      "slug": "ladislav-krejci",
+      "team": "CZE",
+      "base": 0.58,
+      "prob": 58,
+      "source": "model"
+    },
+    "CZE::vladimir-darida": {
+      "slug": "vladimir-darida",
+      "team": "CZE",
+      "base": 0.26,
+      "prob": 26,
+      "source": "model"
+    },
+    "CZE::adam-hlozek": {
+      "slug": "adam-hlozek",
+      "team": "CZE",
+      "base": 0.93,
+      "prob": 93,
+      "source": "baseline"
+    },
+    "CZE::patrik-schick": {
+      "slug": "patrik-schick",
+      "team": "CZE",
+      "base": 0.65,
+      "prob": 65,
+      "source": "baseline"
+    },
+    "CZE::jan-kuchta": {
+      "slug": "jan-kuchta",
+      "team": "CZE",
+      "base": 0.56,
+      "prob": 56,
+      "source": "baseline"
+    },
+    "CZE::lukas-cerv": {
+      "slug": "lukas-cerv",
+      "team": "CZE",
+      "base": 0.76,
+      "prob": 76,
+      "source": "baseline"
+    },
+    "CZE::mojmir-chytil": {
+      "slug": "mojmir-chytil",
+      "team": "CZE",
+      "base": 0.63,
+      "prob": 63,
+      "source": "baseline"
+    },
+    "CZE::david-jurasek": {
+      "slug": "david-jurasek",
+      "team": "CZE",
+      "base": 0.77,
+      "prob": 77,
+      "source": "baseline"
+    },
+    "CZE::pavel-sulc": {
+      "slug": "pavel-sulc",
+      "team": "CZE",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "CZE::jindrich-stanek": {
+      "slug": "jindrich-stanek",
+      "team": "CZE",
+      "base": 0.7,
+      "prob": 70,
+      "source": "baseline"
+    },
+    "CZE::lukas-provod": {
+      "slug": "lukas-provod",
+      "team": "CZE",
+      "base": 0.57,
+      "prob": 57,
+      "source": "baseline"
+    },
+    "CZE::michal-sadilek": {
+      "slug": "michal-sadilek",
+      "team": "CZE",
+      "base": 0.71,
+      "prob": 71,
+      "source": "baseline"
+    },
+    "CZE::tomas-chory": {
+      "slug": "tomas-chory",
+      "team": "CZE",
+      "base": 0.43,
+      "prob": 43,
+      "source": "baseline"
+    },
+    "CZE::jaroslav-zeleny": {
+      "slug": "jaroslav-zeleny",
+      "team": "CZE",
+      "base": 0.39,
+      "prob": 39,
+      "source": "baseline"
+    },
+    "CZE::david-doudera": {
+      "slug": "david-doudera",
+      "team": "CZE",
+      "base": 0.66,
+      "prob": 66,
+      "source": "baseline"
+    },
+    "CZE::tomas-soucek": {
+      "slug": "tomas-soucek",
+      "team": "CZE",
+      "base": 0.68,
+      "prob": 68,
+      "source": "baseline"
+    },
+    "CZE::lukas-hornicek": {
+      "slug": "lukas-hornicek",
+      "team": "CZE",
+      "base": 0.7,
+      "prob": 70,
+      "source": "baseline"
+    },
+    "CZE::alexandr-sojka": {
+      "slug": "alexandr-sojka",
+      "team": "CZE",
+      "base": 0.71,
+      "prob": 71,
+      "source": "baseline"
+    },
+    "CZE::hugo-sochurek": {
+      "slug": "hugo-sochurek",
+      "team": "CZE",
+      "base": 0.7,
+      "prob": 70,
+      "source": "baseline"
+    },
+    "CZE::denis-visinsky": {
+      "slug": "denis-visinsky",
+      "team": "CZE",
+      "base": 0.71,
+      "prob": 71,
+      "source": "baseline"
+    },
+    "MEX::raul-rangel": {
+      "slug": "raul-rangel",
+      "team": "MEX",
+      "base": 0.78,
+      "prob": 78,
+      "source": "baseline"
+    },
+    "MEX::jorge-sanchez": {
+      "slug": "jorge-sanchez",
+      "team": "MEX",
+      "base": 0.7,
+      "prob": 70,
+      "source": "baseline"
+    },
+    "MEX::cesar-montes": {
+      "slug": "cesar-montes",
+      "team": "MEX",
+      "base": 0.7,
+      "prob": 70,
+      "source": "baseline"
+    },
+    "MEX::edson-alvarez": {
+      "slug": "edson-alvarez",
+      "team": "MEX",
+      "base": 0.72,
+      "prob": 72,
+      "source": "baseline"
+    },
+    "MEX::johan-vasquez": {
+      "slug": "johan-vasquez",
+      "team": "MEX",
+      "base": 0.83,
+      "prob": 83,
+      "source": "baseline"
+    },
+    "MEX::erik-lira": {
+      "slug": "erik-lira",
+      "team": "MEX",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "MEX::luis-romo": {
+      "slug": "luis-romo",
+      "team": "MEX",
+      "base": 0.55,
+      "prob": 55,
+      "source": "baseline"
+    },
+    "MEX::alvaro-fidalgo": {
+      "slug": "alvaro-fidalgo",
+      "team": "MEX",
+      "base": 0.62,
+      "prob": 62,
+      "source": "baseline"
+    },
+    "MEX::raul-jimenez": {
+      "slug": "raul-jimenez",
+      "team": "MEX",
+      "base": 0.47,
+      "prob": 47,
+      "source": "baseline"
+    },
+    "MEX::alexis-vega": {
+      "slug": "alexis-vega",
+      "team": "MEX",
+      "base": 0.6,
+      "prob": 60,
+      "source": "baseline"
+    },
+    "MEX::santiago-gimenez": {
+      "slug": "santiago-gimenez",
+      "team": "MEX",
+      "base": 0.88,
+      "prob": 88,
+      "source": "baseline"
+    },
+    "MEX::carlos-acevedo": {
+      "slug": "carlos-acevedo",
+      "team": "MEX",
+      "base": 0.67,
+      "prob": 67,
+      "source": "baseline"
+    },
+    "MEX::guillermo-ochoa": {
+      "slug": "guillermo-ochoa",
+      "team": "MEX",
+      "base": 0.34,
+      "prob": 34,
+      "source": "baseline"
+    },
+    "MEX::armando-gonzalez": {
+      "slug": "armando-gonzalez",
+      "team": "MEX",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "MEX::israel-reyes": {
+      "slug": "israel-reyes",
+      "team": "MEX",
+      "base": 0.81,
+      "prob": 81,
+      "source": "baseline"
+    },
+    "MEX::julian-quinones": {
+      "slug": "julian-quinones",
+      "team": "MEX",
+      "base": 0.56,
+      "prob": 56,
+      "source": "baseline"
+    },
+    "MEX::orbelin-pineda": {
+      "slug": "orbelin-pineda",
+      "team": "MEX",
+      "base": 0.6,
+      "prob": 60,
+      "source": "baseline"
+    },
+    "MEX::obed-vargas": {
+      "slug": "obed-vargas",
+      "team": "MEX",
+      "base": 0.86,
+      "prob": 86,
+      "source": "baseline"
+    },
+    "MEX::gilberto-mora": {
+      "slug": "gilberto-mora",
+      "team": "MEX",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "MEX::mateo-chavez": {
+      "slug": "mateo-chavez",
+      "team": "MEX",
+      "base": 0.81,
+      "prob": 81,
+      "source": "baseline"
+    },
+    "MEX::cesar-huerta": {
+      "slug": "cesar-huerta",
+      "team": "MEX",
+      "base": 0.69,
+      "prob": 69,
+      "source": "baseline"
+    },
+    "MEX::guillermo-martinez": {
+      "slug": "guillermo-martinez",
+      "team": "MEX",
+      "base": 0.4,
+      "prob": 40,
+      "source": "baseline"
+    },
+    "MEX::jesus-gallardo": {
+      "slug": "jesus-gallardo",
+      "team": "MEX",
+      "base": 0.55,
+      "prob": 55,
+      "source": "baseline"
+    },
+    "MEX::luis-chavez": {
+      "slug": "luis-chavez",
+      "team": "MEX",
+      "base": 0.59,
+      "prob": 59,
+      "source": "baseline"
+    },
+    "MEX::roberto-alvarado": {
+      "slug": "roberto-alvarado",
+      "team": "MEX",
+      "base": 0.65,
+      "prob": 65,
+      "source": "baseline"
+    },
+    "MEX::brian-gutierrez": {
+      "slug": "brian-gutierrez",
+      "team": "MEX",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "RSA::ronwen-williams": {
+      "slug": "ronwen-williams",
+      "team": "RSA",
+      "base": 0.6,
+      "prob": 60,
+      "source": "baseline"
+    },
+    "RSA::thabang-matuludi": {
+      "slug": "thabang-matuludi",
+      "team": "RSA",
+      "base": 0.65,
+      "prob": 65,
+      "source": "baseline"
+    },
+    "RSA::khulumani-ndamane": {
+      "slug": "khulumani-ndamane",
+      "team": "RSA",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "RSA::teboho-mokoena": {
+      "slug": "teboho-mokoena",
+      "team": "RSA",
+      "base": 0.65,
+      "prob": 65,
+      "source": "baseline"
+    },
+    "RSA::thalente-mbatha": {
+      "slug": "thalente-mbatha",
+      "team": "RSA",
+      "base": 0.71,
+      "prob": 71,
+      "source": "baseline"
+    },
+    "RSA::aubrey-modiba": {
+      "slug": "aubrey-modiba",
+      "team": "RSA",
+      "base": 0.59,
+      "prob": 59,
+      "source": "baseline"
+    },
+    "RSA::oswin-appollis": {
+      "slug": "oswin-appollis",
+      "team": "RSA",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "RSA::tshepang-moremi": {
+      "slug": "tshepang-moremi",
+      "team": "RSA",
+      "base": 0.64,
+      "prob": 64,
+      "source": "baseline"
+    },
+    "RSA::lyle-foster": {
+      "slug": "lyle-foster",
+      "team": "RSA",
+      "base": 0.82,
+      "prob": 82,
+      "source": "baseline"
+    },
+    "RSA::relebohile-mofokeng": {
+      "slug": "relebohile-mofokeng",
+      "team": "RSA",
+      "base": 0.78,
+      "prob": 78,
+      "source": "baseline"
+    },
+    "RSA::themba-zwane": {
+      "slug": "themba-zwane",
+      "team": "RSA",
+      "base": 0.34,
+      "prob": 34,
+      "source": "baseline"
+    },
+    "RSA::thapelo-maseko": {
+      "slug": "thapelo-maseko",
+      "team": "RSA",
+      "base": 0.76,
+      "prob": 76,
+      "source": "baseline"
+    },
+    "RSA::sphephelo-sithole": {
+      "slug": "sphephelo-sithole",
+      "team": "RSA",
+      "base": 0.7,
+      "prob": 70,
+      "source": "baseline"
+    },
+    "RSA::mbekezeli-mbokazi": {
+      "slug": "mbekezeli-mbokazi",
+      "team": "RSA",
+      "base": 0.79,
+      "prob": 79,
+      "source": "baseline"
+    },
+    "RSA::iqraam-rayners": {
+      "slug": "iqraam-rayners",
+      "team": "RSA",
+      "base": 0.41,
+      "prob": 41,
+      "source": "baseline"
+    },
+    "RSA::sipho-chaine": {
+      "slug": "sipho-chaine",
+      "team": "RSA",
+      "base": 0.65,
+      "prob": 65,
+      "source": "baseline"
+    },
+    "RSA::evidence-makgopa": {
+      "slug": "evidence-makgopa",
+      "team": "RSA",
+      "base": 0.69,
+      "prob": 69,
+      "source": "baseline"
+    },
+    "RSA::samukele-kabini": {
+      "slug": "samukele-kabini",
+      "team": "RSA",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "RSA::nkosinathi-sibisi": {
+      "slug": "nkosinathi-sibisi",
+      "team": "RSA",
+      "base": 0.53,
+      "prob": 53,
+      "source": "baseline"
+    },
+    "RSA::khuliso-mudau": {
+      "slug": "khuliso-mudau",
+      "team": "RSA",
+      "base": 0.56,
+      "prob": 56,
+      "source": "baseline"
+    },
+    "RSA::ime-okon": {
+      "slug": "ime-okon",
+      "team": "RSA",
+      "base": 0.85,
+      "prob": 85,
+      "source": "baseline"
+    },
+    "RSA::ricardo-goss": {
+      "slug": "ricardo-goss",
+      "team": "RSA",
+      "base": 0.56,
+      "prob": 56,
+      "source": "baseline"
+    },
+    "RSA::jayden-adams": {
+      "slug": "jayden-adams",
+      "team": "RSA",
+      "base": 0.71,
+      "prob": 71,
+      "source": "baseline"
+    },
+    "RSA::olwethu-makhanya": {
+      "slug": "olwethu-makhanya",
+      "team": "RSA",
+      "base": 0.73,
+      "prob": 73,
+      "source": "baseline"
+    },
+    "RSA::kamogelo-sebelebele": {
+      "slug": "kamogelo-sebelebele",
+      "team": "RSA",
+      "base": 0.7,
+      "prob": 70,
+      "source": "baseline"
+    },
+    "RSA::bradley-cross": {
+      "slug": "bradley-cross",
+      "team": "RSA",
+      "base": 0.7,
+      "prob": 70,
+      "source": "baseline"
+    },
+    "KOR::kim-seung-gyu": {
+      "slug": "kim-seung-gyu",
+      "team": "KOR",
+      "base": 0.51,
+      "prob": 51,
+      "source": "baseline"
+    },
+    "KOR::lee-han-beom": {
+      "slug": "lee-han-beom",
+      "team": "KOR",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "KOR::lee-gi-hyuk": {
+      "slug": "lee-gi-hyuk",
+      "team": "KOR",
+      "base": 0.65,
+      "prob": 65,
+      "source": "baseline"
+    },
+    "KOR::kim-min-jae": {
+      "slug": "kim-min-jae",
+      "team": "KOR",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "KOR::kim-tae-hyeon": {
+      "slug": "kim-tae-hyeon",
+      "team": "KOR",
+      "base": 0.73,
+      "prob": 73,
+      "source": "baseline"
+    },
+    "KOR::hwang-in-beom": {
+      "slug": "hwang-in-beom",
+      "team": "KOR",
+      "base": 0.65,
+      "prob": 65,
+      "source": "baseline"
+    },
+    "KOR::son-heung-min": {
+      "slug": "son-heung-min",
+      "team": "KOR",
+      "base": 0.38,
+      "prob": 38,
+      "source": "baseline"
+    },
+    "KOR::paik-seung-ho": {
+      "slug": "paik-seung-ho",
+      "team": "KOR",
+      "base": 0.72,
+      "prob": 72,
+      "source": "baseline"
+    },
+    "KOR::cho-gue-sung": {
+      "slug": "cho-gue-sung",
+      "team": "KOR",
+      "base": 0.64,
+      "prob": 64,
+      "source": "baseline"
+    },
+    "KOR::lee-jae-sung": {
+      "slug": "lee-jae-sung",
+      "team": "KOR",
+      "base": 0.5,
+      "prob": 50,
+      "source": "baseline"
+    },
+    "KOR::hwang-hee-chan": {
+      "slug": "hwang-hee-chan",
+      "team": "KOR",
+      "base": 0.73,
+      "prob": 73,
+      "source": "baseline"
+    },
+    "KOR::song-bum-keun": {
+      "slug": "song-bum-keun",
+      "team": "KOR",
+      "base": 0.7,
+      "prob": 70,
+      "source": "baseline"
+    },
+    "KOR::lee-tae-seok": {
+      "slug": "lee-tae-seok",
+      "team": "KOR",
+      "base": 0.78,
+      "prob": 78,
+      "source": "baseline"
+    },
+    "KOR::cho-wi-je": {
+      "slug": "cho-wi-je",
+      "team": "KOR",
+      "base": 0.7,
+      "prob": 70,
+      "source": "baseline"
+    },
+    "KOR::kim-moon-hwan": {
+      "slug": "kim-moon-hwan",
+      "team": "KOR",
+      "base": 0.57,
+      "prob": 57,
+      "source": "baseline"
+    },
+    "KOR::park-jin-seob": {
+      "slug": "park-jin-seob",
+      "team": "KOR",
+      "base": 0.5,
+      "prob": 50,
+      "source": "baseline"
+    },
+    "KOR::bae-jun-ho": {
+      "slug": "bae-jun-ho",
+      "team": "KOR",
+      "base": 0.9,
+      "prob": 90,
+      "source": "baseline"
+    },
+    "KOR::oh-hyeon-gyu": {
+      "slug": "oh-hyeon-gyu",
+      "team": "KOR",
+      "base": 0.77,
+      "prob": 77,
+      "source": "baseline"
+    },
+    "KOR::lee-kang-in": {
+      "slug": "lee-kang-in",
+      "team": "KOR",
+      "base": 0.91,
+      "prob": 91,
+      "source": "baseline"
+    },
+    "KOR::yang-hyun-jun": {
+      "slug": "yang-hyun-jun",
+      "team": "KOR",
+      "base": 0.76,
+      "prob": 76,
+      "source": "baseline"
+    },
+    "KOR::jo-hyeon-woo": {
+      "slug": "jo-hyeon-woo",
+      "team": "KOR",
+      "base": 0.54,
+      "prob": 54,
+      "source": "baseline"
+    },
+    "KOR::seol-young-woo": {
+      "slug": "seol-young-woo",
+      "team": "KOR",
+      "base": 0.71,
+      "prob": 71,
+      "source": "baseline"
+    },
+    "KOR::jens-castrop": {
+      "slug": "jens-castrop",
+      "team": "KOR",
+      "base": 0.85,
+      "prob": 85,
+      "source": "baseline"
+    },
+    "KOR::kim-jin-gyu": {
+      "slug": "kim-jin-gyu",
+      "team": "KOR",
+      "base": 0.58,
+      "prob": 58,
+      "source": "baseline"
+    },
+    "KOR::eom-ji-sung": {
+      "slug": "eom-ji-sung",
+      "team": "KOR",
+      "base": 0.88,
+      "prob": 88,
+      "source": "baseline"
+    },
+    "KOR::lee-dong-gyeong": {
+      "slug": "lee-dong-gyeong",
+      "team": "KOR",
+      "base": 0.57,
+      "prob": 57,
+      "source": "baseline"
+    },
+    "CAN::dayne-st-clair": {
+      "slug": "dayne-st-clair",
+      "team": "CAN",
+      "base": 0.8,
+      "prob": 80,
+      "source": "baseline"
+    },
+    "CAN::alistair-johnston": {
+      "slug": "alistair-johnston",
+      "team": "CAN",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "CAN::alfie-jones": {
+      "slug": "alfie-jones",
+      "team": "CAN",
+      "base": 0.66,
+      "prob": 66,
+      "source": "baseline"
+    },
+    "CAN::luc-de-fougerolles": {
+      "slug": "luc-de-fougerolles",
+      "team": "CAN",
+      "base": 0.78,
+      "prob": 78,
+      "source": "baseline"
+    },
+    "CAN::joel-waterman": {
+      "slug": "joel-waterman",
+      "team": "CAN",
+      "base": 0.59,
+      "prob": 59,
+      "source": "baseline"
+    },
+    "CAN::mathieu-choiniere": {
+      "slug": "mathieu-choiniere",
+      "team": "CAN",
+      "base": 0.71,
+      "prob": 71,
+      "source": "baseline"
+    },
+    "CAN::stephen-eustaquio": {
+      "slug": "stephen-eustaquio",
+      "team": "CAN",
+      "base": 0.63,
+      "prob": 63,
+      "source": "baseline"
+    },
+    "CAN::ismael-kone": {
+      "slug": "ismael-kone",
+      "team": "CAN",
+      "base": 0.94,
+      "prob": 94,
+      "source": "baseline"
+    },
+    "CAN::cyle-larin": {
+      "slug": "cyle-larin",
+      "team": "CAN",
+      "base": 0.63,
+      "prob": 63,
+      "source": "baseline"
+    },
+    "CAN::jonathan-david": {
+      "slug": "jonathan-david",
+      "team": "CAN",
+      "base": 0.84,
+      "prob": 84,
+      "source": "baseline"
+    },
+    "CAN::liam-millar": {
+      "slug": "liam-millar",
+      "team": "CAN",
+      "base": 0.85,
+      "prob": 85,
+      "source": "baseline"
+    },
+    "CAN::tani-oluwaseyi": {
+      "slug": "tani-oluwaseyi",
+      "team": "CAN",
+      "base": 0.8,
+      "prob": 80,
+      "source": "baseline"
+    },
+    "CAN::derek-cornelius": {
+      "slug": "derek-cornelius",
+      "team": "CAN",
+      "base": 0.68,
+      "prob": 68,
+      "source": "baseline"
+    },
+    "CAN::jacob-shaffelburg": {
+      "slug": "jacob-shaffelburg",
+      "team": "CAN",
+      "base": 0.73,
+      "prob": 73,
+      "source": "baseline"
+    },
+    "CAN::moise-bombito": {
+      "slug": "moise-bombito",
+      "team": "CAN",
+      "base": 0.85,
+      "prob": 85,
+      "source": "baseline"
+    },
+    "CAN::maxime-crepeau": {
+      "slug": "maxime-crepeau",
+      "team": "CAN",
+      "base": 0.68,
+      "prob": 68,
+      "source": "baseline"
+    },
+    "CAN::tajon-buchanan": {
+      "slug": "tajon-buchanan",
+      "team": "CAN",
+      "base": 0.81,
+      "prob": 81,
+      "source": "baseline"
+    },
+    "CAN::owen-goodman": {
+      "slug": "owen-goodman",
+      "team": "CAN",
+      "base": 0.81,
+      "prob": 81,
+      "source": "baseline"
+    },
+    "CAN::alphonso-davies": {
+      "slug": "alphonso-davies",
+      "team": "CAN",
+      "base": 0.95,
+      "prob": 95,
+      "source": "baseline"
+    },
+    "CAN::ali-ahmed": {
+      "slug": "ali-ahmed",
+      "team": "CAN",
+      "base": 0.81,
+      "prob": 81,
+      "source": "baseline"
+    },
+    "CAN::jonathan-osorio": {
+      "slug": "jonathan-osorio",
+      "team": "CAN",
+      "base": 0.43,
+      "prob": 43,
+      "source": "baseline"
+    },
+    "CAN::richie-laryea": {
+      "slug": "richie-laryea",
+      "team": "CAN",
+      "base": 0.63,
+      "prob": 63,
+      "source": "baseline"
+    },
+    "CAN::niko-sigur": {
+      "slug": "niko-sigur",
+      "team": "CAN",
+      "base": 0.8,
+      "prob": 80,
+      "source": "baseline"
+    },
+    "CAN::promise-david": {
+      "slug": "promise-david",
+      "team": "CAN",
+      "base": 0.69,
+      "prob": 69,
+      "source": "baseline"
+    },
+    "CAN::nathan-saliba": {
+      "slug": "nathan-saliba",
+      "team": "CAN",
+      "base": 0.78,
+      "prob": 78,
+      "source": "baseline"
+    },
+    "CAN::jayden-nelson": {
+      "slug": "jayden-nelson",
+      "team": "CAN",
+      "base": 0.78,
+      "prob": 78,
+      "source": "baseline"
+    },
+    "QAT::mahmud-abunada": {
+      "slug": "mahmud-abunada",
+      "team": "QAT",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "QAT::pedro-miguel": {
+      "slug": "pedro-miguel",
+      "team": "QAT",
+      "base": 0.35,
+      "prob": 35,
+      "source": "baseline"
+    },
+    "QAT::lucas-mendes": {
+      "slug": "lucas-mendes",
+      "team": "QAT",
+      "base": 0.29,
+      "prob": 29,
+      "source": "baseline"
+    },
+    "QAT::issa-laye": {
+      "slug": "issa-laye",
+      "team": "QAT",
+      "base": 0.56,
+      "prob": 56,
+      "source": "baseline"
+    },
+    "QAT::jassem-gaber": {
+      "slug": "jassem-gaber",
+      "team": "QAT",
+      "base": 0.83,
+      "prob": 83,
+      "source": "baseline"
+    },
+    "QAT::abdulaziz-hatem": {
+      "slug": "abdulaziz-hatem",
+      "team": "QAT",
+      "base": 0.34,
+      "prob": 34,
+      "source": "baseline"
+    },
+    "QAT::ahmed-alaaeldin": {
+      "slug": "ahmed-alaaeldin",
+      "team": "QAT",
+      "base": 0.4,
+      "prob": 40,
+      "source": "baseline"
+    },
+    "QAT::edmilson-junior": {
+      "slug": "edmilson-junior",
+      "team": "QAT",
+      "base": 0.36,
+      "prob": 36,
+      "source": "baseline"
+    },
+    "QAT::mohammed-muntari": {
+      "slug": "mohammed-muntari",
+      "team": "QAT",
+      "base": 0.4,
+      "prob": 40,
+      "source": "baseline"
+    },
+    "QAT::hassan-al-haydos": {
+      "slug": "hassan-al-haydos",
+      "team": "QAT",
+      "base": 0.34,
+      "prob": 34,
+      "source": "baseline"
+    },
+    "QAT::akram-afif": {
+      "slug": "akram-afif",
+      "team": "QAT",
+      "base": 0.55,
+      "prob": 55,
+      "source": "baseline"
+    },
+    "QAT::karim-boudiaf": {
+      "slug": "karim-boudiaf",
+      "team": "QAT",
+      "base": 0.34,
+      "prob": 34,
+      "source": "baseline"
+    },
+    "QAT::ayoub-al-oui": {
+      "slug": "ayoub-al-oui",
+      "team": "QAT",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "QAT::homam-ahmed": {
+      "slug": "homam-ahmed",
+      "team": "QAT",
+      "base": 0.91,
+      "prob": 91,
+      "source": "baseline"
+    },
+    "QAT::yusuf-abdurisag": {
+      "slug": "yusuf-abdurisag",
+      "team": "QAT",
+      "base": 0.67,
+      "prob": 67,
+      "source": "baseline"
+    },
+    "QAT::boualem-khoukhi": {
+      "slug": "boualem-khoukhi",
+      "team": "QAT",
+      "base": 0.35,
+      "prob": 35,
+      "source": "baseline"
+    },
+    "QAT::ahmed-al-ganehi": {
+      "slug": "ahmed-al-ganehi",
+      "team": "QAT",
+      "base": 0.7,
+      "prob": 70,
+      "source": "baseline"
+    },
+    "QAT::sultan-al-brake": {
+      "slug": "sultan-al-brake",
+      "team": "QAT",
+      "base": 0.56,
+      "prob": 56,
+      "source": "baseline"
+    },
+    "QAT::almoez-ali": {
+      "slug": "almoez-ali",
+      "team": "QAT",
+      "base": 0.55,
+      "prob": 55,
+      "source": "baseline"
+    },
+    "QAT::ahmed-fathy": {
+      "slug": "ahmed-fathy",
+      "team": "QAT",
+      "base": 0.45,
+      "prob": 45,
+      "source": "baseline"
+    },
+    "QAT::salah-zakaria": {
+      "slug": "salah-zakaria",
+      "team": "QAT",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "QAT::meshaal-barsham": {
+      "slug": "meshaal-barsham",
+      "team": "QAT",
+      "base": 0.88,
+      "prob": 88,
+      "source": "baseline"
+    },
+    "QAT::assim-madibo": {
+      "slug": "assim-madibo",
+      "team": "QAT",
+      "base": 0.6,
+      "prob": 60,
+      "source": "baseline"
+    },
+    "QAT::tahsin-jamshid": {
+      "slug": "tahsin-jamshid",
+      "team": "QAT",
+      "base": 0.72,
+      "prob": 72,
+      "source": "baseline"
+    },
+    "QAT::al-hashmi-al-hussain": {
+      "slug": "al-hashmi-al-hussain",
+      "team": "QAT",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "QAT::mohamed-manai": {
+      "slug": "mohamed-manai",
+      "team": "QAT",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "SUI::gregor-kobel": {
+      "slug": "gregor-kobel",
+      "team": "SUI",
+      "base": 0.88,
+      "prob": 88,
+      "source": "baseline"
+    },
+    "SUI::miro-muheim": {
+      "slug": "miro-muheim",
+      "team": "SUI",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "SUI::silvan-widmer": {
+      "slug": "silvan-widmer",
+      "team": "SUI",
+      "base": 0.6,
+      "prob": 60,
+      "source": "baseline"
+    },
+    "SUI::nico-elvedi": {
+      "slug": "nico-elvedi",
+      "team": "SUI",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "SUI::manuel-akanji": {
+      "slug": "manuel-akanji",
+      "team": "SUI",
+      "base": 0.69,
+      "prob": 69,
+      "source": "baseline"
+    },
+    "SUI::denis-zakaria": {
+      "slug": "denis-zakaria",
+      "team": "SUI",
+      "base": 0.68,
+      "prob": 68,
+      "source": "baseline"
+    },
+    "SUI::breel-embolo": {
+      "slug": "breel-embolo",
+      "team": "SUI",
+      "base": 0.68,
+      "prob": 68,
+      "source": "baseline"
+    },
+    "SUI::remo-freuler": {
+      "slug": "remo-freuler",
+      "team": "SUI",
+      "base": 0.49,
+      "prob": 49,
+      "source": "baseline"
+    },
+    "SUI::johan-manzambi": {
+      "slug": "johan-manzambi",
+      "team": "SUI",
+      "base": 0.87,
+      "prob": 87,
+      "source": "baseline"
+    },
+    "SUI::granit-xhaka": {
+      "slug": "granit-xhaka",
+      "team": "SUI",
+      "base": 0.53,
+      "prob": 53,
+      "source": "baseline"
+    },
+    "SUI::dan-ndoye": {
+      "slug": "dan-ndoye",
+      "team": "SUI",
+      "base": 0.83,
+      "prob": 83,
+      "source": "baseline"
+    },
+    "SUI::yvon-mvogo": {
+      "slug": "yvon-mvogo",
+      "team": "SUI",
+      "base": 0.67,
+      "prob": 67,
+      "source": "baseline"
+    },
+    "SUI::ricardo-rodriguez": {
+      "slug": "ricardo-rodriguez",
+      "team": "SUI",
+      "base": 0.56,
+      "prob": 56,
+      "source": "baseline"
+    },
+    "SUI::ardon-jashari": {
+      "slug": "ardon-jashari",
+      "team": "SUI",
+      "base": 0.84,
+      "prob": 84,
+      "source": "baseline"
+    },
+    "SUI::djibril-sow": {
+      "slug": "djibril-sow",
+      "team": "SUI",
+      "base": 0.76,
+      "prob": 76,
+      "source": "baseline"
+    },
+    "SUI::christian-fassnacht": {
+      "slug": "christian-fassnacht",
+      "team": "SUI",
+      "base": 0.34,
+      "prob": 34,
+      "source": "baseline"
+    },
+    "SUI::ruben-vargas": {
+      "slug": "ruben-vargas",
+      "team": "SUI",
+      "base": 0.76,
+      "prob": 76,
+      "source": "baseline"
+    },
+    "SUI::eray-comert": {
+      "slug": "eray-comert",
+      "team": "SUI",
+      "base": 0.79,
+      "prob": 79,
+      "source": "baseline"
+    },
+    "SUI::noah-okafor": {
+      "slug": "noah-okafor",
+      "team": "SUI",
+      "base": 0.81,
+      "prob": 81,
+      "source": "baseline"
+    },
+    "SUI::michel-aebischer": {
+      "slug": "michel-aebischer",
+      "team": "SUI",
+      "base": 0.71,
+      "prob": 71,
+      "source": "baseline"
+    },
+    "SUI::marvin-keller": {
+      "slug": "marvin-keller",
+      "team": "SUI",
+      "base": 0.7,
+      "prob": 70,
+      "source": "baseline"
+    },
+    "SUI::fabian-rieder": {
+      "slug": "fabian-rieder",
+      "team": "SUI",
+      "base": 0.92,
+      "prob": 92,
+      "source": "baseline"
+    },
+    "SUI::zeki-amdouni": {
+      "slug": "zeki-amdouni",
+      "team": "SUI",
+      "base": 0.82,
+      "prob": 82,
+      "source": "baseline"
+    },
+    "SUI::aurele-amenda": {
+      "slug": "aurele-amenda",
+      "team": "SUI",
+      "base": 0.85,
+      "prob": 85,
+      "source": "baseline"
+    },
+    "SUI::luca-jaquez": {
+      "slug": "luca-jaquez",
+      "team": "SUI",
+      "base": 0.82,
+      "prob": 82,
+      "source": "baseline"
+    },
+    "SUI::cedric-itten": {
+      "slug": "cedric-itten",
+      "team": "SUI",
+      "base": 0.56,
+      "prob": 56,
+      "source": "baseline"
+    },
+    "HAI::johny-placide": {
+      "slug": "johny-placide",
+      "team": "HAI",
+      "base": 0.48,
+      "prob": 48,
+      "source": "baseline"
+    },
+    "HAI::carlens-arcus": {
+      "slug": "carlens-arcus",
+      "team": "HAI",
+      "base": 0.72,
+      "prob": 72,
+      "source": "baseline"
+    },
+    "HAI::keeto-thermoncy": {
+      "slug": "keeto-thermoncy",
+      "team": "HAI",
+      "base": 0.7,
+      "prob": 70,
+      "source": "baseline"
+    },
+    "HAI::ricardo-ade": {
+      "slug": "ricardo-ade",
+      "team": "HAI",
+      "base": 0.35,
+      "prob": 35,
+      "source": "baseline"
+    },
+    "HAI::hannes-delcroix": {
+      "slug": "hannes-delcroix",
+      "team": "HAI",
+      "base": 0.67,
+      "prob": 67,
+      "source": "baseline"
+    },
+    "HAI::carl-sainte": {
+      "slug": "carl-sainte",
+      "team": "HAI",
+      "base": 0.84,
+      "prob": 84,
+      "source": "baseline"
+    },
+    "HAI::derrick-etienne-jr": {
+      "slug": "derrick-etienne-jr",
+      "team": "HAI",
+      "base": 0.58,
+      "prob": 58,
+      "source": "baseline"
+    },
+    "HAI::martin-experience": {
+      "slug": "martin-experience",
+      "team": "HAI",
+      "base": 0.8,
+      "prob": 80,
+      "source": "baseline"
+    },
+    "HAI::duckens-nazon": {
+      "slug": "duckens-nazon",
+      "team": "HAI",
+      "base": 0.45,
+      "prob": 45,
+      "source": "baseline"
+    },
+    "HAI::jean-ricner-bellegarde": {
+      "slug": "jean-ricner-bellegarde",
+      "team": "HAI",
+      "base": 0.71,
+      "prob": 71,
+      "source": "baseline"
+    },
+    "HAI::louicius-deedson": {
+      "slug": "louicius-deedson",
+      "team": "HAI",
+      "base": 0.78,
+      "prob": 78,
+      "source": "baseline"
+    },
+    "HAI::alexandre-pierre": {
+      "slug": "alexandre-pierre",
+      "team": "HAI",
+      "base": 0.86,
+      "prob": 86,
+      "source": "baseline"
+    },
+    "HAI::duke-lacroix": {
+      "slug": "duke-lacroix",
+      "team": "HAI",
+      "base": 0.44,
+      "prob": 44,
+      "source": "baseline"
+    },
+    "HAI::garven-metusala": {
+      "slug": "garven-metusala",
+      "team": "HAI",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "HAI::ruben-providence": {
+      "slug": "ruben-providence",
+      "team": "HAI",
+      "base": 0.76,
+      "prob": 76,
+      "source": "baseline"
+    },
+    "HAI::lenny-joseph": {
+      "slug": "lenny-joseph",
+      "team": "HAI",
+      "base": 0.59,
+      "prob": 59,
+      "source": "baseline"
+    },
+    "HAI::danley-jean-jacques": {
+      "slug": "danley-jean-jacques",
+      "team": "HAI",
+      "base": 0.78,
+      "prob": 78,
+      "source": "baseline"
+    },
+    "HAI::wilson-isidor": {
+      "slug": "wilson-isidor",
+      "team": "HAI",
+      "base": 0.73,
+      "prob": 73,
+      "source": "baseline"
+    },
+    "HAI::yassin-fortune": {
+      "slug": "yassin-fortune",
+      "team": "HAI",
+      "base": 0.56,
+      "prob": 56,
+      "source": "baseline"
+    },
+    "HAI::frantzdy-pierrot": {
+      "slug": "frantzdy-pierrot",
+      "team": "HAI",
+      "base": 0.53,
+      "prob": 53,
+      "source": "baseline"
+    },
+    "HAI::josue-casimir": {
+      "slug": "josue-casimir",
+      "team": "HAI",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "HAI::jean-kevin-duverne": {
+      "slug": "jean-kevin-duverne",
+      "team": "HAI",
+      "base": 0.61,
+      "prob": 61,
+      "source": "baseline"
+    },
+    "HAI::josue-duverger": {
+      "slug": "josue-duverger",
+      "team": "HAI",
+      "base": 0.85,
+      "prob": 85,
+      "source": "baseline"
+    },
+    "HAI::wilguens-paugain": {
+      "slug": "wilguens-paugain",
+      "team": "HAI",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "HAI::dominique-simon": {
+      "slug": "dominique-simon",
+      "team": "HAI",
+      "base": 0.64,
+      "prob": 64,
+      "source": "baseline"
+    },
+    "HAI::woodensky-pierre": {
+      "slug": "woodensky-pierre",
+      "team": "HAI",
+      "base": 0.7,
+      "prob": 70,
+      "source": "baseline"
+    },
+    "SCO::angus-gunn": {
+      "slug": "angus-gunn",
+      "team": "SCO",
+      "base": 0.85,
+      "prob": 85,
+      "source": "baseline"
+    },
+    "SCO::aaron-hickey": {
+      "slug": "aaron-hickey",
+      "team": "SCO",
+      "base": 0.93,
+      "prob": 93,
+      "source": "baseline"
+    },
+    "SCO::andy-robertson": {
+      "slug": "andy-robertson",
+      "team": "SCO",
+      "base": 0.68,
+      "prob": 68,
+      "source": "baseline"
+    },
+    "SCO::scott-mctominay": {
+      "slug": "scott-mctominay",
+      "team": "SCO",
+      "base": 0.69,
+      "prob": 69,
+      "source": "baseline"
+    },
+    "SCO::grant-hanley": {
+      "slug": "grant-hanley",
+      "team": "SCO",
+      "base": 0.4,
+      "prob": 40,
+      "source": "baseline"
+    },
+    "SCO::kieran-tierney": {
+      "slug": "kieran-tierney",
+      "team": "SCO",
+      "base": 0.7,
+      "prob": 70,
+      "source": "baseline"
+    },
+    "SCO::john-mcginn": {
+      "slug": "john-mcginn",
+      "team": "SCO",
+      "base": 0.63,
+      "prob": 63,
+      "source": "baseline"
+    },
+    "SCO::tyler-fletcher": {
+      "slug": "tyler-fletcher",
+      "team": "SCO",
+      "base": 0.84,
+      "prob": 84,
+      "source": "baseline"
+    },
+    "SCO::lyndon-dykes": {
+      "slug": "lyndon-dykes",
+      "team": "SCO",
+      "base": 0.63,
+      "prob": 63,
+      "source": "baseline"
+    },
+    "SCO::che-adams": {
+      "slug": "che-adams",
+      "team": "SCO",
+      "base": 0.63,
+      "prob": 63,
+      "source": "baseline"
+    },
+    "SCO::ryan-christie": {
+      "slug": "ryan-christie",
+      "team": "SCO",
+      "base": 0.68,
+      "prob": 68,
+      "source": "baseline"
+    },
+    "SCO::liam-kelly": {
+      "slug": "liam-kelly",
+      "team": "SCO",
+      "base": 0.65,
+      "prob": 65,
+      "source": "baseline"
+    },
+    "SCO::jack-hendry": {
+      "slug": "jack-hendry",
+      "team": "SCO",
+      "base": 0.6,
+      "prob": 60,
+      "source": "baseline"
+    },
+    "SCO::ross-stewart": {
+      "slug": "ross-stewart",
+      "team": "SCO",
+      "base": 0.52,
+      "prob": 52,
+      "source": "baseline"
+    },
+    "SCO::john-souttar": {
+      "slug": "john-souttar",
+      "team": "SCO",
+      "base": 0.59,
+      "prob": 59,
+      "source": "baseline"
+    },
+    "SCO::dominic-hyam": {
+      "slug": "dominic-hyam",
+      "team": "SCO",
+      "base": 0.58,
+      "prob": 58,
+      "source": "baseline"
+    },
+    "SCO::ben-gannon-doak": {
+      "slug": "ben-gannon-doak",
+      "team": "SCO",
+      "base": 0.9,
+      "prob": 90,
+      "source": "baseline"
+    },
+    "SCO::george-hirst": {
+      "slug": "george-hirst",
+      "team": "SCO",
+      "base": 0.71,
+      "prob": 71,
+      "source": "baseline"
+    },
+    "SCO::lewis-ferguson": {
+      "slug": "lewis-ferguson",
+      "team": "SCO",
+      "base": 0.77,
+      "prob": 77,
+      "source": "baseline"
+    },
+    "SCO::lawrence-shankland": {
+      "slug": "lawrence-shankland",
+      "team": "SCO",
+      "base": 0.43,
+      "prob": 43,
+      "source": "baseline"
+    },
+    "SCO::craig-gordon": {
+      "slug": "craig-gordon",
+      "team": "SCO",
+      "base": 0.34,
+      "prob": 34,
+      "source": "baseline"
+    },
+    "SCO::nathan-patterson": {
+      "slug": "nathan-patterson",
+      "team": "SCO",
+      "base": 0.94,
+      "prob": 94,
+      "source": "baseline"
+    },
+    "SCO::kenny-mclean": {
+      "slug": "kenny-mclean",
+      "team": "SCO",
+      "base": 0.53,
+      "prob": 53,
+      "source": "baseline"
+    },
+    "SCO::anthony-ralston": {
+      "slug": "anthony-ralston",
+      "team": "SCO",
+      "base": 0.69,
+      "prob": 69,
+      "source": "baseline"
+    },
+    "SCO::findlay-curtis": {
+      "slug": "findlay-curtis",
+      "team": "SCO",
+      "base": 0.72,
+      "prob": 72,
+      "source": "baseline"
+    },
+    "SCO::scott-mckenna": {
+      "slug": "scott-mckenna",
+      "team": "SCO",
+      "base": 0.65,
+      "prob": 65,
+      "source": "baseline"
+    },
+    "AUS::mathew-ryan": {
+      "slug": "mathew-ryan",
+      "team": "AUS",
+      "base": 0.71,
+      "prob": 71,
+      "source": "baseline"
+    },
+    "AUS::milos-degenek": {
+      "slug": "milos-degenek",
+      "team": "AUS",
+      "base": 0.55,
+      "prob": 55,
+      "source": "baseline"
+    },
+    "AUS::alessandro-circati": {
+      "slug": "alessandro-circati",
+      "team": "AUS",
+      "base": 0.86,
+      "prob": 86,
+      "source": "baseline"
+    },
+    "AUS::jacob-italiano": {
+      "slug": "jacob-italiano",
+      "team": "AUS",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "AUS::jordan-bos": {
+      "slug": "jordan-bos",
+      "team": "AUS",
+      "base": 0.87,
+      "prob": 87,
+      "source": "baseline"
+    },
+    "AUS::jason-geria": {
+      "slug": "jason-geria",
+      "team": "AUS",
+      "base": 0.42,
+      "prob": 42,
+      "source": "baseline"
+    },
+    "AUS::mathew-leckie": {
+      "slug": "mathew-leckie",
+      "team": "AUS",
+      "base": 0.34,
+      "prob": 34,
+      "source": "baseline"
+    },
+    "AUS::connor-metcalfe": {
+      "slug": "connor-metcalfe",
+      "team": "AUS",
+      "base": 0.82,
+      "prob": 82,
+      "source": "baseline"
+    },
+    "AUS::mohamed-toure": {
+      "slug": "mohamed-toure",
+      "team": "AUS",
+      "base": 0.89,
+      "prob": 89,
+      "source": "baseline"
+    },
+    "AUS::ajdin-hrustic": {
+      "slug": "ajdin-hrustic",
+      "team": "AUS",
+      "base": 0.57,
+      "prob": 57,
+      "source": "baseline"
+    },
+    "AUS::awer-mabil": {
+      "slug": "awer-mabil",
+      "team": "AUS",
+      "base": 0.59,
+      "prob": 59,
+      "source": "baseline"
+    },
+    "AUS::paul-izzo": {
+      "slug": "paul-izzo",
+      "team": "AUS",
+      "base": 0.6,
+      "prob": 60,
+      "source": "baseline"
+    },
+    "AUS::aiden-oneill": {
+      "slug": "aiden-oneill",
+      "team": "AUS",
+      "base": 0.68,
+      "prob": 68,
+      "source": "baseline"
+    },
+    "AUS::cammy-devlin": {
+      "slug": "cammy-devlin",
+      "team": "AUS",
+      "base": 0.56,
+      "prob": 56,
+      "source": "baseline"
+    },
+    "AUS::kai-trewin": {
+      "slug": "kai-trewin",
+      "team": "AUS",
+      "base": 0.77,
+      "prob": 77,
+      "source": "baseline"
+    },
+    "AUS::aziz-behich": {
+      "slug": "aziz-behich",
+      "team": "AUS",
+      "base": 0.35,
+      "prob": 35,
+      "source": "baseline"
+    },
+    "AUS::nestory-irankunda": {
+      "slug": "nestory-irankunda",
+      "team": "AUS",
+      "base": 0.91,
+      "prob": 91,
+      "source": "baseline"
+    },
+    "AUS::patrick-beach": {
+      "slug": "patrick-beach",
+      "team": "AUS",
+      "base": 0.71,
+      "prob": 71,
+      "source": "baseline"
+    },
+    "AUS::harry-souttar": {
+      "slug": "harry-souttar",
+      "team": "AUS",
+      "base": 0.85,
+      "prob": 85,
+      "source": "baseline"
+    },
+    "AUS::cristian-volpato": {
+      "slug": "cristian-volpato",
+      "team": "AUS",
+      "base": 0.79,
+      "prob": 79,
+      "source": "baseline"
+    },
+    "AUS::cameron-burgess": {
+      "slug": "cameron-burgess",
+      "team": "AUS",
+      "base": 0.67,
+      "prob": 67,
+      "source": "baseline"
+    },
+    "AUS::jackson-irvine": {
+      "slug": "jackson-irvine",
+      "team": "AUS",
+      "base": 0.55,
+      "prob": 55,
+      "source": "baseline"
+    },
+    "AUS::nishan-velupillay": {
+      "slug": "nishan-velupillay",
+      "team": "AUS",
+      "base": 0.67,
+      "prob": 67,
+      "source": "baseline"
+    },
+    "AUS::paul-okon-engstler": {
+      "slug": "paul-okon-engstler",
+      "team": "AUS",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "AUS::lucas-herrington": {
+      "slug": "lucas-herrington",
+      "team": "AUS",
+      "base": 0.76,
+      "prob": 76,
+      "source": "baseline"
+    },
+    "AUS::tete-yengi": {
+      "slug": "tete-yengi",
+      "team": "AUS",
+      "base": 0.59,
+      "prob": 59,
+      "source": "baseline"
+    },
+    "PAR::gatito-fernandez": {
+      "slug": "gatito-fernandez",
+      "team": "PAR",
+      "base": 0.36,
+      "prob": 36,
+      "source": "baseline"
+    },
+    "PAR::gustavo-velazquez": {
+      "slug": "gustavo-velazquez",
+      "team": "PAR",
+      "base": 0.3,
+      "prob": 30,
+      "source": "baseline"
+    },
+    "PAR::omar-alderete": {
+      "slug": "omar-alderete",
+      "team": "PAR",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "PAR::juan-jose-caceres": {
+      "slug": "juan-jose-caceres",
+      "team": "PAR",
+      "base": 0.76,
+      "prob": 76,
+      "source": "baseline"
+    },
+    "PAR::fabian-balbuena": {
+      "slug": "fabian-balbuena",
+      "team": "PAR",
+      "base": 0.42,
+      "prob": 42,
+      "source": "baseline"
+    },
+    "PAR::junior-alonso": {
+      "slug": "junior-alonso",
+      "team": "PAR",
+      "base": 0.53,
+      "prob": 53,
+      "source": "baseline"
+    },
+    "PAR::ramon-sosa": {
+      "slug": "ramon-sosa",
+      "team": "PAR",
+      "base": 0.72,
+      "prob": 72,
+      "source": "baseline"
+    },
+    "PAR::diego-gomez": {
+      "slug": "diego-gomez",
+      "team": "PAR",
+      "base": 0.94,
+      "prob": 94,
+      "source": "baseline"
+    },
+    "PAR::antonio-sanabria": {
+      "slug": "antonio-sanabria",
+      "team": "PAR",
+      "base": 0.63,
+      "prob": 63,
+      "source": "baseline"
+    },
+    "PAR::miguel-almiron": {
+      "slug": "miguel-almiron",
+      "team": "PAR",
+      "base": 0.53,
+      "prob": 53,
+      "source": "baseline"
+    },
+    "PAR::mauricio": {
+      "slug": "mauricio",
+      "team": "PAR",
+      "base": 0.72,
+      "prob": 72,
+      "source": "baseline"
+    },
+    "PAR::orlando-gill": {
+      "slug": "orlando-gill",
+      "team": "PAR",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "PAR::jose-canale": {
+      "slug": "jose-canale",
+      "team": "PAR",
+      "base": 0.49,
+      "prob": 49,
+      "source": "baseline"
+    },
+    "PAR::andres-cubas": {
+      "slug": "andres-cubas",
+      "team": "PAR",
+      "base": 0.59,
+      "prob": 59,
+      "source": "baseline"
+    },
+    "PAR::gustavo-gomez": {
+      "slug": "gustavo-gomez",
+      "team": "PAR",
+      "base": 0.53,
+      "prob": 53,
+      "source": "baseline"
+    },
+    "PAR::damian-bobadilla": {
+      "slug": "damian-bobadilla",
+      "team": "PAR",
+      "base": 0.79,
+      "prob": 79,
+      "source": "baseline"
+    },
+    "PAR::kaku": {
+      "slug": "kaku",
+      "team": "PAR",
+      "base": 0.46,
+      "prob": 46,
+      "source": "baseline"
+    },
+    "PAR::alex-arce": {
+      "slug": "alex-arce",
+      "team": "PAR",
+      "base": 0.41,
+      "prob": 41,
+      "source": "baseline"
+    },
+    "PAR::julio-enciso": {
+      "slug": "julio-enciso",
+      "team": "PAR",
+      "base": 0.91,
+      "prob": 91,
+      "source": "baseline"
+    },
+    "PAR::braian-ojeda": {
+      "slug": "braian-ojeda",
+      "team": "PAR",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "PAR::gabriel-avalos": {
+      "slug": "gabriel-avalos",
+      "team": "PAR",
+      "base": 0.28,
+      "prob": 28,
+      "source": "baseline"
+    },
+    "PAR::gaston-olveira": {
+      "slug": "gaston-olveira",
+      "team": "PAR",
+      "base": 0.48,
+      "prob": 48,
+      "source": "baseline"
+    },
+    "PAR::matias-galarza": {
+      "slug": "matias-galarza",
+      "team": "PAR",
+      "base": 0.81,
+      "prob": 81,
+      "source": "baseline"
+    },
+    "PAR::gustavo-caballero": {
+      "slug": "gustavo-caballero",
+      "team": "PAR",
+      "base": 0.81,
+      "prob": 81,
+      "source": "baseline"
+    },
+    "PAR::isidro-pitta": {
+      "slug": "isidro-pitta",
+      "team": "PAR",
+      "base": 0.59,
+      "prob": 59,
+      "source": "baseline"
+    },
+    "PAR::alexandro-maidana": {
+      "slug": "alexandro-maidana",
+      "team": "PAR",
+      "base": 0.71,
+      "prob": 71,
+      "source": "baseline"
+    },
+    "USA::matt-turner": {
+      "slug": "matt-turner",
+      "team": "USA",
+      "base": 0.72,
+      "prob": 72,
+      "source": "baseline"
+    },
+    "USA::sergino-dest": {
+      "slug": "sergino-dest",
+      "team": "USA",
+      "base": 0.87,
+      "prob": 87,
+      "source": "baseline"
+    },
+    "USA::chris-richards": {
+      "slug": "chris-richards",
+      "team": "USA",
+      "base": 0.94,
+      "prob": 94,
+      "source": "baseline"
+    },
+    "USA::tyler-adams": {
+      "slug": "tyler-adams",
+      "team": "USA",
+      "base": 0.87,
+      "prob": 87,
+      "source": "baseline"
+    },
+    "USA::antonee-robinson": {
+      "slug": "antonee-robinson",
+      "team": "USA",
+      "base": 0.82,
+      "prob": 82,
+      "source": "baseline"
+    },
+    "USA::auston-trusty": {
+      "slug": "auston-trusty",
+      "team": "USA",
+      "base": 0.63,
+      "prob": 63,
+      "source": "baseline"
+    },
+    "USA::giovanni-reyna": {
+      "slug": "giovanni-reyna",
+      "team": "USA",
+      "base": 0.95,
+      "prob": 95,
+      "source": "baseline"
+    },
+    "USA::weston-mckennie": {
+      "slug": "weston-mckennie",
+      "team": "USA",
+      "base": 0.79,
+      "prob": 79,
+      "source": "baseline"
+    },
+    "USA::ricardo-pepi": {
+      "slug": "ricardo-pepi",
+      "team": "USA",
+      "base": 0.9,
+      "prob": 90,
+      "source": "baseline"
+    },
+    "USA::christian-pulisic": {
+      "slug": "christian-pulisic",
+      "team": "USA",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "USA::brenden-aaronson": {
+      "slug": "brenden-aaronson",
+      "team": "USA",
+      "base": 0.87,
+      "prob": 87,
+      "source": "baseline"
+    },
+    "USA::miles-robinson": {
+      "slug": "miles-robinson",
+      "team": "USA",
+      "base": 0.7,
+      "prob": 70,
+      "source": "baseline"
+    },
+    "USA::tim-ream": {
+      "slug": "tim-ream",
+      "team": "USA",
+      "base": 0.37,
+      "prob": 37,
+      "source": "baseline"
+    },
+    "USA::sebastian-berhalter": {
+      "slug": "sebastian-berhalter",
+      "team": "USA",
+      "base": 0.77,
+      "prob": 77,
+      "source": "baseline"
+    },
+    "USA::cristian-roldan": {
+      "slug": "cristian-roldan",
+      "team": "USA",
+      "base": 0.57,
+      "prob": 57,
+      "source": "baseline"
+    },
+    "USA::alex-freeman": {
+      "slug": "alex-freeman",
+      "team": "USA",
+      "base": 0.9,
+      "prob": 90,
+      "source": "baseline"
+    },
+    "USA::malik-tillman": {
+      "slug": "malik-tillman",
+      "team": "USA",
+      "base": 0.93,
+      "prob": 93,
+      "source": "baseline"
+    },
+    "USA::max-arfsten": {
+      "slug": "max-arfsten",
+      "team": "USA",
+      "base": 0.83,
+      "prob": 83,
+      "source": "baseline"
+    },
+    "USA::haji-wright": {
+      "slug": "haji-wright",
+      "team": "USA",
+      "base": 0.7,
+      "prob": 70,
+      "source": "baseline"
+    },
+    "USA::folarin-balogun": {
+      "slug": "folarin-balogun",
+      "team": "USA",
+      "base": 0.82,
+      "prob": 82,
+      "source": "baseline"
+    },
+    "USA::timothy-weah": {
+      "slug": "timothy-weah",
+      "team": "USA",
+      "base": 0.82,
+      "prob": 82,
+      "source": "baseline"
+    },
+    "USA::mark-mckenzie": {
+      "slug": "mark-mckenzie",
+      "team": "USA",
+      "base": 0.82,
+      "prob": 82,
+      "source": "baseline"
+    },
+    "USA::joe-scally": {
+      "slug": "joe-scally",
+      "team": "USA",
+      "base": 0.92,
+      "prob": 92,
+      "source": "baseline"
+    },
+    "USA::matt-freese": {
+      "slug": "matt-freese",
+      "team": "USA",
+      "base": 0.81,
+      "prob": 81,
+      "source": "baseline"
+    },
+    "USA::chris-brady": {
+      "slug": "chris-brady",
+      "team": "USA",
+      "base": 0.73,
+      "prob": 73,
+      "source": "baseline"
+    },
+    "USA::alejandro-zendejas": {
+      "slug": "alejandro-zendejas",
+      "team": "USA",
+      "base": 0.55,
+      "prob": 55,
+      "source": "baseline"
+    },
+    "CUW::eloy-room": {
+      "slug": "eloy-room",
+      "team": "CUW",
+      "base": 0.48,
+      "prob": 48,
+      "source": "baseline"
+    },
+    "CUW::shurandy-sambo": {
+      "slug": "shurandy-sambo",
+      "team": "CUW",
+      "base": 0.8,
+      "prob": 80,
+      "source": "baseline"
+    },
+    "CUW::jurien-gaari": {
+      "slug": "jurien-gaari",
+      "team": "CUW",
+      "base": 0.53,
+      "prob": 53,
+      "source": "baseline"
+    },
+    "CUW::roshon-van-eijma": {
+      "slug": "roshon-van-eijma",
+      "team": "CUW",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "CUW::sherel-floranus": {
+      "slug": "sherel-floranus",
+      "team": "CUW",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "CUW::godfried-roemeratoe": {
+      "slug": "godfried-roemeratoe",
+      "team": "CUW",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "CUW::juninho-bacuna": {
+      "slug": "juninho-bacuna",
+      "team": "CUW",
+      "base": 0.7,
+      "prob": 70,
+      "source": "baseline"
+    },
+    "CUW::livano-comenencia": {
+      "slug": "livano-comenencia",
+      "team": "CUW",
+      "base": 0.8,
+      "prob": 80,
+      "source": "baseline"
+    },
+    "CUW::jurgen-locadia": {
+      "slug": "jurgen-locadia",
+      "team": "CUW",
+      "base": 0.33,
+      "prob": 33,
+      "source": "baseline"
+    },
+    "CUW::leandro-bacuna": {
+      "slug": "leandro-bacuna",
+      "team": "CUW",
+      "base": 0.38,
+      "prob": 38,
+      "source": "baseline"
+    },
+    "CUW::jeremy-antonisse": {
+      "slug": "jeremy-antonisse",
+      "team": "CUW",
+      "base": 0.79,
+      "prob": 79,
+      "source": "baseline"
+    },
+    "CUW::sontje-hansen": {
+      "slug": "sontje-hansen",
+      "team": "CUW",
+      "base": 0.84,
+      "prob": 84,
+      "source": "baseline"
+    },
+    "CUW::tyrese-noslin": {
+      "slug": "tyrese-noslin",
+      "team": "CUW",
+      "base": 0.77,
+      "prob": 77,
+      "source": "baseline"
+    },
+    "CUW::kenji-gorre": {
+      "slug": "kenji-gorre",
+      "team": "CUW",
+      "base": 0.42,
+      "prob": 42,
+      "source": "baseline"
+    },
+    "CUW::arjany-martha": {
+      "slug": "arjany-martha",
+      "team": "CUW",
+      "base": 0.88,
+      "prob": 88,
+      "source": "baseline"
+    },
+    "CUW::jearl-margaritha": {
+      "slug": "jearl-margaritha",
+      "team": "CUW",
+      "base": 0.68,
+      "prob": 68,
+      "source": "baseline"
+    },
+    "CUW::brandley-kuwas": {
+      "slug": "brandley-kuwas",
+      "team": "CUW",
+      "base": 0.37,
+      "prob": 37,
+      "source": "baseline"
+    },
+    "CUW::armando-obispo": {
+      "slug": "armando-obispo",
+      "team": "CUW",
+      "base": 0.72,
+      "prob": 72,
+      "source": "baseline"
+    },
+    "CUW::gervane-kastaneer": {
+      "slug": "gervane-kastaneer",
+      "team": "CUW",
+      "base": 0.5,
+      "prob": 50,
+      "source": "baseline"
+    },
+    "CUW::joshua-brenet": {
+      "slug": "joshua-brenet",
+      "team": "CUW",
+      "base": 0.49,
+      "prob": 49,
+      "source": "baseline"
+    },
+    "CUW::tahith-chong": {
+      "slug": "tahith-chong",
+      "team": "CUW",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "CUW::kevin-felida": {
+      "slug": "kevin-felida",
+      "team": "CUW",
+      "base": 0.72,
+      "prob": 72,
+      "source": "baseline"
+    },
+    "CUW::riechedly-bazoer": {
+      "slug": "riechedly-bazoer",
+      "team": "CUW",
+      "base": 0.54,
+      "prob": 54,
+      "source": "baseline"
+    },
+    "CUW::deveron-fonville": {
+      "slug": "deveron-fonville",
+      "team": "CUW",
+      "base": 0.76,
+      "prob": 76,
+      "source": "baseline"
+    },
+    "CUW::tyrick-bodak": {
+      "slug": "tyrick-bodak",
+      "team": "CUW",
+      "base": 0.78,
+      "prob": 78,
+      "source": "baseline"
+    },
+    "CUW::trevor-doornbusch": {
+      "slug": "trevor-doornbusch",
+      "team": "CUW",
+      "base": 0.8,
+      "prob": 80,
+      "source": "baseline"
+    },
+    "ECU::hernan-galindez": {
+      "slug": "hernan-galindez",
+      "team": "ECU",
+      "base": 0.32,
+      "prob": 32,
+      "source": "baseline"
+    },
+    "ECU::felix-torres": {
+      "slug": "felix-torres",
+      "team": "ECU",
+      "base": 0.72,
+      "prob": 72,
+      "source": "baseline"
+    },
+    "ECU::piero-hincapie": {
+      "slug": "piero-hincapie",
+      "team": "ECU",
+      "base": 1,
+      "prob": 100,
+      "source": "baseline"
+    },
+    "ECU::joel-ordonez": {
+      "slug": "joel-ordonez",
+      "team": "ECU",
+      "base": 0.79,
+      "prob": 79,
+      "source": "baseline"
+    },
+    "ECU::jordy-alcivar": {
+      "slug": "jordy-alcivar",
+      "team": "ECU",
+      "base": 0.64,
+      "prob": 64,
+      "source": "baseline"
+    },
+    "ECU::willian-pacho": {
+      "slug": "willian-pacho",
+      "team": "ECU",
+      "base": 0.91,
+      "prob": 91,
+      "source": "baseline"
+    },
+    "ECU::pervis-estupinan": {
+      "slug": "pervis-estupinan",
+      "team": "ECU",
+      "base": 0.84,
+      "prob": 84,
+      "source": "baseline"
+    },
+    "ECU::anthony-valencia": {
+      "slug": "anthony-valencia",
+      "team": "ECU",
+      "base": 0.72,
+      "prob": 72,
+      "source": "baseline"
+    },
+    "ECU::john-yeboah": {
+      "slug": "john-yeboah",
+      "team": "ECU",
+      "base": 0.77,
+      "prob": 77,
+      "source": "baseline"
+    },
+    "ECU::kendry-paez": {
+      "slug": "kendry-paez",
+      "team": "ECU",
+      "base": 0.82,
+      "prob": 82,
+      "source": "baseline"
+    },
+    "ECU::kevin-rodriguez": {
+      "slug": "kevin-rodriguez",
+      "team": "ECU",
+      "base": 0.7,
+      "prob": 70,
+      "source": "baseline"
+    },
+    "ECU::moises-ramirez": {
+      "slug": "moises-ramirez",
+      "team": "ECU",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "ECU::enner-valencia": {
+      "slug": "enner-valencia",
+      "team": "ECU",
+      "base": 0.34,
+      "prob": 34,
+      "source": "baseline"
+    },
+    "ECU::alan-minda": {
+      "slug": "alan-minda",
+      "team": "ECU",
+      "base": 0.83,
+      "prob": 83,
+      "source": "baseline"
+    },
+    "ECU::pedro-vite": {
+      "slug": "pedro-vite",
+      "team": "ECU",
+      "base": 0.79,
+      "prob": 79,
+      "source": "baseline"
+    },
+    "ECU::jordy-caicedo": {
+      "slug": "jordy-caicedo",
+      "team": "ECU",
+      "base": 0.53,
+      "prob": 53,
+      "source": "baseline"
+    },
+    "ECU::angelo-preciado": {
+      "slug": "angelo-preciado",
+      "team": "ECU",
+      "base": 0.77,
+      "prob": 77,
+      "source": "baseline"
+    },
+    "ECU::denil-castillo": {
+      "slug": "denil-castillo",
+      "team": "ECU",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "ECU::gonzalo-plata": {
+      "slug": "gonzalo-plata",
+      "team": "ECU",
+      "base": 0.77,
+      "prob": 77,
+      "source": "baseline"
+    },
+    "ECU::nilson-angulo": {
+      "slug": "nilson-angulo",
+      "team": "ECU",
+      "base": 0.9,
+      "prob": 90,
+      "source": "baseline"
+    },
+    "ECU::alan-franco": {
+      "slug": "alan-franco",
+      "team": "ECU",
+      "base": 0.72,
+      "prob": 72,
+      "source": "baseline"
+    },
+    "ECU::gonzalo-valle": {
+      "slug": "gonzalo-valle",
+      "team": "ECU",
+      "base": 0.65,
+      "prob": 65,
+      "source": "baseline"
+    },
+    "ECU::moises-caicedo": {
+      "slug": "moises-caicedo",
+      "team": "ECU",
+      "base": 0.97,
+      "prob": 97,
+      "source": "baseline"
+    },
+    "ECU::jeremy-arevalo": {
+      "slug": "jeremy-arevalo",
+      "team": "ECU",
+      "base": 0.83,
+      "prob": 83,
+      "source": "baseline"
+    },
+    "ECU::jackson-porozo": {
+      "slug": "jackson-porozo",
+      "team": "ECU",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "ECU::yaimar-medina": {
+      "slug": "yaimar-medina",
+      "team": "ECU",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "CIV::yahia-fofana": {
+      "slug": "yahia-fofana",
+      "team": "CIV",
+      "base": 0.87,
+      "prob": 87,
+      "source": "baseline"
+    },
+    "CIV::ousmane-diomande": {
+      "slug": "ousmane-diomande",
+      "team": "CIV",
+      "base": 0.78,
+      "prob": 78,
+      "source": "baseline"
+    },
+    "CIV::ghislain-konan": {
+      "slug": "ghislain-konan",
+      "team": "CIV",
+      "base": 0.6,
+      "prob": 60,
+      "source": "baseline"
+    },
+    "CIV::jean-michael-seri": {
+      "slug": "jean-michael-seri",
+      "team": "CIV",
+      "base": 0.35,
+      "prob": 35,
+      "source": "baseline"
+    },
+    "CIV::wilfried-singo": {
+      "slug": "wilfried-singo",
+      "team": "CIV",
+      "base": 0.84,
+      "prob": 84,
+      "source": "baseline"
+    },
+    "CIV::seko-fofana": {
+      "slug": "seko-fofana",
+      "team": "CIV",
+      "base": 0.51,
+      "prob": 51,
+      "source": "baseline"
+    },
+    "CIV::odilon-kossounou": {
+      "slug": "odilon-kossounou",
+      "team": "CIV",
+      "base": 0.93,
+      "prob": 93,
+      "source": "baseline"
+    },
+    "CIV::franck-kessie": {
+      "slug": "franck-kessie",
+      "team": "CIV",
+      "base": 0.63,
+      "prob": 63,
+      "source": "baseline"
+    },
+    "CIV::ange-yoan-bonny": {
+      "slug": "ange-yoan-bonny",
+      "team": "CIV",
+      "base": 0.79,
+      "prob": 79,
+      "source": "baseline"
+    },
+    "CIV::simon-adingra": {
+      "slug": "simon-adingra",
+      "team": "CIV",
+      "base": 0.87,
+      "prob": 87,
+      "source": "baseline"
+    },
+    "CIV::yan-diomande": {
+      "slug": "yan-diomande",
+      "team": "CIV",
+      "base": 0.86,
+      "prob": 86,
+      "source": "baseline"
+    },
+    "CIV::elye-wahi": {
+      "slug": "elye-wahi",
+      "team": "CIV",
+      "base": 0.79,
+      "prob": 79,
+      "source": "baseline"
+    },
+    "CIV::christopher-operi": {
+      "slug": "christopher-operi",
+      "team": "CIV",
+      "base": 0.62,
+      "prob": 62,
+      "source": "baseline"
+    },
+    "CIV::oumar-diakite": {
+      "slug": "oumar-diakite",
+      "team": "CIV",
+      "base": 0.83,
+      "prob": 83,
+      "source": "baseline"
+    },
+    "CIV::amad-diallo": {
+      "slug": "amad-diallo",
+      "team": "CIV",
+      "base": 0.89,
+      "prob": 89,
+      "source": "baseline"
+    },
+    "CIV::mohamed-kone": {
+      "slug": "mohamed-kone",
+      "team": "CIV",
+      "base": 0.68,
+      "prob": 68,
+      "source": "baseline"
+    },
+    "CIV::guela-doue": {
+      "slug": "guela-doue",
+      "team": "CIV",
+      "base": 0.88,
+      "prob": 88,
+      "source": "baseline"
+    },
+    "CIV::ibrahim-sangare": {
+      "slug": "ibrahim-sangare",
+      "team": "CIV",
+      "base": 0.77,
+      "prob": 77,
+      "source": "baseline"
+    },
+    "CIV::nicolas-pepe": {
+      "slug": "nicolas-pepe",
+      "team": "CIV",
+      "base": 0.61,
+      "prob": 61,
+      "source": "baseline"
+    },
+    "CIV::emmanuel-agbadou": {
+      "slug": "emmanuel-agbadou",
+      "team": "CIV",
+      "base": 0.65,
+      "prob": 65,
+      "source": "baseline"
+    },
+    "CIV::evan-ndicka": {
+      "slug": "evan-ndicka",
+      "team": "CIV",
+      "base": 0.83,
+      "prob": 83,
+      "source": "baseline"
+    },
+    "CIV::evann-guessand": {
+      "slug": "evann-guessand",
+      "team": "CIV",
+      "base": 0.85,
+      "prob": 85,
+      "source": "baseline"
+    },
+    "CIV::alban-lafont": {
+      "slug": "alban-lafont",
+      "team": "CIV",
+      "base": 0.73,
+      "prob": 73,
+      "source": "baseline"
+    },
+    "CIV::bazoumana-toure": {
+      "slug": "bazoumana-toure",
+      "team": "CIV",
+      "base": 0.84,
+      "prob": 84,
+      "source": "baseline"
+    },
+    "CIV::parfait-guiagon": {
+      "slug": "parfait-guiagon",
+      "team": "CIV",
+      "base": 0.71,
+      "prob": 71,
+      "source": "baseline"
+    },
+    "CIV::christ-inao-oulai": {
+      "slug": "christ-inao-oulai",
+      "team": "CIV",
+      "base": 0.78,
+      "prob": 78,
+      "source": "baseline"
+    },
+    "SWE::jacob-widell-zetterstrom": {
+      "slug": "jacob-widell-zetterstrom",
+      "team": "SWE",
+      "base": 0.85,
+      "prob": 85,
+      "source": "baseline"
+    },
+    "SWE::gustaf-lagerbielke": {
+      "slug": "gustaf-lagerbielke",
+      "team": "SWE",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "SWE::victor-lindelof": {
+      "slug": "victor-lindelof",
+      "team": "SWE",
+      "base": 0.68,
+      "prob": 68,
+      "source": "baseline"
+    },
+    "SWE::isak-hien": {
+      "slug": "isak-hien",
+      "team": "SWE",
+      "base": 0.84,
+      "prob": 84,
+      "source": "baseline"
+    },
+    "SWE::gabriel-gudmundsson": {
+      "slug": "gabriel-gudmundsson",
+      "team": "SWE",
+      "base": 0.86,
+      "prob": 86,
+      "source": "baseline"
+    },
+    "SWE::herman-johansson": {
+      "slug": "herman-johansson",
+      "team": "SWE",
+      "base": 0.57,
+      "prob": 57,
+      "source": "baseline"
+    },
+    "SWE::lucas-bergvall": {
+      "slug": "lucas-bergvall",
+      "team": "SWE",
+      "base": 0.89,
+      "prob": 89,
+      "source": "baseline"
+    },
+    "SWE::daniel-svensson": {
+      "slug": "daniel-svensson",
+      "team": "SWE",
+      "base": 0.88,
+      "prob": 88,
+      "source": "baseline"
+    },
+    "SWE::alexander-isak": {
+      "slug": "alexander-isak",
+      "team": "SWE",
+      "base": 0.82,
+      "prob": 82,
+      "source": "baseline"
+    },
+    "SWE::benjamin-nygren": {
+      "slug": "benjamin-nygren",
+      "team": "SWE",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "SWE::anthony-elanga": {
+      "slug": "anthony-elanga",
+      "team": "SWE",
+      "base": 0.93,
+      "prob": 93,
+      "source": "baseline"
+    },
+    "SWE::viktor-johansson": {
+      "slug": "viktor-johansson",
+      "team": "SWE",
+      "base": 0.9,
+      "prob": 90,
+      "source": "baseline"
+    },
+    "SWE::ken-sema": {
+      "slug": "ken-sema",
+      "team": "SWE",
+      "base": 0.41,
+      "prob": 41,
+      "source": "baseline"
+    },
+    "SWE::hjalmar-ekdal": {
+      "slug": "hjalmar-ekdal",
+      "team": "SWE",
+      "base": 0.77,
+      "prob": 77,
+      "source": "baseline"
+    },
+    "SWE::carl-starfelt": {
+      "slug": "carl-starfelt",
+      "team": "SWE",
+      "base": 0.63,
+      "prob": 63,
+      "source": "baseline"
+    },
+    "SWE::jesper-karlstrom": {
+      "slug": "jesper-karlstrom",
+      "team": "SWE",
+      "base": 0.58,
+      "prob": 58,
+      "source": "baseline"
+    },
+    "SWE::viktor-gyokeres": {
+      "slug": "viktor-gyokeres",
+      "team": "SWE",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "SWE::yasin-ayari": {
+      "slug": "yasin-ayari",
+      "team": "SWE",
+      "base": 0.93,
+      "prob": 93,
+      "source": "baseline"
+    },
+    "SWE::mattias-svanberg": {
+      "slug": "mattias-svanberg",
+      "team": "SWE",
+      "base": 0.83,
+      "prob": 83,
+      "source": "baseline"
+    },
+    "SWE::eric-smith": {
+      "slug": "eric-smith",
+      "team": "SWE",
+      "base": 0.64,
+      "prob": 64,
+      "source": "baseline"
+    },
+    "SWE::alexander-bernhardsson": {
+      "slug": "alexander-bernhardsson",
+      "team": "SWE",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "SWE::besfort-zeneli": {
+      "slug": "besfort-zeneli",
+      "team": "SWE",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "SWE::kristoffer-nordfeldt": {
+      "slug": "kristoffer-nordfeldt",
+      "team": "SWE",
+      "base": 0.38,
+      "prob": 38,
+      "source": "baseline"
+    },
+    "SWE::elliot-stroud": {
+      "slug": "elliot-stroud",
+      "team": "SWE",
+      "base": 0.7,
+      "prob": 70,
+      "source": "baseline"
+    },
+    "SWE::gustaf-nilsson": {
+      "slug": "gustaf-nilsson",
+      "team": "SWE",
+      "base": 0.49,
+      "prob": 49,
+      "source": "baseline"
+    },
+    "SWE::taha-ali": {
+      "slug": "taha-ali",
+      "team": "SWE",
+      "base": 0.49,
+      "prob": 49,
+      "source": "baseline"
+    },
+    "TUN::mouhib-chamakh": {
+      "slug": "mouhib-chamakh",
+      "team": "TUN",
+      "base": 0.72,
+      "prob": 72,
+      "source": "baseline"
+    },
+    "TUN::ali-abdi": {
+      "slug": "ali-abdi",
+      "team": "TUN",
+      "base": 0.57,
+      "prob": 57,
+      "source": "baseline"
+    },
+    "TUN::montassar-talbi": {
+      "slug": "montassar-talbi",
+      "team": "TUN",
+      "base": 0.82,
+      "prob": 82,
+      "source": "baseline"
+    },
+    "TUN::omar-rekik": {
+      "slug": "omar-rekik",
+      "team": "TUN",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "TUN::adem-arous": {
+      "slug": "adem-arous",
+      "team": "TUN",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "TUN::dylan-bronn": {
+      "slug": "dylan-bronn",
+      "team": "TUN",
+      "base": 0.6,
+      "prob": 60,
+      "source": "baseline"
+    },
+    "TUN::elias-achouri": {
+      "slug": "elias-achouri",
+      "team": "TUN",
+      "base": 0.65,
+      "prob": 65,
+      "source": "baseline"
+    },
+    "TUN::elias-saad": {
+      "slug": "elias-saad",
+      "team": "TUN",
+      "base": 0.71,
+      "prob": 71,
+      "source": "baseline"
+    },
+    "TUN::hazem-mastouri": {
+      "slug": "hazem-mastouri",
+      "team": "TUN",
+      "base": 0.52,
+      "prob": 52,
+      "source": "baseline"
+    },
+    "TUN::hannibal-mejbri": {
+      "slug": "hannibal-mejbri",
+      "team": "TUN",
+      "base": 0.99,
+      "prob": 99,
+      "source": "baseline"
+    },
+    "TUN::ismael-gharbi": {
+      "slug": "ismael-gharbi",
+      "team": "TUN",
+      "base": 0.89,
+      "prob": 89,
+      "source": "baseline"
+    },
+    "TUN::mortadha-ben-ouanes": {
+      "slug": "mortadha-ben-ouanes",
+      "team": "TUN",
+      "base": 0.49,
+      "prob": 49,
+      "source": "baseline"
+    },
+    "TUN::rani-khedira": {
+      "slug": "rani-khedira",
+      "team": "TUN",
+      "base": 0.45,
+      "prob": 45,
+      "source": "baseline"
+    },
+    "TUN::khalil-ayari": {
+      "slug": "khalil-ayari",
+      "team": "TUN",
+      "base": 0.81,
+      "prob": 81,
+      "source": "baseline"
+    },
+    "TUN::hadj-mahmoud": {
+      "slug": "hadj-mahmoud",
+      "team": "TUN",
+      "base": 0.68,
+      "prob": 68,
+      "source": "baseline"
+    },
+    "TUN::aymen-dahmen": {
+      "slug": "aymen-dahmen",
+      "team": "TUN",
+      "base": 0.82,
+      "prob": 82,
+      "source": "baseline"
+    },
+    "TUN::ellyes-skhiri": {
+      "slug": "ellyes-skhiri",
+      "team": "TUN",
+      "base": 0.65,
+      "prob": 65,
+      "source": "baseline"
+    },
+    "TUN::rayan-elloumi": {
+      "slug": "rayan-elloumi",
+      "team": "TUN",
+      "base": 0.76,
+      "prob": 76,
+      "source": "baseline"
+    },
+    "TUN::firas-chaouat": {
+      "slug": "firas-chaouat",
+      "team": "TUN",
+      "base": 0.5,
+      "prob": 50,
+      "source": "baseline"
+    },
+    "TUN::yan-valery": {
+      "slug": "yan-valery",
+      "team": "TUN",
+      "base": 0.73,
+      "prob": 73,
+      "source": "baseline"
+    },
+    "TUN::mohamed-amine-ben-hamida": {
+      "slug": "mohamed-amine-ben-hamida",
+      "team": "TUN",
+      "base": 0.5,
+      "prob": 50,
+      "source": "baseline"
+    },
+    "TUN::sabri-ben-hessen": {
+      "slug": "sabri-ben-hessen",
+      "team": "TUN",
+      "base": 0.64,
+      "prob": 64,
+      "source": "baseline"
+    },
+    "TUN::moutaz-neffati": {
+      "slug": "moutaz-neffati",
+      "team": "TUN",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "TUN::raed-chikhaoui": {
+      "slug": "raed-chikhaoui",
+      "team": "TUN",
+      "base": 0.68,
+      "prob": 68,
+      "source": "baseline"
+    },
+    "TUN::anis-ben-slimane": {
+      "slug": "anis-ben-slimane",
+      "team": "TUN",
+      "base": 0.95,
+      "prob": 95,
+      "source": "baseline"
+    },
+    "TUN::sebastian-tounekti": {
+      "slug": "sebastian-tounekti",
+      "team": "TUN",
+      "base": 0.77,
+      "prob": 77,
+      "source": "baseline"
+    },
+    "BEL::thibaut-courtois": {
+      "slug": "thibaut-courtois",
+      "team": "BEL",
+      "base": 0.71,
+      "prob": 71,
+      "source": "baseline"
+    },
+    "BEL::zeno-debast": {
+      "slug": "zeno-debast",
+      "team": "BEL",
+      "base": 0.82,
+      "prob": 82,
+      "source": "baseline"
+    },
+    "BEL::arthur-theate": {
+      "slug": "arthur-theate",
+      "team": "BEL",
+      "base": 0.91,
+      "prob": 91,
+      "source": "baseline"
+    },
+    "BEL::brandon-mechele": {
+      "slug": "brandon-mechele",
+      "team": "BEL",
+      "base": 0.39,
+      "prob": 39,
+      "source": "baseline"
+    },
+    "BEL::maxim-de-cuyper": {
+      "slug": "maxim-de-cuyper",
+      "team": "BEL",
+      "base": 0.89,
+      "prob": 89,
+      "source": "baseline"
+    },
+    "BEL::axel-witsel": {
+      "slug": "axel-witsel",
+      "team": "BEL",
+      "base": 0.45,
+      "prob": 45,
+      "source": "baseline"
+    },
+    "BEL::kevin-de-bruyne": {
+      "slug": "kevin-de-bruyne",
+      "team": "BEL",
+      "base": 0.44,
+      "prob": 44,
+      "source": "baseline"
+    },
+    "BEL::youri-tielemans": {
+      "slug": "youri-tielemans",
+      "team": "BEL",
+      "base": 0.77,
+      "prob": 77,
+      "source": "baseline"
+    },
+    "BEL::romelu-lukaku": {
+      "slug": "romelu-lukaku",
+      "team": "BEL",
+      "base": 0.49,
+      "prob": 49,
+      "source": "baseline"
+    },
+    "BEL::leandro-trossard": {
+      "slug": "leandro-trossard",
+      "team": "BEL",
+      "base": 0.58,
+      "prob": 58,
+      "source": "baseline"
+    },
+    "BEL::jeremy-doku": {
+      "slug": "jeremy-doku",
+      "team": "BEL",
+      "base": 0.96,
+      "prob": 96,
+      "source": "baseline"
+    },
+    "BEL::senne-lammens": {
+      "slug": "senne-lammens",
+      "team": "BEL",
+      "base": 0.84,
+      "prob": 84,
+      "source": "baseline"
+    },
+    "BEL::mike-penders": {
+      "slug": "mike-penders",
+      "team": "BEL",
+      "base": 0.76,
+      "prob": 76,
+      "source": "baseline"
+    },
+    "BEL::dodi-lukebakio": {
+      "slug": "dodi-lukebakio",
+      "team": "BEL",
+      "base": 0.55,
+      "prob": 55,
+      "source": "baseline"
+    },
+    "BEL::thomas-meunier": {
+      "slug": "thomas-meunier",
+      "team": "BEL",
+      "base": 0.48,
+      "prob": 48,
+      "source": "baseline"
+    },
+    "BEL::koni-de-winter": {
+      "slug": "koni-de-winter",
+      "team": "BEL",
+      "base": 0.84,
+      "prob": 84,
+      "source": "baseline"
+    },
+    "BEL::charles-de-ketelaere": {
+      "slug": "charles-de-ketelaere",
+      "team": "BEL",
+      "base": 0.84,
+      "prob": 84,
+      "source": "baseline"
+    },
+    "BEL::joaquin-seys": {
+      "slug": "joaquin-seys",
+      "team": "BEL",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "BEL::diego-moreira": {
+      "slug": "diego-moreira",
+      "team": "BEL",
+      "base": 0.8,
+      "prob": 80,
+      "source": "baseline"
+    },
+    "BEL::hans-vanaken": {
+      "slug": "hans-vanaken",
+      "team": "BEL",
+      "base": 0.37,
+      "prob": 37,
+      "source": "baseline"
+    },
+    "BEL::timothy-castagne": {
+      "slug": "timothy-castagne",
+      "team": "BEL",
+      "base": 0.73,
+      "prob": 73,
+      "source": "baseline"
+    },
+    "BEL::alexis-saelemaekers": {
+      "slug": "alexis-saelemaekers",
+      "team": "BEL",
+      "base": 0.77,
+      "prob": 77,
+      "source": "baseline"
+    },
+    "BEL::nicolas-raskin": {
+      "slug": "nicolas-raskin",
+      "team": "BEL",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "BEL::amadou-onana": {
+      "slug": "amadou-onana",
+      "team": "BEL",
+      "base": 0.92,
+      "prob": 92,
+      "source": "baseline"
+    },
+    "BEL::nathan-ngoy": {
+      "slug": "nathan-ngoy",
+      "team": "BEL",
+      "base": 0.81,
+      "prob": 81,
+      "source": "baseline"
+    },
+    "BEL::matias-fernandez-pardo": {
+      "slug": "matias-fernandez-pardo",
+      "team": "BEL",
+      "base": 0.79,
+      "prob": 79,
+      "source": "baseline"
+    },
+    "EGY::mohamed-el-shenawy": {
+      "slug": "mohamed-el-shenawy",
+      "team": "EGY",
+      "base": 0.4,
+      "prob": 40,
+      "source": "baseline"
+    },
+    "EGY::yasser-ibrahim": {
+      "slug": "yasser-ibrahim",
+      "team": "EGY",
+      "base": 0.42,
+      "prob": 42,
+      "source": "baseline"
+    },
+    "EGY::mohamed-hany": {
+      "slug": "mohamed-hany",
+      "team": "EGY",
+      "base": 0.63,
+      "prob": 63,
+      "source": "baseline"
+    },
+    "EGY::hossam-abdelmaguid": {
+      "slug": "hossam-abdelmaguid",
+      "team": "EGY",
+      "base": 0.78,
+      "prob": 78,
+      "source": "baseline"
+    },
+    "EGY::ramy-rabia": {
+      "slug": "ramy-rabia",
+      "team": "EGY",
+      "base": 0.49,
+      "prob": 49,
+      "source": "baseline"
+    },
+    "EGY::mohamed-abdelmonem": {
+      "slug": "mohamed-abdelmonem",
+      "team": "EGY",
+      "base": 0.84,
+      "prob": 84,
+      "source": "baseline"
+    },
+    "EGY::trezeguet": {
+      "slug": "trezeguet",
+      "team": "EGY",
+      "base": 0.45,
+      "prob": 45,
+      "source": "baseline"
+    },
+    "EGY::emam-ashour": {
+      "slug": "emam-ashour",
+      "team": "EGY",
+      "base": 0.65,
+      "prob": 65,
+      "source": "baseline"
+    },
+    "EGY::hamza-abdelkarim": {
+      "slug": "hamza-abdelkarim",
+      "team": "EGY",
+      "base": 0.83,
+      "prob": 83,
+      "source": "baseline"
+    },
+    "EGY::mohamed-salah": {
+      "slug": "mohamed-salah",
+      "team": "EGY",
+      "base": 0.48,
+      "prob": 48,
+      "source": "baseline"
+    },
+    "EGY::mostafa-ziko": {
+      "slug": "mostafa-ziko",
+      "team": "EGY",
+      "base": 0.49,
+      "prob": 49,
+      "source": "baseline"
+    },
+    "EGY::haissem-hassan": {
+      "slug": "haissem-hassan",
+      "team": "EGY",
+      "base": 0.82,
+      "prob": 82,
+      "source": "baseline"
+    },
+    "EGY::ahmed-fatouh": {
+      "slug": "ahmed-fatouh",
+      "team": "EGY",
+      "base": 0.72,
+      "prob": 72,
+      "source": "baseline"
+    },
+    "EGY::hamdy-fathy": {
+      "slug": "hamdy-fathy",
+      "team": "EGY",
+      "base": 0.5,
+      "prob": 50,
+      "source": "baseline"
+    },
+    "EGY::karim-hafez": {
+      "slug": "karim-hafez",
+      "team": "EGY",
+      "base": 0.53,
+      "prob": 53,
+      "source": "baseline"
+    },
+    "EGY::el-mahdy-soliman": {
+      "slug": "el-mahdy-soliman",
+      "team": "EGY",
+      "base": 0.16,
+      "prob": 16,
+      "source": "baseline"
+    },
+    "EGY::mohanad-lasheen": {
+      "slug": "mohanad-lasheen",
+      "team": "EGY",
+      "base": 0.53,
+      "prob": 53,
+      "source": "baseline"
+    },
+    "EGY::nabil-emad": {
+      "slug": "nabil-emad",
+      "team": "EGY",
+      "base": 0.52,
+      "prob": 52,
+      "source": "baseline"
+    },
+    "EGY::marwan-attia": {
+      "slug": "marwan-attia",
+      "team": "EGY",
+      "base": 0.66,
+      "prob": 66,
+      "source": "baseline"
+    },
+    "EGY::ibrahim-adel": {
+      "slug": "ibrahim-adel",
+      "team": "EGY",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "EGY::mahmoud-saber": {
+      "slug": "mahmoud-saber",
+      "team": "EGY",
+      "base": 0.76,
+      "prob": 76,
+      "source": "baseline"
+    },
+    "EGY::omar-marmoush": {
+      "slug": "omar-marmoush",
+      "team": "EGY",
+      "base": 0.82,
+      "prob": 82,
+      "source": "baseline"
+    },
+    "EGY::mostafa-shobeir": {
+      "slug": "mostafa-shobeir",
+      "team": "EGY",
+      "base": 0.76,
+      "prob": 76,
+      "source": "baseline"
+    },
+    "EGY::tarek-alaa": {
+      "slug": "tarek-alaa",
+      "team": "EGY",
+      "base": 0.72,
+      "prob": 72,
+      "source": "baseline"
+    },
+    "EGY::zizo": {
+      "slug": "zizo",
+      "team": "EGY",
+      "base": 0.55,
+      "prob": 55,
+      "source": "baseline"
+    },
+    "EGY::mohamed-alaa": {
+      "slug": "mohamed-alaa",
+      "team": "EGY",
+      "base": 0.68,
+      "prob": 68,
+      "source": "baseline"
+    },
+    "IRN::alireza-beiranvand": {
+      "slug": "alireza-beiranvand",
+      "team": "IRN",
+      "base": 0.6,
+      "prob": 60,
+      "source": "baseline"
+    },
+    "IRN::saleh-hardani": {
+      "slug": "saleh-hardani",
+      "team": "IRN",
+      "base": 0.67,
+      "prob": 67,
+      "source": "baseline"
+    },
+    "IRN::ehsan-hajsafi": {
+      "slug": "ehsan-hajsafi",
+      "team": "IRN",
+      "base": 0.35,
+      "prob": 35,
+      "source": "baseline"
+    },
+    "IRN::shojae-khalilzadeh": {
+      "slug": "shojae-khalilzadeh",
+      "team": "IRN",
+      "base": 0.34,
+      "prob": 34,
+      "source": "baseline"
+    },
+    "IRN::milad-mohammadi": {
+      "slug": "milad-mohammadi",
+      "team": "IRN",
+      "base": 0.5,
+      "prob": 50,
+      "source": "baseline"
+    },
+    "IRN::saeid-ezatolahi": {
+      "slug": "saeid-ezatolahi",
+      "team": "IRN",
+      "base": 0.6,
+      "prob": 60,
+      "source": "baseline"
+    },
+    "IRN::alireza-jahanbakhsh": {
+      "slug": "alireza-jahanbakhsh",
+      "team": "IRN",
+      "base": 0.45,
+      "prob": 45,
+      "source": "baseline"
+    },
+    "IRN::mohammad-mohebi": {
+      "slug": "mohammad-mohebi",
+      "team": "IRN",
+      "base": 0.67,
+      "prob": 67,
+      "source": "baseline"
+    },
+    "IRN::mehdi-taremi": {
+      "slug": "mehdi-taremi",
+      "team": "IRN",
+      "base": 0.35,
+      "prob": 35,
+      "source": "baseline"
+    },
+    "IRN::mehdi-ghayedi": {
+      "slug": "mehdi-ghayedi",
+      "team": "IRN",
+      "base": 0.6,
+      "prob": 60,
+      "source": "baseline"
+    },
+    "IRN::ali-alipour": {
+      "slug": "ali-alipour",
+      "team": "IRN",
+      "base": 0.41,
+      "prob": 41,
+      "source": "baseline"
+    },
+    "IRN::payam-niazmand": {
+      "slug": "payam-niazmand",
+      "team": "IRN",
+      "base": 0.66,
+      "prob": 66,
+      "source": "baseline"
+    },
+    "IRN::hossein-kanaanizadegan": {
+      "slug": "hossein-kanaanizadegan",
+      "team": "IRN",
+      "base": 0.55,
+      "prob": 55,
+      "source": "baseline"
+    },
+    "IRN::saman-ghoddos": {
+      "slug": "saman-ghoddos",
+      "team": "IRN",
+      "base": 0.45,
+      "prob": 45,
+      "source": "baseline"
+    },
+    "IRN::rouzbeh-cheshmi": {
+      "slug": "rouzbeh-cheshmi",
+      "team": "IRN",
+      "base": 0.43,
+      "prob": 43,
+      "source": "baseline"
+    },
+    "IRN::mahdi-torabi": {
+      "slug": "mahdi-torabi",
+      "team": "IRN",
+      "base": 0.5,
+      "prob": 50,
+      "source": "baseline"
+    },
+    "IRN::arya-yousefi": {
+      "slug": "arya-yousefi",
+      "team": "IRN",
+      "base": 0.78,
+      "prob": 78,
+      "source": "baseline"
+    },
+    "IRN::amirhossein-hosseinzadeh": {
+      "slug": "amirhossein-hosseinzadeh",
+      "team": "IRN",
+      "base": 0.67,
+      "prob": 67,
+      "source": "baseline"
+    },
+    "IRN::ali-nemati": {
+      "slug": "ali-nemati",
+      "team": "IRN",
+      "base": 0.57,
+      "prob": 57,
+      "source": "baseline"
+    },
+    "IRN::shahriyar-moghanlou": {
+      "slug": "shahriyar-moghanlou",
+      "team": "IRN",
+      "base": 0.38,
+      "prob": 38,
+      "source": "baseline"
+    },
+    "IRN::mohammad-ghorbani": {
+      "slug": "mohammad-ghorbani",
+      "team": "IRN",
+      "base": 0.76,
+      "prob": 76,
+      "source": "baseline"
+    },
+    "IRN::hossein-hosseini": {
+      "slug": "hossein-hosseini",
+      "team": "IRN",
+      "base": 0.5,
+      "prob": 50,
+      "source": "baseline"
+    },
+    "IRN::ramin-rezaeian": {
+      "slug": "ramin-rezaeian",
+      "team": "IRN",
+      "base": 0.35,
+      "prob": 35,
+      "source": "baseline"
+    },
+    "IRN::dennis-eckert": {
+      "slug": "dennis-eckert",
+      "team": "IRN",
+      "base": 0.41,
+      "prob": 41,
+      "source": "baseline"
+    },
+    "IRN::danial-eiri": {
+      "slug": "danial-eiri",
+      "team": "IRN",
+      "base": 0.68,
+      "prob": 68,
+      "source": "baseline"
+    },
+    "IRN::amirmohammad-razzaghinia": {
+      "slug": "amirmohammad-razzaghinia",
+      "team": "IRN",
+      "base": 0.73,
+      "prob": 73,
+      "source": "baseline"
+    },
+    "NZL::max-crocombe": {
+      "slug": "max-crocombe",
+      "team": "NZL",
+      "base": 0.71,
+      "prob": 71,
+      "source": "baseline"
+    },
+    "NZL::tim-payne": {
+      "slug": "tim-payne",
+      "team": "NZL",
+      "base": 0.55,
+      "prob": 55,
+      "source": "baseline"
+    },
+    "NZL::francis-de-vries": {
+      "slug": "francis-de-vries",
+      "team": "NZL",
+      "base": 0.48,
+      "prob": 48,
+      "source": "baseline"
+    },
+    "NZL::tyler-bindon": {
+      "slug": "tyler-bindon",
+      "team": "NZL",
+      "base": 0.94,
+      "prob": 94,
+      "source": "baseline"
+    },
+    "NZL::michael-boxall": {
+      "slug": "michael-boxall",
+      "team": "NZL",
+      "base": 0.37,
+      "prob": 37,
+      "source": "baseline"
+    },
+    "NZL::joe-bell": {
+      "slug": "joe-bell",
+      "team": "NZL",
+      "base": 0.71,
+      "prob": 71,
+      "source": "baseline"
+    },
+    "NZL::logan-rogerson": {
+      "slug": "logan-rogerson",
+      "team": "NZL",
+      "base": 0.57,
+      "prob": 57,
+      "source": "baseline"
+    },
+    "NZL::marko-stamenic": {
+      "slug": "marko-stamenic",
+      "team": "NZL",
+      "base": 0.97,
+      "prob": 97,
+      "source": "baseline"
+    },
+    "NZL::chris-wood": {
+      "slug": "chris-wood",
+      "team": "NZL",
+      "base": 0.47,
+      "prob": 47,
+      "source": "baseline"
+    },
+    "NZL::sarpreet-singh": {
+      "slug": "sarpreet-singh",
+      "team": "NZL",
+      "base": 0.7,
+      "prob": 70,
+      "source": "baseline"
+    },
+    "NZL::elijah-just": {
+      "slug": "elijah-just",
+      "team": "NZL",
+      "base": 0.78,
+      "prob": 78,
+      "source": "baseline"
+    },
+    "NZL::alex-paulsen": {
+      "slug": "alex-paulsen",
+      "team": "NZL",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "NZL::liberato-cacace": {
+      "slug": "liberato-cacace",
+      "team": "NZL",
+      "base": 0.94,
+      "prob": 94,
+      "source": "baseline"
+    },
+    "NZL::alex-rufer": {
+      "slug": "alex-rufer",
+      "team": "NZL",
+      "base": 0.54,
+      "prob": 54,
+      "source": "baseline"
+    },
+    "NZL::nando-pijnaker": {
+      "slug": "nando-pijnaker",
+      "team": "NZL",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "NZL::finn-surman": {
+      "slug": "finn-surman",
+      "team": "NZL",
+      "base": 0.82,
+      "prob": 82,
+      "source": "baseline"
+    },
+    "NZL::kosta-barbarouses": {
+      "slug": "kosta-barbarouses",
+      "team": "NZL",
+      "base": 0.34,
+      "prob": 34,
+      "source": "baseline"
+    },
+    "NZL::ben-waine": {
+      "slug": "ben-waine",
+      "team": "NZL",
+      "base": 0.88,
+      "prob": 88,
+      "source": "baseline"
+    },
+    "NZL::ben-old": {
+      "slug": "ben-old",
+      "team": "NZL",
+      "base": 0.89,
+      "prob": 89,
+      "source": "baseline"
+    },
+    "NZL::callum-mccowatt": {
+      "slug": "callum-mccowatt",
+      "team": "NZL",
+      "base": 0.71,
+      "prob": 71,
+      "source": "baseline"
+    },
+    "NZL::jesse-randall": {
+      "slug": "jesse-randall",
+      "team": "NZL",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "NZL::michael-woud": {
+      "slug": "michael-woud",
+      "team": "NZL",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "NZL::ryan-thomas": {
+      "slug": "ryan-thomas",
+      "team": "NZL",
+      "base": 0.49,
+      "prob": 49,
+      "source": "baseline"
+    },
+    "NZL::callan-elliot": {
+      "slug": "callan-elliot",
+      "team": "NZL",
+      "base": 0.69,
+      "prob": 69,
+      "source": "baseline"
+    },
+    "NZL::lachlan-bayliss": {
+      "slug": "lachlan-bayliss",
+      "team": "NZL",
+      "base": 0.73,
+      "prob": 73,
+      "source": "baseline"
+    },
+    "NZL::tommy-smith": {
+      "slug": "tommy-smith",
+      "team": "NZL",
+      "base": 0.48,
+      "prob": 48,
+      "source": "baseline"
+    },
+    "CPV::vozinha": {
+      "slug": "vozinha",
+      "team": "CPV",
+      "base": 0.34,
+      "prob": 34,
+      "source": "baseline"
+    },
+    "CPV::stopira": {
+      "slug": "stopira",
+      "team": "CPV",
+      "base": 0.34,
+      "prob": 34,
+      "source": "baseline"
+    },
+    "CPV::diney": {
+      "slug": "diney",
+      "team": "CPV",
+      "base": 0.56,
+      "prob": 56,
+      "source": "baseline"
+    },
+    "CPV::pico": {
+      "slug": "pico",
+      "team": "CPV",
+      "base": 0.56,
+      "prob": 56,
+      "source": "baseline"
+    },
+    "CPV::logan-costa": {
+      "slug": "logan-costa",
+      "team": "CPV",
+      "base": 0.94,
+      "prob": 94,
+      "source": "baseline"
+    },
+    "CPV::kevin-pina": {
+      "slug": "kevin-pina",
+      "team": "CPV",
+      "base": 0.61,
+      "prob": 61,
+      "source": "baseline"
+    },
+    "CPV::jovane-cabral": {
+      "slug": "jovane-cabral",
+      "team": "CPV",
+      "base": 0.65,
+      "prob": 65,
+      "source": "baseline"
+    },
+    "CPV::joao-paulo": {
+      "slug": "joao-paulo",
+      "team": "CPV",
+      "base": 0.68,
+      "prob": 68,
+      "source": "baseline"
+    },
+    "CPV::gilson-benchimol": {
+      "slug": "gilson-benchimol",
+      "team": "CPV",
+      "base": 0.73,
+      "prob": 73,
+      "source": "baseline"
+    },
+    "CPV::jamiro-monteiro": {
+      "slug": "jamiro-monteiro",
+      "team": "CPV",
+      "base": 0.5,
+      "prob": 50,
+      "source": "baseline"
+    },
+    "CPV::garry-rodrigues": {
+      "slug": "garry-rodrigues",
+      "team": "CPV",
+      "base": 0.34,
+      "prob": 34,
+      "source": "baseline"
+    },
+    "CPV::marcio-rosa": {
+      "slug": "marcio-rosa",
+      "team": "CPV",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "CPV::sidny-lopes-cabral": {
+      "slug": "sidny-lopes-cabral",
+      "team": "CPV",
+      "base": 0.77,
+      "prob": 77,
+      "source": "baseline"
+    },
+    "CPV::deroy-duarte": {
+      "slug": "deroy-duarte",
+      "team": "CPV",
+      "base": 0.71,
+      "prob": 71,
+      "source": "baseline"
+    },
+    "CPV::laros-duarte": {
+      "slug": "laros-duarte",
+      "team": "CPV",
+      "base": 0.57,
+      "prob": 57,
+      "source": "baseline"
+    },
+    "CPV::yannick-semedo": {
+      "slug": "yannick-semedo",
+      "team": "CPV",
+      "base": 0.44,
+      "prob": 44,
+      "source": "baseline"
+    },
+    "CPV::willy-semedo": {
+      "slug": "willy-semedo",
+      "team": "CPV",
+      "base": 0.47,
+      "prob": 47,
+      "source": "baseline"
+    },
+    "CPV::telmo-arcanjo": {
+      "slug": "telmo-arcanjo",
+      "team": "CPV",
+      "base": 0.76,
+      "prob": 76,
+      "source": "baseline"
+    },
+    "CPV::dailon-livramento": {
+      "slug": "dailon-livramento",
+      "team": "CPV",
+      "base": 0.73,
+      "prob": 73,
+      "source": "baseline"
+    },
+    "CPV::ryan-mendes": {
+      "slug": "ryan-mendes",
+      "team": "CPV",
+      "base": 0.37,
+      "prob": 37,
+      "source": "baseline"
+    },
+    "CPV::nuno-da-costa": {
+      "slug": "nuno-da-costa",
+      "team": "CPV",
+      "base": 0.26,
+      "prob": 26,
+      "source": "baseline"
+    },
+    "CPV::steven-moreira": {
+      "slug": "steven-moreira",
+      "team": "CPV",
+      "base": 0.5,
+      "prob": 50,
+      "source": "baseline"
+    },
+    "CPV::cj-dos-santos": {
+      "slug": "cj-dos-santos",
+      "team": "CPV",
+      "base": 0.73,
+      "prob": 73,
+      "source": "baseline"
+    },
+    "CPV::wagner-pina": {
+      "slug": "wagner-pina",
+      "team": "CPV",
+      "base": 0.8,
+      "prob": 80,
+      "source": "baseline"
+    },
+    "CPV::kelvin-pires": {
+      "slug": "kelvin-pires",
+      "team": "CPV",
+      "base": 0.72,
+      "prob": 72,
+      "source": "baseline"
+    },
+    "CPV::helio-varela": {
+      "slug": "helio-varela",
+      "team": "CPV",
+      "base": 0.8,
+      "prob": 80,
+      "source": "baseline"
+    },
+    "KSA::nawaf-al-aqidi": {
+      "slug": "nawaf-al-aqidi",
+      "team": "KSA",
+      "base": 0.84,
+      "prob": 84,
+      "source": "baseline"
+    },
+    "KSA::ali-majrashi": {
+      "slug": "ali-majrashi",
+      "team": "KSA",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "KSA::ali-lajami": {
+      "slug": "ali-lajami",
+      "team": "KSA",
+      "base": 0.61,
+      "prob": 61,
+      "source": "baseline"
+    },
+    "KSA::abdulelah-al-amri": {
+      "slug": "abdulelah-al-amri",
+      "team": "KSA",
+      "base": 0.71,
+      "prob": 71,
+      "source": "baseline"
+    },
+    "KSA::hassan-al-tambakti": {
+      "slug": "hassan-al-tambakti",
+      "team": "KSA",
+      "base": 0.82,
+      "prob": 82,
+      "source": "baseline"
+    },
+    "KSA::nasser-al-dawsari": {
+      "slug": "nasser-al-dawsari",
+      "team": "KSA",
+      "base": 0.72,
+      "prob": 72,
+      "source": "baseline"
+    },
+    "KSA::musab-al-juwayr": {
+      "slug": "musab-al-juwayr",
+      "team": "KSA",
+      "base": 0.87,
+      "prob": 87,
+      "source": "baseline"
+    },
+    "KSA::ayman-yahya": {
+      "slug": "ayman-yahya",
+      "team": "KSA",
+      "base": 0.77,
+      "prob": 77,
+      "source": "baseline"
+    },
+    "KSA::firas-al-buraikan": {
+      "slug": "firas-al-buraikan",
+      "team": "KSA",
+      "base": 0.77,
+      "prob": 77,
+      "source": "baseline"
+    },
+    "KSA::salem-al-dawsari": {
+      "slug": "salem-al-dawsari",
+      "team": "KSA",
+      "base": 0.37,
+      "prob": 37,
+      "source": "baseline"
+    },
+    "KSA::saleh-al-shehri": {
+      "slug": "saleh-al-shehri",
+      "team": "KSA",
+      "base": 0.43,
+      "prob": 43,
+      "source": "baseline"
+    },
+    "KSA::saud-abdulhamid": {
+      "slug": "saud-abdulhamid",
+      "team": "KSA",
+      "base": 0.87,
+      "prob": 87,
+      "source": "baseline"
+    },
+    "KSA::nawaf-boushal": {
+      "slug": "nawaf-boushal",
+      "team": "KSA",
+      "base": 0.77,
+      "prob": 77,
+      "source": "baseline"
+    },
+    "KSA::hassan-kadesh": {
+      "slug": "hassan-kadesh",
+      "team": "KSA",
+      "base": 0.4,
+      "prob": 40,
+      "source": "baseline"
+    },
+    "KSA::abdullah-al-khaibari": {
+      "slug": "abdullah-al-khaibari",
+      "team": "KSA",
+      "base": 0.61,
+      "prob": 61,
+      "source": "baseline"
+    },
+    "KSA::ziyad-al-johani": {
+      "slug": "ziyad-al-johani",
+      "team": "KSA",
+      "base": 0.77,
+      "prob": 77,
+      "source": "baseline"
+    },
+    "KSA::khalid-al-ghannam": {
+      "slug": "khalid-al-ghannam",
+      "team": "KSA",
+      "base": 0.65,
+      "prob": 65,
+      "source": "baseline"
+    },
+    "KSA::alaa-al-hejji": {
+      "slug": "alaa-al-hejji",
+      "team": "KSA",
+      "base": 0.42,
+      "prob": 42,
+      "source": "baseline"
+    },
+    "KSA::abdullah-al-hamdan": {
+      "slug": "abdullah-al-hamdan",
+      "team": "KSA",
+      "base": 0.72,
+      "prob": 72,
+      "source": "baseline"
+    },
+    "KSA::sultan-mandash": {
+      "slug": "sultan-mandash",
+      "team": "KSA",
+      "base": 0.35,
+      "prob": 35,
+      "source": "baseline"
+    },
+    "KSA::mohammed-al-owais": {
+      "slug": "mohammed-al-owais",
+      "team": "KSA",
+      "base": 0.58,
+      "prob": 58,
+      "source": "baseline"
+    },
+    "KSA::ahmed-al-kassar": {
+      "slug": "ahmed-al-kassar",
+      "team": "KSA",
+      "base": 0.46,
+      "prob": 46,
+      "source": "baseline"
+    },
+    "KSA::mohamed-kanno": {
+      "slug": "mohamed-kanno",
+      "team": "KSA",
+      "base": 0.53,
+      "prob": 53,
+      "source": "baseline"
+    },
+    "KSA::moteb-al-harbi": {
+      "slug": "moteb-al-harbi",
+      "team": "KSA",
+      "base": 0.77,
+      "prob": 77,
+      "source": "baseline"
+    },
+    "KSA::jehad-thakri": {
+      "slug": "jehad-thakri",
+      "team": "KSA",
+      "base": 0.78,
+      "prob": 78,
+      "source": "baseline"
+    },
+    "KSA::mohammed-abu-al-shamat": {
+      "slug": "mohammed-abu-al-shamat",
+      "team": "KSA",
+      "base": 0.78,
+      "prob": 78,
+      "source": "baseline"
+    },
+    "URU::sergio-rochet": {
+      "slug": "sergio-rochet",
+      "team": "URU",
+      "base": 0.64,
+      "prob": 64,
+      "source": "baseline"
+    },
+    "URU::jose-maria-gimenez": {
+      "slug": "jose-maria-gimenez",
+      "team": "URU",
+      "base": 0.71,
+      "prob": 71,
+      "source": "baseline"
+    },
+    "URU::sebastian-caceres": {
+      "slug": "sebastian-caceres",
+      "team": "URU",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "URU::ronald-araujo": {
+      "slug": "ronald-araujo",
+      "team": "URU",
+      "base": 0.86,
+      "prob": 86,
+      "source": "baseline"
+    },
+    "URU::manuel-ugarte": {
+      "slug": "manuel-ugarte",
+      "team": "URU",
+      "base": 0.94,
+      "prob": 94,
+      "source": "baseline"
+    },
+    "URU::rodrigo-bentancur": {
+      "slug": "rodrigo-bentancur",
+      "team": "URU",
+      "base": 0.77,
+      "prob": 77,
+      "source": "baseline"
+    },
+    "URU::nicolas-de-la-cruz": {
+      "slug": "nicolas-de-la-cruz",
+      "team": "URU",
+      "base": 0.64,
+      "prob": 64,
+      "source": "baseline"
+    },
+    "URU::federico-valverde": {
+      "slug": "federico-valverde",
+      "team": "URU",
+      "base": 0.81,
+      "prob": 81,
+      "source": "baseline"
+    },
+    "URU::darwin-nunez": {
+      "slug": "darwin-nunez",
+      "team": "URU",
+      "base": 0.7,
+      "prob": 70,
+      "source": "baseline"
+    },
+    "URU::giorgian-de-arrascaeta": {
+      "slug": "giorgian-de-arrascaeta",
+      "team": "URU",
+      "base": 0.53,
+      "prob": 53,
+      "source": "baseline"
+    },
+    "URU::facundo-pellistri": {
+      "slug": "facundo-pellistri",
+      "team": "URU",
+      "base": 0.77,
+      "prob": 77,
+      "source": "baseline"
+    },
+    "URU::santiago-mele": {
+      "slug": "santiago-mele",
+      "team": "URU",
+      "base": 0.73,
+      "prob": 73,
+      "source": "baseline"
+    },
+    "URU::guillermo-varela": {
+      "slug": "guillermo-varela",
+      "team": "URU",
+      "base": 0.47,
+      "prob": 47,
+      "source": "baseline"
+    },
+    "URU::agustin-canobbio": {
+      "slug": "agustin-canobbio",
+      "team": "URU",
+      "base": 0.63,
+      "prob": 63,
+      "source": "baseline"
+    },
+    "URU::emiliano-martinez": {
+      "slug": "emiliano-martinez",
+      "team": "URU",
+      "base": 0.66,
+      "prob": 66,
+      "source": "baseline"
+    },
+    "URU::mathias-olivera": {
+      "slug": "mathias-olivera",
+      "team": "URU",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "URU::matias-vina": {
+      "slug": "matias-vina",
+      "team": "URU",
+      "base": 0.68,
+      "prob": 68,
+      "source": "baseline"
+    },
+    "URU::brian-rodriguez": {
+      "slug": "brian-rodriguez",
+      "team": "URU",
+      "base": 0.71,
+      "prob": 71,
+      "source": "baseline"
+    },
+    "URU::rodrigo-aguirre": {
+      "slug": "rodrigo-aguirre",
+      "team": "URU",
+      "base": 0.34,
+      "prob": 34,
+      "source": "baseline"
+    },
+    "URU::maximiliano-araujo": {
+      "slug": "maximiliano-araujo",
+      "team": "URU",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "URU::federico-vinas": {
+      "slug": "federico-vinas",
+      "team": "URU",
+      "base": 0.65,
+      "prob": 65,
+      "source": "baseline"
+    },
+    "URU::joaquin-piquerez": {
+      "slug": "joaquin-piquerez",
+      "team": "URU",
+      "base": 0.65,
+      "prob": 65,
+      "source": "baseline"
+    },
+    "URU::fernando-muslera": {
+      "slug": "fernando-muslera",
+      "team": "URU",
+      "base": 0.34,
+      "prob": 34,
+      "source": "baseline"
+    },
+    "URU::santiago-bueno": {
+      "slug": "santiago-bueno",
+      "team": "URU",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "URU::juan-manuel-sanabria": {
+      "slug": "juan-manuel-sanabria",
+      "team": "URU",
+      "base": 0.69,
+      "prob": 69,
+      "source": "baseline"
+    },
+    "URU::rodrigo-zalazar": {
+      "slug": "rodrigo-zalazar",
+      "team": "URU",
+      "base": 0.63,
+      "prob": 63,
+      "source": "baseline"
+    },
+    "IRQ::fahad-talib": {
+      "slug": "fahad-talib",
+      "team": "IRQ",
+      "base": 0.63,
+      "prob": 63,
+      "source": "baseline"
+    },
+    "IRQ::rebin-sulaka": {
+      "slug": "rebin-sulaka",
+      "team": "IRQ",
+      "base": 0.45,
+      "prob": 45,
+      "source": "baseline"
+    },
+    "IRQ::hussein-ali": {
+      "slug": "hussein-ali",
+      "team": "IRQ",
+      "base": 0.82,
+      "prob": 82,
+      "source": "baseline"
+    },
+    "IRQ::zaid-tahseen": {
+      "slug": "zaid-tahseen",
+      "team": "IRQ",
+      "base": 0.82,
+      "prob": 82,
+      "source": "baseline"
+    },
+    "IRQ::akam-hashim": {
+      "slug": "akam-hashim",
+      "team": "IRQ",
+      "base": 0.65,
+      "prob": 65,
+      "source": "baseline"
+    },
+    "IRQ::manaf-younis": {
+      "slug": "manaf-younis",
+      "team": "IRQ",
+      "base": 0.61,
+      "prob": 61,
+      "source": "baseline"
+    },
+    "IRQ::youssef-amyn": {
+      "slug": "youssef-amyn",
+      "team": "IRQ",
+      "base": 0.82,
+      "prob": 82,
+      "source": "baseline"
+    },
+    "IRQ::ibrahim-bayesh": {
+      "slug": "ibrahim-bayesh",
+      "team": "IRQ",
+      "base": 0.8,
+      "prob": 80,
+      "source": "baseline"
+    },
+    "IRQ::ali-al-hamadi": {
+      "slug": "ali-al-hamadi",
+      "team": "IRQ",
+      "base": 0.9,
+      "prob": 90,
+      "source": "baseline"
+    },
+    "IRQ::mohanad-ali": {
+      "slug": "mohanad-ali",
+      "team": "IRQ",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "IRQ::ahmed-qasem": {
+      "slug": "ahmed-qasem",
+      "team": "IRQ",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "IRQ::jalal-hassan": {
+      "slug": "jalal-hassan",
+      "team": "IRQ",
+      "base": 0.55,
+      "prob": 55,
+      "source": "baseline"
+    },
+    "IRQ::ali-yousif": {
+      "slug": "ali-yousif",
+      "team": "IRQ",
+      "base": 0.42,
+      "prob": 42,
+      "source": "baseline"
+    },
+    "IRQ::zidane-iqbal": {
+      "slug": "zidane-iqbal",
+      "team": "IRQ",
+      "base": 0.87,
+      "prob": 87,
+      "source": "baseline"
+    },
+    "IRQ::ahmed-maknzi": {
+      "slug": "ahmed-maknzi",
+      "team": "IRQ",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "IRQ::amir-al-ammari": {
+      "slug": "amir-al-ammari",
+      "team": "IRQ",
+      "base": 0.65,
+      "prob": 65,
+      "source": "baseline"
+    },
+    "IRQ::ali-jasim": {
+      "slug": "ali-jasim",
+      "team": "IRQ",
+      "base": 0.87,
+      "prob": 87,
+      "source": "baseline"
+    },
+    "IRQ::aymen-hussein": {
+      "slug": "aymen-hussein",
+      "team": "IRQ",
+      "base": 0.55,
+      "prob": 55,
+      "source": "baseline"
+    },
+    "IRQ::kevin-yakob": {
+      "slug": "kevin-yakob",
+      "team": "IRQ",
+      "base": 0.68,
+      "prob": 68,
+      "source": "baseline"
+    },
+    "IRQ::aimar-sher": {
+      "slug": "aimar-sher",
+      "team": "IRQ",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "IRQ::marko-farji": {
+      "slug": "marko-farji",
+      "team": "IRQ",
+      "base": 0.86,
+      "prob": 86,
+      "source": "baseline"
+    },
+    "IRQ::ahmed-basil": {
+      "slug": "ahmed-basil",
+      "team": "IRQ",
+      "base": 0.71,
+      "prob": 71,
+      "source": "baseline"
+    },
+    "IRQ::merchas-doski": {
+      "slug": "merchas-doski",
+      "team": "IRQ",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "IRQ::zaid-ismail": {
+      "slug": "zaid-ismail",
+      "team": "IRQ",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "IRQ::mustafa-saadoon": {
+      "slug": "mustafa-saadoon",
+      "team": "IRQ",
+      "base": 0.79,
+      "prob": 79,
+      "source": "baseline"
+    },
+    "IRQ::frans-putros": {
+      "slug": "frans-putros",
+      "team": "IRQ",
+      "base": 0.45,
+      "prob": 45,
+      "source": "baseline"
+    },
+    "NOR::rjan-nyland": {
+      "slug": "rjan-nyland",
+      "team": "NOR",
+      "base": 0.61,
+      "prob": 61,
+      "source": "baseline"
+    },
+    "NOR::morten-thorsby": {
+      "slug": "morten-thorsby",
+      "team": "NOR",
+      "base": 0.64,
+      "prob": 64,
+      "source": "baseline"
+    },
+    "NOR::kristoffer-ajer": {
+      "slug": "kristoffer-ajer",
+      "team": "NOR",
+      "base": 0.87,
+      "prob": 87,
+      "source": "baseline"
+    },
+    "NOR::leo-stigard": {
+      "slug": "leo-stigard",
+      "team": "NOR",
+      "base": 0.86,
+      "prob": 86,
+      "source": "baseline"
+    },
+    "NOR::david-m-ller-wolfe": {
+      "slug": "david-m-ller-wolfe",
+      "team": "NOR",
+      "base": 0.93,
+      "prob": 93,
+      "source": "baseline"
+    },
+    "NOR::patrick-berg": {
+      "slug": "patrick-berg",
+      "team": "NOR",
+      "base": 0.63,
+      "prob": 63,
+      "source": "baseline"
+    },
+    "NOR::alexander-s-rloth": {
+      "slug": "alexander-s-rloth",
+      "team": "NOR",
+      "base": 0.61,
+      "prob": 61,
+      "source": "baseline"
+    },
+    "NOR::sander-berge": {
+      "slug": "sander-berge",
+      "team": "NOR",
+      "base": 0.82,
+      "prob": 82,
+      "source": "baseline"
+    },
+    "NOR::erling-haaland": {
+      "slug": "erling-haaland",
+      "team": "NOR",
+      "base": 0.87,
+      "prob": 87,
+      "source": "baseline"
+    },
+    "NOR::martin-degaard": {
+      "slug": "martin-degaard",
+      "team": "NOR",
+      "base": 0.82,
+      "prob": 82,
+      "source": "baseline"
+    },
+    "NOR::j-rgen-strand-larsen": {
+      "slug": "j-rgen-strand-larsen",
+      "team": "NOR",
+      "base": 0.82,
+      "prob": 82,
+      "source": "baseline"
+    },
+    "NOR::sander-tangvik": {
+      "slug": "sander-tangvik",
+      "team": "NOR",
+      "base": 0.78,
+      "prob": 78,
+      "source": "baseline"
+    },
+    "NOR::egil-selvik": {
+      "slug": "egil-selvik",
+      "team": "NOR",
+      "base": 0.85,
+      "prob": 85,
+      "source": "baseline"
+    },
+    "NOR::fredrik-aursnes": {
+      "slug": "fredrik-aursnes",
+      "team": "NOR",
+      "base": 0.48,
+      "prob": 48,
+      "source": "baseline"
+    },
+    "NOR::fredrik-andre-bj-rkan": {
+      "slug": "fredrik-andre-bj-rkan",
+      "team": "NOR",
+      "base": 0.68,
+      "prob": 68,
+      "source": "baseline"
+    },
+    "NOR::marcus-holmgren-pedersen": {
+      "slug": "marcus-holmgren-pedersen",
+      "team": "NOR",
+      "base": 0.89,
+      "prob": 89,
+      "source": "baseline"
+    },
+    "NOR::torbj-rn-heggem": {
+      "slug": "torbj-rn-heggem",
+      "team": "NOR",
+      "base": 0.79,
+      "prob": 79,
+      "source": "baseline"
+    },
+    "NOR::kristian-thorstvedt": {
+      "slug": "kristian-thorstvedt",
+      "team": "NOR",
+      "base": 0.81,
+      "prob": 81,
+      "source": "baseline"
+    },
+    "NOR::thelo-aasgaard": {
+      "slug": "thelo-aasgaard",
+      "team": "NOR",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "NOR::antonio-nusa": {
+      "slug": "antonio-nusa",
+      "team": "NOR",
+      "base": 0.91,
+      "prob": 91,
+      "source": "baseline"
+    },
+    "NOR::andreas-schjelderup": {
+      "slug": "andreas-schjelderup",
+      "team": "NOR",
+      "base": 0.77,
+      "prob": 77,
+      "source": "baseline"
+    },
+    "NOR::oscar-bobb": {
+      "slug": "oscar-bobb",
+      "team": "NOR",
+      "base": 0.93,
+      "prob": 93,
+      "source": "baseline"
+    },
+    "NOR::jens-petter-hauge": {
+      "slug": "jens-petter-hauge",
+      "team": "NOR",
+      "base": 0.66,
+      "prob": 66,
+      "source": "baseline"
+    },
+    "NOR::sondre-langas": {
+      "slug": "sondre-langas",
+      "team": "NOR",
+      "base": 0.85,
+      "prob": 85,
+      "source": "baseline"
+    },
+    "NOR::henrik-falchener": {
+      "slug": "henrik-falchener",
+      "team": "NOR",
+      "base": 0.7,
+      "prob": 70,
+      "source": "baseline"
+    },
+    "NOR::julian-ryerson": {
+      "slug": "julian-ryerson",
+      "team": "NOR",
+      "base": 0.78,
+      "prob": 78,
+      "source": "baseline"
+    },
+    "SEN::yehvann-diouf": {
+      "slug": "yehvann-diouf",
+      "team": "SEN",
+      "base": 0.79,
+      "prob": 79,
+      "source": "baseline"
+    },
+    "SEN::mamadou-sarr": {
+      "slug": "mamadou-sarr",
+      "team": "SEN",
+      "base": 0.88,
+      "prob": 88,
+      "source": "baseline"
+    },
+    "SEN::kalidou-koulibaly": {
+      "slug": "kalidou-koulibaly",
+      "team": "SEN",
+      "base": 0.43,
+      "prob": 43,
+      "source": "baseline"
+    },
+    "SEN::abdoulaye-seck": {
+      "slug": "abdoulaye-seck",
+      "team": "SEN",
+      "base": 0.39,
+      "prob": 39,
+      "source": "baseline"
+    },
+    "SEN::idrissa-gueye": {
+      "slug": "idrissa-gueye",
+      "team": "SEN",
+      "base": 0.47,
+      "prob": 47,
+      "source": "baseline"
+    },
+    "SEN::pathe-ciss": {
+      "slug": "pathe-ciss",
+      "team": "SEN",
+      "base": 0.57,
+      "prob": 57,
+      "source": "baseline"
+    },
+    "SEN::assane-diao": {
+      "slug": "assane-diao",
+      "team": "SEN",
+      "base": 0.83,
+      "prob": 83,
+      "source": "baseline"
+    },
+    "SEN::lamine-camara": {
+      "slug": "lamine-camara",
+      "team": "SEN",
+      "base": 0.94,
+      "prob": 94,
+      "source": "baseline"
+    },
+    "SEN::bamba-dieng": {
+      "slug": "bamba-dieng",
+      "team": "SEN",
+      "base": 0.76,
+      "prob": 76,
+      "source": "baseline"
+    },
+    "SEN::sadio-mane": {
+      "slug": "sadio-mane",
+      "team": "SEN",
+      "base": 0.38,
+      "prob": 38,
+      "source": "baseline"
+    },
+    "SEN::nicolas-jackson": {
+      "slug": "nicolas-jackson",
+      "team": "SEN",
+      "base": 0.86,
+      "prob": 86,
+      "source": "baseline"
+    },
+    "SEN::cherif-ndiaye": {
+      "slug": "cherif-ndiaye",
+      "team": "SEN",
+      "base": 0.5,
+      "prob": 50,
+      "source": "baseline"
+    },
+    "SEN::iliman-ndiaye": {
+      "slug": "iliman-ndiaye",
+      "team": "SEN",
+      "base": 0.85,
+      "prob": 85,
+      "source": "baseline"
+    },
+    "SEN::ismail-jakobs": {
+      "slug": "ismail-jakobs",
+      "team": "SEN",
+      "base": 0.78,
+      "prob": 78,
+      "source": "baseline"
+    },
+    "SEN::krepin-diatta": {
+      "slug": "krepin-diatta",
+      "team": "SEN",
+      "base": 0.87,
+      "prob": 87,
+      "source": "baseline"
+    },
+    "SEN::edouard-mendy": {
+      "slug": "edouard-mendy",
+      "team": "SEN",
+      "base": 0.63,
+      "prob": 63,
+      "source": "baseline"
+    },
+    "SEN::pape-matar-sarr": {
+      "slug": "pape-matar-sarr",
+      "team": "SEN",
+      "base": 0.98,
+      "prob": 98,
+      "source": "baseline"
+    },
+    "SEN::ismaila-sarr": {
+      "slug": "ismaila-sarr",
+      "team": "SEN",
+      "base": 0.77,
+      "prob": 77,
+      "source": "baseline"
+    },
+    "SEN::moussa-niakhate": {
+      "slug": "moussa-niakhate",
+      "team": "SEN",
+      "base": 0.68,
+      "prob": 68,
+      "source": "baseline"
+    },
+    "SEN::ibrahim-mbaye": {
+      "slug": "ibrahim-mbaye",
+      "team": "SEN",
+      "base": 0.84,
+      "prob": 84,
+      "source": "baseline"
+    },
+    "SEN::habib-diarra": {
+      "slug": "habib-diarra",
+      "team": "SEN",
+      "base": 0.93,
+      "prob": 93,
+      "source": "baseline"
+    },
+    "SEN::bara-sapoko-ndiaye": {
+      "slug": "bara-sapoko-ndiaye",
+      "team": "SEN",
+      "base": 0.8,
+      "prob": 80,
+      "source": "baseline"
+    },
+    "SEN::mory-diaw": {
+      "slug": "mory-diaw",
+      "team": "SEN",
+      "base": 0.59,
+      "prob": 59,
+      "source": "baseline"
+    },
+    "SEN::antoine-mendy": {
+      "slug": "antoine-mendy",
+      "team": "SEN",
+      "base": 0.82,
+      "prob": 82,
+      "source": "baseline"
+    },
+    "SEN::el-hadji-malick-diouf": {
+      "slug": "el-hadji-malick-diouf",
+      "team": "SEN",
+      "base": 0.93,
+      "prob": 93,
+      "source": "baseline"
+    },
+    "SEN::pape-gueye": {
+      "slug": "pape-gueye",
+      "team": "SEN",
+      "base": 0.84,
+      "prob": 84,
+      "source": "baseline"
+    },
+    "ALG::melvin-mastil": {
+      "slug": "melvin-mastil",
+      "team": "ALG",
+      "base": 0.71,
+      "prob": 71,
+      "source": "baseline"
+    },
+    "ALG::aissa-mandi": {
+      "slug": "aissa-mandi",
+      "team": "ALG",
+      "base": 0.48,
+      "prob": 48,
+      "source": "baseline"
+    },
+    "ALG::achref-abada": {
+      "slug": "achref-abada",
+      "team": "ALG",
+      "base": 0.68,
+      "prob": 68,
+      "source": "baseline"
+    },
+    "ALG::mohamed-amine-tougai": {
+      "slug": "mohamed-amine-tougai",
+      "team": "ALG",
+      "base": 0.8,
+      "prob": 80,
+      "source": "baseline"
+    },
+    "ALG::zineddine-belaid": {
+      "slug": "zineddine-belaid",
+      "team": "ALG",
+      "base": 0.72,
+      "prob": 72,
+      "source": "baseline"
+    },
+    "ALG::ramiz-zerrouki": {
+      "slug": "ramiz-zerrouki",
+      "team": "ALG",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "ALG::riyad-mahrez": {
+      "slug": "riyad-mahrez",
+      "team": "ALG",
+      "base": 0.37,
+      "prob": 37,
+      "source": "baseline"
+    },
+    "ALG::houssem-aouar": {
+      "slug": "houssem-aouar",
+      "team": "ALG",
+      "base": 0.66,
+      "prob": 66,
+      "source": "baseline"
+    },
+    "ALG::amine-gouiri": {
+      "slug": "amine-gouiri",
+      "team": "ALG",
+      "base": 0.76,
+      "prob": 76,
+      "source": "baseline"
+    },
+    "ALG::fares-chaibi": {
+      "slug": "fares-chaibi",
+      "team": "ALG",
+      "base": 0.93,
+      "prob": 93,
+      "source": "baseline"
+    },
+    "ALG::anis-hadj-moussa": {
+      "slug": "anis-hadj-moussa",
+      "team": "ALG",
+      "base": 0.81,
+      "prob": 81,
+      "source": "baseline"
+    },
+    "ALG::nadhir-benbouali": {
+      "slug": "nadhir-benbouali",
+      "team": "ALG",
+      "base": 0.6,
+      "prob": 60,
+      "source": "baseline"
+    },
+    "ALG::jaouen-hadjam": {
+      "slug": "jaouen-hadjam",
+      "team": "ALG",
+      "base": 0.79,
+      "prob": 79,
+      "source": "baseline"
+    },
+    "ALG::hicham-boudaoui": {
+      "slug": "hicham-boudaoui",
+      "team": "ALG",
+      "base": 0.79,
+      "prob": 79,
+      "source": "baseline"
+    },
+    "ALG::rayan-ait-nouri": {
+      "slug": "rayan-ait-nouri",
+      "team": "ALG",
+      "base": 0.95,
+      "prob": 95,
+      "source": "baseline"
+    },
+    "ALG::oussama-benbot": {
+      "slug": "oussama-benbot",
+      "team": "ALG",
+      "base": 0.56,
+      "prob": 56,
+      "source": "baseline"
+    },
+    "ALG::rafik-belghali": {
+      "slug": "rafik-belghali",
+      "team": "ALG",
+      "base": 0.86,
+      "prob": 86,
+      "source": "baseline"
+    },
+    "ALG::mohamed-amoura": {
+      "slug": "mohamed-amoura",
+      "team": "ALG",
+      "base": 0.84,
+      "prob": 84,
+      "source": "baseline"
+    },
+    "ALG::nabil-bentaleb": {
+      "slug": "nabil-bentaleb",
+      "team": "ALG",
+      "base": 0.58,
+      "prob": 58,
+      "source": "baseline"
+    },
+    "ALG::adil-boulbina": {
+      "slug": "adil-boulbina",
+      "team": "ALG",
+      "base": 0.77,
+      "prob": 77,
+      "source": "baseline"
+    },
+    "ALG::ramy-bensebaini": {
+      "slug": "ramy-bensebaini",
+      "team": "ALG",
+      "base": 0.7,
+      "prob": 70,
+      "source": "baseline"
+    },
+    "ALG::ibrahim-maza": {
+      "slug": "ibrahim-maza",
+      "team": "ALG",
+      "base": 0.89,
+      "prob": 89,
+      "source": "baseline"
+    },
+    "ALG::luca-zidane": {
+      "slug": "luca-zidane",
+      "team": "ALG",
+      "base": 0.86,
+      "prob": 86,
+      "source": "baseline"
+    },
+    "ALG::yacine-titraoui": {
+      "slug": "yacine-titraoui",
+      "team": "ALG",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "ALG::fares-ghedjemis": {
+      "slug": "fares-ghedjemis",
+      "team": "ALG",
+      "base": 0.76,
+      "prob": 76,
+      "source": "baseline"
+    },
+    "ALG::samir-chergui": {
+      "slug": "samir-chergui",
+      "team": "ALG",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "AUT::alexander-schlager": {
+      "slug": "alexander-schlager",
+      "team": "AUT",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "AUT::david-affengruber": {
+      "slug": "david-affengruber",
+      "team": "AUT",
+      "base": 0.82,
+      "prob": 82,
+      "source": "baseline"
+    },
+    "AUT::kevin-danso": {
+      "slug": "kevin-danso",
+      "team": "AUT",
+      "base": 0.83,
+      "prob": 83,
+      "source": "baseline"
+    },
+    "AUT::xaver-schlager": {
+      "slug": "xaver-schlager",
+      "team": "AUT",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "AUT::stefan-posch": {
+      "slug": "stefan-posch",
+      "team": "AUT",
+      "base": 0.8,
+      "prob": 80,
+      "source": "baseline"
+    },
+    "AUT::nicolas-seiwald": {
+      "slug": "nicolas-seiwald",
+      "team": "AUT",
+      "base": 0.94,
+      "prob": 94,
+      "source": "baseline"
+    },
+    "AUT::marko-arnautovic": {
+      "slug": "marko-arnautovic",
+      "team": "AUT",
+      "base": 0.34,
+      "prob": 34,
+      "source": "baseline"
+    },
+    "AUT::david-alaba": {
+      "slug": "david-alaba",
+      "team": "AUT",
+      "base": 0.56,
+      "prob": 56,
+      "source": "baseline"
+    },
+    "AUT::marcel-sabitzer": {
+      "slug": "marcel-sabitzer",
+      "team": "AUT",
+      "base": 0.6,
+      "prob": 60,
+      "source": "baseline"
+    },
+    "AUT::florian-grillitsch": {
+      "slug": "florian-grillitsch",
+      "team": "AUT",
+      "base": 0.55,
+      "prob": 55,
+      "source": "baseline"
+    },
+    "AUT::michael-gregoritsch": {
+      "slug": "michael-gregoritsch",
+      "team": "AUT",
+      "base": 0.55,
+      "prob": 55,
+      "source": "baseline"
+    },
+    "AUT::florian-wiegele": {
+      "slug": "florian-wiegele",
+      "team": "AUT",
+      "base": 0.7,
+      "prob": 70,
+      "source": "baseline"
+    },
+    "AUT::patrick-pentz": {
+      "slug": "patrick-pentz",
+      "team": "AUT",
+      "base": 0.77,
+      "prob": 77,
+      "source": "baseline"
+    },
+    "AUT::sasa-kalajdzic": {
+      "slug": "sasa-kalajdzic",
+      "team": "AUT",
+      "base": 0.53,
+      "prob": 53,
+      "source": "baseline"
+    },
+    "AUT::philipp-lienhart": {
+      "slug": "philipp-lienhart",
+      "team": "AUT",
+      "base": 0.73,
+      "prob": 73,
+      "source": "baseline"
+    },
+    "AUT::phillipp-mwene": {
+      "slug": "phillipp-mwene",
+      "team": "AUT",
+      "base": 0.6,
+      "prob": 60,
+      "source": "baseline"
+    },
+    "AUT::carney-chukwuemeka": {
+      "slug": "carney-chukwuemeka",
+      "team": "AUT",
+      "base": 0.82,
+      "prob": 82,
+      "source": "baseline"
+    },
+    "AUT::romano-schmid": {
+      "slug": "romano-schmid",
+      "team": "AUT",
+      "base": 0.86,
+      "prob": 86,
+      "source": "baseline"
+    },
+    "AUT::dejan-ljubicic": {
+      "slug": "dejan-ljubicic",
+      "team": "AUT",
+      "base": 0.63,
+      "prob": 63,
+      "source": "baseline"
+    },
+    "AUT::konrad-laimer": {
+      "slug": "konrad-laimer",
+      "team": "AUT",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "AUT::patrick-wimmer": {
+      "slug": "patrick-wimmer",
+      "team": "AUT",
+      "base": 0.85,
+      "prob": 85,
+      "source": "baseline"
+    },
+    "AUT::alexander-prass": {
+      "slug": "alexander-prass",
+      "team": "AUT",
+      "base": 0.87,
+      "prob": 87,
+      "source": "baseline"
+    },
+    "AUT::marco-friedl": {
+      "slug": "marco-friedl",
+      "team": "AUT",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "AUT::paul-wanner": {
+      "slug": "paul-wanner",
+      "team": "AUT",
+      "base": 0.77,
+      "prob": 77,
+      "source": "baseline"
+    },
+    "AUT::michael-svoboda": {
+      "slug": "michael-svoboda",
+      "team": "AUT",
+      "base": 0.69,
+      "prob": 69,
+      "source": "baseline"
+    },
+    "AUT::alessandro-schopf": {
+      "slug": "alessandro-schopf",
+      "team": "AUT",
+      "base": 0.47,
+      "prob": 47,
+      "source": "baseline"
+    },
+    "JOR::yazeed-abulaila": {
+      "slug": "yazeed-abulaila",
+      "team": "JOR",
+      "base": 0.65,
+      "prob": 65,
+      "source": "baseline"
+    },
+    "JOR::mohammad-abu-hashish": {
+      "slug": "mohammad-abu-hashish",
+      "team": "JOR",
+      "base": 0.6,
+      "prob": 60,
+      "source": "baseline"
+    },
+    "JOR::abdallah-nasib": {
+      "slug": "abdallah-nasib",
+      "team": "JOR",
+      "base": 0.55,
+      "prob": 55,
+      "source": "baseline"
+    },
+    "JOR::husam-abu-dahab": {
+      "slug": "husam-abu-dahab",
+      "team": "JOR",
+      "base": 0.77,
+      "prob": 77,
+      "source": "baseline"
+    },
+    "JOR::yazan-al-arab": {
+      "slug": "yazan-al-arab",
+      "team": "JOR",
+      "base": 0.65,
+      "prob": 65,
+      "source": "baseline"
+    },
+    "JOR::amer-jamous": {
+      "slug": "amer-jamous",
+      "team": "JOR",
+      "base": 0.8,
+      "prob": 80,
+      "source": "baseline"
+    },
+    "JOR::mohammad-abu-zrayq": {
+      "slug": "mohammad-abu-zrayq",
+      "team": "JOR",
+      "base": 0.58,
+      "prob": 58,
+      "source": "baseline"
+    },
+    "JOR::noor-al-rawabdeh": {
+      "slug": "noor-al-rawabdeh",
+      "team": "JOR",
+      "base": 0.65,
+      "prob": 65,
+      "source": "baseline"
+    },
+    "JOR::ali-olwan": {
+      "slug": "ali-olwan",
+      "team": "JOR",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "JOR::musa-al-taamari": {
+      "slug": "musa-al-taamari",
+      "team": "JOR",
+      "base": 0.68,
+      "prob": 68,
+      "source": "baseline"
+    },
+    "JOR::odeh-al-fakhouri": {
+      "slug": "odeh-al-fakhouri",
+      "team": "JOR",
+      "base": 0.76,
+      "prob": 76,
+      "source": "baseline"
+    },
+    "JOR::nour-bani-attiah": {
+      "slug": "nour-bani-attiah",
+      "team": "JOR",
+      "base": 0.51,
+      "prob": 51,
+      "source": "baseline"
+    },
+    "JOR::mahmoud-al-mardi": {
+      "slug": "mahmoud-al-mardi",
+      "team": "JOR",
+      "base": 0.4,
+      "prob": 40,
+      "source": "baseline"
+    },
+    "JOR::rajaei-ayed": {
+      "slug": "rajaei-ayed",
+      "team": "JOR",
+      "base": 0.45,
+      "prob": 45,
+      "source": "baseline"
+    },
+    "JOR::ibrahim-sadeh": {
+      "slug": "ibrahim-sadeh",
+      "team": "JOR",
+      "base": 0.8,
+      "prob": 80,
+      "source": "baseline"
+    },
+    "JOR::mo-abualnadi": {
+      "slug": "mo-abualnadi",
+      "team": "JOR",
+      "base": 0.79,
+      "prob": 79,
+      "source": "baseline"
+    },
+    "JOR::salim-obaid": {
+      "slug": "salim-obaid",
+      "team": "JOR",
+      "base": 0.34,
+      "prob": 34,
+      "source": "baseline"
+    },
+    "JOR::mohammad-taha": {
+      "slug": "mohammad-taha",
+      "team": "JOR",
+      "base": 0.71,
+      "prob": 71,
+      "source": "baseline"
+    },
+    "JOR::saed-al-rosan": {
+      "slug": "saed-al-rosan",
+      "team": "JOR",
+      "base": 0.63,
+      "prob": 63,
+      "source": "baseline"
+    },
+    "JOR::mohannad-abu-taha": {
+      "slug": "mohannad-abu-taha",
+      "team": "JOR",
+      "base": 0.83,
+      "prob": 83,
+      "source": "baseline"
+    },
+    "JOR::nizar-al-rashdan": {
+      "slug": "nizar-al-rashdan",
+      "team": "JOR",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "JOR::abdallah-al-fakhouri": {
+      "slug": "abdallah-al-fakhouri",
+      "team": "JOR",
+      "base": 0.77,
+      "prob": 77,
+      "source": "baseline"
+    },
+    "JOR::ihsan-haddad": {
+      "slug": "ihsan-haddad",
+      "team": "JOR",
+      "base": 0.55,
+      "prob": 55,
+      "source": "baseline"
+    },
+    "JOR::ali-azaizeh": {
+      "slug": "ali-azaizeh",
+      "team": "JOR",
+      "base": 0.76,
+      "prob": 76,
+      "source": "baseline"
+    },
+    "JOR::mohammad-al-dawoud": {
+      "slug": "mohammad-al-dawoud",
+      "team": "JOR",
+      "base": 0.3,
+      "prob": 30,
+      "source": "baseline"
+    },
+    "JOR::anas-badawi": {
+      "slug": "anas-badawi",
+      "team": "JOR",
+      "base": 0.53,
+      "prob": 53,
+      "source": "baseline"
+    },
+    "COL::david-ospina": {
+      "slug": "david-ospina",
+      "team": "COL",
+      "base": 0.4,
+      "prob": 40,
+      "source": "baseline"
+    },
+    "COL::daniel-munoz": {
+      "slug": "daniel-munoz",
+      "team": "COL",
+      "base": 0.76,
+      "prob": 76,
+      "source": "baseline"
+    },
+    "COL::jhon-lucumi": {
+      "slug": "jhon-lucumi",
+      "team": "COL",
+      "base": 0.81,
+      "prob": 81,
+      "source": "baseline"
+    },
+    "COL::santiago-arias": {
+      "slug": "santiago-arias",
+      "team": "COL",
+      "base": 0.45,
+      "prob": 45,
+      "source": "baseline"
+    },
+    "COL::kevin-castano": {
+      "slug": "kevin-castano",
+      "team": "COL",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "COL::richard-rios": {
+      "slug": "richard-rios",
+      "team": "COL",
+      "base": 0.76,
+      "prob": 76,
+      "source": "baseline"
+    },
+    "COL::luis-diaz": {
+      "slug": "luis-diaz",
+      "team": "COL",
+      "base": 0.7,
+      "prob": 70,
+      "source": "baseline"
+    },
+    "COL::jorge-carrascal": {
+      "slug": "jorge-carrascal",
+      "team": "COL",
+      "base": 0.66,
+      "prob": 66,
+      "source": "baseline"
+    },
+    "COL::jhon-cordoba": {
+      "slug": "jhon-cordoba",
+      "team": "COL",
+      "base": 0.33,
+      "prob": 33,
+      "source": "baseline"
+    },
+    "COL::james-rodriguez": {
+      "slug": "james-rodriguez",
+      "team": "COL",
+      "base": 0.38,
+      "prob": 38,
+      "source": "baseline"
+    },
+    "COL::jhon-arias": {
+      "slug": "jhon-arias",
+      "team": "COL",
+      "base": 0.65,
+      "prob": 65,
+      "source": "baseline"
+    },
+    "COL::camilo-vargas": {
+      "slug": "camilo-vargas",
+      "team": "COL",
+      "base": 0.43,
+      "prob": 43,
+      "source": "baseline"
+    },
+    "COL::yerry-mina": {
+      "slug": "yerry-mina",
+      "team": "COL",
+      "base": 0.64,
+      "prob": 64,
+      "source": "baseline"
+    },
+    "COL::gustavo-puerta": {
+      "slug": "gustavo-puerta",
+      "team": "COL",
+      "base": 0.86,
+      "prob": 86,
+      "source": "baseline"
+    },
+    "COL::juan-portilla": {
+      "slug": "juan-portilla",
+      "team": "COL",
+      "base": 0.61,
+      "prob": 61,
+      "source": "baseline"
+    },
+    "COL::jefferson-lerma": {
+      "slug": "jefferson-lerma",
+      "team": "COL",
+      "base": 0.63,
+      "prob": 63,
+      "source": "baseline"
+    },
+    "COL::johan-mojica": {
+      "slug": "johan-mojica",
+      "team": "COL",
+      "base": 0.55,
+      "prob": 55,
+      "source": "baseline"
+    },
+    "COL::willer-ditta": {
+      "slug": "willer-ditta",
+      "team": "COL",
+      "base": 0.61,
+      "prob": 61,
+      "source": "baseline"
+    },
+    "COL::cucho-hernandez": {
+      "slug": "cucho-hernandez",
+      "team": "COL",
+      "base": 0.7,
+      "prob": 70,
+      "source": "baseline"
+    },
+    "COL::juan-fernando-quintero": {
+      "slug": "juan-fernando-quintero",
+      "team": "COL",
+      "base": 0.45,
+      "prob": 45,
+      "source": "baseline"
+    },
+    "COL::jaminton-campaz": {
+      "slug": "jaminton-campaz",
+      "team": "COL",
+      "base": 0.64,
+      "prob": 64,
+      "source": "baseline"
+    },
+    "COL::deiver-machado": {
+      "slug": "deiver-machado",
+      "team": "COL",
+      "base": 0.48,
+      "prob": 48,
+      "source": "baseline"
+    },
+    "COL::davinson-sanchez": {
+      "slug": "davinson-sanchez",
+      "team": "COL",
+      "base": 0.67,
+      "prob": 67,
+      "source": "baseline"
+    },
+    "COL::alvaro-montero": {
+      "slug": "alvaro-montero",
+      "team": "COL",
+      "base": 0.65,
+      "prob": 65,
+      "source": "baseline"
+    },
+    "COL::luis-suarez": {
+      "slug": "luis-suarez",
+      "team": "COL",
+      "base": 0.5,
+      "prob": 50,
+      "source": "baseline"
+    },
+    "COL::andres-gomez": {
+      "slug": "andres-gomez",
+      "team": "COL",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "COD::lionel-mpasi": {
+      "slug": "lionel-mpasi",
+      "team": "COD",
+      "base": 0.72,
+      "prob": 72,
+      "source": "baseline"
+    },
+    "COD::aaron-wan-bissaka": {
+      "slug": "aaron-wan-bissaka",
+      "team": "COD",
+      "base": 0.72,
+      "prob": 72,
+      "source": "baseline"
+    },
+    "COD::steve-kapuadi": {
+      "slug": "steve-kapuadi",
+      "team": "COD",
+      "base": 0.6,
+      "prob": 60,
+      "source": "baseline"
+    },
+    "COD::axel-tuanzebe": {
+      "slug": "axel-tuanzebe",
+      "team": "COD",
+      "base": 0.73,
+      "prob": 73,
+      "source": "baseline"
+    },
+    "COD::dylan-batubinsika": {
+      "slug": "dylan-batubinsika",
+      "team": "COD",
+      "base": 0.55,
+      "prob": 55,
+      "source": "baseline"
+    },
+    "COD::ngalayel-mukau": {
+      "slug": "ngalayel-mukau",
+      "team": "COD",
+      "base": 0.85,
+      "prob": 85,
+      "source": "baseline"
+    },
+    "COD::nathanael-mbuku": {
+      "slug": "nathanael-mbuku",
+      "team": "COD",
+      "base": 0.87,
+      "prob": 87,
+      "source": "baseline"
+    },
+    "COD::samuel-moutoussamy": {
+      "slug": "samuel-moutoussamy",
+      "team": "COD",
+      "base": 0.6,
+      "prob": 60,
+      "source": "baseline"
+    },
+    "COD::brian-cipenga": {
+      "slug": "brian-cipenga",
+      "team": "COD",
+      "base": 0.64,
+      "prob": 64,
+      "source": "baseline"
+    },
+    "COD::theo-bongonda": {
+      "slug": "theo-bongonda",
+      "team": "COD",
+      "base": 0.52,
+      "prob": 52,
+      "source": "baseline"
+    },
+    "COD::gael-kakuta": {
+      "slug": "gael-kakuta",
+      "team": "COD",
+      "base": 0.3,
+      "prob": 30,
+      "source": "baseline"
+    },
+    "COD::joris-kayembe": {
+      "slug": "joris-kayembe",
+      "team": "COD",
+      "base": 0.49,
+      "prob": 49,
+      "source": "baseline"
+    },
+    "COD::meschak-elia": {
+      "slug": "meschak-elia",
+      "team": "COD",
+      "base": 0.63,
+      "prob": 63,
+      "source": "baseline"
+    },
+    "COD::noah-sadiki": {
+      "slug": "noah-sadiki",
+      "team": "COD",
+      "base": 0.93,
+      "prob": 93,
+      "source": "baseline"
+    },
+    "COD::aaron-tshibola": {
+      "slug": "aaron-tshibola",
+      "team": "COD",
+      "base": 0.47,
+      "prob": 47,
+      "source": "baseline"
+    },
+    "COD::timothy-fayulu": {
+      "slug": "timothy-fayulu",
+      "team": "COD",
+      "base": 0.72,
+      "prob": 72,
+      "source": "baseline"
+    },
+    "COD::cedric-bakambu": {
+      "slug": "cedric-bakambu",
+      "team": "COD",
+      "base": 0.45,
+      "prob": 45,
+      "source": "baseline"
+    },
+    "COD::charles-pickel": {
+      "slug": "charles-pickel",
+      "team": "COD",
+      "base": 0.73,
+      "prob": 73,
+      "source": "baseline"
+    },
+    "COD::fiston-mayele": {
+      "slug": "fiston-mayele",
+      "team": "COD",
+      "base": 0.42,
+      "prob": 42,
+      "source": "baseline"
+    },
+    "COD::yoane-wissa": {
+      "slug": "yoane-wissa",
+      "team": "COD",
+      "base": 0.65,
+      "prob": 65,
+      "source": "baseline"
+    },
+    "COD::matthieu-epolo": {
+      "slug": "matthieu-epolo",
+      "team": "COD",
+      "base": 0.7,
+      "prob": 70,
+      "source": "baseline"
+    },
+    "COD::chancel-mbemba": {
+      "slug": "chancel-mbemba",
+      "team": "COD",
+      "base": 0.63,
+      "prob": 63,
+      "source": "baseline"
+    },
+    "COD::simon-banza": {
+      "slug": "simon-banza",
+      "team": "COD",
+      "base": 0.46,
+      "prob": 46,
+      "source": "baseline"
+    },
+    "COD::gedeon-kalulu": {
+      "slug": "gedeon-kalulu",
+      "team": "COD",
+      "base": 0.65,
+      "prob": 65,
+      "source": "baseline"
+    },
+    "COD::edo-kayembe": {
+      "slug": "edo-kayembe",
+      "team": "COD",
+      "base": 0.81,
+      "prob": 81,
+      "source": "baseline"
+    },
+    "COD::arthur-masuaku": {
+      "slug": "arthur-masuaku",
+      "team": "COD",
+      "base": 0.56,
+      "prob": 56,
+      "source": "baseline"
+    },
+    "UZB::utkir-yusupov": {
+      "slug": "utkir-yusupov",
+      "team": "UZB",
+      "base": 0.53,
+      "prob": 53,
+      "source": "baseline"
+    },
+    "UZB::abdukodir-khusanov": {
+      "slug": "abdukodir-khusanov",
+      "team": "UZB",
+      "base": 0.95,
+      "prob": 95,
+      "source": "baseline"
+    },
+    "UZB::khojiakbar-alijonov": {
+      "slug": "khojiakbar-alijonov",
+      "team": "UZB",
+      "base": 0.68,
+      "prob": 68,
+      "source": "baseline"
+    },
+    "UZB::farrukh-sayfiev": {
+      "slug": "farrukh-sayfiev",
+      "team": "UZB",
+      "base": 0.39,
+      "prob": 39,
+      "source": "baseline"
+    },
+    "UZB::rustam-ashurmatov": {
+      "slug": "rustam-ashurmatov",
+      "team": "UZB",
+      "base": 0.65,
+      "prob": 65,
+      "source": "baseline"
+    },
+    "UZB::akmal-mozgovoy": {
+      "slug": "akmal-mozgovoy",
+      "team": "UZB",
+      "base": 0.69,
+      "prob": 69,
+      "source": "baseline"
+    },
+    "UZB::otabek-shukurov": {
+      "slug": "otabek-shukurov",
+      "team": "UZB",
+      "base": 0.6,
+      "prob": 60,
+      "source": "baseline"
+    },
+    "UZB::jamshid-iskanderov": {
+      "slug": "jamshid-iskanderov",
+      "team": "UZB",
+      "base": 0.42,
+      "prob": 42,
+      "source": "baseline"
+    },
+    "UZB::odiljon-hamrobekov": {
+      "slug": "odiljon-hamrobekov",
+      "team": "UZB",
+      "base": 0.6,
+      "prob": 60,
+      "source": "baseline"
+    },
+    "UZB::ruslanbek-jiyanov": {
+      "slug": "ruslanbek-jiyanov",
+      "team": "UZB",
+      "base": 0.71,
+      "prob": 71,
+      "source": "baseline"
+    },
+    "UZB::oston-urunov": {
+      "slug": "oston-urunov",
+      "team": "UZB",
+      "base": 0.78,
+      "prob": 78,
+      "source": "baseline"
+    },
+    "UZB::abduvohid-nematov": {
+      "slug": "abduvohid-nematov",
+      "team": "UZB",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "UZB::sherzod-nasrullaev": {
+      "slug": "sherzod-nasrullaev",
+      "team": "UZB",
+      "base": 0.7,
+      "prob": 70,
+      "source": "baseline"
+    },
+    "UZB::eldor-shomurodov": {
+      "slug": "eldor-shomurodov",
+      "team": "UZB",
+      "base": 0.53,
+      "prob": 53,
+      "source": "baseline"
+    },
+    "UZB::umar-eshmurodov": {
+      "slug": "umar-eshmurodov",
+      "team": "UZB",
+      "base": 0.4,
+      "prob": 40,
+      "source": "baseline"
+    },
+    "UZB::botirali-ergashev": {
+      "slug": "botirali-ergashev",
+      "team": "UZB",
+      "base": 0.59,
+      "prob": 59,
+      "source": "baseline"
+    },
+    "UZB::dostonbek-khamdamov": {
+      "slug": "dostonbek-khamdamov",
+      "team": "UZB",
+      "base": 0.56,
+      "prob": 56,
+      "source": "baseline"
+    },
+    "UZB::abdulla-abdullaev": {
+      "slug": "abdulla-abdullaev",
+      "team": "UZB",
+      "base": 0.61,
+      "prob": 61,
+      "source": "baseline"
+    },
+    "UZB::azizjon-ganiev": {
+      "slug": "azizjon-ganiev",
+      "team": "UZB",
+      "base": 0.62,
+      "prob": 62,
+      "source": "baseline"
+    },
+    "UZB::azizbek-amonov": {
+      "slug": "azizbek-amonov",
+      "team": "UZB",
+      "base": 0.5,
+      "prob": 50,
+      "source": "baseline"
+    },
+    "UZB::igor-sergeev": {
+      "slug": "igor-sergeev",
+      "team": "UZB",
+      "base": 0.4,
+      "prob": 40,
+      "source": "baseline"
+    },
+    "UZB::abbosbek-fayzullaev": {
+      "slug": "abbosbek-fayzullaev",
+      "team": "UZB",
+      "base": 0.86,
+      "prob": 86,
+      "source": "baseline"
+    },
+    "UZB::sherzod-esanov": {
+      "slug": "sherzod-esanov",
+      "team": "UZB",
+      "base": 0.7,
+      "prob": 70,
+      "source": "baseline"
+    },
+    "UZB::bekhruz-karimov": {
+      "slug": "bekhruz-karimov",
+      "team": "UZB",
+      "base": 0.71,
+      "prob": 71,
+      "source": "baseline"
+    },
+    "UZB::avazbek-ulmasaliev": {
+      "slug": "avazbek-ulmasaliev",
+      "team": "UZB",
+      "base": 0.65,
+      "prob": 65,
+      "source": "baseline"
+    },
+    "UZB::jakhongir-urozov": {
+      "slug": "jakhongir-urozov",
+      "team": "UZB",
+      "base": 0.73,
+      "prob": 73,
+      "source": "baseline"
+    },
+    "CRO::dominik-livakovic": {
+      "slug": "dominik-livakovic",
+      "team": "CRO",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "CRO::josip-stanisic": {
+      "slug": "josip-stanisic",
+      "team": "CRO",
+      "base": 0.9,
+      "prob": 90,
+      "source": "baseline"
+    },
+    "CRO::marin-pongracic": {
+      "slug": "marin-pongracic",
+      "team": "CRO",
+      "base": 0.71,
+      "prob": 71,
+      "source": "baseline"
+    },
+    "CRO::josko-gvardiol": {
+      "slug": "josko-gvardiol",
+      "team": "CRO",
+      "base": 0.99,
+      "prob": 99,
+      "source": "baseline"
+    },
+    "CRO::duje-caleta-car": {
+      "slug": "duje-caleta-car",
+      "team": "CRO",
+      "base": 0.73,
+      "prob": 73,
+      "source": "baseline"
+    },
+    "CRO::josip-sutalo": {
+      "slug": "josip-sutalo",
+      "team": "CRO",
+      "base": 0.86,
+      "prob": 86,
+      "source": "baseline"
+    },
+    "CRO::nikola-moro": {
+      "slug": "nikola-moro",
+      "team": "CRO",
+      "base": 0.68,
+      "prob": 68,
+      "source": "baseline"
+    },
+    "CRO::mateo-kovacic": {
+      "slug": "mateo-kovacic",
+      "team": "CRO",
+      "base": 0.63,
+      "prob": 63,
+      "source": "baseline"
+    },
+    "CRO::andrej-kramaric": {
+      "slug": "andrej-kramaric",
+      "team": "CRO",
+      "base": 0.44,
+      "prob": 44,
+      "source": "baseline"
+    },
+    "CRO::luka-modric": {
+      "slug": "luka-modric",
+      "team": "CRO",
+      "base": 0.43,
+      "prob": 43,
+      "source": "baseline"
+    },
+    "CRO::ante-budimir": {
+      "slug": "ante-budimir",
+      "team": "CRO",
+      "base": 0.43,
+      "prob": 43,
+      "source": "baseline"
+    },
+    "CRO::ivor-pandur": {
+      "slug": "ivor-pandur",
+      "team": "CRO",
+      "base": 0.81,
+      "prob": 81,
+      "source": "baseline"
+    },
+    "CRO::nikola-vlasic": {
+      "slug": "nikola-vlasic",
+      "team": "CRO",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "CRO::ivan-perisic": {
+      "slug": "ivan-perisic",
+      "team": "CRO",
+      "base": 0.39,
+      "prob": 39,
+      "source": "baseline"
+    },
+    "CRO::mario-pasalic": {
+      "slug": "mario-pasalic",
+      "team": "CRO",
+      "base": 0.64,
+      "prob": 64,
+      "source": "baseline"
+    },
+    "CRO::martin-baturina": {
+      "slug": "martin-baturina",
+      "team": "CRO",
+      "base": 0.88,
+      "prob": 88,
+      "source": "baseline"
+    },
+    "CRO::petar-sucic": {
+      "slug": "petar-sucic",
+      "team": "CRO",
+      "base": 0.88,
+      "prob": 88,
+      "source": "baseline"
+    },
+    "CRO::kristijan-jakic": {
+      "slug": "kristijan-jakic",
+      "team": "CRO",
+      "base": 0.71,
+      "prob": 71,
+      "source": "baseline"
+    },
+    "CRO::toni-fruk": {
+      "slug": "toni-fruk",
+      "team": "CRO",
+      "base": 0.72,
+      "prob": 72,
+      "source": "baseline"
+    },
+    "CRO::igor-matanovic": {
+      "slug": "igor-matanovic",
+      "team": "CRO",
+      "base": 0.86,
+      "prob": 86,
+      "source": "baseline"
+    },
+    "CRO::luka-sucic": {
+      "slug": "luka-sucic",
+      "team": "CRO",
+      "base": 0.92,
+      "prob": 92,
+      "source": "baseline"
+    },
+    "CRO::luka-vuskovic": {
+      "slug": "luka-vuskovic",
+      "team": "CRO",
+      "base": 0.84,
+      "prob": 84,
+      "source": "baseline"
+    },
+    "CRO::dominik-kotarski": {
+      "slug": "dominik-kotarski",
+      "team": "CRO",
+      "base": 0.73,
+      "prob": 73,
+      "source": "baseline"
+    },
+    "CRO::marco-pasalic": {
+      "slug": "marco-pasalic",
+      "team": "CRO",
+      "base": 0.68,
+      "prob": 68,
+      "source": "baseline"
+    },
+    "CRO::martin-erlic": {
+      "slug": "martin-erlic",
+      "team": "CRO",
+      "base": 0.65,
+      "prob": 65,
+      "source": "baseline"
+    },
+    "CRO::petar-musa": {
+      "slug": "petar-musa",
+      "team": "CRO",
+      "base": 0.57,
+      "prob": 57,
+      "source": "baseline"
+    },
+    "GHA::lawrence-ati-zigi": {
+      "slug": "lawrence-ati-zigi",
+      "team": "GHA",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "GHA::alidu-seidu": {
+      "slug": "alidu-seidu",
+      "team": "GHA",
+      "base": 0.86,
+      "prob": 86,
+      "source": "baseline"
+    },
+    "GHA::caleb-yirenkyi": {
+      "slug": "caleb-yirenkyi",
+      "team": "GHA",
+      "base": 0.77,
+      "prob": 77,
+      "source": "baseline"
+    },
+    "GHA::jonas-adjetey": {
+      "slug": "jonas-adjetey",
+      "team": "GHA",
+      "base": 0.86,
+      "prob": 86,
+      "source": "baseline"
+    },
+    "GHA::thomas-partey": {
+      "slug": "thomas-partey",
+      "team": "GHA",
+      "base": 0.56,
+      "prob": 56,
+      "source": "baseline"
+    },
+    "GHA::abdul-mumin": {
+      "slug": "abdul-mumin",
+      "team": "GHA",
+      "base": 0.72,
+      "prob": 72,
+      "source": "baseline"
+    },
+    "GHA::abdul-fatawu": {
+      "slug": "abdul-fatawu",
+      "team": "GHA",
+      "base": 0.95,
+      "prob": 95,
+      "source": "baseline"
+    },
+    "GHA::kwasi-sibo": {
+      "slug": "kwasi-sibo",
+      "team": "GHA",
+      "base": 0.69,
+      "prob": 69,
+      "source": "baseline"
+    },
+    "GHA::jordan-ayew": {
+      "slug": "jordan-ayew",
+      "team": "GHA",
+      "base": 0.47,
+      "prob": 47,
+      "source": "baseline"
+    },
+    "GHA::brandon-thomas-asante": {
+      "slug": "brandon-thomas-asante",
+      "team": "GHA",
+      "base": 0.65,
+      "prob": 65,
+      "source": "baseline"
+    },
+    "GHA::antoine-semenyo": {
+      "slug": "antoine-semenyo",
+      "team": "GHA",
+      "base": 0.89,
+      "prob": 89,
+      "source": "baseline"
+    },
+    "GHA::joseph-anang": {
+      "slug": "joseph-anang",
+      "team": "GHA",
+      "base": 0.83,
+      "prob": 83,
+      "source": "baseline"
+    },
+    "GHA::christopher-bonsu-baah": {
+      "slug": "christopher-bonsu-baah",
+      "team": "GHA",
+      "base": 0.78,
+      "prob": 78,
+      "source": "baseline"
+    },
+    "GHA::gideon-mensah": {
+      "slug": "gideon-mensah",
+      "team": "GHA",
+      "base": 0.8,
+      "prob": 80,
+      "source": "baseline"
+    },
+    "GHA::elisha-owusu": {
+      "slug": "elisha-owusu",
+      "team": "GHA",
+      "base": 0.65,
+      "prob": 65,
+      "source": "baseline"
+    },
+    "GHA::benjamin-asare": {
+      "slug": "benjamin-asare",
+      "team": "GHA",
+      "base": 0.49,
+      "prob": 49,
+      "source": "baseline"
+    },
+    "GHA::abdul-rahman-baba": {
+      "slug": "abdul-rahman-baba",
+      "team": "GHA",
+      "base": 0.55,
+      "prob": 55,
+      "source": "baseline"
+    },
+    "GHA::jerome-opoku": {
+      "slug": "jerome-opoku",
+      "team": "GHA",
+      "base": 0.67,
+      "prob": 67,
+      "source": "baseline"
+    },
+    "GHA::inaki-williams": {
+      "slug": "inaki-williams",
+      "team": "GHA",
+      "base": 0.51,
+      "prob": 51,
+      "source": "baseline"
+    },
+    "GHA::augustine-boakye": {
+      "slug": "augustine-boakye",
+      "team": "GHA",
+      "base": 0.68,
+      "prob": 68,
+      "source": "baseline"
+    },
+    "GHA::kojo-peprah-oppong": {
+      "slug": "kojo-peprah-oppong",
+      "team": "GHA",
+      "base": 0.81,
+      "prob": 81,
+      "source": "baseline"
+    },
+    "GHA::kamaldeen-sulemana": {
+      "slug": "kamaldeen-sulemana",
+      "team": "GHA",
+      "base": 0.88,
+      "prob": 88,
+      "source": "baseline"
+    },
+    "GHA::derrick-luckassen": {
+      "slug": "derrick-luckassen",
+      "team": "GHA",
+      "base": 0.43,
+      "prob": 43,
+      "source": "baseline"
+    },
+    "GHA::ernest-nuamah": {
+      "slug": "ernest-nuamah",
+      "team": "GHA",
+      "base": 0.87,
+      "prob": 87,
+      "source": "baseline"
+    },
+    "GHA::prince-kwabena-adu": {
+      "slug": "prince-kwabena-adu",
+      "team": "GHA",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "GHA::marvin-senaya": {
+      "slug": "marvin-senaya",
+      "team": "GHA",
+      "base": 0.79,
+      "prob": 79,
+      "source": "baseline"
+    },
+    "PAN::luis-mejia": {
+      "slug": "luis-mejia",
+      "team": "PAN",
+      "base": 0.55,
+      "prob": 55,
+      "source": "baseline"
+    },
+    "PAN::cesar-blackman": {
+      "slug": "cesar-blackman",
+      "team": "PAN",
+      "base": 0.73,
+      "prob": 73,
+      "source": "baseline"
+    },
+    "PAN::jose-cordoba": {
+      "slug": "jose-cordoba",
+      "team": "PAN",
+      "base": 0.96,
+      "prob": 96,
+      "source": "baseline"
+    },
+    "PAN::fidel-escobar": {
+      "slug": "fidel-escobar",
+      "team": "PAN",
+      "base": 0.6,
+      "prob": 60,
+      "source": "baseline"
+    },
+    "PAN::edgardo-farina": {
+      "slug": "edgardo-farina",
+      "team": "PAN",
+      "base": 0.79,
+      "prob": 79,
+      "source": "baseline"
+    },
+    "PAN::cristian-martinez": {
+      "slug": "cristian-martinez",
+      "team": "PAN",
+      "base": 0.65,
+      "prob": 65,
+      "source": "baseline"
+    },
+    "PAN::jose-luis-rodriguez": {
+      "slug": "jose-luis-rodriguez",
+      "team": "PAN",
+      "base": 0.7,
+      "prob": 70,
+      "source": "baseline"
+    },
+    "PAN::adalberto-carrasquilla": {
+      "slug": "adalberto-carrasquilla",
+      "team": "PAN",
+      "base": 0.7,
+      "prob": 70,
+      "source": "baseline"
+    },
+    "PAN::tomas-rodriguez": {
+      "slug": "tomas-rodriguez",
+      "team": "PAN",
+      "base": 0.6,
+      "prob": 60,
+      "source": "baseline"
+    },
+    "PAN::ismael-diaz": {
+      "slug": "ismael-diaz",
+      "team": "PAN",
+      "base": 0.65,
+      "prob": 65,
+      "source": "baseline"
+    },
+    "PAN::yoel-barcenas": {
+      "slug": "yoel-barcenas",
+      "team": "PAN",
+      "base": 0.45,
+      "prob": 45,
+      "source": "baseline"
+    },
+    "PAN::cesar-samudio": {
+      "slug": "cesar-samudio",
+      "team": "PAN",
+      "base": 0.56,
+      "prob": 56,
+      "source": "baseline"
+    },
+    "PAN::jiovany-ramos": {
+      "slug": "jiovany-ramos",
+      "team": "PAN",
+      "base": 0.63,
+      "prob": 63,
+      "source": "baseline"
+    },
+    "PAN::carlos-harvey": {
+      "slug": "carlos-harvey",
+      "team": "PAN",
+      "base": 0.82,
+      "prob": 82,
+      "source": "baseline"
+    },
+    "PAN::eric-davis": {
+      "slug": "eric-davis",
+      "team": "PAN",
+      "base": 0.4,
+      "prob": 40,
+      "source": "baseline"
+    },
+    "PAN::andres-andrade": {
+      "slug": "andres-andrade",
+      "team": "PAN",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "PAN::jose-fajardo": {
+      "slug": "jose-fajardo",
+      "team": "PAN",
+      "base": 0.4,
+      "prob": 40,
+      "source": "baseline"
+    },
+    "PAN::cecilio-waterman": {
+      "slug": "cecilio-waterman",
+      "team": "PAN",
+      "base": 0.34,
+      "prob": 34,
+      "source": "baseline"
+    },
+    "PAN::alberto-quintero": {
+      "slug": "alberto-quintero",
+      "team": "PAN",
+      "base": 0.34,
+      "prob": 34,
+      "source": "baseline"
+    },
+    "PAN::anibal-godoy": {
+      "slug": "anibal-godoy",
+      "team": "PAN",
+      "base": 0.37,
+      "prob": 37,
+      "source": "baseline"
+    },
+    "PAN::cesar-yanis": {
+      "slug": "cesar-yanis",
+      "team": "PAN",
+      "base": 0.6,
+      "prob": 60,
+      "source": "baseline"
+    },
+    "PAN::orlando-mosquera": {
+      "slug": "orlando-mosquera",
+      "team": "PAN",
+      "base": 0.72,
+      "prob": 72,
+      "source": "baseline"
+    },
+    "PAN::michael-amir-murillo": {
+      "slug": "michael-amir-murillo",
+      "team": "PAN",
+      "base": 0.67,
+      "prob": 67,
+      "source": "baseline"
+    },
+    "PAN::azarias-londono": {
+      "slug": "azarias-londono",
+      "team": "PAN",
+      "base": 0.69,
+      "prob": 69,
+      "source": "baseline"
+    },
+    "PAN::roderick-miller": {
+      "slug": "roderick-miller",
+      "team": "PAN",
+      "base": 0.45,
+      "prob": 45,
+      "source": "baseline"
+    },
+    "PAN::jorge-gutierrez": {
+      "slug": "jorge-gutierrez",
+      "team": "PAN",
+      "base": 0.67,
+      "prob": 67,
+      "source": "baseline"
+    },
+    "TUR::mert-gunok": {
+      "slug": "mert-gunok",
+      "team": "TUR",
+      "base": 0.45,
+      "prob": 45,
+      "source": "baseline"
+    },
+    "TUR::zeki-celik": {
+      "slug": "zeki-celik",
+      "team": "TUR",
+      "base": 0.79,
+      "prob": 79,
+      "source": "baseline"
+    },
+    "TUR::merih-demiral": {
+      "slug": "merih-demiral",
+      "team": "TUR",
+      "base": 0.77,
+      "prob": 77,
+      "source": "baseline"
+    },
+    "TUR::caglar-soyuncu": {
+      "slug": "caglar-soyuncu",
+      "team": "TUR",
+      "base": 0.67,
+      "prob": 67,
+      "source": "baseline"
+    },
+    "TUR::salih-ozcan": {
+      "slug": "salih-ozcan",
+      "team": "TUR",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "TUR::orkun-kokcu": {
+      "slug": "orkun-kokcu",
+      "team": "TUR",
+      "base": 0.82,
+      "prob": 82,
+      "source": "baseline"
+    },
+    "TUR::kerem-akturkoglu": {
+      "slug": "kerem-akturkoglu",
+      "team": "TUR",
+      "base": 0.67,
+      "prob": 67,
+      "source": "baseline"
+    },
+    "TUR::arda-guler": {
+      "slug": "arda-guler",
+      "team": "TUR",
+      "base": 0.94,
+      "prob": 94,
+      "source": "baseline"
+    },
+    "TUR::deniz-gul": {
+      "slug": "deniz-gul",
+      "team": "TUR",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "TUR::hakan-calhanoglu": {
+      "slug": "hakan-calhanoglu",
+      "team": "TUR",
+      "base": 0.59,
+      "prob": 59,
+      "source": "baseline"
+    },
+    "TUR::kenan-y-ld-z": {
+      "slug": "kenan-y-ld-z",
+      "team": "TUR",
+      "base": 0.91,
+      "prob": 91,
+      "source": "baseline"
+    },
+    "TUR::altay-bay-nd-r": {
+      "slug": "altay-bay-nd-r",
+      "team": "TUR",
+      "base": 0.9,
+      "prob": 90,
+      "source": "baseline"
+    },
+    "TUR::eren-elmal": {
+      "slug": "eren-elmal",
+      "team": "TUR",
+      "base": 0.81,
+      "prob": 81,
+      "source": "baseline"
+    },
+    "TUR::abdulkerim-bardakc": {
+      "slug": "abdulkerim-bardakc",
+      "team": "TUR",
+      "base": 0.52,
+      "prob": 52,
+      "source": "baseline"
+    },
+    "TUR::ozan-kabak": {
+      "slug": "ozan-kabak",
+      "team": "TUR",
+      "base": 0.9,
+      "prob": 90,
+      "source": "baseline"
+    },
+    "TUR::ismail-yuksek": {
+      "slug": "ismail-yuksek",
+      "team": "TUR",
+      "base": 0.73,
+      "prob": 73,
+      "source": "baseline"
+    },
+    "TUR::irfan-can-kahveci": {
+      "slug": "irfan-can-kahveci",
+      "team": "TUR",
+      "base": 0.52,
+      "prob": 52,
+      "source": "baseline"
+    },
+    "TUR::mert-muldur": {
+      "slug": "mert-muldur",
+      "team": "TUR",
+      "base": 0.81,
+      "prob": 81,
+      "source": "baseline"
+    },
+    "TUR::yunus-akgun": {
+      "slug": "yunus-akgun",
+      "team": "TUR",
+      "base": 0.7,
+      "prob": 70,
+      "source": "baseline"
+    },
+    "TUR::ferdi-kad-oglu": {
+      "slug": "ferdi-kad-oglu",
+      "team": "TUR",
+      "base": 0.88,
+      "prob": 88,
+      "source": "baseline"
+    },
+    "TUR::bar-s-alper-y-lmaz": {
+      "slug": "bar-s-alper-y-lmaz",
+      "team": "TUR",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "TUR::kaan-ayhan": {
+      "slug": "kaan-ayhan",
+      "team": "TUR",
+      "base": 0.53,
+      "prob": 53,
+      "source": "baseline"
+    },
+    "TUR::ugurcan-cak-r": {
+      "slug": "ugurcan-cak-r",
+      "team": "TUR",
+      "base": 0.8,
+      "prob": 80,
+      "source": "baseline"
+    },
+    "TUR::oguz-ayd-n": {
+      "slug": "oguz-ayd-n",
+      "team": "TUR",
+      "base": 0.67,
+      "prob": 67,
+      "source": "baseline"
+    },
+    "TUR::samet-akaydin": {
+      "slug": "samet-akaydin",
+      "team": "TUR",
+      "base": 0.5,
+      "prob": 50,
+      "source": "baseline"
+    },
+    "TUR::can-uzun": {
+      "slug": "can-uzun",
+      "team": "TUR",
+      "base": 0.84,
+      "prob": 84,
+      "source": "baseline"
+    },
+    "BIH::nikola-vasilj": {
+      "slug": "nikola-vasilj",
+      "team": "BIH",
+      "base": 0.79,
+      "prob": 79,
+      "source": "baseline"
+    },
+    "BIH::nihad-mujakic": {
+      "slug": "nihad-mujakic",
+      "team": "BIH",
+      "base": 0.67,
+      "prob": 67,
+      "source": "baseline"
+    },
+    "BIH::dennis-hadzikadunic": {
+      "slug": "dennis-hadzikadunic",
+      "team": "BIH",
+      "base": 0.79,
+      "prob": 79,
+      "source": "baseline"
+    },
+    "BIH::tarik-muharemovic": {
+      "slug": "tarik-muharemovic",
+      "team": "BIH",
+      "base": 0.87,
+      "prob": 87,
+      "source": "baseline"
+    },
+    "BIH::sead-kolasinac": {
+      "slug": "sead-kolasinac",
+      "team": "BIH",
+      "base": 0.59,
+      "prob": 59,
+      "source": "baseline"
+    },
+    "BIH::benjamin-tahirovic": {
+      "slug": "benjamin-tahirovic",
+      "team": "BIH",
+      "base": 0.82,
+      "prob": 82,
+      "source": "baseline"
+    },
+    "BIH::amar-dedic": {
+      "slug": "amar-dedic",
+      "team": "BIH",
+      "base": 0.82,
+      "prob": 82,
+      "source": "baseline"
+    },
+    "BIH::armin-gigovic": {
+      "slug": "armin-gigovic",
+      "team": "BIH",
+      "base": 0.8,
+      "prob": 80,
+      "source": "baseline"
+    },
+    "BIH::samed-bazdar": {
+      "slug": "samed-bazdar",
+      "team": "BIH",
+      "base": 0.78,
+      "prob": 78,
+      "source": "baseline"
+    },
+    "BIH::ermedin-demirovic": {
+      "slug": "ermedin-demirovic",
+      "team": "BIH",
+      "base": 0.73,
+      "prob": 73,
+      "source": "baseline"
+    },
+    "BIH::edin-dzeko": {
+      "slug": "edin-dzeko",
+      "team": "BIH",
+      "base": 0.44,
+      "prob": 44,
+      "source": "baseline"
+    },
+    "BIH::mladen-jurkas": {
+      "slug": "mladen-jurkas",
+      "team": "BIH",
+      "base": 0.68,
+      "prob": 68,
+      "source": "baseline"
+    },
+    "BIH::ivan-basic": {
+      "slug": "ivan-basic",
+      "team": "BIH",
+      "base": 0.79,
+      "prob": 79,
+      "source": "baseline"
+    },
+    "BIH::ivan-sunjic": {
+      "slug": "ivan-sunjic",
+      "team": "BIH",
+      "base": 0.49,
+      "prob": 49,
+      "source": "baseline"
+    },
+    "BIH::amar-memic": {
+      "slug": "amar-memic",
+      "team": "BIH",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "BIH::amir-hadziahmetovic": {
+      "slug": "amir-hadziahmetovic",
+      "team": "BIH",
+      "base": 0.74,
+      "prob": 74,
+      "source": "baseline"
+    },
+    "BIH::dzenis-burnic": {
+      "slug": "dzenis-burnic",
+      "team": "BIH",
+      "base": 0.72,
+      "prob": 72,
+      "source": "baseline"
+    },
+    "BIH::nikola-katic": {
+      "slug": "nikola-katic",
+      "team": "BIH",
+      "base": 0.66,
+      "prob": 66,
+      "source": "baseline"
+    },
+    "BIH::kerim-alajbegovic": {
+      "slug": "kerim-alajbegovic",
+      "team": "BIH",
+      "base": 0.76,
+      "prob": 76,
+      "source": "baseline"
+    },
+    "BIH::esmir-bajraktarevic": {
+      "slug": "esmir-bajraktarevic",
+      "team": "BIH",
+      "base": 0.84,
+      "prob": 84,
+      "source": "baseline"
+    },
+    "BIH::stjepan-radeljic": {
+      "slug": "stjepan-radeljic",
+      "team": "BIH",
+      "base": 0.56,
+      "prob": 56,
+      "source": "baseline"
+    },
+    "BIH::martin-zlomislic": {
+      "slug": "martin-zlomislic",
+      "team": "BIH",
+      "base": 0.72,
+      "prob": 72,
+      "source": "baseline"
+    },
+    "BIH::haris-tabakovic": {
+      "slug": "haris-tabakovic",
+      "team": "BIH",
+      "base": 0.44,
+      "prob": 44,
+      "source": "baseline"
+    },
+    "BIH::arjan-malic": {
+      "slug": "arjan-malic",
+      "team": "BIH",
+      "base": 0.75,
+      "prob": 75,
+      "source": "baseline"
+    },
+    "BIH::jovo-lukic": {
+      "slug": "jovo-lukic",
+      "team": "BIH",
+      "base": 0.5,
+      "prob": 50,
+      "source": "baseline"
+    },
+    "BIH::ermin-mahmic": {
+      "slug": "ermin-mahmic",
+      "team": "BIH",
+      "base": 0.71,
+      "prob": 71,
+      "source": "baseline"
+    }
+  }
+}

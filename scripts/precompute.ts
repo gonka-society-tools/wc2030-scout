@@ -46,7 +46,7 @@ const DATA_DIR = path.join(process.cwd(), "data");
 const SQUADS_PATH = path.join(DATA_DIR, "squads.json");
 const PREDICTIONS_PATH = path.join(DATA_DIR, "predictions.json");
 
-const DELAY_MS = 800; // sequential, rate-limit friendly
+const DELAY_MS = 2500; // full-run low speed: sequential + generous spacing to dodge upstream concurrency limits
 
 function parseArgs(): { teams: string[] | null } {
   const args = process.argv.slice(2);

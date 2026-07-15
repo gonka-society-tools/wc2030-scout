@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T23:36:50.520Z",
+  "generatedAt": "2026-07-15T08:54:10.862Z",
   "players": [
     {
       "name": "Juan Musso",
@@ -4644,6 +4644,186 @@
       },
       "mean": 45,
       "divergence": 0
+    },
+    {
+      "name": "Rafael Leão",
+      "team": "POR",
+      "kimi": {
+        "probability2030": 65,
+        "reasoning": "2030年31岁，前锋虽处下滑期但意甲节奏利于延续状态；现役核心且国家队经验丰富，葡萄牙该位置竞争激烈但大概率仍具轮换实力。",
+        "requestId": "devshard-28546-312",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "前锋位置对体能要求高，31岁时状态可能下滑，但若保持在意甲高水平且伤病控制良好，仍有机会进入葡萄牙大名单，预计概率约45%。",
+        "requestId": "devshard-28701-106",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 58,
+      "divergence": 15
+    },
+    {
+      "name": "Brian Brobbey",
+      "team": "NED",
+      "kimi": {
+        "probability2030": 55,
+        "reasoning": "28岁正值前锋巅峰期，英超平台竞技水平高；但国家队进球效率偏低（12场1球），且荷兰锋线竞争激烈，需持续高光表现才能保住位置。",
+        "requestId": "devshard-28546-317",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "28岁的前锋仍在巅峰期，效力英超球队，国家队已有12场经验，若保持状态，入选概率较高。但进球少、竞争激烈，可能略有下降。",
+        "requestId": "devshard-28678-3661",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 53,
+      "divergence": 5
+    },
+    {
+      "name": "Matěj Kovář",
+      "team": "CZE",
+      "kimi": {
+        "probability2030": 80,
+        "reasoning": "门将30岁正值巅峰，生涯周期长；效力荷甲豪门PSV且已有20场国家队经验，竞技平台与资历兼备，若无重大伤病，仍将是捷克国门有力竞争者。",
+        "requestId": "devshard-28564-259",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "30岁门将仍在巅峰，效力强队，经验丰富，国家队已有20次出场，竞争压力不大，预计仍能入选。",
+        "requestId": "devshard-28667-4187",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 65,
+      "divergence": 30
+    },
+    {
+      "name": "David Zima",
+      "team": "CZE",
+      "kimi": {
+        "probability2030": 45,
+        "reasoning": "30岁后卫处于经验与身体兼具的合理区间，但6年跨度长，且球员目前仅25场国家队经历、效力本土联赛，面临新人竞争与状态不确定性。",
+        "requestId": "devshard-28564-261",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "30岁中卫仍处竞技黄金期，国家队已有25场经验，若保持状态并在国内联赛表现出色，入选概率约65%。",
+        "requestId": "devshard-28626-6435",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 48,
+      "divergence": 5
+    },
+    {
+      "name": "Tomáš Holeš",
+      "team": "CZE",
+      "kimi": {
+        "probability2030": 5,
+        "reasoning": "后卫37岁属高龄，虽偶有例外，但体能与速度难维持国家队水准；效力本土联赛竞争力有限，且近年捷克队新老交替，41场经验不足以保证高龄入选。",
+        "requestId": "devshard-28456-324",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "37岁防守球员，职业生涯后期，国家队竞争激烈，仍保持状态的可能性较低，预计入选概率约10%。",
+        "requestId": "devshard-28686-2972",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 28,
+      "divergence": 45
+    },
+    {
+      "name": "Robin Hranáč",
+      "team": "CZE",
+      "kimi": {
+        "probability2030": 65,
+        "reasoning": "30岁后卫处于巅峰末期，德甲水平高且已是国家队常备人选；但6年间状态波动与伤病风险使概率保持中等偏上。",
+        "requestId": "devshard-28456-327",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 75,
+        "reasoning": "30岁仍处后卫黄金期，俱乐部稳定，已有14场经验，竞争压力适中，保持健康和状态入选概率较高。",
+        "requestId": "devshard-28699-1043",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 70,
+      "divergence": 10
+    },
+    {
+      "name": "Vladimír Coufal",
+      "team": "CZE",
+      "kimi": {
+        "probability2030": 5,
+        "reasoning": "后卫38岁已远超常规巅峰期，虽经验丰富且征战德甲，但体能与竞技状态难以支撑世界杯高强度赛事，极大概率已退役或退出国家队。",
+        "requestId": "devshard-28546-335",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 10,
+        "reasoning": "38岁右后卫，年龄偏大，状态和竞争是关键，仍有微弱可能但概率低。",
+        "requestId": "devshard-28701-596",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 8,
+      "divergence": 5
+    },
+    {
+      "name": "Štěpán Chaloupek",
+      "team": "CZE",
+      "kimi": {
+        "probability2030": 55,
+        "reasoning": "27岁正值后卫黄金年龄，但当前仅5场国脚经验且效力国内联赛，若未来五年未能登陆更高水平联赛或稳固主力位置，易被新人取代。",
+        "requestId": "devshard-28564-286",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "27岁仍是后卫黄金期，效力强队斯拉夫人，经验丰富，若保持状态，入选机会较高。",
+        "requestId": "devshard-28704-66",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 53,
+      "divergence": 5
+    },
+    {
+      "name": "Ladislav Krejčí (captain)",
+      "team": "CZE",
+      "kimi": {
+        "probability2030": 65,
+        "reasoning": "31岁后卫仍处于巅峰末期，英超水平高且身为队长经验丰富；但6年间竞技状态存在不确定性，且捷克队后卫线可能涌现新人。",
+        "requestId": "devshard-28546-336",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "31岁仍处后卫黄金期，队长身份及英超水平保持，伤病风险低，仍有望入选。",
+        "requestId": "devshard-28705-142",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 58,
+      "divergence": 15
+    },
+    {
+      "name": "Vladimír Darida",
+      "team": "CZE",
+      "kimi": {
+        "probability2030": 1,
+        "reasoning": "40岁中场体能要求极高，且已退出国家队多年，即便在捷克联赛效力，入选概率近乎为零。",
+        "requestId": "devshard-28546-345",
+        "model": "moonshotai/Kimi-K2.6"
+      },
+      "minimax": {
+        "probability2030": 50,
+        "reasoning": "40岁中场，职业生涯接近尾声，俱乐部水平一般，国家队更倾向年轻球员，入选概率极低。",
+        "requestId": "devshard-28703-875",
+        "model": "MiniMaxAI/MiniMax-M2.7"
+      },
+      "mean": 26,
+      "divergence": 49
     }
   ],
   "teams": [

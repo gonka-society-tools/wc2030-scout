@@ -5,6 +5,7 @@ import { getPlayerEntryBySlug, getRoster } from "@/lib/team";
 import { flagFor, COUNTRY_ZH } from "@/lib/flags";
 import { ProbabilityBar } from "@/components/ProbabilityBar";
 import { PlayerAvatar } from "@/components/PlayerAvatar";
+import { PlayerMarketCard } from "@/components/PlayerMarketCard";
 import { PlayerDetailClient } from "./PlayerDetailClient";
 
 // Route param is a plain ASCII slug (see lib/slug.ts), not the raw player
@@ -150,6 +151,8 @@ export default async function PlayerPage({
           )}
         </div>
       )}
+
+      <PlayerMarketCard slug={entry.slug} team={team.code} />
 
       <PlayerDetailClient entry={entry} />
     </div>

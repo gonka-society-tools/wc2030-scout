@@ -1,0 +1,2406 @@
+{
+  "generatedAt": "2026-07-15",
+  "source": "Wikipedia 2026 FIFA World Cup squads",
+  "teams": [
+    {
+      "country": "Argentina",
+      "code": "ARG",
+      "players": [
+        {
+          "name": "Juan Musso",
+          "position": "GK",
+          "birthYear": 1994,
+          "club": "Atlético Madrid",
+          "league": "La Liga",
+          "caps": 4,
+          "goals": 0
+        },
+        {
+          "name": "Marcos Senesi",
+          "position": "DF",
+          "birthYear": 1997,
+          "club": "Bournemouth",
+          "league": "Premier League",
+          "caps": 3,
+          "goals": 0
+        },
+        {
+          "name": "Nicolás Tagliafico",
+          "position": "DF",
+          "birthYear": 1992,
+          "club": "Lyon",
+          "league": "Ligue 1",
+          "caps": 76,
+          "goals": 1
+        },
+        {
+          "name": "Gonzalo Montiel",
+          "position": "DF",
+          "birthYear": 1997,
+          "club": "River Plate",
+          "league": "Liga Profesional Argentina",
+          "caps": 39,
+          "goals": 2
+        },
+        {
+          "name": "Leandro Paredes",
+          "position": "MF",
+          "birthYear": 1994,
+          "club": "Boca Juniors",
+          "league": "Liga Profesional Argentina",
+          "caps": 77,
+          "goals": 5
+        },
+        {
+          "name": "Lisandro Martínez",
+          "position": "DF",
+          "birthYear": 1998,
+          "club": "Manchester United",
+          "league": "Premier League",
+          "caps": 28,
+          "goals": 1
+        },
+        {
+          "name": "Rodrigo De Paul",
+          "position": "MF",
+          "birthYear": 1994,
+          "club": "Inter Miami CF",
+          "league": "MLS",
+          "caps": 87,
+          "goals": 2
+        },
+        {
+          "name": "Valentín Barco",
+          "position": "MF",
+          "birthYear": 2004,
+          "club": "Strasbourg",
+          "league": "Ligue 1",
+          "caps": 4,
+          "goals": 2
+        },
+        {
+          "name": "Julián Alvarez",
+          "position": "FW",
+          "birthYear": 2000,
+          "club": "Atlético Madrid",
+          "league": "La Liga",
+          "caps": 51,
+          "goals": 14
+        },
+        {
+          "name": "Lionel Messi (captain)",
+          "position": "FW",
+          "birthYear": 1987,
+          "club": "Inter Miami CF",
+          "league": "MLS",
+          "caps": 199,
+          "goals": 117
+        },
+        {
+          "name": "Giovani Lo Celso",
+          "position": "MF",
+          "birthYear": 1996,
+          "club": "Real Betis",
+          "league": "La Liga",
+          "caps": 67,
+          "goals": 4
+        },
+        {
+          "name": "Gerónimo Rulli",
+          "position": "GK",
+          "birthYear": 1992,
+          "club": "Marseille",
+          "league": "Ligue 1",
+          "caps": 8,
+          "goals": 0
+        },
+        {
+          "name": "Cristian Romero",
+          "position": "DF",
+          "birthYear": 1998,
+          "club": "Tottenham Hotspur",
+          "league": "Premier League",
+          "caps": 51,
+          "goals": 3
+        },
+        {
+          "name": "Exequiel Palacios",
+          "position": "MF",
+          "birthYear": 1998,
+          "club": "Bayer Leverkusen",
+          "league": "Bundesliga",
+          "caps": 40,
+          "goals": 0
+        },
+        {
+          "name": "Nicolás González",
+          "position": "MF",
+          "birthYear": 1998,
+          "club": "Atlético Madrid",
+          "league": "La Liga",
+          "caps": 51,
+          "goals": 6
+        },
+        {
+          "name": "Thiago Almada",
+          "position": "FW",
+          "birthYear": 2001,
+          "club": "Atlético Madrid",
+          "league": "La Liga",
+          "caps": 16,
+          "goals": 5
+        },
+        {
+          "name": "Giuliano Simeone",
+          "position": "FW",
+          "birthYear": 2002,
+          "club": "Atlético Madrid",
+          "league": "La Liga",
+          "caps": 13,
+          "goals": 2
+        },
+        {
+          "name": "Nico Paz",
+          "position": "FW",
+          "birthYear": 2004,
+          "club": "Como",
+          "league": "Serie A",
+          "caps": 9,
+          "goals": 1
+        },
+        {
+          "name": "Nicolás Otamendi",
+          "position": "DF",
+          "birthYear": 1988,
+          "club": "Benfica",
+          "league": "Primeira Liga",
+          "caps": 132,
+          "goals": 8
+        },
+        {
+          "name": "Alexis Mac Allister",
+          "position": "MF",
+          "birthYear": 1998,
+          "club": "Liverpool",
+          "league": "Premier League",
+          "caps": 46,
+          "goals": 6
+        },
+        {
+          "name": "José Manuel López",
+          "position": "FW",
+          "birthYear": 2000,
+          "club": "Palmeiras",
+          "league": "Brasileirão",
+          "caps": 5,
+          "goals": 0
+        },
+        {
+          "name": "Lautaro Martínez",
+          "position": "FW",
+          "birthYear": 1997,
+          "club": "Inter Milan",
+          "league": "Serie A",
+          "caps": 77,
+          "goals": 37
+        },
+        {
+          "name": "Emiliano Martínez",
+          "position": "GK",
+          "birthYear": 1992,
+          "club": "Aston Villa",
+          "league": "Premier League",
+          "caps": 59,
+          "goals": 0
+        },
+        {
+          "name": "Enzo Fernández",
+          "position": "MF",
+          "birthYear": 2001,
+          "club": "Chelsea",
+          "league": "Premier League",
+          "caps": 42,
+          "goals": 6
+        },
+        {
+          "name": "Facundo Medina",
+          "position": "DF",
+          "birthYear": 1999,
+          "club": "Marseille",
+          "league": "Ligue 1",
+          "caps": 9,
+          "goals": 0
+        },
+        {
+          "name": "Nahuel Molina",
+          "position": "DF",
+          "birthYear": 1998,
+          "club": "Atlético Madrid",
+          "league": "La Liga",
+          "caps": 58,
+          "goals": 1
+        }
+      ]
+    },
+    {
+      "country": "France",
+      "code": "FRA",
+      "players": [
+        {
+          "name": "Brice Samba",
+          "position": "GK",
+          "birthYear": 1994,
+          "club": "Rennes",
+          "league": "Ligue 1",
+          "caps": 4,
+          "goals": 0
+        },
+        {
+          "name": "Malo Gusto",
+          "position": "DF",
+          "birthYear": 2003,
+          "club": "Chelsea",
+          "league": "Premier League",
+          "caps": 11,
+          "goals": 0
+        },
+        {
+          "name": "Lucas Digne",
+          "position": "DF",
+          "birthYear": 1993,
+          "club": "Aston Villa",
+          "league": "Premier League",
+          "caps": 58,
+          "goals": 0
+        },
+        {
+          "name": "Dayot Upamecano",
+          "position": "DF",
+          "birthYear": 1998,
+          "club": "Bayern Munich",
+          "league": "Bundesliga",
+          "caps": 38,
+          "goals": 2
+        },
+        {
+          "name": "Jules Koundé",
+          "position": "DF",
+          "birthYear": 1998,
+          "club": "Barcelona",
+          "league": "La Liga",
+          "caps": 48,
+          "goals": 0
+        },
+        {
+          "name": "Manu Koné",
+          "position": "MF",
+          "birthYear": 2001,
+          "club": "Roma",
+          "league": "Serie A",
+          "caps": 14,
+          "goals": 0
+        },
+        {
+          "name": "Ousmane Dembélé",
+          "position": "FW",
+          "birthYear": 1997,
+          "club": "Paris Saint-Germain",
+          "league": "Ligue 1",
+          "caps": 59,
+          "goals": 7
+        },
+        {
+          "name": "Aurélien Tchouaméni",
+          "position": "MF",
+          "birthYear": 2000,
+          "club": "Real Madrid",
+          "league": "La Liga",
+          "caps": 46,
+          "goals": 3
+        },
+        {
+          "name": "Marcus Thuram",
+          "position": "FW",
+          "birthYear": 1997,
+          "club": "Inter Milan",
+          "league": "Serie A",
+          "caps": 34,
+          "goals": 3
+        },
+        {
+          "name": "Kylian Mbappé (captain)",
+          "position": "FW",
+          "birthYear": 1998,
+          "club": "Real Madrid",
+          "league": "La Liga",
+          "caps": 98,
+          "goals": 56
+        },
+        {
+          "name": "Michael Olise",
+          "position": "FW",
+          "birthYear": 2001,
+          "club": "Bayern Munich",
+          "league": "Bundesliga",
+          "caps": 17,
+          "goals": 7
+        },
+        {
+          "name": "Bradley Barcola",
+          "position": "FW",
+          "birthYear": 2002,
+          "club": "Paris Saint-Germain",
+          "league": "Ligue 1",
+          "caps": 20,
+          "goals": 3
+        },
+        {
+          "name": "N'Golo Kanté",
+          "position": "MF",
+          "birthYear": 1991,
+          "club": "Fenerbahçe",
+          "league": "Süper Lig",
+          "caps": 69,
+          "goals": 2
+        },
+        {
+          "name": "Adrien Rabiot",
+          "position": "MF",
+          "birthYear": 1995,
+          "club": "Milan",
+          "league": "Serie A",
+          "caps": 59,
+          "goals": 7
+        },
+        {
+          "name": "Ibrahima Konaté",
+          "position": "DF",
+          "birthYear": 1999,
+          "club": "Liverpool",
+          "league": "Premier League",
+          "caps": 28,
+          "goals": 0
+        },
+        {
+          "name": "Mike Maignan",
+          "position": "GK",
+          "birthYear": 1995,
+          "club": "Milan",
+          "league": "Serie A",
+          "caps": 40,
+          "goals": 0
+        },
+        {
+          "name": "William Saliba",
+          "position": "DF",
+          "birthYear": 2001,
+          "club": "Arsenal",
+          "league": "Premier League",
+          "caps": 32,
+          "goals": 0
+        },
+        {
+          "name": "Warren Zaïre-Emery",
+          "position": "MF",
+          "birthYear": 2006,
+          "club": "Paris Saint-Germain",
+          "league": "Ligue 1",
+          "caps": 11,
+          "goals": 1
+        },
+        {
+          "name": "Théo Hernandez",
+          "position": "DF",
+          "birthYear": 1997,
+          "club": "Al-Hilal",
+          "league": "Saudi Pro League",
+          "caps": 44,
+          "goals": 2
+        },
+        {
+          "name": "Désiré Doué",
+          "position": "FW",
+          "birthYear": 2005,
+          "club": "Paris Saint-Germain",
+          "league": "Ligue 1",
+          "caps": 7,
+          "goals": 2
+        },
+        {
+          "name": "Lucas Hernandez",
+          "position": "DF",
+          "birthYear": 1996,
+          "club": "Paris Saint-Germain",
+          "league": "Ligue 1",
+          "caps": 42,
+          "goals": 0
+        },
+        {
+          "name": "Jean-Philippe Mateta",
+          "position": "FW",
+          "birthYear": 1997,
+          "club": "Crystal Palace",
+          "league": "Premier League",
+          "caps": 4,
+          "goals": 2
+        },
+        {
+          "name": "Robin Risser",
+          "position": "GK",
+          "birthYear": 2004,
+          "club": "Lens",
+          "league": "Ligue 1",
+          "caps": 0,
+          "goals": 0
+        },
+        {
+          "name": "Rayan Cherki",
+          "position": "MF",
+          "birthYear": 2003,
+          "club": "Manchester City",
+          "league": "Premier League",
+          "caps": 7,
+          "goals": 2
+        },
+        {
+          "name": "Maghnes Akliouche",
+          "position": "MF",
+          "birthYear": 2002,
+          "club": "Monaco",
+          "league": "Ligue 1",
+          "caps": 9,
+          "goals": 1
+        },
+        {
+          "name": "Maxence Lacroix",
+          "position": "DF",
+          "birthYear": 2000,
+          "club": "Crystal Palace",
+          "league": "Premier League",
+          "caps": 4,
+          "goals": 0
+        }
+      ]
+    },
+    {
+      "country": "England",
+      "code": "ENG",
+      "players": [
+        {
+          "name": "Jordan Pickford",
+          "position": "GK",
+          "birthYear": 1994,
+          "club": "Everton",
+          "league": "Premier League",
+          "caps": 84,
+          "goals": 0
+        },
+        {
+          "name": "Ezri Konsa",
+          "position": "DF",
+          "birthYear": 1997,
+          "club": "Aston Villa",
+          "league": "Premier League",
+          "caps": 20,
+          "goals": 1
+        },
+        {
+          "name": "Nico O'Reilly",
+          "position": "DF",
+          "birthYear": 2005,
+          "club": "Manchester City",
+          "league": "Premier League",
+          "caps": 5,
+          "goals": 0
+        },
+        {
+          "name": "Declan Rice",
+          "position": "MF",
+          "birthYear": 1999,
+          "club": "Arsenal",
+          "league": "Premier League",
+          "caps": 73,
+          "goals": 7
+        },
+        {
+          "name": "John Stones",
+          "position": "DF",
+          "birthYear": 1994,
+          "club": "Manchester City",
+          "league": "Premier League",
+          "caps": 89,
+          "goals": 3
+        },
+        {
+          "name": "Marc Guéhi",
+          "position": "DF",
+          "birthYear": 2000,
+          "club": "Manchester City",
+          "league": "Premier League",
+          "caps": 29,
+          "goals": 1
+        },
+        {
+          "name": "Bukayo Saka",
+          "position": "FW",
+          "birthYear": 2001,
+          "club": "Arsenal",
+          "league": "Premier League",
+          "caps": 49,
+          "goals": 14
+        },
+        {
+          "name": "Elliot Anderson",
+          "position": "MF",
+          "birthYear": 2002,
+          "club": "Nottingham Forest",
+          "league": "Premier League",
+          "caps": 9,
+          "goals": 0
+        },
+        {
+          "name": "Harry Kane (captain)",
+          "position": "FW",
+          "birthYear": 1993,
+          "club": "Bayern Munich",
+          "league": "Bundesliga",
+          "caps": 114,
+          "goals": 79
+        },
+        {
+          "name": "Jude Bellingham",
+          "position": "MF",
+          "birthYear": 2003,
+          "club": "Real Madrid",
+          "league": "La Liga",
+          "caps": 48,
+          "goals": 6
+        },
+        {
+          "name": "Marcus Rashford",
+          "position": "FW",
+          "birthYear": 1997,
+          "club": "Barcelona",
+          "league": "La Liga",
+          "caps": 72,
+          "goals": 18
+        },
+        {
+          "name": "Trevoh Chalobah",
+          "position": "DF",
+          "birthYear": 1999,
+          "club": "Chelsea",
+          "league": "Premier League",
+          "caps": 1,
+          "goals": 0
+        },
+        {
+          "name": "Dean Henderson",
+          "position": "GK",
+          "birthYear": 1997,
+          "club": "Crystal Palace",
+          "league": "Premier League",
+          "caps": 5,
+          "goals": 0
+        },
+        {
+          "name": "Jordan Henderson",
+          "position": "MF",
+          "birthYear": 1990,
+          "club": "Brentford",
+          "league": "Premier League",
+          "caps": 90,
+          "goals": 3
+        },
+        {
+          "name": "Dan Burn",
+          "position": "DF",
+          "birthYear": 1992,
+          "club": "Newcastle United",
+          "league": "Premier League",
+          "caps": 8,
+          "goals": 0
+        },
+        {
+          "name": "Kobbie Mainoo",
+          "position": "MF",
+          "birthYear": 2005,
+          "club": "Manchester United",
+          "league": "Premier League",
+          "caps": 14,
+          "goals": 0
+        },
+        {
+          "name": "Morgan Rogers",
+          "position": "MF",
+          "birthYear": 2002,
+          "club": "Aston Villa",
+          "league": "Premier League",
+          "caps": 15,
+          "goals": 1
+        },
+        {
+          "name": "Anthony Gordon",
+          "position": "FW",
+          "birthYear": 2001,
+          "club": "Newcastle United",
+          "league": "Premier League",
+          "caps": 19,
+          "goals": 3
+        },
+        {
+          "name": "Ollie Watkins",
+          "position": "FW",
+          "birthYear": 1995,
+          "club": "Aston Villa",
+          "league": "Premier League",
+          "caps": 22,
+          "goals": 7
+        },
+        {
+          "name": "Noni Madueke",
+          "position": "FW",
+          "birthYear": 2002,
+          "club": "Arsenal",
+          "league": "Premier League",
+          "caps": 11,
+          "goals": 1
+        },
+        {
+          "name": "Eberechi Eze",
+          "position": "MF",
+          "birthYear": 1998,
+          "club": "Arsenal",
+          "league": "Premier League",
+          "caps": 17,
+          "goals": 3
+        },
+        {
+          "name": "Ivan Toney",
+          "position": "FW",
+          "birthYear": 1996,
+          "club": "Al-Ahli",
+          "league": "Saudi Pro League",
+          "caps": 8,
+          "goals": 1
+        },
+        {
+          "name": "James Trafford",
+          "position": "GK",
+          "birthYear": 2002,
+          "club": "Manchester City",
+          "league": "Premier League",
+          "caps": 2,
+          "goals": 0
+        },
+        {
+          "name": "Reece James",
+          "position": "DF",
+          "birthYear": 1999,
+          "club": "Chelsea",
+          "league": "Premier League",
+          "caps": 24,
+          "goals": 1
+        },
+        {
+          "name": "Djed Spence",
+          "position": "DF",
+          "birthYear": 2000,
+          "club": "Tottenham Hotspur",
+          "league": "Premier League",
+          "caps": 6,
+          "goals": 0
+        },
+        {
+          "name": "Jarell Quansah",
+          "position": "DF",
+          "birthYear": 2003,
+          "club": "Bayer Leverkusen",
+          "league": "Bundesliga",
+          "caps": 3,
+          "goals": 0
+        }
+      ]
+    },
+    {
+      "country": "Brazil",
+      "code": "BRA",
+      "players": [
+        {
+          "name": "Alisson",
+          "position": "GK",
+          "birthYear": 1992,
+          "club": "Liverpool",
+          "league": "Premier League",
+          "caps": 78,
+          "goals": 0
+        },
+        {
+          "name": "Éderson Silva",
+          "position": "MF",
+          "birthYear": 1999,
+          "club": "Atalanta",
+          "league": "Serie A",
+          "caps": 3,
+          "goals": 0
+        },
+        {
+          "name": "Gabriel Magalhães",
+          "position": "DF",
+          "birthYear": 1997,
+          "club": "Arsenal",
+          "league": "Premier League",
+          "caps": 17,
+          "goals": 1
+        },
+        {
+          "name": "Marquinhos (capt.)",
+          "position": "DF",
+          "birthYear": 1994,
+          "club": "Paris Saint-Germain",
+          "league": "Ligue 1",
+          "caps": 105,
+          "goals": 7
+        },
+        {
+          "name": "Casemiro",
+          "position": "MF",
+          "birthYear": 1992,
+          "club": "Manchester United",
+          "league": "Premier League",
+          "caps": 86,
+          "goals": 9
+        },
+        {
+          "name": "Alex Sandro",
+          "position": "DF",
+          "birthYear": 1991,
+          "club": "Flamengo",
+          "league": "Brasileirão",
+          "caps": 45,
+          "goals": 2
+        },
+        {
+          "name": "Vinícius Júnior",
+          "position": "FW",
+          "birthYear": 2000,
+          "club": "Real Madrid",
+          "league": "La Liga",
+          "caps": 49,
+          "goals": 9
+        },
+        {
+          "name": "Bruno Guimarães",
+          "position": "MF",
+          "birthYear": 1997,
+          "club": "Newcastle United",
+          "league": "Premier League",
+          "caps": 43,
+          "goals": 3
+        },
+        {
+          "name": "Matheus Cunha",
+          "position": "FW",
+          "birthYear": 1999,
+          "club": "Manchester United",
+          "league": "Premier League",
+          "caps": 23,
+          "goals": 1
+        },
+        {
+          "name": "Neymar",
+          "position": "FW",
+          "birthYear": 1992,
+          "club": "Santos",
+          "league": "Brasileirão",
+          "caps": 128,
+          "goals": 79
+        },
+        {
+          "name": "Raphinha",
+          "position": "FW",
+          "birthYear": 1996,
+          "club": "Barcelona",
+          "league": "La Liga",
+          "caps": 39,
+          "goals": 11
+        },
+        {
+          "name": "Weverton",
+          "position": "GK",
+          "birthYear": 1987,
+          "club": "Grêmio",
+          "league": "Brasileirão",
+          "caps": 11,
+          "goals": 0
+        },
+        {
+          "name": "Danilo Luiz",
+          "position": "DF",
+          "birthYear": 1991,
+          "club": "Flamengo",
+          "league": "Brasileirão",
+          "caps": 70,
+          "goals": 1
+        },
+        {
+          "name": "Bremer",
+          "position": "DF",
+          "birthYear": 1997,
+          "club": "Juventus",
+          "league": "Serie A",
+          "caps": 8,
+          "goals": 1
+        },
+        {
+          "name": "Léo Pereira",
+          "position": "DF",
+          "birthYear": 1996,
+          "club": "Flamengo",
+          "league": "Brasileirão",
+          "caps": 4,
+          "goals": 0
+        },
+        {
+          "name": "Douglas Santos",
+          "position": "DF",
+          "birthYear": 1994,
+          "club": "Zenit Saint Petersburg",
+          "league": "Russian Premier League",
+          "caps": 7,
+          "goals": 0
+        },
+        {
+          "name": "Fabinho",
+          "position": "MF",
+          "birthYear": 1993,
+          "club": "Al-Ittihad",
+          "league": "Saudi Pro League",
+          "caps": 33,
+          "goals": 0
+        },
+        {
+          "name": "Danilo Santos",
+          "position": "MF",
+          "birthYear": 2001,
+          "club": "Botafogo",
+          "league": "Brasileirão",
+          "caps": 4,
+          "goals": 2
+        },
+        {
+          "name": "Endrick",
+          "position": "FW",
+          "birthYear": 2006,
+          "club": "Lyon",
+          "league": "Ligue 1",
+          "caps": 17,
+          "goals": 4
+        },
+        {
+          "name": "Lucas Paquetá",
+          "position": "MF",
+          "birthYear": 1997,
+          "club": "Flamengo",
+          "league": "Brasileirão",
+          "caps": 63,
+          "goals": 13
+        },
+        {
+          "name": "Luiz Henrique",
+          "position": "FW",
+          "birthYear": 2001,
+          "club": "Zenit Saint Petersburg",
+          "league": "Russian Premier League",
+          "caps": 15,
+          "goals": 2
+        },
+        {
+          "name": "Gabriel Martinelli",
+          "position": "FW",
+          "birthYear": 2001,
+          "club": "Arsenal",
+          "league": "Premier League",
+          "caps": 23,
+          "goals": 4
+        },
+        {
+          "name": "Ederson Moraes",
+          "position": "GK",
+          "birthYear": 1993,
+          "club": "Fenerbahçe",
+          "league": "Süper Lig",
+          "caps": 32,
+          "goals": 0
+        },
+        {
+          "name": "Roger Ibañez",
+          "position": "DF",
+          "birthYear": 1998,
+          "club": "Al-Ahli",
+          "league": "Saudi Pro League",
+          "caps": 7,
+          "goals": 0
+        },
+        {
+          "name": "Igor Thiago",
+          "position": "FW",
+          "birthYear": 2001,
+          "club": "Brentford",
+          "league": "Premier League",
+          "caps": 4,
+          "goals": 2
+        },
+        {
+          "name": "Rayan",
+          "position": "FW",
+          "birthYear": 2006,
+          "club": "Bournemouth",
+          "league": "Premier League",
+          "caps": 2,
+          "goals": 1
+        }
+      ]
+    },
+    {
+      "country": "Spain",
+      "code": "ESP",
+      "players": [
+        {
+          "name": "David Raya",
+          "position": "GK",
+          "birthYear": 1995,
+          "club": "Arsenal",
+          "league": "Premier League",
+          "caps": 13,
+          "goals": 0
+        },
+        {
+          "name": "Marc Pubill",
+          "position": "DF",
+          "birthYear": 2003,
+          "club": "Atlético Madrid",
+          "league": "La Liga",
+          "caps": 2,
+          "goals": 0
+        },
+        {
+          "name": "Álex Grimaldo",
+          "position": "DF",
+          "birthYear": 1995,
+          "club": "Bayer Leverkusen",
+          "league": "Bundesliga",
+          "caps": 14,
+          "goals": 0
+        },
+        {
+          "name": "Eric García",
+          "position": "DF",
+          "birthYear": 2001,
+          "club": "Barcelona",
+          "league": "La Liga",
+          "caps": 21,
+          "goals": 0
+        },
+        {
+          "name": "Marcos Llorente",
+          "position": "DF",
+          "birthYear": 1995,
+          "club": "Atlético Madrid",
+          "league": "La Liga",
+          "caps": 24,
+          "goals": 0
+        },
+        {
+          "name": "Mikel Merino",
+          "position": "MF",
+          "birthYear": 1996,
+          "club": "Arsenal",
+          "league": "Premier League",
+          "caps": 43,
+          "goals": 10
+        },
+        {
+          "name": "Ferran Torres",
+          "position": "FW",
+          "birthYear": 2000,
+          "club": "Barcelona",
+          "league": "La Liga",
+          "caps": 57,
+          "goals": 24
+        },
+        {
+          "name": "Fabián Ruiz",
+          "position": "MF",
+          "birthYear": 1996,
+          "club": "Paris Saint-Germain",
+          "league": "Ligue 1",
+          "caps": 42,
+          "goals": 6
+        },
+        {
+          "name": "Gavi",
+          "position": "MF",
+          "birthYear": 2004,
+          "club": "Barcelona",
+          "league": "La Liga",
+          "caps": 30,
+          "goals": 5
+        },
+        {
+          "name": "Dani Olmo",
+          "position": "FW",
+          "birthYear": 1998,
+          "club": "Barcelona",
+          "league": "La Liga",
+          "caps": 50,
+          "goals": 12
+        },
+        {
+          "name": "Yéremy Pino",
+          "position": "FW",
+          "birthYear": 2002,
+          "club": "Crystal Palace",
+          "league": "Premier League",
+          "caps": 23,
+          "goals": 4
+        },
+        {
+          "name": "Pedro Porro",
+          "position": "DF",
+          "birthYear": 1999,
+          "club": "Tottenham Hotspur",
+          "league": "Premier League",
+          "caps": 18,
+          "goals": 0
+        },
+        {
+          "name": "Joan Garcia",
+          "position": "GK",
+          "birthYear": 2001,
+          "club": "Barcelona",
+          "league": "La Liga",
+          "caps": 2,
+          "goals": 0
+        },
+        {
+          "name": "Aymeric Laporte",
+          "position": "DF",
+          "birthYear": 1994,
+          "club": "Athletic Bilbao",
+          "league": "La Liga",
+          "caps": 46,
+          "goals": 2
+        },
+        {
+          "name": "Álex Baena",
+          "position": "MF",
+          "birthYear": 2001,
+          "club": "Atlético Madrid",
+          "league": "La Liga",
+          "caps": 17,
+          "goals": 2
+        },
+        {
+          "name": "Rodri (captain)",
+          "position": "MF",
+          "birthYear": 1996,
+          "club": "Manchester City",
+          "league": "Premier League",
+          "caps": 62,
+          "goals": 4
+        },
+        {
+          "name": "Nico Williams",
+          "position": "FW",
+          "birthYear": 2002,
+          "club": "Athletic Bilbao",
+          "league": "La Liga",
+          "caps": 30,
+          "goals": 6
+        },
+        {
+          "name": "Martín Zubimendi",
+          "position": "MF",
+          "birthYear": 1999,
+          "club": "Arsenal",
+          "league": "Premier League",
+          "caps": 26,
+          "goals": 3
+        },
+        {
+          "name": "Lamine Yamal",
+          "position": "FW",
+          "birthYear": 2007,
+          "club": "Barcelona",
+          "league": "La Liga",
+          "caps": 25,
+          "goals": 6
+        },
+        {
+          "name": "Pedri",
+          "position": "MF",
+          "birthYear": 2002,
+          "club": "Barcelona",
+          "league": "La Liga",
+          "caps": 41,
+          "goals": 6
+        },
+        {
+          "name": "Mikel Oyarzabal",
+          "position": "FW",
+          "birthYear": 1997,
+          "club": "Real Sociedad",
+          "league": "La Liga",
+          "caps": 53,
+          "goals": 25
+        },
+        {
+          "name": "Pau Cubarsí",
+          "position": "DF",
+          "birthYear": 2007,
+          "club": "Barcelona",
+          "league": "La Liga",
+          "caps": 12,
+          "goals": 0
+        },
+        {
+          "name": "Unai Simón",
+          "position": "GK",
+          "birthYear": 1997,
+          "club": "Athletic Bilbao",
+          "league": "La Liga",
+          "caps": 58,
+          "goals": 0
+        },
+        {
+          "name": "Marc Cucurella",
+          "position": "DF",
+          "birthYear": 1998,
+          "club": "Chelsea",
+          "league": "Premier League",
+          "caps": 24,
+          "goals": 1
+        },
+        {
+          "name": "Víctor Muñoz",
+          "position": "FW",
+          "birthYear": 2003,
+          "club": "Osasuna",
+          "league": "La Liga",
+          "caps": 2,
+          "goals": 1
+        },
+        {
+          "name": "Borja Iglesias",
+          "position": "FW",
+          "birthYear": 1993,
+          "club": "Celta Vigo",
+          "league": "La Liga",
+          "caps": 8,
+          "goals": 0
+        }
+      ]
+    },
+    {
+      "country": "Germany",
+      "code": "GER",
+      "players": [
+        {
+          "name": "Manuel Neuer",
+          "position": "GK",
+          "birthYear": 1986,
+          "club": "Bayern Munich",
+          "league": "Bundesliga",
+          "caps": 124,
+          "goals": 0
+        },
+        {
+          "name": "Antonio Rüdiger",
+          "position": "DF",
+          "birthYear": 1993,
+          "club": "Real Madrid",
+          "league": "La Liga",
+          "caps": 82,
+          "goals": 3
+        },
+        {
+          "name": "Waldemar Anton",
+          "position": "DF",
+          "birthYear": 1996,
+          "club": "Borussia Dortmund",
+          "league": "Bundesliga",
+          "caps": 13,
+          "goals": 0
+        },
+        {
+          "name": "Jonathan Tah",
+          "position": "DF",
+          "birthYear": 1996,
+          "club": "Bayern Munich",
+          "league": "Bundesliga",
+          "caps": 47,
+          "goals": 1
+        },
+        {
+          "name": "Aleksandar Pavlović",
+          "position": "MF",
+          "birthYear": 2004,
+          "club": "Bayern Munich",
+          "league": "Bundesliga",
+          "caps": 11,
+          "goals": 1
+        },
+        {
+          "name": "Joshua Kimmich (captain)",
+          "position": "DF",
+          "birthYear": 1995,
+          "club": "Bayern Munich",
+          "league": "Bundesliga",
+          "caps": 110,
+          "goals": 10
+        },
+        {
+          "name": "Kai Havertz",
+          "position": "FW",
+          "birthYear": 1999,
+          "club": "Arsenal",
+          "league": "Premier League",
+          "caps": 58,
+          "goals": 22
+        },
+        {
+          "name": "Leon Goretzka",
+          "position": "MF",
+          "birthYear": 1995,
+          "club": "Bayern Munich",
+          "league": "Bundesliga",
+          "caps": 70,
+          "goals": 15
+        },
+        {
+          "name": "Jamie Leweling",
+          "position": "MF",
+          "birthYear": 2001,
+          "club": "VfB Stuttgart",
+          "league": "Bundesliga",
+          "caps": 5,
+          "goals": 1
+        },
+        {
+          "name": "Jamal Musiala",
+          "position": "MF",
+          "birthYear": 2003,
+          "club": "Bayern Munich",
+          "league": "Bundesliga",
+          "caps": 42,
+          "goals": 9
+        },
+        {
+          "name": "Nick Woltemade",
+          "position": "FW",
+          "birthYear": 2002,
+          "club": "Newcastle United",
+          "league": "Premier League",
+          "caps": 11,
+          "goals": 4
+        },
+        {
+          "name": "Oliver Baumann",
+          "position": "GK",
+          "birthYear": 1990,
+          "club": "TSG Hoffenheim",
+          "league": "Bundesliga",
+          "caps": 13,
+          "goals": 0
+        },
+        {
+          "name": "Pascal Groß",
+          "position": "MF",
+          "birthYear": 1991,
+          "club": "Brighton & Hove Albion",
+          "league": "Premier League",
+          "caps": 18,
+          "goals": 1
+        },
+        {
+          "name": "Maximilian Beier",
+          "position": "FW",
+          "birthYear": 2002,
+          "club": "Borussia Dortmund",
+          "league": "Bundesliga",
+          "caps": 9,
+          "goals": 0
+        },
+        {
+          "name": "Nico Schlotterbeck",
+          "position": "DF",
+          "birthYear": 1999,
+          "club": "Borussia Dortmund",
+          "league": "Bundesliga",
+          "caps": 27,
+          "goals": 0
+        },
+        {
+          "name": "Angelo Stiller",
+          "position": "MF",
+          "birthYear": 2001,
+          "club": "VfB Stuttgart",
+          "league": "Bundesliga",
+          "caps": 8,
+          "goals": 0
+        },
+        {
+          "name": "Florian Wirtz",
+          "position": "MF",
+          "birthYear": 2003,
+          "club": "Liverpool",
+          "league": "Premier League",
+          "caps": 41,
+          "goals": 11
+        },
+        {
+          "name": "Nathaniel Brown",
+          "position": "DF",
+          "birthYear": 2003,
+          "club": "Eintracht Frankfurt",
+          "league": "Bundesliga",
+          "caps": 5,
+          "goals": 0
+        },
+        {
+          "name": "Leroy Sané",
+          "position": "MF",
+          "birthYear": 1996,
+          "club": "Galatasaray",
+          "league": "Süper Lig",
+          "caps": 76,
+          "goals": 17
+        },
+        {
+          "name": "Nadiem Amiri",
+          "position": "MF",
+          "birthYear": 1996,
+          "club": "Mainz 05",
+          "league": "Bundesliga",
+          "caps": 11,
+          "goals": 1
+        },
+        {
+          "name": "Alexander Nübel",
+          "position": "GK",
+          "birthYear": 1996,
+          "club": "VfB Stuttgart",
+          "league": "Bundesliga",
+          "caps": 3,
+          "goals": 0
+        },
+        {
+          "name": "David Raum",
+          "position": "DF",
+          "birthYear": 1998,
+          "club": "RB Leipzig",
+          "league": "Bundesliga",
+          "caps": 37,
+          "goals": 1
+        },
+        {
+          "name": "Felix Nmecha",
+          "position": "MF",
+          "birthYear": 2000,
+          "club": "Borussia Dortmund",
+          "league": "Bundesliga",
+          "caps": 8,
+          "goals": 1
+        },
+        {
+          "name": "Malick Thiaw",
+          "position": "DF",
+          "birthYear": 2001,
+          "club": "Newcastle United",
+          "league": "Premier League",
+          "caps": 5,
+          "goals": 0
+        },
+        {
+          "name": "Assan Ouédraogo",
+          "position": "MF",
+          "birthYear": 2006,
+          "club": "RB Leipzig",
+          "league": "Bundesliga",
+          "caps": 1,
+          "goals": 1
+        },
+        {
+          "name": "Deniz Undav",
+          "position": "FW",
+          "birthYear": 1996,
+          "club": "VfB Stuttgart",
+          "league": "Bundesliga",
+          "caps": 9,
+          "goals": 6
+        }
+      ]
+    },
+    {
+      "country": "Japan",
+      "code": "JPN",
+      "players": [
+        {
+          "name": "Zion Suzuki",
+          "position": "GK",
+          "birthYear": 1999,
+          "club": "Parma",
+          "league": "Serie A",
+          "caps": 24,
+          "goals": 0
+        },
+        {
+          "name": "Yukinari Sugawara",
+          "position": "DF",
+          "birthYear": 2000,
+          "club": "Werder Bremen",
+          "league": "Bundesliga",
+          "caps": 21,
+          "goals": 2
+        },
+        {
+          "name": "Shōgo Taniguchi",
+          "position": "DF",
+          "birthYear": 1991,
+          "club": "Sint-Truiden",
+          "league": "Belgian Pro League",
+          "caps": 38,
+          "goals": 1
+        },
+        {
+          "name": "Kō Itakura (captain)",
+          "position": "DF",
+          "birthYear": 1997,
+          "club": "Ajax",
+          "league": "Eredivisie",
+          "caps": 40,
+          "goals": 2
+        },
+        {
+          "name": "Yūto Nagatomo",
+          "position": "DF",
+          "birthYear": 1986,
+          "club": "FC Tokyo",
+          "league": "J1 League",
+          "caps": 145,
+          "goals": 4
+        },
+        {
+          "name": "Shūto Machino",
+          "position": "FW",
+          "birthYear": 1999,
+          "club": "Borussia Mönchengladbach",
+          "league": "Bundesliga",
+          "caps": 14,
+          "goals": 5
+        },
+        {
+          "name": "Ao Tanaka",
+          "position": "MF",
+          "birthYear": 1998,
+          "club": "Leeds United",
+          "league": "Premier League",
+          "caps": 38,
+          "goals": 8
+        },
+        {
+          "name": "Takefusa Kubo",
+          "position": "MF",
+          "birthYear": 2001,
+          "club": "Real Sociedad",
+          "league": "La Liga",
+          "caps": 49,
+          "goals": 7
+        },
+        {
+          "name": "Keisuke Gotō",
+          "position": "FW",
+          "birthYear": 2005,
+          "club": "Sint-Truiden",
+          "league": "Belgian Pro League",
+          "caps": 4,
+          "goals": 0
+        },
+        {
+          "name": "Ritsu Dōan",
+          "position": "MF",
+          "birthYear": 1998,
+          "club": "Eintracht Frankfurt",
+          "league": "Bundesliga",
+          "caps": 65,
+          "goals": 11
+        },
+        {
+          "name": "Daizen Maeda",
+          "position": "MF",
+          "birthYear": 1997,
+          "club": "Celtic",
+          "league": "Scottish Premiership",
+          "caps": 27,
+          "goals": 4
+        },
+        {
+          "name": "Keisuke Ōsako",
+          "position": "GK",
+          "birthYear": 1999,
+          "club": "Sanfrecce Hiroshima",
+          "league": "J1 League",
+          "caps": 11,
+          "goals": 0
+        },
+        {
+          "name": "Keito Nakamura",
+          "position": "MF",
+          "birthYear": 2000,
+          "club": "Reims",
+          "league": "Ligue 1",
+          "caps": 25,
+          "goals": 10
+        },
+        {
+          "name": "Junya Itō",
+          "position": "MF",
+          "birthYear": 1993,
+          "club": "Genk",
+          "league": "Belgian Pro League",
+          "caps": 69,
+          "goals": 15
+        },
+        {
+          "name": "Daichi Kamada",
+          "position": "MF",
+          "birthYear": 1996,
+          "club": "Crystal Palace",
+          "league": "Premier League",
+          "caps": 49,
+          "goals": 12
+        },
+        {
+          "name": "Tsuyoshi Watanabe",
+          "position": "DF",
+          "birthYear": 1997,
+          "club": "Feyenoord",
+          "league": "Eredivisie",
+          "caps": 11,
+          "goals": 0
+        },
+        {
+          "name": "Yuito Suzuki",
+          "position": "MF",
+          "birthYear": 2001,
+          "club": "SC Freiburg",
+          "league": "Bundesliga",
+          "caps": 6,
+          "goals": 0
+        },
+        {
+          "name": "Ayase Ueda",
+          "position": "FW",
+          "birthYear": 1998,
+          "club": "Feyenoord",
+          "league": "Eredivisie",
+          "caps": 39,
+          "goals": 16
+        },
+        {
+          "name": "Kōki Ogawa",
+          "position": "FW",
+          "birthYear": 1997,
+          "club": "NEC Nijmegen",
+          "league": "Eredivisie",
+          "caps": 15,
+          "goals": 11
+        },
+        {
+          "name": "Ayumu Seko",
+          "position": "DF",
+          "birthYear": 2000,
+          "club": "Le Havre",
+          "league": "Ligue 1",
+          "caps": 14,
+          "goals": 0
+        },
+        {
+          "name": "Hiroki Itō",
+          "position": "DF",
+          "birthYear": 1999,
+          "club": "Bayern Munich",
+          "league": "Bundesliga",
+          "caps": 24,
+          "goals": 1
+        },
+        {
+          "name": "Takehiro Tomiyasu",
+          "position": "DF",
+          "birthYear": 1998,
+          "club": "Ajax",
+          "league": "Eredivisie",
+          "caps": 43,
+          "goals": 1
+        },
+        {
+          "name": "Tomoki Hayakawa",
+          "position": "GK",
+          "birthYear": 1999,
+          "club": "Kashima Antlers",
+          "league": "J1 League",
+          "caps": 4,
+          "goals": 0
+        },
+        {
+          "name": "Kaishū Sano",
+          "position": "MF",
+          "birthYear": 2000,
+          "club": "Mainz 05",
+          "league": "Bundesliga",
+          "caps": 13,
+          "goals": 0
+        },
+        {
+          "name": "Junnosuke Suzuki",
+          "position": "DF",
+          "birthYear": 2003,
+          "club": "Copenhagen",
+          "league": "Danish Superliga",
+          "caps": 6,
+          "goals": 0
+        },
+        {
+          "name": "Kento Shiogai",
+          "position": "FW",
+          "birthYear": 2005,
+          "club": "VfL Wolfsburg",
+          "league": "Bundesliga",
+          "caps": 2,
+          "goals": 0
+        }
+      ]
+    },
+    {
+      "country": "Morocco",
+      "code": "MAR",
+      "players": [
+        {
+          "name": "Yassine Bounou",
+          "position": "GK",
+          "birthYear": 1991,
+          "club": "Al-Hilal",
+          "league": "Saudi Pro League",
+          "caps": 90,
+          "goals": 0
+        },
+        {
+          "name": "Achraf Hakimi (captain)",
+          "position": "DF",
+          "birthYear": 1998,
+          "club": "Paris Saint-Germain",
+          "league": "Ligue 1",
+          "caps": 96,
+          "goals": 11
+        },
+        {
+          "name": "Noussair Mazraoui",
+          "position": "DF",
+          "birthYear": 1997,
+          "club": "Manchester United",
+          "league": "Premier League",
+          "caps": 45,
+          "goals": 2
+        },
+        {
+          "name": "Sofyan Amrabat",
+          "position": "MF",
+          "birthYear": 1996,
+          "club": "Real Betis",
+          "league": "La Liga",
+          "caps": 75,
+          "goals": 0
+        },
+        {
+          "name": "Marwane Saâdane",
+          "position": "DF",
+          "birthYear": 1992,
+          "club": "Al-Fateh",
+          "league": "Saudi Pro League",
+          "caps": 8,
+          "goals": 0
+        },
+        {
+          "name": "Ayyoub Bouaddi",
+          "position": "MF",
+          "birthYear": 2007,
+          "club": "Lille",
+          "league": "Ligue 1",
+          "caps": 3,
+          "goals": 0
+        },
+        {
+          "name": "Chemsdine Talbi",
+          "position": "MF",
+          "birthYear": 2005,
+          "club": "Sunderland",
+          "league": "Premier League",
+          "caps": 5,
+          "goals": 0
+        },
+        {
+          "name": "Azzedine Ounahi",
+          "position": "MF",
+          "birthYear": 2000,
+          "club": "Girona",
+          "league": "La Liga",
+          "caps": 49,
+          "goals": 9
+        },
+        {
+          "name": "Soufiane Rahimi",
+          "position": "FW",
+          "birthYear": 1996,
+          "club": "Al Ain",
+          "league": "UAE Pro League",
+          "caps": 37,
+          "goals": 12
+        },
+        {
+          "name": "Brahim Díaz",
+          "position": "FW",
+          "birthYear": 1999,
+          "club": "Real Madrid",
+          "league": "La Liga",
+          "caps": 26,
+          "goals": 14
+        },
+        {
+          "name": "Ismael Saibari",
+          "position": "MF",
+          "birthYear": 2001,
+          "club": "PSV Eindhoven",
+          "league": "Eredivisie",
+          "caps": 30,
+          "goals": 9
+        },
+        {
+          "name": "Munir Mohamedi",
+          "position": "GK",
+          "birthYear": 1989,
+          "club": "RS Berkane",
+          "league": "Botola Pro",
+          "caps": 52,
+          "goals": 0
+        },
+        {
+          "name": "Zakaria El Ouahdi",
+          "position": "DF",
+          "birthYear": 2001,
+          "club": "Genk",
+          "league": "Belgian Pro League",
+          "caps": 3,
+          "goals": 0
+        },
+        {
+          "name": "Issa Diop",
+          "position": "DF",
+          "birthYear": 1997,
+          "club": "Fulham",
+          "league": "Premier League",
+          "caps": 4,
+          "goals": 0
+        },
+        {
+          "name": "Samir El Mourabet",
+          "position": "MF",
+          "birthYear": 2005,
+          "club": "Strasbourg",
+          "league": "Ligue 1",
+          "caps": 4,
+          "goals": 0
+        },
+        {
+          "name": "Gessime Yassine",
+          "position": "MF",
+          "birthYear": 2005,
+          "club": "Strasbourg",
+          "league": "Ligue 1",
+          "caps": 4,
+          "goals": 0
+        },
+        {
+          "name": "Amine Sbaï",
+          "position": "FW",
+          "birthYear": 2000,
+          "club": "Angers",
+          "league": "Ligue 1",
+          "caps": 2,
+          "goals": 0
+        },
+        {
+          "name": "Chadi Riad",
+          "position": "DF",
+          "birthYear": 2003,
+          "club": "Crystal Palace",
+          "league": "Premier League",
+          "caps": 6,
+          "goals": 1
+        },
+        {
+          "name": "Youssef Belammari",
+          "position": "DF",
+          "birthYear": 1998,
+          "club": "Al Ahly",
+          "league": "Egyptian Premier League",
+          "caps": 18,
+          "goals": 0
+        },
+        {
+          "name": "Ayoub El Kaabi",
+          "position": "FW",
+          "birthYear": 1993,
+          "club": "Olympiacos",
+          "league": "Super League Greece",
+          "caps": 71,
+          "goals": 35
+        },
+        {
+          "name": "Ayoube Amaimouni",
+          "position": "FW",
+          "birthYear": 2004,
+          "club": "Eintracht Frankfurt",
+          "league": "Bundesliga",
+          "caps": 2,
+          "goals": 0
+        },
+        {
+          "name": "Ahmed Reda Tagnaouti",
+          "position": "GK",
+          "birthYear": 1996,
+          "club": "AS FAR",
+          "league": "Botola Pro",
+          "caps": 3,
+          "goals": 0
+        },
+        {
+          "name": "Bilal El Khannouss",
+          "position": "MF",
+          "birthYear": 2004,
+          "club": "VfB Stuttgart",
+          "league": "Bundesliga",
+          "caps": 37,
+          "goals": 3
+        },
+        {
+          "name": "Neil El Aynaoui",
+          "position": "MF",
+          "birthYear": 2001,
+          "club": "Roma",
+          "league": "Serie A",
+          "caps": 16,
+          "goals": 2
+        },
+        {
+          "name": "Redouane Halhal",
+          "position": "DF",
+          "birthYear": 2003,
+          "club": "Mechelen",
+          "league": "Belgian Pro League",
+          "caps": 3,
+          "goals": 0
+        },
+        {
+          "name": "Anass Salah-Eddine",
+          "position": "DF",
+          "birthYear": 2002,
+          "club": "PSV Eindhoven",
+          "league": "Eredivisie",
+          "caps": 9,
+          "goals": 0
+        }
+      ]
+    },
+    {
+      "country": "Portugal",
+      "code": "POR",
+      "players": [
+        {
+          "name": "Diogo Costa",
+          "position": "GK",
+          "birthYear": 1999,
+          "club": "Porto",
+          "league": "Primeira Liga",
+          "caps": 43,
+          "goals": 0
+        },
+        {
+          "name": "Nélson Semedo",
+          "position": "DF",
+          "birthYear": 1993,
+          "club": "Fenerbahçe",
+          "league": "Süper Lig",
+          "caps": 50,
+          "goals": 0
+        },
+        {
+          "name": "Rúben Dias",
+          "position": "DF",
+          "birthYear": 1997,
+          "club": "Manchester City",
+          "league": "Premier League",
+          "caps": 76,
+          "goals": 3
+        },
+        {
+          "name": "Tomás Araújo",
+          "position": "DF",
+          "birthYear": 2002,
+          "club": "Benfica",
+          "league": "Primeira Liga",
+          "caps": 5,
+          "goals": 0
+        },
+        {
+          "name": "Diogo Dalot",
+          "position": "DF",
+          "birthYear": 1999,
+          "club": "Manchester United",
+          "league": "Premier League",
+          "caps": 35,
+          "goals": 3
+        },
+        {
+          "name": "Matheus Nunes",
+          "position": "MF",
+          "birthYear": 1998,
+          "club": "Manchester City",
+          "league": "Premier League",
+          "caps": 20,
+          "goals": 2
+        },
+        {
+          "name": "Cristiano Ronaldo (captain)",
+          "position": "FW",
+          "birthYear": 1985,
+          "club": "Al-Nassr",
+          "league": "Saudi Pro League",
+          "caps": 228,
+          "goals": 143
+        },
+        {
+          "name": "Bruno Fernandes",
+          "position": "MF",
+          "birthYear": 1994,
+          "club": "Manchester United",
+          "league": "Premier League",
+          "caps": 89,
+          "goals": 29
+        },
+        {
+          "name": "Gonçalo Ramos",
+          "position": "FW",
+          "birthYear": 2001,
+          "club": "Paris Saint-Germain",
+          "league": "Ligue 1",
+          "caps": 25,
+          "goals": 10
+        },
+        {
+          "name": "Bernardo Silva",
+          "position": "MF",
+          "birthYear": 1994,
+          "club": "Manchester City",
+          "league": "Premier League",
+          "caps": 109,
+          "goals": 14
+        },
+        {
+          "name": "João Félix",
+          "position": "FW",
+          "birthYear": 1999,
+          "club": "Al-Nassr",
+          "league": "Saudi Pro League",
+          "caps": 54,
+          "goals": 12
+        },
+        {
+          "name": "José Sá",
+          "position": "GK",
+          "birthYear": 1993,
+          "club": "Wolverhampton Wanderers",
+          "league": "Premier League",
+          "caps": 5,
+          "goals": 0
+        },
+        {
+          "name": "Renato Veiga",
+          "position": "DF",
+          "birthYear": 2003,
+          "club": "Villarreal",
+          "league": "La Liga",
+          "caps": 13,
+          "goals": 1
+        },
+        {
+          "name": "Gonçalo Inácio",
+          "position": "DF",
+          "birthYear": 2001,
+          "club": "Sporting CP",
+          "league": "Primeira Liga",
+          "caps": 22,
+          "goals": 2
+        },
+        {
+          "name": "João Neves",
+          "position": "MF",
+          "birthYear": 2004,
+          "club": "Paris Saint-Germain",
+          "league": "Ligue 1",
+          "caps": 22,
+          "goals": 3
+        },
+        {
+          "name": "Francisco Trincão",
+          "position": "FW",
+          "birthYear": 1999,
+          "club": "Sporting CP",
+          "league": "Primeira Liga",
+          "caps": 18,
+          "goals": 3
+        },
+        {
+          "name": "Rafael Leão",
+          "position": "FW",
+          "birthYear": 1999,
+          "club": "Milan",
+          "league": "Serie A",
+          "caps": 44,
+          "goals": 5
+        },
+        {
+          "name": "Pedro Neto",
+          "position": "FW",
+          "birthYear": 2000,
+          "club": "Chelsea",
+          "league": "Premier League",
+          "caps": 25,
+          "goals": 3
+        },
+        {
+          "name": "Gonçalo Guedes",
+          "position": "FW",
+          "birthYear": 1996,
+          "club": "Real Sociedad",
+          "league": "La Liga",
+          "caps": 34,
+          "goals": 8
+        },
+        {
+          "name": "João Cancelo",
+          "position": "DF",
+          "birthYear": 1994,
+          "club": "Barcelona",
+          "league": "La Liga",
+          "caps": 68,
+          "goals": 12
+        },
+        {
+          "name": "Rúben Neves",
+          "position": "MF",
+          "birthYear": 1997,
+          "club": "Al-Hilal",
+          "league": "Saudi Pro League",
+          "caps": 67,
+          "goals": 1
+        },
+        {
+          "name": "Rui Silva",
+          "position": "GK",
+          "birthYear": 1994,
+          "club": "Sporting CP",
+          "league": "Primeira Liga",
+          "caps": 3,
+          "goals": 0
+        },
+        {
+          "name": "Vitinha",
+          "position": "MF",
+          "birthYear": 2000,
+          "club": "Paris Saint-Germain",
+          "league": "Ligue 1",
+          "caps": 38,
+          "goals": 0
+        },
+        {
+          "name": "Samú Costa",
+          "position": "DF",
+          "birthYear": 2000,
+          "club": "Mallorca",
+          "league": "La Liga",
+          "caps": 6,
+          "goals": 0
+        },
+        {
+          "name": "Nuno Mendes",
+          "position": "DF",
+          "birthYear": 2002,
+          "club": "Paris Saint-Germain",
+          "league": "Ligue 1",
+          "caps": 44,
+          "goals": 1
+        },
+        {
+          "name": "Francisco Conceição",
+          "position": "FW",
+          "birthYear": 2002,
+          "club": "Juventus",
+          "league": "Serie A",
+          "caps": 17,
+          "goals": 4
+        }
+      ]
+    },
+    {
+      "country": "Netherlands",
+      "code": "NED",
+      "players": [
+        {
+          "name": "Bart Verbruggen",
+          "position": "GK",
+          "birthYear": 2002,
+          "club": "Brighton & Hove Albion",
+          "league": "Premier League",
+          "caps": 29,
+          "goals": 0
+        },
+        {
+          "name": "Lutsharel Geertruida",
+          "position": "DF",
+          "birthYear": 2000,
+          "club": "Sunderland",
+          "league": "Premier League",
+          "caps": 21,
+          "goals": 0
+        },
+        {
+          "name": "Marten de Roon",
+          "position": "MF",
+          "birthYear": 1991,
+          "club": "Atalanta",
+          "league": "Serie A",
+          "caps": 43,
+          "goals": 1
+        },
+        {
+          "name": "Virgil van Dijk (captain)",
+          "position": "DF",
+          "birthYear": 1991,
+          "club": "Liverpool",
+          "league": "Premier League",
+          "caps": 92,
+          "goals": 12
+        },
+        {
+          "name": "Nathan Aké",
+          "position": "DF",
+          "birthYear": 1995,
+          "club": "Manchester City",
+          "league": "Premier League",
+          "caps": 59,
+          "goals": 5
+        },
+        {
+          "name": "Jan Paul van Hecke",
+          "position": "DF",
+          "birthYear": 2000,
+          "club": "Brighton & Hove Albion",
+          "league": "Premier League",
+          "caps": 12,
+          "goals": 0
+        },
+        {
+          "name": "Justin Kluivert",
+          "position": "MF",
+          "birthYear": 1999,
+          "club": "Bournemouth",
+          "league": "Premier League",
+          "caps": 12,
+          "goals": 0
+        },
+        {
+          "name": "Ryan Gravenberch",
+          "position": "MF",
+          "birthYear": 2002,
+          "club": "Liverpool",
+          "league": "Premier League",
+          "caps": 27,
+          "goals": 1
+        },
+        {
+          "name": "Wout Weghorst",
+          "position": "FW",
+          "birthYear": 1992,
+          "club": "Ajax",
+          "league": "Eredivisie",
+          "caps": 52,
+          "goals": 14
+        },
+        {
+          "name": "Memphis Depay",
+          "position": "FW",
+          "birthYear": 1994,
+          "club": "Corinthians",
+          "league": "Brasileirão Série A",
+          "caps": 109,
+          "goals": 55
+        },
+        {
+          "name": "Cody Gakpo",
+          "position": "FW",
+          "birthYear": 1999,
+          "club": "Liverpool",
+          "league": "Premier League",
+          "caps": 50,
+          "goals": 21
+        },
+        {
+          "name": "Mats Wieffer",
+          "position": "DF",
+          "birthYear": 1999,
+          "club": "Brighton & Hove Albion",
+          "league": "Premier League",
+          "caps": 15,
+          "goals": 1
+        },
+        {
+          "name": "Robin Roefs",
+          "position": "GK",
+          "birthYear": 2003,
+          "club": "Sunderland",
+          "league": "Premier League",
+          "caps": 1,
+          "goals": 0
+        },
+        {
+          "name": "Tijjani Reijnders",
+          "position": "MF",
+          "birthYear": 1998,
+          "club": "Manchester City",
+          "league": "Premier League",
+          "caps": 32,
+          "goals": 7
+        },
+        {
+          "name": "Micky van de Ven",
+          "position": "DF",
+          "birthYear": 2001,
+          "club": "Tottenham Hotspur",
+          "league": "Premier League",
+          "caps": 21,
+          "goals": 1
+        },
+        {
+          "name": "Guus Til",
+          "position": "MF",
+          "birthYear": 1997,
+          "club": "PSV Eindhoven",
+          "league": "Eredivisie",
+          "caps": 7,
+          "goals": 1
+        },
+        {
+          "name": "Noa Lang",
+          "position": "FW",
+          "birthYear": 1999,
+          "club": "Galatasaray",
+          "league": "Süper Lig",
+          "caps": 15,
+          "goals": 3
+        },
+        {
+          "name": "Donyell Malen",
+          "position": "FW",
+          "birthYear": 1999,
+          "club": "Roma",
+          "league": "Serie A",
+          "caps": 53,
+          "goals": 13
+        },
+        {
+          "name": "Brian Brobbey",
+          "position": "FW",
+          "birthYear": 2002,
+          "club": "Sunderland",
+          "league": "Premier League",
+          "caps": 12,
+          "goals": 1
+        },
+        {
+          "name": "Teun Koopmeiners",
+          "position": "MF",
+          "birthYear": 1998,
+          "club": "Juventus",
+          "league": "Serie A",
+          "caps": 28,
+          "goals": 3
+        },
+        {
+          "name": "Frenkie de Jong",
+          "position": "MF",
+          "birthYear": 1997,
+          "club": "Barcelona",
+          "league": "La Liga",
+          "caps": 66,
+          "goals": 2
+        },
+        {
+          "name": "Denzel Dumfries",
+          "position": "DF",
+          "birthYear": 1996,
+          "club": "Inter Milan",
+          "league": "Serie A",
+          "caps": 72,
+          "goals": 11
+        },
+        {
+          "name": "Mark Flekken",
+          "position": "GK",
+          "birthYear": 1993,
+          "club": "Bayer Leverkusen",
+          "league": "Bundesliga",
+          "caps": 12,
+          "goals": 0
+        },
+        {
+          "name": "Crysencio Summerville",
+          "position": "FW",
+          "birthYear": 2001,
+          "club": "West Ham United",
+          "league": "Premier League",
+          "caps": 2,
+          "goals": 0
+        },
+        {
+          "name": "Jorrel Hato",
+          "position": "DF",
+          "birthYear": 2006,
+          "club": "Chelsea",
+          "league": "Premier League",
+          "caps": 8,
+          "goals": 0
+        },
+        {
+          "name": "Quinten Timber",
+          "position": "MF",
+          "birthYear": 2001,
+          "club": "Marseille",
+          "league": "Ligue 1",
+          "caps": 11,
+          "goals": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+name: Weekly prediction + market repricing
+
+# Refreshes data/predictions.json (Gonka dual-model calls) and recomputes
+# data/market-base.json every Monday. If the repo is git-integrated with
+# Vercel, pushing these changes to the default branch triggers an automatic
+# redeploy — no separate deploy step needed here.
+on:
+  schedule:
+    - cron: "17 3 * * 1"
+  workflow_dispatch: {}
+
+jobs:
+  reprice:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: npm ci
+
+      # scripts/precompute.ts exits cleanly (code 0) if GONKA_API_KEY is
+      # unset, so this step is safe to leave in even without the secret.
+      - name: Run dual-model precompute
+        env:
+          GONKA_API_KEY: ${{ secrets.GONKA_API_KEY }}
+        run: npx tsx scripts/precompute.ts
+
+      - name: Recompute market base prices
+        run: npx tsx scripts/reprice.ts
+
+      - name: Commit and push if changed
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add data/predictions.json data/market-base.json
+            git commit -m "chore: weekly predictions + market reprice [skip ci]"
+            git push
+          else
+            echo "no changes, skipping commit"
+          fi

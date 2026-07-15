@@ -29,6 +29,12 @@ export default function RootLayout({
                 首页 <span className="hidden sm:inline">Home</span>
               </Link>
               <Link
+                href="/market"
+                className="hover:text-[var(--foreground)] transition-colors"
+              >
+                市场 <span className="hidden sm:inline">Market</span>
+              </Link>
+              <Link
                 href="/methodology"
                 className="hover:text-[var(--foreground)] transition-colors"
               >

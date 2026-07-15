@@ -59,9 +59,12 @@ export async function gonkaCall(
       });
       if (!res.ok) {
         const body = await res.text();
-        // 429/5xx: retry with backoff; 4xx others: fail fast
+        // 429/5xx: retry with backoff; 4xx others: fail fast.
+        // Gonka's 429 is upstream *concurrency* pressure — back off long (30s+) so
+        // a slow sequential run rides through congestion instead of dying.
         if ((res.status === 429 || res.status >= 500) && attempt < retries) {
-          await new Promise((r) => setTimeout(r, 1500 * (attempt + 1)));
+          const backoff = res.status === 429 ? 30000 * (attempt + 1) : 1500 * (attempt + 1);
+          await new Promise((r) => setTimeout(r, backoff));
           lastErr = new Error(`Gonka ${res.status}: ${body.slice(0, 300)}`);
           continue;
         }
