@@ -1,0 +1,5965 @@
+{
+  "generatedAt": "2026-07-15T07:11:09.627Z",
+  "players": [
+    {
+      "slug": "juan-musso",
+      "team": "ARG",
+      "nameEn": "Juan Musso",
+      "nameZh": "胡安·穆索",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Musso_Udinese.png/330px-Musso_Udinese.png",
+      "bio": {
+        "zh": "阿根廷门将，反应敏捷，现效力于马德里竞技。",
+        "en": "Juan Agustín Musso is an Argentine professional footballer who plays as a goalkeeper for La Liga club Atlético Madrid and the Argentina national team."
+      },
+      "career": {
+        "formerClubs": [
+          "竞赛",
+          "乌迪内斯",
+          "亚特兰大"
+        ],
+        "nationalTeam": {
+          "caps": 4,
+          "goals": 0
+        },
+        "honours": [
+          "2022年世界杯冠军",
+          "2024年美洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "marcos-senesi",
+      "team": "ARG",
+      "nameEn": "Marcos Senesi",
+      "nameZh": "马科斯·塞内西",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Marcos_Senesi_Argentina_v_Egypt_7_July_2026-024.jpg/330px-Marcos_Senesi_Argentina_v_Egypt_7_July_2026-024.jpg",
+      "bio": {
+        "zh": "阿根廷中卫，出球能力佳，现效力于伯恩茅斯。",
+        "en": "Marcos Nicolás Senesi Barón is an Argentine professional footballer who plays as a centre-back for club Tottenham Hotspur and the Argentina national team."
+      },
+      "career": {
+        "formerClubs": [
+          "圣洛伦索",
+          "费耶诺德"
+        ],
+        "nationalTeam": {
+          "caps": 3,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "nicolas-tagliafico",
+      "team": "ARG",
+      "nameEn": "Nicolás Tagliafico",
+      "nameZh": "尼古拉斯·塔利亚菲科",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Nicolas_Tagliafico_Argentina_v_Egypt_7_July_2026-126_%28cropped%29.jpg/330px-Nicolas_Tagliafico_Argentina_v_Egypt_7_July_2026-126_%28cropped%29.jpg",
+      "bio": {
+        "zh": "阿根廷左后卫，作风硬朗，现效力于里昂。",
+        "en": "Nicolás Alejandro Tagliafico is an Argentine professional footballer who plays as a left-back for Ligue 1 club Lyon and the Argentina national team."
+      },
+      "career": {
+        "formerClubs": [
+          "班菲尔德",
+          "独立",
+          "阿贾克斯"
+        ],
+        "nationalTeam": {
+          "caps": 76,
+          "goals": 1
+        },
+        "honours": [
+          "2022年世界杯冠军",
+          "2021年美洲杯冠军",
+          "2024年美洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "gonzalo-montiel",
+      "team": "ARG",
+      "nameEn": "Gonzalo Montiel",
+      "nameZh": "贡萨洛·蒙铁尔",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Gonzalo_Montiel_Argentina_v_Egypt_7_July_2026-298_%28cropped%29.jpg/330px-Gonzalo_Montiel_Argentina_v_Egypt_7_July_2026-298_%28cropped%29.jpg",
+      "bio": {
+        "zh": "阿根廷右后卫，点球大战功臣，现效力于河床。",
+        "en": "Gonzalo Ariel Montiel is an Argentine professional footballer who plays as right-back for the Argentine Primera División club River Plate and the Argentina national team."
+      },
+      "career": {
+        "formerClubs": [
+          "塞维利亚"
+        ],
+        "nationalTeam": {
+          "caps": 39,
+          "goals": 2
+        },
+        "honours": [
+          "2022年世界杯冠军",
+          "2021年美洲杯冠军",
+          "2024年美洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "leandro-paredes",
+      "team": "ARG",
+      "nameEn": "Leandro Paredes",
+      "nameZh": "莱昂德罗·帕雷德斯",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Leandro_Paredes_Argentina_v_Egypt_7_July_2026-048.jpg/330px-Leandro_Paredes_Argentina_v_Egypt_7_July_2026-048.jpg",
+      "bio": {
+        "zh": "阿根廷后腰，长传精准，现效力于博卡青年。",
+        "en": "Leandro Daniel Paredes is an Argentine professional footballer who plays as a defensive midfielder for Argentine Primera División club Boca Juniors and the Argentina national team."
+      },
+      "career": {
+        "formerClubs": [
+          "切沃",
+          "罗马",
+          "恩波利",
+          "泽尼特",
+          "巴黎圣日耳曼",
+          "尤文图斯"
+        ],
+        "nationalTeam": {
+          "caps": 77,
+          "goals": 5
+        },
+        "honours": [
+          "2022年世界杯冠军",
+          "2021年美洲杯冠军",
+          "2024年美洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "lisandro-martinez",
+      "team": "ARG",
+      "nameEn": "Lisandro Martínez",
+      "nameZh": "利桑德罗·马丁内斯",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Lisandro_Martinez_Argentina_v_Egypt_7_July_2026-343_%28cropped%29.jpg/330px-Lisandro_Martinez_Argentina_v_Egypt_7_July_2026-343_%28cropped%29.jpg",
+      "bio": {
+        "zh": "阿根廷中卫，上抢凶狠，现效力于曼联。",
+        "en": "Lisandro Martínez is an Argentine professional footballer who plays as a centre-back for Premier League club Manchester United and the Argentina national team. Nicknamed \"The Butcher\", he is known for his aggressive style of play."
+      },
+      "career": {
+        "formerClubs": [
+          "纽维尔老男孩",
+          "防卫者",
+          "阿贾克斯"
+        ],
+        "nationalTeam": {
+          "caps": 28,
+          "goals": 1
+        },
+        "honours": [
+          "2022年世界杯冠军",
+          "2024年美洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "rodrigo-de-paul",
+      "team": "ARG",
+      "nameEn": "Rodrigo De Paul",
+      "nameZh": "罗德里戈·德保罗",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Rodrigo_De_Paul_NYCFC_Miami_24_Sep_2025-018_%28cropped%29.jpg/330px-Rodrigo_De_Paul_NYCFC_Miami_24_Sep_2025-018_%28cropped%29.jpg",
+      "bio": {
+        "zh": "阿根廷中场核心，跑动覆盖大，现效力于迈阿密国际。",
+        "en": "Rodrigo Javier De Paul is an Argentine professional football player who plays as a midfielder for Major League Soccer club Inter Miami and the Argentina national team."
+      },
+      "career": {
+        "formerClubs": [
+          "竞赛",
+          "瓦伦西亚",
+          "马德里竞技"
+        ],
+        "nationalTeam": {
+          "caps": 87,
+          "goals": 2
+        },
+        "honours": [
+          "2022年世界杯冠军",
+          "2021年美洲杯冠军",
+          "2024年美洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "valentin-barco",
+      "team": "ARG",
+      "nameEn": "Valentín Barco",
+      "nameZh": "巴伦廷·巴尔科",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Valentin_Barco_Argentina_v_Egypt_7_July_2026-028.jpg/330px-Valentin_Barco_Argentina_v_Egypt_7_July_2026-028.jpg",
+      "bio": {
+        "zh": "阿根廷年轻左后卫，突破犀利，现效力于斯特拉斯堡。",
+        "en": "Valentín Barco, better known as Colo Barco, is an Argentine professional footballer who plays as a left-back for Ligue 1 club Strasbourg and the Argentina national team."
+      },
+      "career": {
+        "formerClubs": [
+          "博卡青年",
+          "布莱顿"
+        ],
+        "nationalTeam": {
+          "caps": 4,
+          "goals": 2
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "julian-alvarez",
+      "team": "ARG",
+      "nameEn": "Julián Alvarez",
+      "nameZh": "胡利安·阿尔瓦雷斯",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Julian_Alvarez_Argentina_v_Egypt_7_July_2026-056.jpg/330px-Julian_Alvarez_Argentina_v_Egypt_7_July_2026-056.jpg",
+      "bio": {
+        "zh": "阿根廷前锋，跑位灵活，现效力于马德里竞技。",
+        "en": "Julián Alvarez is an Argentine professional footballer who plays as a forward for La Liga club Atlético Madrid and the Argentina national team. He is considered as one of the world's best strikers and is known for his goalscoring ability, movement, pressing, versatility, and link-up play."
+      },
+      "career": {
+        "formerClubs": [
+          "河床",
+          "曼城"
+        ],
+        "nationalTeam": {
+          "caps": 51,
+          "goals": 14
+        },
+        "honours": [
+          "2022年世界杯冠军",
+          "2021年美洲杯冠军",
+          "2022-23赛季欧冠冠军"
+        ]
+      }
+    },
+    {
+      "slug": "lionel-messi",
+      "team": "ARG",
+      "nameEn": "Lionel Messi",
+      "nameZh": "利昂内尔·梅西",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg/330px-Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg",
+      "bio": {
+        "zh": "阿根廷传奇球王，历史最佳球员之一，现效力于迈阿密国际。",
+        "en": "Lionel Andrés \"Leo\" Messi is an Argentine professional footballer who plays as a forward for and captains both Major League Soccer club Inter Miami and the Argentina national team. Widely regarded as one of the greatest players in history, Messi has set numerous records for individual accolades won throughout his professional footballing career, including eight Ballons d'Or, six European Golden Shoes, and being named the world's best player by FIFA eight times. In 2025, he was named the All Time Men's World Best Player by the IFFHS."
+      },
+      "career": {
+        "formerClubs": [
+          "巴塞罗那",
+          "巴黎圣日耳曼"
+        ],
+        "nationalTeam": {
+          "caps": 199,
+          "goals": 117
+        },
+        "honours": [
+          "2022年世界杯冠军",
+          "2021年美洲杯冠军",
+          "8座金球奖"
+        ]
+      }
+    },
+    {
+      "slug": "giovani-lo-celso",
+      "team": "ARG",
+      "nameEn": "Giovani Lo Celso",
+      "nameZh": "乔瓦尼·洛塞尔索",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Giovani_Lo_Celso_Argentina_v_Egypt_7_July_2026-038.jpg/330px-Giovani_Lo_Celso_Argentina_v_Egypt_7_July_2026-038.jpg",
+      "bio": {
+        "zh": "阿根廷中场，技术细腻，现效力于皇家贝蒂斯。",
+        "en": "Giovani Lo Celso is an Argentine professional footballer who plays as an attacking midfielder for La Liga club Real Betis and the Argentina national team."
+      },
+      "career": {
+        "formerClubs": [
+          "罗萨里奥中央",
+          "巴黎圣日耳曼",
+          "托特纳姆热刺",
+          "比利亚雷亚尔"
+        ],
+        "nationalTeam": {
+          "caps": 67,
+          "goals": 4
+        },
+        "honours": [
+          "2022年世界杯冠军",
+          "2021年美洲杯冠军",
+          "2024年美洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "geronimo-rulli",
+      "team": "ARG",
+      "nameEn": "Gerónimo Rulli",
+      "nameZh": "赫罗尼莫·鲁利",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Rulli_asse_om_2425.png/330px-Rulli_asse_om_2425.png",
+      "bio": {
+        "zh": "阿根廷门将，脚下技术出色，现效力于马赛。",
+        "en": "Gerónimo Rulli is an Argentine footballer who plays as a goalkeeper for Ligue 1 club Marseille and the Argentina national team."
+      },
+      "career": {
+        "formerClubs": [
+          "拉普拉塔大学生",
+          "皇家社会",
+          "蒙彼利埃",
+          "比利亚雷亚尔",
+          "阿贾克斯"
+        ],
+        "nationalTeam": {
+          "caps": 8,
+          "goals": 0
+        },
+        "honours": [
+          "2022年世界杯冠军",
+          "2024年美洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "cristian-romero",
+      "team": "ARG",
+      "nameEn": "Cristian Romero",
+      "nameZh": "克里斯蒂安·罗梅罗",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cristian_Romero_Argentina_v_Egypt_7_July_2026-108.jpg/330px-Cristian_Romero_Argentina_v_Egypt_7_July_2026-108.jpg",
+      "bio": {
+        "zh": "阿根廷中卫，防守凶悍，现效力于托特纳姆热刺。",
+        "en": "Cristian Gabriel \"Cuti\" Romero is an Argentine professional footballer who plays as a centre-back for Premier League club Tottenham Hotspur, whom he captains, and the Argentina national team."
+      },
+      "career": {
+        "formerClubs": [
+          "贝尔格拉诺",
+          "热那亚",
+          "尤文图斯",
+          "亚特兰大"
+        ],
+        "nationalTeam": {
+          "caps": 51,
+          "goals": 3
+        },
+        "honours": [
+          "2022年世界杯冠军",
+          "2021年美洲杯冠军",
+          "2024年美洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "exequiel-palacios",
+      "team": "ARG",
+      "nameEn": "Exequiel Palacios",
+      "nameZh": "埃塞基耶尔·帕拉西奥斯",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Exequiel_Palacios_Argentina_v_Egypt_7_July_2026-051.jpg/330px-Exequiel_Palacios_Argentina_v_Egypt_7_July_2026-051.jpg",
+      "bio": {
+        "zh": "阿根廷中场，全能型B2B，现效力于勒沃库森。",
+        "en": "Exequiel Alejandro Palacios is an Argentine professional footballer who plays as a midfielder for Bundesliga club Bayer Leverkusen and the Argentina national team."
+      },
+      "career": {
+        "formerClubs": [
+          "河床"
+        ],
+        "nationalTeam": {
+          "caps": 40,
+          "goals": 0
+        },
+        "honours": [
+          "2022年世界杯冠军",
+          "2021年美洲杯冠军",
+          "2024年美洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "nicolas-gonzalez",
+      "team": "ARG",
+      "nameEn": "Nicolás González",
+      "nameZh": "尼古拉斯·冈萨雷斯",
+      "photo": null,
+      "bio": {
+        "zh": "阿根廷边锋，冲击力强，现效力于马德里竞技。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [
+          "阿根廷青年人",
+          "斯图加特",
+          "佛罗伦萨"
+        ],
+        "nationalTeam": {
+          "caps": 51,
+          "goals": 6
+        },
+        "honours": [
+          "2022年世界杯冠军",
+          "2021年美洲杯冠军",
+          "2024年美洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "thiago-almada",
+      "team": "ARG",
+      "nameEn": "Thiago Almada",
+      "nameZh": "蒂亚戈·阿尔马达",
+      "photo": null,
+      "bio": {
+        "zh": "阿根廷攻击型中场，盘带出色，现效力于马德里竞技。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [
+          "萨斯菲尔德",
+          "亚特兰大联"
+        ],
+        "nationalTeam": {
+          "caps": 16,
+          "goals": 5
+        },
+        "honours": [
+          "2022年世界杯冠军",
+          "2024年美洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "giuliano-simeone",
+      "team": "ARG",
+      "nameEn": "Giuliano Simeone",
+      "nameZh": "朱利亚诺·西蒙尼",
+      "photo": null,
+      "bio": {
+        "zh": "阿根廷前锋，跑动积极，现效力于马德里竞技。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [
+          "萨格勒布火车头",
+          "阿拉维斯",
+          "格拉纳达"
+        ],
+        "nationalTeam": {
+          "caps": 13,
+          "goals": 2
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "nico-paz",
+      "team": "ARG",
+      "nameEn": "Nico Paz",
+      "nameZh": "尼科·帕斯",
+      "photo": null,
+      "bio": {
+        "zh": "阿根廷年轻前锋，技术全面，现效力于科莫。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [
+          "皇家马德里"
+        ],
+        "nationalTeam": {
+          "caps": 9,
+          "goals": 1
+        },
+        "honours": [
+          "2024年美洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "nicolas-otamendi",
+      "team": "ARG",
+      "nameEn": "Nicolás Otamendi",
+      "nameZh": "尼古拉斯·奥塔门迪",
+      "photo": null,
+      "bio": {
+        "zh": "阿根廷老将中卫，经验丰富，现效力于本菲卡。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [
+          "萨斯菲尔德",
+          "波尔图",
+          "瓦伦西亚",
+          "曼城"
+        ],
+        "nationalTeam": {
+          "caps": 132,
+          "goals": 8
+        },
+        "honours": [
+          "2022年世界杯冠军",
+          "2021年美洲杯冠军",
+          "2024年美洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "alexis-mac-allister",
+      "team": "ARG",
+      "nameEn": "Alexis Mac Allister",
+      "nameZh": "亚历克西斯·麦卡利斯特",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Alexis_Mac_Allister_Argentina_v_Egypt_7_July_2026-182.jpg/330px-Alexis_Mac_Allister_Argentina_v_Egypt_7_July_2026-182.jpg",
+      "bio": {
+        "zh": "阿根廷中场，传球视野佳，现效力于利物浦。",
+        "en": "Alexis Mac Allister is an Argentine professional footballer who plays as a midfielder for Premier League club Liverpool and the Argentina national team. He is regarded as one of the best central midfielders in the world and has been praised for his intelligence, passing range, tactical awareness, and ability to control the tempo of play."
+      },
+      "career": {
+        "formerClubs": [
+          "阿根廷青年人",
+          "布莱顿"
+        ],
+        "nationalTeam": {
+          "caps": 46,
+          "goals": 6
+        },
+        "honours": [
+          "2022年世界杯冠军",
+          "2024年美洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "jose-manuel-lopez",
+      "team": "ARG",
+      "nameEn": "José Manuel López",
+      "nameZh": "何塞·曼努埃尔·洛佩斯",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Flaco-Lopez-Palmeiras-Juventude-jun24.jpg/330px-Flaco-Lopez-Palmeiras-Juventude-jun24.jpg",
+      "bio": {
+        "zh": "阿根廷前锋，终结能力出色，现效力于帕尔梅拉斯。",
+        "en": "José Manuel Alberto López, commonly known as Flaco López, is an Argentine professional footballer who plays as a striker for Campeonato Brasileiro Série A club Palmeiras and the Argentina national team."
+      },
+      "career": {
+        "formerClubs": [
+          "拉努斯"
+        ],
+        "nationalTeam": {
+          "caps": 5,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "lautaro-martinez",
+      "team": "ARG",
+      "nameEn": "Lautaro Martínez",
+      "nameZh": "劳塔罗·马丁内斯",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Lautaro_Martinez_Argentina_v_Egypt_7_July_2026-040.jpg/330px-Lautaro_Martinez_Argentina_v_Egypt_7_July_2026-040.jpg",
+      "bio": {
+        "zh": "阿根廷前锋，跑位与射术俱佳，现效力于国际米兰。",
+        "en": "Lautaro Javier Martínez is an Argentine professional footballer who plays primarily as a striker for Serie A club Inter Milan, which he captains, and the Argentina national team."
+      },
+      "career": {
+        "formerClubs": [
+          "竞赛"
+        ],
+        "nationalTeam": {
+          "caps": 77,
+          "goals": 37
+        },
+        "honours": [
+          "2022年世界杯冠军",
+          "2021年美洲杯冠军",
+          "2024年美洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "emiliano-martinez",
+      "team": "ARG",
+      "nameEn": "Emiliano Martínez",
+      "nameZh": "埃米利亚诺·马丁内斯",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Emiliano_Martinez_Argentina_v_Egypt_7_July_2026-093_%28cropped%29.jpg/330px-Emiliano_Martinez_Argentina_v_Egypt_7_July_2026-093_%28cropped%29.jpg",
+      "bio": {
+        "zh": "阿根廷主力门将，点球大战专家，现效力于阿斯顿维拉。",
+        "en": "Damián Emiliano Martínez Romero, also known as Dibu Martínez, is an Argentine professional footballer who plays as a goalkeeper for Premier League club Aston Villa and the Argentina national team. Known as a specialist in saving penalty kicks, he is regarded as one of the best goalkeepers in the world."
+      },
+      "career": {
+        "formerClubs": [
+          "独立",
+          "阿森纳"
+        ],
+        "nationalTeam": {
+          "caps": 59,
+          "goals": 0
+        },
+        "honours": [
+          "2022年世界杯冠军",
+          "2021年美洲杯冠军",
+          "2024年美洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "enzo-fernandez",
+      "team": "ARG",
+      "nameEn": "Enzo Fernández",
+      "nameZh": "恩佐·费尔南德斯",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Enzo_Fernandez_Argentina_v_Egypt_7_July_2026-127.jpg/330px-Enzo_Fernandez_Argentina_v_Egypt_7_July_2026-127.jpg",
+      "bio": {
+        "zh": "阿根廷中场，长传与调度出色，现效力于切尔西。",
+        "en": "Enzo Jeremías Fernández is an Argentine professional footballer who plays as a midfielder for Premier League club Chelsea and the Argentina national team. He is ranked among the world's best central midfielders and has been praised for his passing range, vision, composure, and ability to dictate the tempo of play."
+      },
+      "career": {
+        "formerClubs": [
+          "河床",
+          "本菲卡"
+        ],
+        "nationalTeam": {
+          "caps": 42,
+          "goals": 6
+        },
+        "honours": [
+          "2022年世界杯冠军",
+          "2024年美洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "facundo-medina",
+      "team": "ARG",
+      "nameEn": "Facundo Medina",
+      "nameZh": "法昆多·梅迪纳",
+      "photo": null,
+      "bio": {
+        "zh": "阿根廷中卫，左脚出球稳健，现效力于马赛。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [
+          "河床",
+          "塔列雷斯",
+          "朗斯"
+        ],
+        "nationalTeam": {
+          "caps": 9,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "nahuel-molina",
+      "team": "ARG",
+      "nameEn": "Nahuel Molina",
+      "nameZh": "纳韦尔·莫利纳",
+      "photo": null,
+      "bio": {
+        "zh": "阿根廷右后卫，插上助攻能力强，现效力于马德里竞技。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [
+          "博卡青年",
+          "国防与司法",
+          "乌迪内斯"
+        ],
+        "nationalTeam": {
+          "caps": 58,
+          "goals": 1
+        },
+        "honours": [
+          "2022年世界杯冠军",
+          "2021年美洲杯冠军",
+          "2024年美洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "brice-samba",
+      "team": "FRA",
+      "nameEn": "Brice Samba",
+      "nameZh": "布莱斯·桑巴",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Brice_Samba_France_v_Senegal_16_June_2026-280_%28cropped%29.jpg/330px-Brice_Samba_France_v_Senegal_16_June_2026-280_%28cropped%29.jpg",
+      "bio": {
+        "zh": "法国黑人门将，反应敏捷，2023年回归法甲加盟雷恩。",
+        "en": "Brice Lauriche Samba is a professional footballer who plays as a goalkeeper for Ligue 1 club Rennes. Born in the Republic of the Congo, he plays for the France national team."
+      },
+      "career": {
+        "formerClubs": [
+          "诺丁汉森林",
+          "卡昂",
+          "勒阿弗尔"
+        ],
+        "nationalTeam": {
+          "caps": 4,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "malo-gusto",
+      "team": "FRA",
+      "nameEn": "Malo Gusto",
+      "nameZh": "马洛·古斯托",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Malo_Gusto_France_v_Senegal_16_June_2026-399.jpg/330px-Malo_Gusto_France_v_Senegal_16_June_2026-399.jpg",
+      "bio": {
+        "zh": "法国右后卫，助攻能力强，2023年转会切尔西。",
+        "en": "Malo Arthur Gusto is a French professional footballer who plays as a right-back for Premier League club Chelsea and the France national team."
+      },
+      "career": {
+        "formerClubs": [
+          "里昂"
+        ],
+        "nationalTeam": {
+          "caps": 11,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "lucas-digne",
+      "team": "FRA",
+      "nameEn": "Lucas Digne",
+      "nameZh": "卢卡斯·迪涅",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lucas_Digne_France_v_Norway_26_June_26-043.jpg/330px-Lucas_Digne_France_v_Norway_26_June_26-043.jpg",
+      "bio": {
+        "zh": "法国左后卫，传中精准，曾效力巴萨与巴黎。",
+        "en": "Lucas Digne is a French professional footballer who plays as a left-back for Premier League club Aston Villa and the France national team."
+      },
+      "career": {
+        "formerClubs": [
+          "巴塞罗那",
+          "巴黎圣日耳曼",
+          "里尔"
+        ],
+        "nationalTeam": {
+          "caps": 58,
+          "goals": 0
+        },
+        "honours": [
+          "2018年世界杯冠军",
+          "2020-21赛季欧国联冠军"
+        ]
+      }
+    },
+    {
+      "slug": "dayot-upamecano",
+      "team": "FRA",
+      "nameEn": "Dayot Upamecano",
+      "nameZh": "达约·于帕梅卡诺",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Dayot_Upamecano_France_v_Senegal_16_June_2026-402_%28cropped%29.jpg/330px-Dayot_Upamecano_France_v_Senegal_16_June_2026-402_%28cropped%29.jpg",
+      "bio": {
+        "zh": "法国中卫，身体强壮，出球能力出色。",
+        "en": "Dayotchanculle Oswald Upamecano is a French professional footballer who plays as a centre-back for Bundesliga club Bayern Munich and the France national team."
+      },
+      "career": {
+        "formerClubs": [
+          "莱比锡红牛",
+          "萨尔茨堡红牛",
+          "瓦朗谢讷"
+        ],
+        "nationalTeam": {
+          "caps": 38,
+          "goals": 2
+        },
+        "honours": [
+          "2020-21赛季欧国联冠军",
+          "2022-23赛季德甲冠军"
+        ]
+      }
+    },
+    {
+      "slug": "jules-kounde",
+      "team": "FRA",
+      "nameEn": "Jules Koundé",
+      "nameZh": "朱尔·孔德",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Jules_Kounde_France_v_Senegal_16_June_2026-449_%28cropped%29.jpg/330px-Jules_Kounde_France_v_Senegal_16_June_2026-449_%28cropped%29.jpg",
+      "bio": {
+        "zh": "法国中卫/右闸，脚下技术细腻，防空能力佳。",
+        "en": "Jules Olivier Koundé is a French professional footballer who plays as a defender for La Liga club Barcelona and the France national team. Primarily a right-back, he is also capable of playing as a centre-back."
+      },
+      "career": {
+        "formerClubs": [
+          "塞维利亚",
+          "波尔多"
+        ],
+        "nationalTeam": {
+          "caps": 48,
+          "goals": 0
+        },
+        "honours": [
+          "2020-21赛季欧国联冠军",
+          "2022-23赛季西甲冠军"
+        ]
+      }
+    },
+    {
+      "slug": "manu-kone",
+      "team": "FRA",
+      "nameEn": "Manu Koné",
+      "nameZh": "马努·科内",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Manu_Kone_France_v_Norway_26_June_26-066_%28cropped%29.jpg/330px-Manu_Kone_France_v_Norway_26_June_26-066_%28cropped%29.jpg",
+      "bio": {
+        "zh": "法国中场，盘带推进能力强，2024年租借罗马。",
+        "en": "Kouadio Emmanuel Boris Koné is a French professional footballer who plays as a midfielder for Serie A club Roma and the France national team."
+      },
+      "career": {
+        "formerClubs": [
+          "门兴格拉德巴赫",
+          "图卢兹"
+        ],
+        "nationalTeam": {
+          "caps": 14,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "ousmane-dembele",
+      "team": "FRA",
+      "nameEn": "Ousmane Dembélé",
+      "nameZh": "奥斯曼·登贝莱",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ousmane_Dembele_France_v_Senegal_16_June_2026-341_%28cropped%29_2.jpg/330px-Ousmane_Dembele_France_v_Senegal_16_June_2026-341_%28cropped%29_2.jpg",
+      "bio": {
+        "zh": "法国边锋，左右脚均衡，爆发力与突破能力顶级。",
+        "en": "Masour Ousmane Dembélé is a French professional footballer who plays as a forward or right winger for Ligue 1 club Paris Saint-Germain and the France national team. Regarded as one of the best players in the world, he is one of ten players to have won the FIFA World Cup, UEFA Champions League, and Ballon d'Or in their career."
+      },
+      "career": {
+        "formerClubs": [
+          "巴塞罗那",
+          "多特蒙德",
+          "雷恩"
+        ],
+        "nationalTeam": {
+          "caps": 59,
+          "goals": 7
+        },
+        "honours": [
+          "2018年世界杯冠军",
+          "2020-21赛季欧国联冠军",
+          "2022-23赛季法甲冠军"
+        ]
+      }
+    },
+    {
+      "slug": "aurelien-tchouameni",
+      "team": "FRA",
+      "nameEn": "Aurélien Tchouaméni",
+      "nameZh": "奥雷利安·楚阿梅尼",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Aurelien_Tchouameni_France_v_Senegal_16_June_2026-447_%28cropped%29.jpg/330px-Aurelien_Tchouameni_France_v_Senegal_16_June_2026-447_%28cropped%29.jpg",
+      "bio": {
+        "zh": "法国防守型中场，拦截覆盖面积大，长传精准。",
+        "en": "Aurélien Djani Tchouaméni is a French professional footballer who plays as a defensive midfielder or a centre-back for La Liga club Real Madrid and the France national team."
+      },
+      "career": {
+        "formerClubs": [
+          "摩纳哥",
+          "波尔多"
+        ],
+        "nationalTeam": {
+          "caps": 46,
+          "goals": 3
+        },
+        "honours": [
+          "2020-21赛季欧国联冠军",
+          "2023-24赛季欧冠冠军",
+          "2023-24赛季西甲冠军"
+        ]
+      }
+    },
+    {
+      "slug": "marcus-thuram",
+      "team": "FRA",
+      "nameEn": "Marcus Thuram",
+      "nameZh": "马库斯·图拉姆",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Marcus_Thuram_France_v_Senegal_16_June_2026-261_%28cropped%29.jpg/330px-Marcus_Thuram_France_v_Senegal_16_June_2026-261_%28cropped%29.jpg",
+      "bio": {
+        "zh": "法国前锋，速度快、冲击力强，利利安·图拉姆之子。",
+        "en": "Marcus Lilian Thuram-Ulien is a French professional footballer who plays as a forward for Serie A club Inter Milan and the France national team."
+      },
+      "career": {
+        "formerClubs": [
+          "门兴格拉德巴赫",
+          "索肖"
+        ],
+        "nationalTeam": {
+          "caps": 34,
+          "goals": 3
+        },
+        "honours": [
+          "2022年世界杯亚军",
+          "2023-24赛季意甲冠军"
+        ]
+      }
+    },
+    {
+      "slug": "kylian-mbappe",
+      "team": "FRA",
+      "nameEn": "Kylian Mbappé",
+      "nameZh": "基利安·姆巴佩",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kylian_Mbappe_France_v_Senegal_16_June_2026-391_%28cropped%29.jpg/330px-Kylian_Mbappe_France_v_Senegal_16_June_2026-391_%28cropped%29.jpg",
+      "bio": {
+        "zh": "法国头号球星，速度奇快，2024年夏加盟皇马。",
+        "en": "Kylian Mbappé Lottin is a French professional footballer who plays as a forward for La Liga club Real Madrid and captains the France national team. Widely regarded as one of the best players in the world, he is known for his pace, dribbling, and clinical finishing."
+      },
+      "career": {
+        "formerClubs": [
+          "巴黎圣日耳曼",
+          "摩纳哥"
+        ],
+        "nationalTeam": {
+          "caps": 98,
+          "goals": 56
+        },
+        "honours": [
+          "2018年世界杯冠军",
+          "2022年世界杯亚军/金靴",
+          "2023-24赛季法甲冠军"
+        ]
+      }
+    },
+    {
+      "slug": "michael-olise",
+      "team": "FRA",
+      "nameEn": "Michael Olise",
+      "nameZh": "迈克尔·奥利塞",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Michael_Olise_France_v_Senegal_16_June_2026-307_%28cropped%29.jpg/330px-Michael_Olise_France_v_Senegal_16_June_2026-307_%28cropped%29.jpg",
+      "bio": {
+        "zh": "法国边锋，左脚将，擅长内切射门与传中。",
+        "en": "Michael Akpovie Olise is a professional footballer who plays as a winger or attacking midfielder for Bundesliga club Bayern Munich. Born in England, he plays for the France national team. He is regarded as one of the best players in the world."
+      },
+      "career": {
+        "formerClubs": [
+          "水晶宫",
+          "雷丁"
+        ],
+        "nationalTeam": {
+          "caps": 17,
+          "goals": 7
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "bradley-barcola",
+      "team": "FRA",
+      "nameEn": "Bradley Barcola",
+      "nameZh": "布拉德利·巴尔科拉",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bradley_Barcola_France_v_Norway_26_June_26-033_%28cropped%29.jpg/330px-Bradley_Barcola_France_v_Norway_26_June_26-033_%28cropped%29.jpg",
+      "bio": {
+        "zh": "法国边锋，突破犀利，2023年夏加盟巴黎。",
+        "en": "Bradley Jean-Manuel Essolisam Addo Barcola is a French professional footballer who plays as a forward for Ligue 1 club Paris Saint-Germain and the France national team. He is known for his speed and dribbling."
+      },
+      "career": {
+        "formerClubs": [
+          "里昂"
+        ],
+        "nationalTeam": {
+          "caps": 20,
+          "goals": 3
+        },
+        "honours": [
+          "2023-24赛季法甲冠军"
+        ]
+      }
+    },
+    {
+      "slug": "ngolo-kante",
+      "team": "FRA",
+      "nameEn": "N'Golo Kanté",
+      "nameZh": "恩戈洛·坎特",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/N%27Golo_Kante_France_v_Senegal_16_June_2026-397.jpg/330px-N%27Golo_Kante_France_v_Senegal_16_June_2026-397.jpg",
+      "bio": {
+        "zh": "法国铁腰，覆盖面积惊人，2023年转战土超。",
+        "en": "N'Golo Kanté is a French professional footballer who plays as a defensive midfielder for Süper Lig club Fenerbahçe and the France national team. Regarded as one of the greatest defensive midfielders of his generation, he is known for his stamina and work-rate on the pitch."
+      },
+      "career": {
+        "formerClubs": [
+          "切尔西",
+          "莱斯特城",
+          "卡昂",
+          "布洛涅"
+        ],
+        "nationalTeam": {
+          "caps": 69,
+          "goals": 2
+        },
+        "honours": [
+          "2018年世界杯冠军",
+          "2020-21赛季欧冠冠军",
+          "2015-16赛季英超冠军"
+        ]
+      }
+    },
+    {
+      "slug": "adrien-rabiot",
+      "team": "FRA",
+      "nameEn": "Adrien Rabiot",
+      "nameZh": "阿德里安·拉比奥",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Adrien_Rabiot_France_v_Senegal_16_June_2026-371_%28cropped%29.jpg/330px-Adrien_Rabiot_France_v_Senegal_16_June_2026-371_%28cropped%29.jpg",
+      "bio": {
+        "zh": "法国中场，身材高大，插上进攻能力突出。",
+        "en": "Adrien Thibault Marie Rabiot is a French professional footballer who plays as a midfielder for Serie A club AC Milan and the France national team."
+      },
+      "career": {
+        "formerClubs": [
+          "尤文图斯",
+          "巴黎圣日耳曼"
+        ],
+        "nationalTeam": {
+          "caps": 59,
+          "goals": 7
+        },
+        "honours": [
+          "2020-21赛季欧国联冠军",
+          "2022年世界杯亚军",
+          "2018-19赛季法甲冠军"
+        ]
+      }
+    },
+    {
+      "slug": "ibrahima-konate",
+      "team": "FRA",
+      "nameEn": "Ibrahima Konaté",
+      "nameZh": "易卜拉希马·科纳泰",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ibrahima_Konate_France_v_Senegal_16_June_2026-516_%28cropped%29.jpg/330px-Ibrahima_Konate_France_v_Senegal_16_June_2026-516_%28cropped%29.jpg",
+      "bio": {
+        "zh": "法国中卫，身体对抗强悍，2021年加盟利物浦。",
+        "en": "Ibrahima Konaté is a French professional footballer who plays as a centre-back for La Liga club Real Madrid and the France national team."
+      },
+      "career": {
+        "formerClubs": [
+          "莱比锡红牛",
+          "索肖"
+        ],
+        "nationalTeam": {
+          "caps": 28,
+          "goals": 0
+        },
+        "honours": [
+          "2022年世界杯亚军",
+          "2022-23赛季英超冠军",
+          "2021-22赛季足总杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "mike-maignan",
+      "team": "FRA",
+      "nameEn": "Mike Maignan",
+      "nameZh": "迈克·迈尼昂",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Mike_Maignan_France_v_Norway_26_June_26-132_%28cropped%29.jpg/330px-Mike_Maignan_France_v_Norway_26_June_26-132_%28cropped%29.jpg",
+      "bio": {
+        "zh": "法国一号门将，出击果断，脚法出色。",
+        "en": "Mike Peterson Maignan is a professional footballer who plays as a goalkeeper for and captains Serie A club AC Milan. Born in French Guiana, he plays for the France national team."
+      },
+      "career": {
+        "formerClubs": [
+          "里尔",
+          "巴黎圣日耳曼"
+        ],
+        "nationalTeam": {
+          "caps": 40,
+          "goals": 0
+        },
+        "honours": [
+          "2020-21赛季欧国联冠军",
+          "2021-22赛季意甲冠军",
+          "2020-21赛季法甲冠军"
+        ]
+      }
+    },
+    {
+      "slug": "william-saliba",
+      "team": "FRA",
+      "nameEn": "William Saliba",
+      "nameZh": "威廉·萨利巴",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/William_Saliba_France_v_Senegal_16_June_2026-336_%28cropped%29.jpg/330px-William_Saliba_France_v_Senegal_16_June_2026-336_%28cropped%29.jpg",
+      "bio": {
+        "zh": "法国中卫，冷静稳健，阿森纳后防核心。",
+        "en": "William Alain André Gabriel Saliba is a French professional footballer who plays as a centre-back for Premier League club Arsenal and the France national team. Considered one of the best defenders in the world, he is known for his strength, pace, tackling, and composure."
+      },
+      "career": {
+        "formerClubs": [
+          "马赛",
+          "尼斯",
+          "圣埃蒂安"
+        ],
+        "nationalTeam": {
+          "caps": 32,
+          "goals": 0
+        },
+        "honours": [
+          "2023-24赛季英超冠军"
+        ]
+      }
+    },
+    {
+      "slug": "warren-zaire-emery",
+      "team": "FRA",
+      "nameEn": "Warren Zaïre-Emery",
+      "nameZh": "沃伦·扎伊尔-埃梅里",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Warren_Zaire-Emery_France_v_Senegal_16_June_2026-279.jpg/330px-Warren_Zaire-Emery_France_v_Senegal_16_June_2026-279.jpg",
+      "bio": {
+        "zh": "法国中场新星，巴黎青训，18岁即入选国家队。",
+        "en": "Warren Marie Jean-Pierre Zaïre-Emery is a French professional footballer who plays as a midfielder for Ligue 1 club Paris Saint-Germain and the France national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 11,
+          "goals": 1
+        },
+        "honours": [
+          "2023-24赛季法甲冠军"
+        ]
+      }
+    },
+    {
+      "slug": "theo-hernandez",
+      "team": "FRA",
+      "nameEn": "Théo Hernandez",
+      "nameZh": "特奥·埃尔南德斯",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Theo_Hernandez_France_v_Norway_26_June_26-122.jpg/330px-Theo_Hernandez_France_v_Norway_26_June_26-122.jpg",
+      "bio": {
+        "zh": "法国左后卫，冲击力极强，2024年夏转投利雅得新月。",
+        "en": "Théo Bernard François Hernandez is a French professional footballer who plays primarily as a left-back for Saudi Pro League club Al Hilal and the France national team. He is known for his speed, dribbling, and goal scoring ability."
+      },
+      "career": {
+        "formerClubs": [
+          "AC米兰",
+          "皇家马德里",
+          "阿拉维斯"
+        ],
+        "nationalTeam": {
+          "caps": 44,
+          "goals": 2
+        },
+        "honours": [
+          "2020-21赛季欧国联冠军",
+          "2022年世界杯亚军",
+          "2021-22赛季意甲冠军"
+        ]
+      }
+    },
+    {
+      "slug": "desire-doue",
+      "team": "FRA",
+      "nameEn": "Désiré Doué",
+      "nameZh": "德西雷·杜埃",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Desire_Doue_France_v_Norway_26_June_26-032.jpg/330px-Desire_Doue_France_v_Norway_26_June_26-032.jpg",
+      "bio": {
+        "zh": "法国前场多面手，技术细腻，2024年夏加盟巴黎。",
+        "en": "Désiré Nonka-Maho Doué is a French professional footballer who plays as an attacking midfielder or winger for Ligue 1 club Paris Saint-Germain and the France national team. He is considered one of the best young players in the world."
+      },
+      "career": {
+        "formerClubs": [
+          "雷恩"
+        ],
+        "nationalTeam": {
+          "caps": 7,
+          "goals": 2
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "lucas-hernandez",
+      "team": "FRA",
+      "nameEn": "Lucas Hernandez",
+      "nameZh": "卢卡斯·埃尔南德斯",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Lucas_Hernandez_France_v_Senegal_16_June_2026-281.jpg/330px-Lucas_Hernandez_France_v_Senegal_16_June_2026-281.jpg",
+      "bio": {
+        "zh": "法国后卫，可胜任左路多个位置，2023年加盟巴黎。",
+        "en": "Lucas François Bernard Hernandez is a French professional footballer who plays as a centre-back or left-back for Ligue 1 club Paris Saint-Germain and the France national team. He is the older brother of fellow professional footballer Théo Hernandez and the son of retired footballer Jean-François Hernandez."
+      },
+      "career": {
+        "formerClubs": [
+          "拜仁慕尼黑",
+          "马德里竞技"
+        ],
+        "nationalTeam": {
+          "caps": 42,
+          "goals": 0
+        },
+        "honours": [
+          "2018年世界杯冠军",
+          "2020-21赛季欧国联冠军",
+          "2019-20赛季欧冠冠军"
+        ]
+      }
+    },
+    {
+      "slug": "jean-philippe-mateta",
+      "team": "FRA",
+      "nameEn": "Jean-Philippe Mateta",
+      "nameZh": "让-菲利普·马特塔",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Jean-Philippe_Mateta_France_v_Senegal_16_June_2026-408_%28cropped%29.jpg/330px-Jean-Philippe_Mateta_France_v_Senegal_16_June_2026-408_%28cropped%29.jpg",
+      "bio": {
+        "zh": "法国中锋，身体强壮，水晶宫主力前锋。",
+        "en": "Jean-Philippe Mateta is a French professional footballer who plays as a striker for Premier League club Crystal Palace and the France national team."
+      },
+      "career": {
+        "formerClubs": [
+          "美因茨",
+          "莱比锡红牛",
+          "昂热"
+        ],
+        "nationalTeam": {
+          "caps": 4,
+          "goals": 2
+        },
+        "honours": [
+          "2024年巴黎奥运会男足金牌"
+        ]
+      }
+    },
+    {
+      "slug": "robin-risser",
+      "team": "FRA",
+      "nameEn": "Robin Risser",
+      "nameZh": "罗宾·里瑟",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Robin_Risser_France_v_Senegal_16_June_2026-403_%28cropped%29.jpg/330px-Robin_Risser_France_v_Senegal_16_June_2026-403_%28cropped%29.jpg",
+      "bio": {
+        "zh": "法国年轻门将，朗斯青训出身，尚未代表成年国家队出场。",
+        "en": "Robin François Philippe Risser is a French professional footballer who plays as a goalkeeper for Ligue 1 club Lens."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 0,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "rayan-cherki",
+      "team": "FRA",
+      "nameEn": "Rayan Cherki",
+      "nameZh": "拉扬·切尔基",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Rayan_Cherki_France_v_Norway_26_June_26-114.jpg/330px-Rayan_Cherki_France_v_Norway_26_June_26-114.jpg",
+      "bio": {
+        "zh": "法国攻击型中场，脚法华丽，创造力出众。",
+        "en": "Mathis Rayan Cherki is a French professional footballer who plays as an attacking midfielder or winger for Premier League club Manchester City and the France national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 7,
+          "goals": 2
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "maghnes-akliouche",
+      "team": "FRA",
+      "nameEn": "Maghnes Akliouche",
+      "nameZh": "马涅斯·阿克利乌什",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Maghnes_Akliouche_France_v_Senegal_16_June_2026-512.jpg/330px-Maghnes_Akliouche_France_v_Senegal_16_June_2026-512.jpg",
+      "bio": {
+        "zh": "法国进攻中场，摩纳哥青训，擅长盘带与直塞。",
+        "en": "Maghnes Akliouche is a French professional footballer who plays as an attacking midfielder for Ligue 1 club Monaco and the France national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 9,
+          "goals": 1
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "maxence-lacroix",
+      "team": "FRA",
+      "nameEn": "Maxence Lacroix",
+      "nameZh": "马克桑斯·拉克鲁瓦",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Maxence_Lacroix_France_v_Norway_26_June_26-031_%28cropped%29.jpg/330px-Maxence_Lacroix_France_v_Norway_26_June_26-031_%28cropped%29.jpg",
+      "bio": {
+        "zh": "法国中卫，速度快，2024年夏从沃尔夫斯堡转会水晶宫。",
+        "en": "Maxence Guy Lacroix is a French professional footballer who plays as a centre-back for Premier League club Crystal Palace and the France national team."
+      },
+      "career": {
+        "formerClubs": [
+          "沃尔夫斯堡",
+          "索肖"
+        ],
+        "nationalTeam": {
+          "caps": 4,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "jordan-pickford",
+      "team": "ENG",
+      "nameEn": "Jordan Pickford",
+      "nameZh": "乔丹·皮克福德",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Jordan_Pickford_England_v_Ghana_23_June_2026-316_%28cropped%29.jpg/330px-Jordan_Pickford_England_v_Ghana_23_June_2026-316_%28cropped%29.jpg",
+      "bio": {
+        "zh": "英格兰主力门将，反应敏捷，出击果断，长传精准。",
+        "en": "Jordan Lee Pickford is an English professional footballer who plays as a goalkeeper for Premier League club Everton and the England national team."
+      },
+      "career": {
+        "formerClubs": [
+          "桑德兰"
+        ],
+        "nationalTeam": {
+          "caps": 84,
+          "goals": 0
+        },
+        "honours": [
+          "2016-17赛季普雷斯顿北区年度最佳球员"
+        ]
+      }
+    },
+    {
+      "slug": "ezri-konsa",
+      "team": "ENG",
+      "nameEn": "Ezri Konsa",
+      "nameZh": "埃兹里·孔萨",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ezri_Konsa_England_v_Panama_27_June_26-259_%28cropped%29.jpg/330px-Ezri_Konsa_England_v_Panama_27_June_26-259_%28cropped%29.jpg",
+      "bio": {
+        "zh": "维拉主力中卫，身体素质出色，可胜任右后卫。",
+        "en": "Ezri Ngoyo Konsa is an English professional footballer who plays as a centre-back or right-back for Premier League club Aston Villa and the England national team."
+      },
+      "career": {
+        "formerClubs": [
+          "查尔顿竞技",
+          "布伦特福德"
+        ],
+        "nationalTeam": {
+          "caps": 20,
+          "goals": 1
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "nico-oreilly",
+      "team": "ENG",
+      "nameEn": "Nico O'Reilly",
+      "nameZh": "尼科·奥赖利",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Nico_O%27Reilly_England_v_Ghana_23_June_2026-043_%28cropped%29.jpg/330px-Nico_O%27Reilly_England_v_Ghana_23_June_2026-043_%28cropped%29.jpg",
+      "bio": {
+        "zh": "曼城青训出身的多面手，身材高大，可踢左后卫或中场。",
+        "en": "Nico O'Reilly is an English professional footballer who plays as a left-back or midfielder for Premier League club Manchester City and the England national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 5,
+          "goals": 0
+        },
+        "honours": [
+          "2023-24赛季英超冠军"
+        ]
+      }
+    },
+    {
+      "slug": "declan-rice",
+      "team": "ENG",
+      "nameEn": "Declan Rice",
+      "nameZh": "德克兰·赖斯",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Declan_Rice_England_v_Ghana_23_June_2026-150.jpg/330px-Declan_Rice_England_v_Ghana_23_June_2026-150.jpg",
+      "bio": {
+        "zh": "英格兰中场核心，防守覆盖大，持球推进能力强。",
+        "en": "Declan Rice is an English professional footballer who plays as a defensive midfielder for Premier League club Arsenal and the England national team. Known for his versatility, stamina, ball-carrying and tackling, he is considered one of the best midfielders in the world."
+      },
+      "career": {
+        "formerClubs": [
+          "西汉姆联"
+        ],
+        "nationalTeam": {
+          "caps": 73,
+          "goals": 7
+        },
+        "honours": [
+          "2022-23赛季欧协联冠军"
+        ]
+      }
+    },
+    {
+      "slug": "john-stones",
+      "team": "ENG",
+      "nameEn": "John Stones",
+      "nameZh": "约翰·斯通斯",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/John_Stones_England_v_Ghana_23_June_2026-038.jpg/330px-John_Stones_England_v_Ghana_23_June_2026-038.jpg",
+      "bio": {
+        "zh": "曼城出球中卫，技术细腻，可客串后腰，大赛经验丰富。",
+        "en": "John Stones is an English professional footballer who plays as a centre-back or defensive midfielder for the England national team. He is known for his technical ability and physical presence on the pitch."
+      },
+      "career": {
+        "formerClubs": [
+          "巴恩斯利",
+          "埃弗顿"
+        ],
+        "nationalTeam": {
+          "caps": 89,
+          "goals": 3
+        },
+        "honours": [
+          "2022-23赛季欧冠冠军",
+          "2022-23赛季英超冠军"
+        ]
+      }
+    },
+    {
+      "slug": "marc-guehi",
+      "team": "ENG",
+      "nameEn": "Marc Guéhi",
+      "nameZh": "马克·格伊",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Marc_Guehi_England_v_Panama_27_June_26-182.jpg/330px-Marc_Guehi_England_v_Panama_27_June_26-182.jpg",
+      "bio": {
+        "zh": "水晶宫主力中卫，上抢果断，出球稳健，领导力突出。",
+        "en": "Addji Keaninkin Marc-Israel Guéhi is a professional footballer who plays as a centre-back for Premier League club Manchester City and the England national team."
+      },
+      "career": {
+        "formerClubs": [
+          "切尔西",
+          "斯旺西城"
+        ],
+        "nationalTeam": {
+          "caps": 29,
+          "goals": 1
+        },
+        "honours": [
+          "2017年U17世界杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "bukayo-saka",
+      "team": "ENG",
+      "nameEn": "Bukayo Saka",
+      "nameZh": "布卡约·萨卡",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bukayo_Saka_England_v_Panama_27_June_26-108_%28cropped%29.jpg/330px-Bukayo_Saka_England_v_Panama_27_June_26-108_%28cropped%29.jpg",
+      "bio": {
+        "zh": "阿森纳边路核心，左右脚均衡，突破犀利，英格兰进攻支柱。",
+        "en": "Bukayo Ayoyinka Temidayo Moses Saka is an English professional footballer who plays as a right winger for Premier League club Arsenal and the England national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 49,
+          "goals": 14
+        },
+        "honours": [
+          "2019-20赛季足总杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "elliot-anderson",
+      "team": "ENG",
+      "nameEn": "Elliot Anderson",
+      "nameZh": "埃利奥特·安德森",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Elliot_Anderson_England_v_Ghana_23_June_2026-059_%28cropped%29.jpg/330px-Elliot_Anderson_England_v_Ghana_23_June_2026-059_%28cropped%29.jpg",
+      "bio": {
+        "zh": "诺丁汉森林中场，技术全面，跑动积极，擅长串联进攻。",
+        "en": "Elliot Junior Anderson is an English professional footballer who plays as a midfielder for Premier League club Manchester City and the England national team."
+      },
+      "career": {
+        "formerClubs": [
+          "纽卡斯尔联"
+        ],
+        "nationalTeam": {
+          "caps": 9,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "harry-kane",
+      "team": "ENG",
+      "nameEn": "Harry Kane",
+      "nameZh": "哈里·凯恩",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Harry_Kane_England_v_Ghana_23_June_2026-219_%28cropped%29.jpg/330px-Harry_Kane_England_v_Ghana_23_June_2026-219_%28cropped%29.jpg",
+      "bio": {
+        "zh": "英格兰队长，历史头号射手，射术精湛，支点作用明显。",
+        "en": "Harry Edward Kane is an English professional footballer who plays as a striker for Bundesliga club Bayern Munich and captains the England national team. He is regarded as one of the best players in the world, one of the best strikers of his generation, and one of England's greatest ever players. Kane has scored over 500 career goals for club and country. Kane is Tottenham Hotspur's all-time top goalscorer (280), England's all-time top goalscorer (85), and the highest-scoring English player in the UEFA Champions League (54). He is also the Premier League's second-highest all-time goalscorer (213) and the seventh-highest goalscorer for Bayern Munich (146)."
+      },
+      "career": {
+        "formerClubs": [
+          "托特纳姆热刺",
+          "莱斯特城"
+        ],
+        "nationalTeam": {
+          "caps": 114,
+          "goals": 79
+        },
+        "honours": [
+          "2023-24赛季德甲冠军",
+          "2018年世界杯金靴"
+        ]
+      }
+    },
+    {
+      "slug": "jude-bellingham",
+      "team": "ENG",
+      "nameEn": "Jude Bellingham",
+      "nameZh": "祖德·贝林厄姆",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Jude_Bellingham_England_v_Ghana_23_June_2026-061_%28cropped%29.jpg/330px-Jude_Bellingham_England_v_Ghana_23_June_2026-061_%28cropped%29.jpg",
+      "bio": {
+        "zh": "皇马中场天才，身体素质极佳，攻防兼备，大赛表现惊艳。",
+        "en": "Jude Victor William Bellingham is an English professional footballer who plays as a midfielder for La Liga club Real Madrid and the England national team. Regarded as one of the best players in the world, he is known for his athleticism and ball-winning ability."
+      },
+      "career": {
+        "formerClubs": [
+          "伯明翰城",
+          "多特蒙德"
+        ],
+        "nationalTeam": {
+          "caps": 48,
+          "goals": 6
+        },
+        "honours": [
+          "2023-24赛季欧冠冠军",
+          "2023-24赛季西甲冠军",
+          "2020-21赛季德国杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "marcus-rashford",
+      "team": "ENG",
+      "nameEn": "Marcus Rashford",
+      "nameZh": "马库斯·拉什福德",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Marcus_Rashford_England_v_Panama_27_June_26-047.jpg/330px-Marcus_Rashford_England_v_Panama_27_June_26-047.jpg",
+      "bio": {
+        "zh": "曼联青训前锋，速度爆发力出众，擅长内切射门。",
+        "en": "Marcus Rashford is an English professional footballer who plays as a forward for Premier League club Manchester United and the England national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 72,
+          "goals": 18
+        },
+        "honours": [
+          "2016-17赛季欧联杯冠军",
+          "2022-23赛季联赛杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "trevoh-chalobah",
+      "team": "ENG",
+      "nameEn": "Trevoh Chalobah",
+      "nameZh": "特雷沃·查洛巴",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Trevoh_Chalobah_England_v_Panama_27_June_26-051.jpg/330px-Trevoh_Chalobah_England_v_Panama_27_June_26-051.jpg",
+      "bio": {
+        "zh": "切尔西后卫，可胜任中卫和后腰，青训出品，对抗硬朗。",
+        "en": "Trevoh Tom Chalobah is a professional footballer who plays as a centre-back for Premier League club Chelsea. Born in Sierra Leone, he plays for the England national team."
+      },
+      "career": {
+        "formerClubs": [
+          "伊普斯维奇镇",
+          "哈德斯菲尔德镇",
+          "洛里昂",
+          "水晶宫"
+        ],
+        "nationalTeam": {
+          "caps": 1,
+          "goals": 0
+        },
+        "honours": [
+          "2021年欧洲超级杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "dean-henderson",
+      "team": "ENG",
+      "nameEn": "Dean Henderson",
+      "nameZh": "迪安·亨德森",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Dean_Henderson_England_v_Ghana_23_June_2026-003.jpg/330px-Dean_Henderson_England_v_Ghana_23_June_2026-003.jpg",
+      "bio": {
+        "zh": "水晶宫门将，反应迅速，曾租借谢菲联表现抢眼。",
+        "en": "Dean Bradley Henderson is an English professional footballer who plays as a goalkeeper for Premier League club Crystal Palace, whom he captains, and the England national team."
+      },
+      "career": {
+        "formerClubs": [
+          "曼彻斯特联",
+          "谢菲尔德联"
+        ],
+        "nationalTeam": {
+          "caps": 5,
+          "goals": 0
+        },
+        "honours": [
+          "2019-20赛季英超金手套奖（并列）"
+        ]
+      }
+    },
+    {
+      "slug": "jordan-henderson",
+      "team": "ENG",
+      "nameEn": "Jordan Henderson",
+      "nameZh": "乔丹·亨德森",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Jordan_Henderson_England_v_Ghana_23_June_2026-029_%28cropped%29.jpg/330px-Jordan_Henderson_England_v_Ghana_23_June_2026-029_%28cropped%29.jpg",
+      "bio": {
+        "zh": "英格兰老将中场，跑动积极，精神属性强，曾长期担任利物浦队长。",
+        "en": "Jordan Brian Henderson is an English professional footballer who plays as a midfielder for Premier League club Brentford and the England national team. He is known for his leadership, versatility, and physicality."
+      },
+      "career": {
+        "formerClubs": [
+          "利物浦",
+          "桑德兰"
+        ],
+        "nationalTeam": {
+          "caps": 90,
+          "goals": 3
+        },
+        "honours": [
+          "2019-20赛季英超冠军",
+          "2018-19赛季欧冠冠军",
+          "2019年世俱杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "dan-burn",
+      "team": "ENG",
+      "nameEn": "Dan Burn",
+      "nameZh": "丹·伯恩",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dan_Burn_England_v_Ghana_23_June_2026-224.jpg/330px-Dan_Burn_England_v_Ghana_23_June_2026-224.jpg",
+      "bio": {
+        "zh": "纽卡斯尔高大后卫，可踢中卫和左后卫，防空能力出色。",
+        "en": "Daniel Johnson Burn is an English professional footballer who plays as a centre-back or left-back for Premier League club Newcastle United and the England national team."
+      },
+      "career": {
+        "formerClubs": [
+          "富勒姆",
+          "维冈竞技",
+          "布莱顿"
+        ],
+        "nationalTeam": {
+          "caps": 8,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "kobbie-mainoo",
+      "team": "ENG",
+      "nameEn": "Kobbie Mainoo",
+      "nameZh": "科比·梅努",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kobbie_Mainoo_England_v_Panama_27_June_26-052.jpg/330px-Kobbie_Mainoo_England_v_Panama_27_June_26-052.jpg",
+      "bio": {
+        "zh": "曼联青训中场，冷静沉稳，护球出色，已坐稳红魔主力。",
+        "en": "Kobbie Boateng Mainoo is an English professional footballer who plays as a midfielder for Premier League club Manchester United and the England national team. He is known for his dribbling and composure."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 14,
+          "goals": 0
+        },
+        "honours": [
+          "2023-24赛季足总杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "morgan-rogers",
+      "team": "ENG",
+      "nameEn": "Morgan Rogers",
+      "nameZh": "摩根·罗杰斯",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Morgan_Rogers_England_v_Panama_27_June_26-144_%28cropped%29.jpg/330px-Morgan_Rogers_England_v_Panama_27_June_26-144_%28cropped%29.jpg",
+      "bio": {
+        "zh": "维拉攻击型中场，盘带突破犀利，本赛季在英超迅速崛起。",
+        "en": "Morgan Elliot Rogers is an English professional footballer who plays as an attacking midfielder or winger for Premier League club Aston Villa and the England national team. A versatile player across attacking positions, Rogers is known for his strength, attacking runs, ability to score from a distance and ball control."
+      },
+      "career": {
+        "formerClubs": [
+          "曼彻斯特城",
+          "西布罗姆维奇",
+          "米德尔斯堡"
+        ],
+        "nationalTeam": {
+          "caps": 15,
+          "goals": 1
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "anthony-gordon",
+      "team": "ENG",
+      "nameEn": "Anthony Gordon",
+      "nameZh": "安东尼·戈登",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Anthony_Gordon_England_v_Ghana_23_June_2026-017_%28cropped%29.jpg/330px-Anthony_Gordon_England_v_Ghana_23_June_2026-017_%28cropped%29.jpg",
+      "bio": {
+        "zh": "纽卡斯尔边锋，速度快，拼劲十足，左路突破威胁大。",
+        "en": "Anthony Michael Gordon is an English professional footballer who plays primarily as a winger for La Liga club Barcelona and the England national team."
+      },
+      "career": {
+        "formerClubs": [
+          "埃弗顿"
+        ],
+        "nationalTeam": {
+          "caps": 19,
+          "goals": 3
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "ollie-watkins",
+      "team": "ENG",
+      "nameEn": "Ollie Watkins",
+      "nameZh": "奥利·沃特金斯",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ollie_Watkins_England_v_Ghana_23_June_2026-035.jpg/330px-Ollie_Watkins_England_v_Ghana_23_June_2026-035.jpg",
+      "bio": {
+        "zh": "维拉主力前锋，跑位灵活，射术全面，曾斩获英超金靴。",
+        "en": "Oliver George Arthur Watkins is an English professional footballer who plays as a forward for Premier League club Aston Villa and the England national team. Described as a complete forward, Watkins is known for his finishing ability and work ethic."
+      },
+      "career": {
+        "formerClubs": [
+          "布伦特福德",
+          "埃克塞特城"
+        ],
+        "nationalTeam": {
+          "caps": 22,
+          "goals": 7
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "noni-madueke",
+      "team": "ENG",
+      "nameEn": "Noni Madueke",
+      "nameZh": "诺尼·马杜埃凯",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Noni_Madueke_England_v_Panama_27_June_26-054.jpg/330px-Noni_Madueke_England_v_Panama_27_June_26-054.jpg",
+      "bio": {
+        "zh": "切尔西边锋，左脚将，内切射门能力强，曾留荷甲埃因霍温。",
+        "en": "Chukwunonso Azuka Tristan \"Noni\" Madueke is an English professional footballer who plays as a winger for Premier League club Arsenal and the England national team."
+      },
+      "career": {
+        "formerClubs": [
+          "托特纳姆热刺",
+          "埃因霍温"
+        ],
+        "nationalTeam": {
+          "caps": 11,
+          "goals": 1
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "eberechi-eze",
+      "team": "ENG",
+      "nameEn": "Eberechi Eze",
+      "nameZh": "埃贝雷基·埃泽",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Eberechi_Eze_England_v_Ghana_23_June_2026-039.jpg/330px-Eberechi_Eze_England_v_Ghana_23_June_2026-039.jpg",
+      "bio": {
+        "zh": "水晶宫进攻核心，盘带出色，创造力强，擅长定位球。",
+        "en": "Eberechi Oluchi \"Ebere\" Eze is an English professional footballer who plays as an attacking midfielder for Premier League club Arsenal and the England national team."
+      },
+      "career": {
+        "formerClubs": [
+          "女王公园巡游者"
+        ],
+        "nationalTeam": {
+          "caps": 17,
+          "goals": 3
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "ivan-toney",
+      "team": "ENG",
+      "nameEn": "Ivan Toney",
+      "nameZh": "伊万·托尼",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ivan_Toney_England_v_Ghana_23_June_2026-051.jpg/330px-Ivan_Toney_England_v_Ghana_23_June_2026-051.jpg",
+      "bio": {
+        "zh": "英格兰中锋，支点作用明显，点球稳健，曾斩获英冠金靴。",
+        "en": "Ivan Benjamin Elijah Toney is a British professional footballer who plays as a striker for Saudi Pro League club Al-Ahli and the England national team."
+      },
+      "career": {
+        "formerClubs": [
+          "布伦特福德",
+          "彼得伯勒联",
+          "纽卡斯尔联"
+        ],
+        "nationalTeam": {
+          "caps": 8,
+          "goals": 1
+        },
+        "honours": [
+          "2020-21赛季英冠冠军"
+        ]
+      }
+    },
+    {
+      "slug": "james-trafford",
+      "team": "ENG",
+      "nameEn": "James Trafford",
+      "nameZh": "詹姆斯·特拉福德",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/James_Trafford_England_v_Ghana_23_June_2026-027.jpg/330px-James_Trafford_England_v_Ghana_23_June_2026-027.jpg",
+      "bio": {
+        "zh": "曼城青训门将，身高臂长，曾租借博尔顿表现亮眼。",
+        "en": "James Harrington Trafford is an English professional footballer who plays as a goalkeeper for Premier League club Manchester City and the England national team."
+      },
+      "career": {
+        "formerClubs": [
+          "博尔顿流浪者"
+        ],
+        "nationalTeam": {
+          "caps": 2,
+          "goals": 0
+        },
+        "honours": [
+          "2023年U21欧洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "reece-james",
+      "team": "ENG",
+      "nameEn": "Reece James",
+      "nameZh": "里斯·詹姆斯",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Reece_James_England_v_Ghana_23_June_2026-248_%28cropped%29.jpg/330px-Reece_James_England_v_Ghana_23_June_2026-248_%28cropped%29.jpg",
+      "bio": {
+        "zh": "切尔西右后卫，身体强壮，传中精准，攻防俱佳，曾长期担任队长。",
+        "en": "Reece Lewis James is an English professional footballer who plays as a right-back for Premier League club Chelsea, which he captains, and the England national team."
+      },
+      "career": {
+        "formerClubs": [
+          "维冈竞技"
+        ],
+        "nationalTeam": {
+          "caps": 24,
+          "goals": 1
+        },
+        "honours": [
+          "2020-21赛季欧冠冠军",
+          "2021年欧洲超级杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "djed-spence",
+      "team": "ENG",
+      "nameEn": "Djed Spence",
+      "nameZh": "杰德·斯彭斯",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Djed_Spence_England_v_Ghana_23_June_2026-022.jpg/330px-Djed_Spence_England_v_Ghana_23_June_2026-022.jpg",
+      "bio": {
+        "zh": "热刺边后卫，速度快，助攻能力强，曾租借诺丁汉森林成名。",
+        "en": "Diop Tehuti Djed-Hotep Spence is an English professional footballer who plays as a full-back for Premier League club Tottenham Hotspur and the England national team."
+      },
+      "career": {
+        "formerClubs": [
+          "米德尔斯堡",
+          "诺丁汉森林"
+        ],
+        "nationalTeam": {
+          "caps": 6,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "jarell-quansah",
+      "team": "ENG",
+      "nameEn": "Jarell Quansah",
+      "nameZh": "贾雷尔·夸安萨",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Jarell_Quansah_England_v_Panama_27_June_26-046.jpg/330px-Jarell_Quansah_England_v_Panama_27_June_26-046.jpg",
+      "bio": {
+        "zh": "利物浦年轻中卫，身体素质出色，出球冷静，红军青训新星。",
+        "en": "Jarell Amorin Quansah is an English professional footballer who plays as a centre-back for Bundesliga club Bayer Leverkusen and the England national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 3,
+          "goals": 0
+        },
+        "honours": [
+          "2023-24赛季英超冠军"
+        ]
+      }
+    },
+    {
+      "slug": "alisson",
+      "team": "BRA",
+      "nameEn": "Alisson",
+      "nameZh": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Alisson_Becker_Brazil_V_Morocco_13_June_2026-117_%28cropped%29.jpg/330px-Alisson_Becker_Brazil_V_Morocco_13_June_2026-117_%28cropped%29.jpg",
+      "bio": {
+        "zh": null,
+        "en": "Álisson Ramsés Becker, also known simply as Alisson, is a Brazilian professional footballer who plays as a goalkeeper for Premier League club Liverpool and the Brazil national team. He is regarded as one of the best goalkeepers in the world."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 78,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "ederson-silva",
+      "team": "BRA",
+      "nameEn": "Éderson Silva",
+      "nameZh": null,
+      "photo": null,
+      "bio": {
+        "zh": null,
+        "en": null
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 3,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "gabriel-magalhaes",
+      "team": "BRA",
+      "nameEn": "Gabriel Magalhães",
+      "nameZh": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Gabriel_Magalhaes_Brazil_V_Morocco_13_June_2026-132_%28cropped%29.jpg/330px-Gabriel_Magalhaes_Brazil_V_Morocco_13_June_2026-132_%28cropped%29.jpg",
+      "bio": {
+        "zh": null,
+        "en": "Gabriel dos Santos Magalhães, also known mononymously as Gabriel, is a Brazilian professional footballer who plays primarily as centre-back for Premier League club Arsenal and the Brazil national team. Known for his strength, aggression, tackling, passion and aerial threat, he is regarded as one of the best defenders in the world."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 17,
+          "goals": 1
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "marquinhos-capt",
+      "team": "BRA",
+      "nameEn": "Marquinhos (capt.)",
+      "nameZh": null,
+      "photo": null,
+      "bio": {
+        "zh": null,
+        "en": null
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 105,
+          "goals": 7
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "casemiro",
+      "team": "BRA",
+      "nameEn": "Casemiro",
+      "nameZh": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Casemiro_Brazil_V_Morocco_13_June_2026-76_%28cropped%29.jpg/330px-Casemiro_Brazil_V_Morocco_13_June_2026-76_%28cropped%29.jpg",
+      "bio": {
+        "zh": null,
+        "en": "Carlos Henrique Casimiro, also known mononymously as Casemiro, is a Brazilian professional footballer who plays as a defensive midfielder for the Brazil national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 86,
+          "goals": 9
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "alex-sandro",
+      "team": "BRA",
+      "nameEn": "Alex Sandro",
+      "nameZh": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Alex_Sandro_Brazil_V_Morocco_13_June_2026-137_%28cropped%29.jpg/330px-Alex_Sandro_Brazil_V_Morocco_13_June_2026-137_%28cropped%29.jpg",
+      "bio": {
+        "zh": null,
+        "en": "Alex Sandro Lobo Silva, better known as Alex Sandro is a Brazilian professional footballer who plays as a left-back for Campeonato Brasileiro Série A club Flamengo and the Brazil national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 45,
+          "goals": 2
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "vinicius-junior",
+      "team": "BRA",
+      "nameEn": "Vinícius Júnior",
+      "nameZh": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_%28cropped%29.jpg/330px-Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_%28cropped%29.jpg",
+      "bio": {
+        "zh": null,
+        "en": "Vinícius José Paixão de Oliveira \"Vini\" Júnior is a Brazilian professional footballer who plays as a forward for La Liga club Real Madrid and the Brazil national team. Considered one of the best players in the world, he is known for his pace, technique, and dribbling ability."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 49,
+          "goals": 9
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "bruno-guimaraes",
+      "team": "BRA",
+      "nameEn": "Bruno Guimarães",
+      "nameZh": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bruno_Guimaraes_Brazil_V_Morocco_13_June_2026-78_%28cropped%29.jpg/330px-Bruno_Guimaraes_Brazil_V_Morocco_13_June_2026-78_%28cropped%29.jpg",
+      "bio": {
+        "zh": null,
+        "en": "Bruno Guimarães Rodriguez Moura is a Brazilian professional footballer who plays as a midfielder for Premier League club Newcastle United, which he captains, and the Brazil national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 43,
+          "goals": 3
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "matheus-cunha",
+      "team": "BRA",
+      "nameEn": "Matheus Cunha",
+      "nameZh": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Matheus_Cunha_Brazil_V_Morocco_13_June_2026-178_%28cropped%29.jpg/330px-Matheus_Cunha_Brazil_V_Morocco_13_June_2026-178_%28cropped%29.jpg",
+      "bio": {
+        "zh": null,
+        "en": "Matheus Santos Carneiro da Cunha is a Brazilian professional footballer who plays as a forward, attacking midfielder, or winger for Premier League club Manchester United and the Brazil national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 23,
+          "goals": 1
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "neymar",
+      "team": "BRA",
+      "nameEn": "Neymar",
+      "nameZh": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Neymar_Junior_Brazil_V_Morocco_13_June_2026-40.jpg/330px-Neymar_Junior_Brazil_V_Morocco_13_June_2026-40.jpg",
+      "bio": {
+        "zh": null,
+        "en": "Neymar da Silva Santos Júnior, known mononymously as Neymar, is a Brazilian professional footballer who plays as an attacking midfielder or a forward for the Campeonato Brasileiro Série A club Santos. Known for his dribbling, technical ability, playmaking, passing, and finishing, he is widely regarded as one of the greatest players of all time. He is the all-time top goalscorer of the Brazil national team, with 80 goals."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 128,
+          "goals": 79
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "raphinha",
+      "team": "BRA",
+      "nameEn": "Raphinha",
+      "nameZh": null,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Raphinha_Brazil_V_Morocco_13_June_2026-133_%28cropped%29.jpg/330px-Raphinha_Brazil_V_Morocco_13_June_2026-133_%28cropped%29.jpg",
+      "bio": {
+        "zh": null,
+        "en": "Raphael Dias Belloli, known mononymously as Raphinha, is a Brazilian professional footballer who plays as a winger or forward for La Liga club Barcelona and the Brazil national team. Considered one of the best players in the world, he is known for his pace, playmaking, work rate and finishing."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 39,
+          "goals": 11
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "weverton",
+      "team": "BRA",
+      "nameEn": "Weverton",
+      "nameZh": null,
+      "photo": null,
+      "bio": {
+        "zh": null,
+        "en": null
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 11,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "danilo-luiz",
+      "team": "BRA",
+      "nameEn": "Danilo Luiz",
+      "nameZh": null,
+      "photo": null,
+      "bio": {
+        "zh": null,
+        "en": null
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 70,
+          "goals": 1
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "bremer",
+      "team": "BRA",
+      "nameEn": "Bremer",
+      "nameZh": null,
+      "photo": null,
+      "bio": {
+        "zh": null,
+        "en": null
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 8,
+          "goals": 1
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "leo-pereira",
+      "team": "BRA",
+      "nameEn": "Léo Pereira",
+      "nameZh": null,
+      "photo": null,
+      "bio": {
+        "zh": null,
+        "en": null
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 4,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "douglas-santos",
+      "team": "BRA",
+      "nameEn": "Douglas Santos",
+      "nameZh": null,
+      "photo": null,
+      "bio": {
+        "zh": null,
+        "en": null
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 7,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "fabinho",
+      "team": "BRA",
+      "nameEn": "Fabinho",
+      "nameZh": null,
+      "photo": null,
+      "bio": {
+        "zh": null,
+        "en": null
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 33,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "danilo-santos",
+      "team": "BRA",
+      "nameEn": "Danilo Santos",
+      "nameZh": null,
+      "photo": null,
+      "bio": {
+        "zh": null,
+        "en": null
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 4,
+          "goals": 2
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "endrick",
+      "team": "BRA",
+      "nameEn": "Endrick",
+      "nameZh": null,
+      "photo": null,
+      "bio": {
+        "zh": null,
+        "en": null
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 17,
+          "goals": 4
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "lucas-paqueta",
+      "team": "BRA",
+      "nameEn": "Lucas Paquetá",
+      "nameZh": null,
+      "photo": null,
+      "bio": {
+        "zh": null,
+        "en": null
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 63,
+          "goals": 13
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "luiz-henrique",
+      "team": "BRA",
+      "nameEn": "Luiz Henrique",
+      "nameZh": null,
+      "photo": null,
+      "bio": {
+        "zh": null,
+        "en": null
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 15,
+          "goals": 2
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "gabriel-martinelli",
+      "team": "BRA",
+      "nameEn": "Gabriel Martinelli",
+      "nameZh": null,
+      "photo": null,
+      "bio": {
+        "zh": null,
+        "en": null
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 23,
+          "goals": 4
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "ederson-moraes",
+      "team": "BRA",
+      "nameEn": "Ederson Moraes",
+      "nameZh": null,
+      "photo": null,
+      "bio": {
+        "zh": null,
+        "en": null
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 32,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "roger-ibanez",
+      "team": "BRA",
+      "nameEn": "Roger Ibañez",
+      "nameZh": null,
+      "photo": null,
+      "bio": {
+        "zh": null,
+        "en": null
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 7,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "igor-thiago",
+      "team": "BRA",
+      "nameEn": "Igor Thiago",
+      "nameZh": null,
+      "photo": null,
+      "bio": {
+        "zh": null,
+        "en": null
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 4,
+          "goals": 2
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "rayan",
+      "team": "BRA",
+      "nameEn": "Rayan",
+      "nameZh": null,
+      "photo": null,
+      "bio": {
+        "zh": null,
+        "en": null
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 2,
+          "goals": 1
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "david-raya",
+      "team": "ESP",
+      "nameEn": "David Raya",
+      "nameZh": "戴维·拉亚",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/David_Raya_in_2025_%28cropped%29.jpg/330px-David_Raya_in_2025_%28cropped%29.jpg",
+      "bio": {
+        "zh": "西班牙国门，反应敏捷，出球能力强，阿森纳主力门将。",
+        "en": "David Raya Martín is a Spanish professional footballer who plays as a goalkeeper for Premier League club Arsenal and the Spain national team. Known for his consistency, distribution, shot-stopping abilities, and box command, he is widely regarded as one of the best goalkeepers in the world, in spite of not being able to make the Spanish first eleven."
+      },
+      "career": {
+        "formerClubs": [
+          "Southport",
+          "Blackburn Rovers",
+          "Brentford"
+        ],
+        "nationalTeam": {
+          "caps": 13,
+          "goals": 0
+        },
+        "honours": [
+          "2024欧洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "marc-pubill",
+      "team": "ESP",
+      "nameEn": "Marc Pubill",
+      "nameZh": "马克·普维尔",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/d/df/Uzbekistan_vs._Spain%2C_2024_Summer_Olympic_men%27s_association_football%2C_2024-07-24_%28250%29_-_Marc_Pubill.jpg",
+      "bio": {
+        "zh": "西班牙年轻右后卫，速度快，防守硬朗，马竞防线新秀。",
+        "en": "Marc Pubill Pagès is a Spanish professional footballer who plays as a right-back or centre-back for La Liga club Atlético Madrid and the Spain national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 2,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "alex-grimaldo",
+      "team": "ESP",
+      "nameEn": "Álex Grimaldo",
+      "nameZh": "亚历克斯·格里马尔多",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Alex_Grimaldo_2020.png/330px-Alex_Grimaldo_2020.png",
+      "bio": {
+        "zh": "西班牙左后卫，助攻能力出色，定位球技术精湛。",
+        "en": "Alejandro \"Álex\" Grimaldo García is a Spanish professional footballer who plays as a left wing-back for La Liga club Atlético Madrid and the Spain national team. Known for his range of crossing and assists, as well as his set-piece taking ability, he is considered to be one of the best left-backs in the world."
+      },
+      "career": {
+        "formerClubs": [
+          "Benfica"
+        ],
+        "nationalTeam": {
+          "caps": 14,
+          "goals": 0
+        },
+        "honours": [
+          "2024欧洲杯冠军",
+          "2023-24德甲冠军"
+        ]
+      }
+    },
+    {
+      "slug": "eric-garcia",
+      "team": "ESP",
+      "nameEn": "Eric García",
+      "nameZh": "埃里克·加西亚",
+      "photo": null,
+      "bio": {
+        "zh": "西班牙中后卫，出球型后卫，巴萨拉玛西亚青训出身。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [
+          "Manchester City"
+        ],
+        "nationalTeam": {
+          "caps": 21,
+          "goals": 0
+        },
+        "honours": [
+          "2024欧洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "marcos-llorente",
+      "team": "ESP",
+      "nameEn": "Marcos Llorente",
+      "nameZh": "马科斯·略伦特",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Marcos_Llorente_2019.jpg/330px-Marcos_Llorente_2019.jpg",
+      "bio": {
+        "zh": "西班牙多面手，可胜任后腰与边翼卫，体能充沛，马竞核心。",
+        "en": "Marcos Llorente Moreno is a Spanish professional footballer who plays as a midfielder or right-back for La Liga club Atlético Madrid and the Spain national team."
+      },
+      "career": {
+        "formerClubs": [
+          "Real Madrid",
+          "Alavés"
+        ],
+        "nationalTeam": {
+          "caps": 24,
+          "goals": 0
+        },
+        "honours": [
+          "2024欧洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "mikel-merino",
+      "team": "ESP",
+      "nameEn": "Mikel Merino",
+      "nameZh": "米克尔·梅里诺",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Spain_football_team_in_2025_Mikel_Merino.jpg/330px-Spain_football_team_in_2025_Mikel_Merino.jpg",
+      "bio": {
+        "zh": "西班牙中场，攻守兼备，头球与传球能力俱佳。",
+        "en": "Mikel Merino Zazón is a Spanish professional footballer who plays as a midfielder or striker for Premier League club Arsenal and the Spain national team."
+      },
+      "career": {
+        "formerClubs": [
+          "Osasuna",
+          "Borussia Dortmund",
+          "Newcastle United",
+          "Real Sociedad"
+        ],
+        "nationalTeam": {
+          "caps": 43,
+          "goals": 10
+        },
+        "honours": [
+          "2024欧洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "ferran-torres",
+      "team": "ESP",
+      "nameEn": "Ferran Torres",
+      "nameZh": "费兰·托雷斯",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ferran_Torres_Garc%C3%ADa.png/330px-Ferran_Torres_Garc%C3%ADa.png",
+      "bio": {
+        "zh": "西班牙前锋，跑位灵活，左右脚均衡，巴萨锋线主力。",
+        "en": "Ferran Torres García is a Spanish professional footballer who plays as a forward or winger for La Liga club Barcelona and the Spain national team."
+      },
+      "career": {
+        "formerClubs": [
+          "Valencia",
+          "Manchester City"
+        ],
+        "nationalTeam": {
+          "caps": 57,
+          "goals": 24
+        },
+        "honours": [
+          "2024欧洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "fabian-ruiz",
+      "team": "ESP",
+      "nameEn": "Fabián Ruiz",
+      "nameZh": "法维安·鲁伊斯",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Ruiz_asse_psg_2425.png/330px-Ruiz_asse_psg_2425.png",
+      "bio": {
+        "zh": "西班牙中场，技术细腻，长传调度出色，巴黎圣日耳曼主力。",
+        "en": "Fabián Ruiz Peña, also known simply as Fabián, is a Spanish professional footballer who plays as a central midfielder for Ligue 1 club Paris Saint-Germain and the Spain national team."
+      },
+      "career": {
+        "formerClubs": [
+          "Real Betis",
+          "Napoli"
+        ],
+        "nationalTeam": {
+          "caps": 42,
+          "goals": 6
+        },
+        "honours": [
+          "2024欧洲杯冠军",
+          "2023-24法甲冠军"
+        ]
+      }
+    },
+    {
+      "slug": "gavi",
+      "team": "ESP",
+      "nameEn": "Gavi",
+      "nameZh": "加维",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Jugadors_pretemporada_pels_Estats_Units_%28cropped%292.jpg",
+      "bio": {
+        "zh": "西班牙中场，拼抢积极，天赋出众，巴萨与国家队未来核心。",
+        "en": "Pablo Martín Páez Gavira, known as Gavi, is a Spanish professional footballer who plays as a central midfielder for La Liga club Barcelona and the Spain national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 30,
+          "goals": 5
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "dani-olmo",
+      "team": "ESP",
+      "nameEn": "Dani Olmo",
+      "nameZh": "达尼·奥尔莫",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dani_Olmo_2022.jpg/330px-Dani_Olmo_2022.jpg",
+      "bio": {
+        "zh": "西班牙前场多面手，技术全面，关键比赛屡有进球。",
+        "en": "Daniel Olmo Carvajal is a Spanish professional footballer who plays as an attacking midfielder or left winger for La Liga club Barcelona and the Spain national team."
+      },
+      "career": {
+        "formerClubs": [
+          "Dinamo Zagreb",
+          "RB Leipzig"
+        ],
+        "nationalTeam": {
+          "caps": 50,
+          "goals": 12
+        },
+        "honours": [
+          "2024欧洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "yeremy-pino",
+      "team": "ESP",
+      "nameEn": "Yéremy Pino",
+      "nameZh": "耶雷米·皮诺",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/8/80/Manchester_United_v_Villarreal_CF%2C_29_September_2021_%2807%29_%28cropped%29.jpg",
+      "bio": {
+        "zh": "西班牙边锋，突破犀利，射门果断，前场活力十足。",
+        "en": "Yéremy Jesús Pino Santos is a Spanish professional footballer who plays as an attacking midfielder or winger for Premier League club Crystal Palace and the Spain national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 23,
+          "goals": 4
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "pedro-porro",
+      "team": "ESP",
+      "nameEn": "Pedro Porro",
+      "nameZh": "佩德罗·波罗",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/8/85/Pedro_Porro_2021.png",
+      "bio": {
+        "zh": "西班牙右后卫，进攻欲望强，传中与远射能力突出。",
+        "en": "Pedro Antonio Porro Sauceda is a Spanish professional footballer who plays as a right-back for Premier League club Tottenham Hotspur and the Spain national team."
+      },
+      "career": {
+        "formerClubs": [
+          "Girona",
+          "Sporting CP"
+        ],
+        "nationalTeam": {
+          "caps": 18,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "joan-garcia",
+      "team": "ESP",
+      "nameEn": "Joan Garcia",
+      "nameZh": "霍安·加西亚",
+      "photo": null,
+      "bio": {
+        "zh": "西班牙年轻门将，反应迅速，巴萨青训体系培养的新生代。",
+        "en": "Joan Garcia Pons is a Spanish professional footballer who plays as a goalkeeper for La Liga club Barcelona and the Spain national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 2,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "aymeric-laporte",
+      "team": "ESP",
+      "nameEn": "Aymeric Laporte",
+      "nameZh": "艾默里克·拉波尔特",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Aymeric_Laporte_2023_%28cropped%29_2.jpg",
+      "bio": {
+        "zh": "西班牙中卫，左脚将，出球与防空能力顶级。",
+        "en": "Aymeric Jean Louis Gérard Alphonse Laporte is a professional footballer who plays as a centre-back for La Liga club Athletic Bilbao. Born in France, he plays for the Spain national team."
+      },
+      "career": {
+        "formerClubs": [
+          "Athletic Bilbao",
+          "Manchester City"
+        ],
+        "nationalTeam": {
+          "caps": 46,
+          "goals": 2
+        },
+        "honours": [
+          "2024欧洲杯冠军",
+          "2022-23欧冠冠军",
+          "2022-23英超冠军"
+        ]
+      }
+    },
+    {
+      "slug": "alex-baena",
+      "team": "ESP",
+      "nameEn": "Álex Baena",
+      "nameZh": "亚历克斯·巴埃纳",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/%C3%81lex_Baena_2019.jpg/330px-%C3%81lex_Baena_2019.jpg",
+      "bio": {
+        "zh": "西班牙攻击型中场，脚法细腻，传射俱佳，创造力强。",
+        "en": "Alejandro \"Álex\" Baena Rodríguez is a Spanish professional footballer who plays as a left midfielder or attacking midfielder for La Liga club Atlético Madrid and the Spain national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 17,
+          "goals": 2
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "rodri",
+      "team": "ESP",
+      "nameEn": "Rodri",
+      "nameZh": "罗德里",
+      "photo": null,
+      "bio": {
+        "zh": "西班牙后腰，世界顶级中场，防守覆盖广，调度沉稳。",
+        "en": "Rodri may refer to:Rodri (1934–2022), full name Francisco Rodríguez García, Spanish football defender for Barcelona\nRodri, full name Antonio Rodríguez Saravia, Spanish football forward and manager for Gimnàstic etc\nRodri, full name Rodrigo Gimeno Molina, Spanish football midfielder for Castellón\nRodri, full name Sergio Rodríguez García, Spanish football defender for Spartak Moscow, Eupen etc\nRodri, full name Rodrigo Ángel Gil Torres, Spanish football midfielder for Elche, Orihuela etc\nRodri, full name Rodrigo Suárez Peña, Spanish football midfielder for Betis\nRodri, full name Rodrigo Ríos Lozano, Spanish football forward for Córdoba, Oviedo etc\nRodri, full name Rodrigo Hernández Cascante, Spanish football midfielder for Villarreal, Manchester City, 2024 Ballon d'Or winner\nRodri, full name Rodrigo Sánchez Rodríguez, Spanish football midfielder for Betis\nRodri, full name Rodrigo Suárez Marcos, Spanish football defender for Cultural Leonesa\nRodri, full name Rodrigo Alonso Martín, Spanish football midfielder for Villarreal"
+      },
+      "career": {
+        "formerClubs": [
+          "Atletico Madrid"
+        ],
+        "nationalTeam": {
+          "caps": 62,
+          "goals": 4
+        },
+        "honours": [
+          "2024欧洲杯冠军",
+          "2023欧冠冠军",
+          "2022-23欧国联冠军"
+        ]
+      }
+    },
+    {
+      "slug": "nico-williams",
+      "team": "ESP",
+      "nameEn": "Nico Williams",
+      "nameZh": "尼科·威廉斯",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/ATHLETIC-OSASUNA_SEMIFINAL._MAIDER_GOIKOETXEA_%28168%29_%28cropped%29.jpg/330px-ATHLETIC-OSASUNA_SEMIFINAL._MAIDER_GOIKOETXEA_%28168%29_%28cropped%29.jpg",
+      "bio": {
+        "zh": "西班牙边锋，爆发力惊人，盘带突破犀利，毕尔巴鄂核心。",
+        "en": "Nicholas Williams Arthuer is a Spanish professional footballer who plays as a winger for La Liga club Athletic Bilbao and the Spain national team. He is recognised for his speed and dribbling skills."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 30,
+          "goals": 6
+        },
+        "honours": [
+          "2024欧洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "martin-zubimendi",
+      "team": "ESP",
+      "nameEn": "Martín Zubimendi",
+      "nameZh": "马丁·苏维门迪",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Mart%C3%ADn_Zubimendi.jpg/330px-Mart%C3%ADn_Zubimendi.jpg",
+      "bio": {
+        "zh": "西班牙后腰，位置感极佳，短传梳理能力强，皇家社会青训。",
+        "en": "Martín Zubimendi Ibáñez is a Spanish professional footballer who plays as a defensive midfielder for Premier League club Arsenal and the Spain national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 26,
+          "goals": 3
+        },
+        "honours": [
+          "2024欧洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "lamine-yamal",
+      "team": "ESP",
+      "nameEn": "Lamine Yamal",
+      "nameZh": "拉明·亚马尔",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Lamine_Yamal%2C_S%C3%A1nchez_se_reuni%C3%B3_con_los_futbolistas_de_la_selecci%C3%B3n_espa%C3%B1ola_tras_ganar_la_Eurocopa_2024_%283%29_%28cropped%29.jpg",
+      "bio": {
+        "zh": "西班牙天才边锋，左脚将，突破与传球极具威胁，巴萨瑰宝。",
+        "en": "Lamine Yamal Nasraoui Ebana is a Spanish professional footballer who plays as a right winger for La Liga club Barcelona and the Spain national team. He is regarded as one of the best players in the world."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 25,
+          "goals": 6
+        },
+        "honours": [
+          "2024欧洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "pedri",
+      "team": "ESP",
+      "nameEn": "Pedri",
+      "nameZh": "佩德里",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Pedri.jpg/330px-Pedri.jpg",
+      "bio": {
+        "zh": "西班牙中场，控球稳健，视野开阔，巴萨与国家队组织核心。",
+        "en": "Pedro González López, more commonly known as Pedri, is a Spanish professional footballer who plays as a midfielder for La Liga club Barcelona and the Spain national team. He is regarded as one of the best midfielders in the world."
+      },
+      "career": {
+        "formerClubs": [
+          "Las Palmas"
+        ],
+        "nationalTeam": {
+          "caps": 41,
+          "goals": 6
+        },
+        "honours": [
+          "2024欧洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "mikel-oyarzabal",
+      "team": "ESP",
+      "nameEn": "Mikel Oyarzabal",
+      "nameZh": "米克尔·奥亚萨瓦尔",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/UEFA_EURO_qualifiers_Sweden_vs_Spain_20191015_108_%28cropped%29.jpg/330px-UEFA_EURO_qualifiers_Sweden_vs_Spain_20191015_108_%28cropped%29.jpg",
+      "bio": {
+        "zh": "西班牙前锋，左右脚均衡，射术精湛，皇家社会队长。",
+        "en": "Mikel Oyarzabal Ugarte is a Spanish-Basque professional footballer who plays as a forward for La Liga club Real Sociedad, which he captains, and the Spain national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 53,
+          "goals": 25
+        },
+        "honours": [
+          "2024欧洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "pau-cubarsi",
+      "team": "ESP",
+      "nameEn": "Pau Cubarsí",
+      "nameZh": "保·库巴西",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Pau_Cubars%C3%AD_%28cropped%29.jpg/330px-Pau_Cubars%C3%AD_%28cropped%29.jpg",
+      "bio": {
+        "zh": "西班牙年轻中卫，冷静沉稳，出球能力强，巴萨后防新星。",
+        "en": "Pau Cubarsí Paredes is a Spanish professional footballer who plays as a centre-back for La Liga club Barcelona and the Spain national team. In July 2025, Sports Illustrated and ESPN ranked Cubarsí as the sixth-best centre-back in world football."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 12,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "unai-simon",
+      "team": "ESP",
+      "nameEn": "Unai Simón",
+      "nameZh": "乌奈·西蒙",
+      "photo": null,
+      "bio": {
+        "zh": "西班牙国门，反应神速，点球扑救能力出色，毕尔巴鄂主力。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 58,
+          "goals": 0
+        },
+        "honours": [
+          "2024欧洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "marc-cucurella",
+      "team": "ESP",
+      "nameEn": "Marc Cucurella",
+      "nameZh": "马克·库库雷利亚",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Spain_football_team_in_202_%28Marc_Cucurella%29.jpg/330px-Spain_football_team_in_202_%28Marc_Cucurella%29.jpg",
+      "bio": {
+        "zh": "西班牙左后卫，体能充沛，跑动积极，防守韧性强。",
+        "en": "Marc Cucurella Saseta is a Spanish professional footballer who plays as a left-back or left wing-back for La Liga club Real Madrid and the Spain national team. He is considered one of the best left-backs in the world."
+      },
+      "career": {
+        "formerClubs": [
+          "Barcelona B",
+          "Eibar",
+          "Getafe",
+          "Brighton & Hove Albion"
+        ],
+        "nationalTeam": {
+          "caps": 24,
+          "goals": 1
+        },
+        "honours": [
+          "2024欧洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "victor-munoz",
+      "team": "ESP",
+      "nameEn": "Víctor Muñoz",
+      "nameZh": "维克托·穆尼奥斯",
+      "photo": null,
+      "bio": {
+        "zh": "西班牙前锋，冲击力强，奥萨苏纳青训出身的锋线球员。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 2,
+          "goals": 1
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "borja-iglesias",
+      "team": "ESP",
+      "nameEn": "Borja Iglesias",
+      "nameZh": "博尔哈·伊格莱西亚斯",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Borja_iglesias_2019001_%28cropped%29.jpg/330px-Borja_iglesias_2019001_%28cropped%29.jpg",
+      "bio": {
+        "zh": "西班牙中锋，身体强壮，支点作用明显，射门力量大。",
+        "en": "Borja Iglesias Quintas is a Spanish professional footballer who plays as a striker for La Liga club Celta de Vigo and the Spain national team."
+      },
+      "career": {
+        "formerClubs": [
+          "Celta Vigo B",
+          "Real Zaragoza",
+          "Espanyol",
+          "Real Betis"
+        ],
+        "nationalTeam": {
+          "caps": 8,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "manuel-neuer",
+      "team": "GER",
+      "nameEn": "Manuel Neuer",
+      "nameZh": "曼努埃尔·诺伊尔",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Manuel_Neuer_Ecuador_v_Germany_25_June_2026-148.jpg/330px-Manuel_Neuer_Ecuador_v_Germany_25_June_2026-148.jpg",
+      "bio": {
+        "zh": "德国国门，拜仁队长，以出击范围和脚下技术闻名。",
+        "en": "Manuel Peter Neuer is a German professional footballer who plays as a goalkeeper for and captains Bundesliga club Bayern Munich. Widely regarded as one of the greatest goalkeepers of all time, Neuer has been described as a \"sweeper-keeper\" because of his playing style and speed when rushing off his line to anticipate opponents, often going out of the penalty area. He was named the best goalkeeper of the decade from 2011 to 2020 by IFFHS."
+      },
+      "career": {
+        "formerClubs": [
+          "沙尔克04"
+        ],
+        "nationalTeam": {
+          "caps": 124,
+          "goals": 0
+        },
+        "honours": [
+          "2014年世界杯冠军",
+          "2020年欧冠冠军",
+          "2013年欧冠冠军"
+        ]
+      }
+    },
+    {
+      "slug": "antonio-rudiger",
+      "team": "GER",
+      "nameEn": "Antonio Rüdiger",
+      "nameZh": "安东尼奥·吕迪格",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Antonio_Rudiger_Ecuador_v_Germany_25_June_2026-055_%28cropped%29.jpg/330px-Antonio_Rudiger_Ecuador_v_Germany_25_June_2026-055_%28cropped%29.jpg",
+      "bio": {
+        "zh": "皇马主力中卫，身体强壮、上抢凶狠，2024年欧洲杯冠军成员。",
+        "en": "Antonio Rüdiger is a German professional footballer who plays as a centre-back for La Liga club Real Madrid and the Germany national team. He is known for his aggressive playing style, speed, tackling ability and strong aerial presence."
+      },
+      "career": {
+        "formerClubs": [
+          "切尔西",
+          "罗马",
+          "斯图加特"
+        ],
+        "nationalTeam": {
+          "caps": 82,
+          "goals": 3
+        },
+        "honours": [
+          "2022年欧冠冠军",
+          "2024年欧洲杯冠军",
+          "2021年欧冠冠军"
+        ]
+      }
+    },
+    {
+      "slug": "waldemar-anton",
+      "team": "GER",
+      "nameEn": "Waldemar Anton",
+      "nameZh": "瓦尔德马·安东",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Waldemar_Anton_Ecuador_v_Germany_25_June_2026-062.jpg/330px-Waldemar_Anton_Ecuador_v_Germany_25_June_2026-062.jpg",
+      "bio": {
+        "zh": "多特蒙德中卫，亦能胜任后腰，正面防守能力出色。",
+        "en": "Waldemar Anton is a German professional footballer who plays as a centre-back for Bundesliga club Borussia Dortmund and the Germany national team."
+      },
+      "career": {
+        "formerClubs": [
+          "汉诺威96"
+        ],
+        "nationalTeam": {
+          "caps": 13,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "jonathan-tah",
+      "team": "GER",
+      "nameEn": "Jonathan Tah",
+      "nameZh": "约纳坦·塔",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Jonathan_Tah_Ecuador_v_Germany_25_June_2026-116.jpg/330px-Jonathan_Tah_Ecuador_v_Germany_25_June_2026-116.jpg",
+      "bio": {
+        "zh": "德国国脚中卫，身材高大、对抗强悍，2024年欧洲杯冠军成员。",
+        "en": "Jonathan Glao Tah is a German professional footballer who plays as a centre-back for Bundesliga club Bayern Munich and the Germany national team."
+      },
+      "career": {
+        "formerClubs": [
+          "勒沃库森",
+          "汉堡",
+          "杜塞尔多夫"
+        ],
+        "nationalTeam": {
+          "caps": 47,
+          "goals": 1
+        },
+        "honours": [
+          "2024年欧洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "aleksandar-pavlovic",
+      "team": "GER",
+      "nameEn": "Aleksandar Pavlović",
+      "nameZh": "亚历山大·帕夫洛维奇",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Aleksandar_Pavlovic_Ecuador_v_Germany_25_June_2026-036.jpg/330px-Aleksandar_Pavlovic_Ecuador_v_Germany_25_June_2026-036.jpg",
+      "bio": {
+        "zh": "拜仁青训出身的后腰，传球视野佳，近年入选国家队。",
+        "en": "Aleksandar Pavlović is a German professional footballer who plays as a defensive midfielder for Bundesliga club Bayern Munich and the Germany national team. He led Europe's top-five leagues in passing accuracy in the 2025–26 season."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 11,
+          "goals": 1
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "joshua-kimmich",
+      "team": "GER",
+      "nameEn": "Joshua Kimmich",
+      "nameZh": "约书亚·基米希",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Joshua_Kimmich_Ecuador_v_Germany_25_June_2026-149.jpg/330px-Joshua_Kimmich_Ecuador_v_Germany_25_June_2026-149.jpg",
+      "bio": {
+        "zh": "拜仁全能中场/边卫，德国队核心，以传控和战术意识著称。",
+        "en": "Joshua Walter Kimmich is a German professional footballer who plays as a defensive midfielder or right-back for Bundesliga club Bayern Munich and captains the Germany national team. Known for his versatility, aggression and playmaking ability, Kimmich has been compared with former Bayern Munich and Germany captain Philipp Lahm."
+      },
+      "career": {
+        "formerClubs": [
+          "RB莱比锡"
+        ],
+        "nationalTeam": {
+          "caps": 110,
+          "goals": 10
+        },
+        "honours": [
+          "2020年欧冠冠军",
+          "2024年欧洲杯冠军",
+          "2014年世界杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "kai-havertz",
+      "team": "GER",
+      "nameEn": "Kai Havertz",
+      "nameZh": "凯·哈弗茨",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kai_Havertz_Ecuador_v_Germany_25_June_2026-118.jpg/330px-Kai_Havertz_Ecuador_v_Germany_25_June_2026-118.jpg",
+      "bio": {
+        "zh": "阿森纳前场多面手，技术细腻，2024年欧洲杯冠军成员。",
+        "en": "Kai Lukas Havertz is a German professional footballer who plays as a forward or attacking midfielder for Premier League club Arsenal and the Germany national team."
+      },
+      "career": {
+        "formerClubs": [
+          "切尔西",
+          "勒沃库森"
+        ],
+        "nationalTeam": {
+          "caps": 58,
+          "goals": 22
+        },
+        "honours": [
+          "2021年欧冠冠军",
+          "2024年欧洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "leon-goretzka",
+      "team": "GER",
+      "nameEn": "Leon Goretzka",
+      "nameZh": "莱昂·戈雷茨卡",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Leon_Goretzka_Ecuador_v_Germany_25_June_2026-159.jpg/330px-Leon_Goretzka_Ecuador_v_Germany_25_June_2026-159.jpg",
+      "bio": {
+        "zh": "拜仁B2B中场，体能充沛、后插上得分能力强。",
+        "en": "Leon Christoph Goretzka is a German professional footballer who plays as a midfielder for the Germany national team. He is currently a free agent after last playing for Bundesliga club Bayern Munich."
+      },
+      "career": {
+        "formerClubs": [
+          "沙尔克04",
+          "波鸿"
+        ],
+        "nationalTeam": {
+          "caps": 70,
+          "goals": 15
+        },
+        "honours": [
+          "2020年欧冠冠军",
+          "2024年欧洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "jamie-leweling",
+      "team": "GER",
+      "nameEn": "Jamie Leweling",
+      "nameZh": "杰米·勒韦林",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Jamie_Leweling_Ecuador_v_Germany_25_June_2026-070.jpg/330px-Jamie_Leweling_Ecuador_v_Germany_25_June_2026-070.jpg",
+      "bio": {
+        "zh": "斯图加特攻击手，可胜任边锋和前锋，冲击力强。",
+        "en": "Jamie Jaleel Jeremy Leweling is a German professional footballer who plays as an attacking midfielder, right winger, or forward for Bundesliga club VfB Stuttgart and the Germany national team."
+      },
+      "career": {
+        "formerClubs": [
+          "菲尔特"
+        ],
+        "nationalTeam": {
+          "caps": 5,
+          "goals": 1
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "jamal-musiala",
+      "team": "GER",
+      "nameEn": "Jamal Musiala",
+      "nameZh": "贾马尔·穆西亚拉",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Jamal_Musiala_Ecuador_v_Germany_25_June_2026-174_%28cropped%29.jpg/330px-Jamal_Musiala_Ecuador_v_Germany_25_June_2026-174_%28cropped%29.jpg",
+      "bio": {
+        "zh": "拜仁天才攻击中场，盘带犀利，2024年欧洲杯冠军成员。",
+        "en": "Jamal Musiala is a German professional footballer who plays as an attacking midfielder for Bundesliga club Bayern Munich and the Germany national team. Widely regarded as one of the best attacking midfielders in the world, Musiala is known for his dribbling, passing, goal threat, and technical skills."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 42,
+          "goals": 9
+        },
+        "honours": [
+          "2020年欧冠冠军",
+          "2024年欧洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "nick-woltemade",
+      "team": "GER",
+      "nameEn": "Nick Woltemade",
+      "nameZh": "尼克·沃尔特马德",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Nick_Woltemade_Ecuador_v_Germany_25_June_2026-069.jpg/330px-Nick_Woltemade_Ecuador_v_Germany_25_June_2026-069.jpg",
+      "bio": {
+        "zh": "德国新生代前锋，身材高大，具备支点作用。",
+        "en": "Nick Woltemade is a German professional footballer who plays as a forward or attacking midfielder for Premier League club Newcastle United and the Germany national team."
+      },
+      "career": {
+        "formerClubs": [
+          "云达不莱梅"
+        ],
+        "nationalTeam": {
+          "caps": 11,
+          "goals": 4
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "oliver-baumann",
+      "team": "GER",
+      "nameEn": "Oliver Baumann",
+      "nameZh": "奥利弗·鲍曼",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Oliver_Baumann_Ecuador_v_Germany_25_June_2026-066.jpg/330px-Oliver_Baumann_Ecuador_v_Germany_25_June_2026-066.jpg",
+      "bio": {
+        "zh": "霍芬海姆主力门将，反应迅速，德甲经验丰富。",
+        "en": "Oliver Baumann is a German professional footballer who plays as a goalkeeper for Bundesliga club TSG Hoffenheim, where he is also captain, and the Germany national team."
+      },
+      "career": {
+        "formerClubs": [
+          "弗赖堡"
+        ],
+        "nationalTeam": {
+          "caps": 13,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "pascal-gro",
+      "team": "GER",
+      "nameEn": "Pascal Groß",
+      "nameZh": "帕斯卡尔·格罗斯",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Pascal_Gross_Ecuador_v_Germany_25_June_2026-065.jpg/330px-Pascal_Gross_Ecuador_v_Germany_25_June_2026-065.jpg",
+      "bio": {
+        "zh": "布莱顿中场发动机，定位球与传球能力出众。",
+        "en": "Pascal Alexander Groß is a German professional footballer who plays as a midfielder or full-back for Premier League club Brighton & Hove Albion and the Germany national team."
+      },
+      "career": {
+        "formerClubs": [
+          "霍芬海姆",
+          "因戈尔施塔特",
+          "卡尔斯鲁厄"
+        ],
+        "nationalTeam": {
+          "caps": 18,
+          "goals": 1
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "maximilian-beier",
+      "team": "GER",
+      "nameEn": "Maximilian Beier",
+      "nameZh": "马克西米利安·拜尔",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Maximilian_Beier_Ecuador_v_Germany_25_June_2026-152.jpg/330px-Maximilian_Beier_Ecuador_v_Germany_25_June_2026-152.jpg",
+      "bio": {
+        "zh": "多特蒙德前锋，跑位灵活，门前嗅觉敏锐。",
+        "en": "Maximilian Beier is a German professional footballer who plays as a forward or winger for Bundesliga club Borussia Dortmund and the Germany national team."
+      },
+      "career": {
+        "formerClubs": [
+          "霍芬海姆",
+          "汉诺威96"
+        ],
+        "nationalTeam": {
+          "caps": 9,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "nico-schlotterbeck",
+      "team": "GER",
+      "nameEn": "Nico Schlotterbeck",
+      "nameZh": "尼科·施洛特贝克",
+      "photo": null,
+      "bio": {
+        "zh": "多特蒙德左脚中卫，上抢积极，出球能力好。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [
+          "柏林联",
+          "弗赖堡"
+        ],
+        "nationalTeam": {
+          "caps": 27,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "angelo-stiller",
+      "team": "GER",
+      "nameEn": "Angelo Stiller",
+      "nameZh": "安杰洛·施蒂勒",
+      "photo": null,
+      "bio": {
+        "zh": "斯图加特后腰，传球调度稳健，防守选位佳。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [
+          "霍芬海姆"
+        ],
+        "nationalTeam": {
+          "caps": 8,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "florian-wirtz",
+      "team": "GER",
+      "nameEn": "Florian Wirtz",
+      "nameZh": "弗洛里安·维尔茨",
+      "photo": null,
+      "bio": {
+        "zh": "德国进攻核心，盘带突破犀利，创造力出众。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [
+          "勒沃库森"
+        ],
+        "nationalTeam": {
+          "caps": 41,
+          "goals": 11
+        },
+        "honours": [
+          "2024年德甲冠军"
+        ]
+      }
+    },
+    {
+      "slug": "nathaniel-brown",
+      "team": "GER",
+      "nameEn": "Nathaniel Brown",
+      "nameZh": "纳撒尼尔·布朗",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Nathaniel_Brown_Ecuador_v_Germany_25_June_2026-160.jpg/330px-Nathaniel_Brown_Ecuador_v_Germany_25_June_2026-160.jpg",
+      "bio": {
+        "zh": "法兰克福边后卫，速度快，助攻能力突出。",
+        "en": "Nathaniel Christopher \"Nene\" Brown is a German professional footballer who plays as a left-back for Bundesliga club Bayern Munich and the Germany national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 5,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "leroy-sane",
+      "team": "GER",
+      "nameEn": "Leroy Sané",
+      "nameZh": "勒鲁瓦·萨内",
+      "photo": null,
+      "bio": {
+        "zh": "德国边路快马，突破和内切射门威胁大。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [
+          "拜仁慕尼黑",
+          "曼城",
+          "沙尔克04"
+        ],
+        "nationalTeam": {
+          "caps": 76,
+          "goals": 17
+        },
+        "honours": [
+          "2020年欧冠冠军",
+          "2019年英超冠军",
+          "2024年欧洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "nadiem-amiri",
+      "team": "GER",
+      "nameEn": "Nadiem Amiri",
+      "nameZh": "纳迪姆·阿米里",
+      "photo": null,
+      "bio": {
+        "zh": "美因茨中场，技术细腻，具备组织和远射能力。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [
+          "勒沃库森",
+          "霍芬海姆"
+        ],
+        "nationalTeam": {
+          "caps": 11,
+          "goals": 1
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "alexander-nubel",
+      "team": "GER",
+      "nameEn": "Alexander Nübel",
+      "nameZh": "亚历山大·努贝尔",
+      "photo": null,
+      "bio": {
+        "zh": "斯图加特门将，身高臂长，曾租借摩纳哥历练。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [
+          "沙尔克04",
+          "摩纳哥"
+        ],
+        "nationalTeam": {
+          "caps": 3,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "david-raum",
+      "team": "GER",
+      "nameEn": "David Raum",
+      "nameZh": "戴维·劳姆",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/David_Raum_Ecuador_v_Germany_25_June_2026-117.jpg/330px-David_Raum_Ecuador_v_Germany_25_June_2026-117.jpg",
+      "bio": {
+        "zh": "RB莱比锡左脚边翼卫，传中精准，跑动覆盖大。",
+        "en": "David Raum is a German professional footballer who plays as a left midfielder or left-back for Bundesliga club RB Leipzig, which he captains, and the Germany national team."
+      },
+      "career": {
+        "formerClubs": [
+          "霍芬海姆",
+          "菲尔特"
+        ],
+        "nationalTeam": {
+          "caps": 37,
+          "goals": 1
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "felix-nmecha",
+      "team": "GER",
+      "nameEn": "Felix Nmecha",
+      "nameZh": "费利克斯·恩梅沙",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Felix_Nmecha_Ecuador_v_Germany_25_June_2026-150.jpg/330px-Felix_Nmecha_Ecuador_v_Germany_25_June_2026-150.jpg",
+      "bio": {
+        "zh": "多特蒙德中场，身体强壮，具备推进和对抗能力。",
+        "en": "Felix Kalu Nmecha is a German professional footballer who plays as a midfielder for Bundesliga club Borussia Dortmund and the Germany national team."
+      },
+      "career": {
+        "formerClubs": [
+          "沃尔夫斯堡"
+        ],
+        "nationalTeam": {
+          "caps": 8,
+          "goals": 1
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "malick-thiaw",
+      "team": "GER",
+      "nameEn": "Malick Thiaw",
+      "nameZh": "马利克·佳夫",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Malick_Thiaw_Ecuador_v_Germany_25_June_2026-230_%28cropped%29.jpg/330px-Malick_Thiaw_Ecuador_v_Germany_25_June_2026-230_%28cropped%29.jpg",
+      "bio": {
+        "zh": "德国国脚中卫，身体素质出色，防空能力强。",
+        "en": "Malick Laye Thiaw is a German professional footballer who plays as a defender for Premier League club Newcastle United and the Germany national team. Mainly a centre-back, he can also play as a right-back or defensive midfielder."
+      },
+      "career": {
+        "formerClubs": [
+          "AC米兰",
+          "沙尔克04"
+        ],
+        "nationalTeam": {
+          "caps": 5,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "assan-ouedraogo",
+      "team": "GER",
+      "nameEn": "Assan Ouédraogo",
+      "nameZh": "阿桑·韦德拉奥果",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Assan_Ouedraogo_Ecuador_v_Germany_25_June_2026-155_%28cropped%29.jpg/330px-Assan_Ouedraogo_Ecuador_v_Germany_25_June_2026-155_%28cropped%29.jpg",
+      "bio": {
+        "zh": "RB莱比锡年轻中场，天赋出众，模版为全能B2B。",
+        "en": "Forzan Assan Ouédraogo is a German professional footballer who plays as a midfielder for Bundesliga club RB Leipzig and the Germany national team."
+      },
+      "career": {
+        "formerClubs": [
+          "沙尔克04"
+        ],
+        "nationalTeam": {
+          "caps": 1,
+          "goals": 1
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "deniz-undav",
+      "team": "GER",
+      "nameEn": "Deniz Undav",
+      "nameZh": "德尼兹·翁达夫",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Deniz_Undav_Ecuador_v_Germany_25_June_2026-203_%28cropped%29.jpg/330px-Deniz_Undav_Ecuador_v_Germany_25_June_2026-203_%28cropped%29.jpg",
+      "bio": {
+        "zh": "斯图加特前锋，射术精湛，善于抢点得分。",
+        "en": "Deniz Undav is a German professional footballer who plays as a forward for Bundesliga club VfB Stuttgart and the Germany national team."
+      },
+      "career": {
+        "formerClubs": [
+          "布莱顿",
+          "圣吉罗斯联合",
+          "不莱梅"
+        ],
+        "nationalTeam": {
+          "caps": 9,
+          "goals": 6
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "zion-suzuki",
+      "team": "JPN",
+      "nameEn": "Zion Suzuki",
+      "nameZh": "铃木彩艳",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ZION_SUZUKI_-_JPN_vs_THA_-_Friendly_Match_-_2024.01.01.jpg/330px-ZION_SUZUKI_-_JPN_vs_THA_-_Friendly_Match_-_2024.01.01.jpg",
+      "bio": {
+        "zh": "日美混血门将，反应敏捷，日本新生代国门代表。",
+        "en": "Zion Suzuki  is a professional footballer who plays as a goalkeeper for Serie A club Parma. Born in the United States, he represents the Japan national team."
+      },
+      "career": {
+        "formerClubs": [
+          "浦和红钻"
+        ],
+        "nationalTeam": {
+          "caps": 24,
+          "goals": 0
+        },
+        "honours": [
+          "2024年U23亚洲杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "yukinari-sugawara",
+      "team": "JPN",
+      "nameEn": "Yukinari Sugawara",
+      "nameZh": "菅原由势",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/4822940_AE7I9740_-_Yukinari_Sugawara.jpg/330px-4822940_AE7I9740_-_Yukinari_Sugawara.jpg",
+      "bio": {
+        "zh": "进攻型边后卫，传中精准，擅长右路往返奔袭。",
+        "en": "Yukinari Sugawara  is a Japanese professional footballer who plays as a right-back for EFL Championship club Southampton and the Japan national team."
+      },
+      "career": {
+        "formerClubs": [
+          "名古屋鲸八",
+          "阿尔克马尔"
+        ],
+        "nationalTeam": {
+          "caps": 21,
+          "goals": 2
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "shogo-taniguchi",
+      "team": "JPN",
+      "nameEn": "Shōgo Taniguchi",
+      "nameZh": "谷口彰悟",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Shogo_Taniguchi.jpg/330px-Shogo_Taniguchi.jpg",
+      "bio": {
+        "zh": "经验丰富的中卫，出球稳健，曾长期担任川崎主力。",
+        "en": "Shōgo Taniguchi  is a Japanese professional footballer who plays as a centre-back for Belgian Pro League club Sint-Truiden and the Japan national team."
+      },
+      "career": {
+        "formerClubs": [
+          "川崎前锋"
+        ],
+        "nationalTeam": {
+          "caps": 38,
+          "goals": 1
+        },
+        "honours": [
+          "2020年J1联赛冠军",
+          "2021年J1联赛冠军"
+        ]
+      }
+    },
+    {
+      "slug": "ko-itakura",
+      "team": "JPN",
+      "nameEn": "Kō Itakura",
+      "nameZh": "板仓滉",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ko_Itakura_%28cropped%29.jpg/330px-Ko_Itakura_%28cropped%29.jpg",
+      "bio": {
+        "zh": "后场多面手，擅长上抢与组织，具备德甲征战经验。",
+        "en": "Ko Itakura  is a Japanese professional footballer who plays as a centre-back or defensive midfielder for Eredivisie club Ajax and captains the Japan national team."
+      },
+      "career": {
+        "formerClubs": [
+          "川崎前锋",
+          "沙尔克04",
+          "门兴格拉德巴赫"
+        ],
+        "nationalTeam": {
+          "caps": 40,
+          "goals": 2
+        },
+        "honours": [
+          "2020年东京奥运会男足铜牌",
+          "2021-22赛季德乙冠军"
+        ]
+      }
+    },
+    {
+      "slug": "yuto-nagatomo",
+      "team": "JPN",
+      "nameEn": "Yūto Nagatomo",
+      "nameZh": "长友佑都",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Yuto_Nagatomo_in_2018.jpg/330px-Yuto_Nagatomo_in_2018.jpg",
+      "bio": {
+        "zh": "老将边卫，体能充沛，曾在意甲、土超长期效力。",
+        "en": "Yūto Nagatomo  is a Japanese professional footballer who plays as a full back for J1 League club FC Tokyo and the Japan national team."
+      },
+      "career": {
+        "formerClubs": [
+          "FC东京",
+          "切塞纳",
+          "国际米兰",
+          "加拉塔萨雷",
+          "马赛"
+        ],
+        "nationalTeam": {
+          "caps": 145,
+          "goals": 4
+        },
+        "honours": [
+          "2009-10赛季意甲冠军",
+          "2010-11赛季意大利杯冠军",
+          "2011-12赛季土超冠军"
+        ]
+      }
+    },
+    {
+      "slug": "shuto-machino",
+      "team": "JPN",
+      "nameEn": "Shūto Machino",
+      "nameZh": "町野修斗",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2025-04-15_Sh%C5%ABto_Machino.jpg/330px-2025-04-15_Sh%C5%ABto_Machino.jpg",
+      "bio": {
+        "zh": "跑动积极的中锋，支点作用明显，头球能力出色。",
+        "en": "Shūto Machino  is a Japanese professional footballer who plays as a striker for Bundesliga club Borussia Mönchengladbach and the Japan national team."
+      },
+      "career": {
+        "formerClubs": [
+          "湘南海洋",
+          "荷尔斯泰因基尔"
+        ],
+        "nationalTeam": {
+          "caps": 14,
+          "goals": 5
+        },
+        "honours": [
+          "2023-24赛季德乙冠军"
+        ]
+      }
+    },
+    {
+      "slug": "ao-tanaka",
+      "team": "JPN",
+      "nameEn": "Ao Tanaka",
+      "nameZh": "田中碧",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ao_Tanaka_13092025_%281%29_%28cropped%29.jpg/330px-Ao_Tanaka_13092025_%281%29_%28cropped%29.jpg",
+      "bio": {
+        "zh": "攻守均衡的中场，后插上得分能力强，跑动覆盖大。",
+        "en": "Ao Tanaka  is a Japanese professional footballer who plays as a midfielder for Premier League club Leeds United and the Japan national team."
+      },
+      "career": {
+        "formerClubs": [
+          "川崎前锋",
+          "杜塞尔多夫"
+        ],
+        "nationalTeam": {
+          "caps": 38,
+          "goals": 8
+        },
+        "honours": [
+          "2018年J1联赛冠军"
+        ]
+      }
+    },
+    {
+      "slug": "takefusa-kubo",
+      "team": "JPN",
+      "nameEn": "Takefusa Kubo",
+      "nameZh": "久保建英",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Takefusa_Kubo_2019.png/330px-Takefusa_Kubo_2019.png",
+      "bio": {
+        "zh": "技术细腻的左脚攻击手，盘带突破与传球视野俱佳。",
+        "en": "Takefusa Kubo , nicknamed Take (タケ), is a Japanese professional footballer who plays as a right winger for La Liga club Real Sociedad and the Japan national team. He has been dubbed \"Japanese Messi\" by Japanese football fans because of his technical ability."
+      },
+      "career": {
+        "formerClubs": [
+          "FC东京",
+          "横滨水手",
+          "马洛卡",
+          "比利亚雷亚尔",
+          "赫塔菲"
+        ],
+        "nationalTeam": {
+          "caps": 49,
+          "goals": 7
+        },
+        "honours": [
+          "2019年天皇杯冠军",
+          "2023-24赛季国王杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "keisuke-goto",
+      "team": "JPN",
+      "nameEn": "Keisuke Gotō",
+      "nameZh": "后藤启介",
+      "photo": null,
+      "bio": {
+        "zh": "年轻前锋，冲击力强，善于利用身体对抗创造机会。",
+        "en": "Keisuke Gotō  is a Japanese professional footballer who plays as a forward for German Bundesliga club SC Freiburg and the Japan national team."
+      },
+      "career": {
+        "formerClubs": [
+          "磐田喜悦"
+        ],
+        "nationalTeam": {
+          "caps": 4,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "ritsu-doan",
+      "team": "JPN",
+      "nameEn": "Ritsu Dōan",
+      "nameZh": "堂安律",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Ritsu_Doan%2C_2019_AFC_Asian_Cup_1.jpg/330px-Ritsu_Doan%2C_2019_AFC_Asian_Cup_1.jpg",
+      "bio": {
+        "zh": "边路攻击好手，内切射门犀利，大赛经验丰富。",
+        "en": "Ritsu Dōan  is a Japanese professional footballer who plays as a right winger for Bundesliga club Eintracht Frankfurt and the Japan national team."
+      },
+      "career": {
+        "formerClubs": [
+          "大阪钢巴",
+          "格罗宁根",
+          "埃因霍温",
+          "比勒费尔德",
+          "弗赖堡"
+        ],
+        "nationalTeam": {
+          "caps": 65,
+          "goals": 11
+        },
+        "honours": [
+          "2021-22赛季德国杯冠军",
+          "2022年日本职业足球联赛冠军"
+        ]
+      }
+    },
+    {
+      "slug": "daizen-maeda",
+      "team": "JPN",
+      "nameEn": "Daizen Maeda",
+      "nameZh": "前田大然",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Celtic-20240722-018_%28cropped%29.jpg/330px-Celtic-20240722-018_%28cropped%29.jpg",
+      "bio": {
+        "zh": "速度型边锋，逼抢积极，可胜任前场多个位置。",
+        "en": "Daizen Maeda  is a Japanese professional footballer who plays as a forward for Scottish Premiership club Celtic and the Japan national team."
+      },
+      "career": {
+        "formerClubs": [
+          "松本山雅",
+          "山口雷诺法",
+          "横滨水手",
+          "马里迪莫"
+        ],
+        "nationalTeam": {
+          "caps": 27,
+          "goals": 4
+        },
+        "honours": [
+          "2022年日本职业足球联赛冠军",
+          "2022-23赛季苏超冠军",
+          "2023-24赛季苏超冠军"
+        ]
+      }
+    },
+    {
+      "slug": "keisuke-osako",
+      "team": "JPN",
+      "nameEn": "Keisuke Ōsako",
+      "nameZh": "大迫敬介",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sanfrecce_Hiroshima_-1_Keisuke_OSAKO.jpg/330px-Sanfrecce_Hiroshima_-1_Keisuke_OSAKO.jpg",
+      "bio": {
+        "zh": "广岛自家培养的门将，门线技术扎实，反应迅速。",
+        "en": "Keisuke Ōsako  is a Japanese footballer who currently plays as a goalkeeper for J1 League club Sanfrecce Hiroshima and the Japan national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 11,
+          "goals": 0
+        },
+        "honours": [
+          "2022年日本联赛杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "keito-nakamura",
+      "team": "JPN",
+      "nameEn": "Keito Nakamura",
+      "nameZh": "中村敬斗",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Nakamura_asse_sr_2425.png/330px-Nakamura_asse_sr_2425.png",
+      "bio": {
+        "zh": "左脚边锋，射门果断，擅长边路内切与远射。",
+        "en": "Keito Nakamura  is a Japanese professional footballer who plays for Ligue 2 club Reims and the Japan national team. He plays either as a left winger or a forward."
+      },
+      "career": {
+        "formerClubs": [
+          "大阪钢巴",
+          "特温特",
+          "林茨"
+        ],
+        "nationalTeam": {
+          "caps": 25,
+          "goals": 10
+        },
+        "honours": [
+          "2022-23赛季奥地利杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "junya-ito",
+      "team": "JPN",
+      "nameEn": "Junya Itō",
+      "nameZh": "伊东纯也",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ito_asse_sr_2425.png/330px-Ito_asse_sr_2425.png",
+      "bio": {
+        "zh": "速度飞快的右边锋，突破犀利，是日本队边路爆点。",
+        "en": "Junya Itō  is a Japanese professional footballer who plays as a winger or a forward for Belgian Pro League club Genk and the Japan national team."
+      },
+      "career": {
+        "formerClubs": [
+          "神户胜利船",
+          "柏太阳神"
+        ],
+        "nationalTeam": {
+          "caps": 69,
+          "goals": 15
+        },
+        "honours": [
+          "2019年比利时杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "daichi-kamada",
+      "team": "JPN",
+      "nameEn": "Daichi Kamada",
+      "nameZh": "镰田大地",
+      "photo": null,
+      "bio": {
+        "zh": "进攻型中场，无球跑动出色，善于后插上得分。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [
+          "鸟栖砂岩",
+          "法兰克福",
+          "拉齐奥"
+        ],
+        "nationalTeam": {
+          "caps": 49,
+          "goals": 12
+        },
+        "honours": [
+          "2021-22赛季欧联杯冠军",
+          "2022-23赛季德国杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "tsuyoshi-watanabe",
+      "team": "JPN",
+      "nameEn": "Tsuyoshi Watanabe",
+      "nameZh": "渡边刚",
+      "photo": null,
+      "bio": {
+        "zh": "防空能力出色的中卫，身体强壮，制空权把握佳。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [
+          "FC东京",
+          "根特"
+        ],
+        "nationalTeam": {
+          "caps": 11,
+          "goals": 0
+        },
+        "honours": [
+          "2023-24赛季比利时杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "yuito-suzuki",
+      "team": "JPN",
+      "nameEn": "Yuito Suzuki",
+      "nameZh": "铃木唯人",
+      "photo": null,
+      "bio": {
+        "zh": "前场多面手，脚下灵活，具备不错的传射能力。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [
+          "清水心跳",
+          "斯特拉斯堡"
+        ],
+        "nationalTeam": {
+          "caps": 6,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "ayase-ueda",
+      "team": "JPN",
+      "nameEn": "Ayase Ueda",
+      "nameZh": "上田绮世",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Go_Ahead_Eagles_-_Feyenoord_-_53679351240_%28Ayase_Ueda_02%29.jpg/330px-Go_Ahead_Eagles_-_Feyenoord_-_53679351240_%28Ayase_Ueda_02%29.jpg",
+      "bio": {
+        "zh": "嗅觉灵敏的中锋，跑位刁钻，门前终结效率高。",
+        "en": "Ayase Ueda  is a Japanese professional footballer who plays as a striker for Eredivisie club Feyenoord and the Japan national team."
+      },
+      "career": {
+        "formerClubs": [
+          "鹿岛鹿角",
+          "色格拉布鲁日"
+        ],
+        "nationalTeam": {
+          "caps": 39,
+          "goals": 16
+        },
+        "honours": [
+          "2022年日本联赛杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "koki-ogawa",
+      "team": "JPN",
+      "nameEn": "Kōki Ogawa",
+      "nameZh": "小川航基",
+      "photo": null,
+      "bio": {
+        "zh": "头球与抢点能力突出的中锋，支点作用明显。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [
+          "磐田喜悦",
+          "横滨水手",
+          "特尔斯达"
+        ],
+        "nationalTeam": {
+          "caps": 15,
+          "goals": 11
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "ayumu-seko",
+      "team": "JPN",
+      "nameEn": "Ayumu Seko",
+      "nameZh": "濑古步梦",
+      "photo": null,
+      "bio": {
+        "zh": "年轻中卫，上抢果断，具备不错的出球能力。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [
+          "大阪樱花"
+        ],
+        "nationalTeam": {
+          "caps": 14,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "hiroki-ito",
+      "team": "JPN",
+      "nameEn": "Hiroki Itō",
+      "nameZh": "伊藤洋辉",
+      "photo": null,
+      "bio": {
+        "zh": "左脚中卫，出球稳健，也可客串左后卫与后腰。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [
+          "磐田喜悦",
+          "斯图加特"
+        ],
+        "nationalTeam": {
+          "caps": 24,
+          "goals": 1
+        },
+        "honours": [
+          "2023-24赛季德甲冠军"
+        ]
+      }
+    },
+    {
+      "slug": "takehiro-tomiyasu",
+      "team": "JPN",
+      "nameEn": "Takehiro Tomiyasu",
+      "nameZh": "富安健洋",
+      "photo": null,
+      "bio": {
+        "zh": "防守硬朗的后场万金油，可胜任中卫与两边后卫。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [
+          "福冈黄蜂",
+          "圣图尔登",
+          "博洛尼亚",
+          "阿森纳"
+        ],
+        "nationalTeam": {
+          "caps": 43,
+          "goals": 1
+        },
+        "honours": [
+          "2023-24赛季英超冠军"
+        ]
+      }
+    },
+    {
+      "slug": "tomoki-hayakawa",
+      "team": "JPN",
+      "nameEn": "Tomoki Hayakawa",
+      "nameZh": "早川友基",
+      "photo": null,
+      "bio": {
+        "zh": "鹿岛青训门将，扑救反应快，高空球处理稳健。",
+        "en": "Tomoki Hayakawa  is a Japanese professional footballer who plays as a goalkeeper for J1 League club Kashima Antlers and the Japan national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 4,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "kaishu-sano",
+      "team": "JPN",
+      "nameEn": "Kaishū Sano",
+      "nameZh": "佐野海舟",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kaishu_Sano_2024_%28cropped%29.jpg/330px-Kaishu_Sano_2024_%28cropped%29.jpg",
+      "bio": {
+        "zh": "防守型中场，拦截凶狠，覆盖面积大，拼抢积极。",
+        "en": "Kaishu Sano  is a Japanese professional footballer who plays as a defensive midfielder for Bundesliga club Mainz 05 and the Japan national team."
+      },
+      "career": {
+        "formerClubs": [
+          "鹿岛鹿角"
+        ],
+        "nationalTeam": {
+          "caps": 13,
+          "goals": 0
+        },
+        "honours": [
+          "2022年日本联赛杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "junnosuke-suzuki",
+      "team": "JPN",
+      "nameEn": "Junnosuke Suzuki",
+      "nameZh": "铃木准之助",
+      "photo": null,
+      "bio": {
+        "zh": "年轻后卫，身体条件允许下可胜任多个防守位置。",
+        "en": "Junnosuke Suzuki  is a Japanese professional footballer who plays as a centre-back for Danish Superliga club Copenhagen and the Japan national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 6,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "kento-shiogai",
+      "team": "JPN",
+      "nameEn": "Kento Shiogai",
+      "nameZh": "盐谷航士门",
+      "photo": null,
+      "bio": {
+        "zh": "身材高大的年轻前锋，具备不错的支点与做球能力。",
+        "en": "Kento Shiogai  is a Japanese professional footballer who plays as a forward for German 2. Bundesliga club VfL Wolfsburg and the Japan national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 2,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "yassine-bounou",
+      "team": "MAR",
+      "nameEn": "Yassine Bounou",
+      "nameZh": "亚辛·布努",
+      "photo": null,
+      "bio": {
+        "zh": "摩洛哥主力门将，反应神速，点球扑救能力出众。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [
+          "赫罗纳",
+          "塞维利亚"
+        ],
+        "nationalTeam": {
+          "caps": 90,
+          "goals": 0
+        },
+        "honours": [
+          "2022-23赛季欧联杯冠军",
+          "2022年世界杯殿军"
+        ]
+      }
+    },
+    {
+      "slug": "achraf-hakimi",
+      "team": "MAR",
+      "nameEn": "Achraf Hakimi",
+      "nameZh": "阿什拉夫·哈基米",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Achraf_Hakimi_Morocco_v_Norway_7_June_2026-16.jpg/330px-Achraf_Hakimi_Morocco_v_Norway_7_June_2026-16.jpg",
+      "bio": {
+        "zh": "世界级右闸，速度奇快，攻防兼备的边路核心。",
+        "en": "Achraf Hakimi Mouh is a professional footballer who plays as a right-back for Ligue 1 club Paris Saint-Germain and captains the Morocco national team. Known for his attacking prowess and strong defensive contribution, he is widely regarded as one of the best right-backs in the world."
+      },
+      "career": {
+        "formerClubs": [
+          "皇家马德里",
+          "多特蒙德",
+          "国际米兰"
+        ],
+        "nationalTeam": {
+          "caps": 96,
+          "goals": 11
+        },
+        "honours": [
+          "2017-18赛季欧冠冠军",
+          "2020-21赛季意甲冠军",
+          "2022年世界杯殿军"
+        ]
+      }
+    },
+    {
+      "slug": "noussair-mazraoui",
+      "team": "MAR",
+      "nameEn": "Noussair Mazraoui",
+      "nameZh": "努赛尔·马兹拉维",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Noussair_Mazraoui_at_2026_FIFA_World_Cup_by_YantsImages_%28cropped%29.jpg/330px-Noussair_Mazraoui_at_2026_FIFA_World_Cup_by_YantsImages_%28cropped%29.jpg",
+      "bio": {
+        "zh": "技术型边后卫，控球出色，可胜任左右两翼。",
+        "en": "Noussair Mazraoui is a professional footballer who plays as a defender for Premier League club Manchester United and the Morocco national team. A versatile player, primarily a right-back, Mazraoui has featured at both full-back positions and at centre-back."
+      },
+      "career": {
+        "formerClubs": [
+          "阿贾克斯",
+          "拜仁慕尼黑"
+        ],
+        "nationalTeam": {
+          "caps": 45,
+          "goals": 2
+        },
+        "honours": [
+          "2021-22赛季德甲冠军",
+          "2022年世界杯殿军"
+        ]
+      }
+    },
+    {
+      "slug": "sofyan-amrabat",
+      "team": "MAR",
+      "nameEn": "Sofyan Amrabat",
+      "nameZh": "索菲扬·阿姆拉巴特",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Sofyan_Amrabat_Brazil_V_Morocco_13_June_2026-63.jpg/330px-Sofyan_Amrabat_Brazil_V_Morocco_13_June_2026-63.jpg",
+      "bio": {
+        "zh": "硬朗后腰，覆盖面积大，世界杯期间表现抢眼。",
+        "en": "Sofyan Amrabat is a professional footballer who plays as a defensive midfielder for Süper Lig club Fenerbahçe. Born in the Netherlands, he plays for the Morocco national team."
+      },
+      "career": {
+        "formerClubs": [
+          "费耶诺德",
+          "布鲁日",
+          "维罗纳",
+          "佛罗伦萨"
+        ],
+        "nationalTeam": {
+          "caps": 75,
+          "goals": 0
+        },
+        "honours": [
+          "2022年世界杯殿军"
+        ]
+      }
+    },
+    {
+      "slug": "marwane-saadane",
+      "team": "MAR",
+      "nameEn": "Marwane Saâdane",
+      "nameZh": "马尔万·萨阿德",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Marwane_Saadane_Morocco_v_Norway_7_June_2026-249_%28cropped%29.jpg/330px-Marwane_Saadane_Morocco_v_Norway_7_June_2026-249_%28cropped%29.jpg",
+      "bio": {
+        "zh": "身体强壮的中后卫，现效力于沙特职业联赛。",
+        "en": "Marwane Saâdane is a Moroccan professional football player who plays for the Morocco national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 8,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "ayyoub-bouaddi",
+      "team": "MAR",
+      "nameEn": "Ayyoub Bouaddi",
+      "nameZh": "阿尤布·布阿迪",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ayyoub_Bouaddi_Morocco_v_Norway_7_June_2026-71_%28cropped%29.jpg/330px-Ayyoub_Bouaddi_Morocco_v_Norway_7_June_2026-71_%28cropped%29.jpg",
+      "bio": {
+        "zh": "里尔青训出身的年轻中场，潜力出众。",
+        "en": "Ayyoub Bouaddi is a professional footballer who plays as a midfielder for Ligue 1 club Lille. Born in France, he plays for the Morocco national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 3,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "chemsdine-talbi",
+      "team": "MAR",
+      "nameEn": "Chemsdine Talbi",
+      "nameZh": "谢姆斯丁·塔尔比",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Chemsdine_Talbi_Brazil_V_Morocco_13_June_2026-203.jpg/330px-Chemsdine_Talbi_Brazil_V_Morocco_13_June_2026-203.jpg",
+      "bio": {
+        "zh": "桑德兰中场新星，具备不错的推进能力。",
+        "en": "Chemsdine Talbi is a professional footballer who plays as a winger for Premier League club Sunderland. Born in Belgium, he plays for the Morocco national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 5,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "azzedine-ounahi",
+      "team": "MAR",
+      "nameEn": "Azzedine Ounahi",
+      "nameZh": "阿泽丁·奥纳希",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Azzedine_Ounahi_Brazil_V_Morocco_13_June_2026-159_%28cropped%29.jpg/330px-Azzedine_Ounahi_Brazil_V_Morocco_13_June_2026-159_%28cropped%29.jpg",
+      "bio": {
+        "zh": "灵动中前场，盘带细腻，世界杯后崭露头角。",
+        "en": "Azzedine Ounahi is a Moroccan professional footballer who plays as a midfielder for Segunda División club Girona and the Morocco national team."
+      },
+      "career": {
+        "formerClubs": [
+          "昂热",
+          "马赛"
+        ],
+        "nationalTeam": {
+          "caps": 49,
+          "goals": 9
+        },
+        "honours": [
+          "2022年世界杯殿军"
+        ]
+      }
+    },
+    {
+      "slug": "soufiane-rahimi",
+      "team": "MAR",
+      "nameEn": "Soufiane Rahimi",
+      "nameZh": "苏菲安·拉希米",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Soufiane_Rahimi_at_the_Olympic_Games_2024_%28cropped%29.jpg/330px-Soufiane_Rahimi_at_the_Olympic_Games_2024_%28cropped%29.jpg",
+      "bio": {
+        "zh": "阿尔艾因锋线主力，边路突破与得分能力俱佳。",
+        "en": "Soufiane Rahimi is a Moroccan professional footballer who plays as a striker for UAE Pro League club Al Ain and the Morocco national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 37,
+          "goals": 12
+        },
+        "honours": [
+          "2023-24赛季亚冠冠军"
+        ]
+      }
+    },
+    {
+      "slug": "brahim-diaz",
+      "team": "MAR",
+      "nameEn": "Brahim Díaz",
+      "nameZh": "卜拉欣·迪亚斯",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Brahim_Diaz_Morocco_v_Norway_7_June_2026-36_%28cropped_3-4%29.jpg/330px-Brahim_Diaz_Morocco_v_Norway_7_June_2026-36_%28cropped_3-4%29.jpg",
+      "bio": {
+        "zh": "技术型攻击手，脚法细腻，可踢前场多个位置。",
+        "en": "Brahim Abdelkader Díaz, also known mononymously as Brahim, is a professional footballer who plays as an attacking midfielder or winger for La Liga club Real Madrid and the Morocco national team. He is known for his direct attacking style, explosiveness, and ambidextrous dribbling."
+      },
+      "career": {
+        "formerClubs": [
+          "曼城",
+          "AC米兰"
+        ],
+        "nationalTeam": {
+          "caps": 26,
+          "goals": 14
+        },
+        "honours": [
+          "2023-24赛季欧冠冠军",
+          "2023-24赛季西甲冠军"
+        ]
+      }
+    },
+    {
+      "slug": "ismael-saibari",
+      "team": "MAR",
+      "nameEn": "Ismael Saibari",
+      "nameZh": "伊斯梅尔·萨巴里",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ismael_Saibari_Brazil_V_Morocco_13_June_2026-152.jpg/330px-Ismael_Saibari_Brazil_V_Morocco_13_June_2026-152.jpg",
+      "bio": {
+        "zh": "PSV中场多面手，体能充沛，擅长后插上进攻。",
+        "en": "Ismael Saibari Ben El Basra is a professional footballer who plays as an attacking midfielder or forward for Bundesliga club Bayern Munich. Born in Spain, he represents the Morocco national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 30,
+          "goals": 9
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "munir-mohamedi",
+      "team": "MAR",
+      "nameEn": "Munir Mohamedi",
+      "nameZh": "穆尼尔·穆罕默迪",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Munir_El_Kajoui_Morocco_v_Norway_7_June_2026-10_%28cropped%29.jpg/330px-Munir_El_Kajoui_Morocco_v_Norway_7_June_2026-10_%28cropped%29.jpg",
+      "bio": {
+        "zh": "经验丰富的替补门将，常年效力于摩洛哥联赛。",
+        "en": "Munir El Kajoui, known as Munir, is a professional footballer who plays as a goalkeeper."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 52,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "zakaria-el-ouahdi",
+      "team": "MAR",
+      "nameEn": "Zakaria El Ouahdi",
+      "nameZh": "扎卡里亚·埃尔瓦赫迪",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Zakaria_El_Ouahdi_at_the_Olympic_Games_2024_%28cropped%29.jpg/330px-Zakaria_El_Ouahdi_at_the_Olympic_Games_2024_%28cropped%29.jpg",
+      "bio": {
+        "zh": "比利时联赛效力的年轻边后卫，冲击力强。",
+        "en": "Zakaria El Ouahdi, is a professional footballer who plays as a right winger or a right-back for Belgian Pro League club Genk. Born in Belgium, he plays for the Morocco national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 3,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "issa-diop",
+      "team": "MAR",
+      "nameEn": "Issa Diop",
+      "nameZh": "伊萨·迪奥普",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Issa_Diop_Morocco_v_Norway_7_June_2026-161_%28cropped%29.jpg/330px-Issa_Diop_Morocco_v_Norway_7_June_2026-161_%28cropped%29.jpg",
+      "bio": {
+        "zh": "高大中卫，防空能力出色，曾长期征战英超。",
+        "en": "Issa Laye Lucas Jean Diop is a professional footballer who plays as a centre-back for Premier League club Fulham. Born in France, and a former France youth international, he plays for the Morocco national team."
+      },
+      "career": {
+        "formerClubs": [
+          "图卢兹",
+          "西汉姆联"
+        ],
+        "nationalTeam": {
+          "caps": 4,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "samir-el-mourabet",
+      "team": "MAR",
+      "nameEn": "Samir El Mourabet",
+      "nameZh": "萨米尔·埃尔穆拉贝",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Samir_El_Mourabet_vs_Paraguay_%28cropped%29.jpg/330px-Samir_El_Mourabet_vs_Paraguay_%28cropped%29.jpg",
+      "bio": {
+        "zh": "斯特拉斯堡中场，防守硬朗，拼抢积极。",
+        "en": "Samir El Mourabet is a professional football player who plays as a midfielder for Ligue 1 club Strasbourg. Born in France, he represents the Morocco national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 4,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "gessime-yassine",
+      "team": "MAR",
+      "nameEn": "Gessime Yassine",
+      "nameZh": "盖西姆·亚辛",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Gessime_Yassine_against_Paraguay_2_%28cropped%29.jpg/330px-Gessime_Yassine_against_Paraguay_2_%28cropped%29.jpg",
+      "bio": {
+        "zh": "斯特拉斯堡青训中场，具备一定组织能力。",
+        "en": "Gessime Ben Youssef Mustapha Yassine is a professional footballer who plays as a winger for Ligue 1 club Strasbourg. Born in France, he represents the Morocco national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 4,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "amine-sbai",
+      "team": "MAR",
+      "nameEn": "Amine Sbaï",
+      "nameZh": "阿明·斯拜",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Amine_Sbai_Brazil_V_Morocco_13_June_2026-64.jpg/330px-Amine_Sbai_Brazil_V_Morocco_13_June_2026-64.jpg",
+      "bio": {
+        "zh": "昂热边锋，速度快，善于一对一突破。",
+        "en": "Mohamed Amine Sbaï is a Moroccan professional footballer who plays as a winger for Ligue 1 club Angers and the Morocco national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 2,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "chadi-riad",
+      "team": "MAR",
+      "nameEn": "Chadi Riad",
+      "nameZh": "沙迪·里亚德",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Chadi_Riad_Brazil_V_Morocco_13_June_2026-162.jpg/330px-Chadi_Riad_Brazil_V_Morocco_13_June_2026-162.jpg",
+      "bio": {
+        "zh": "年轻中卫，出球冷静，曾受训于拉玛西亚。",
+        "en": "Chadi Riad Dnanou is a professional footballer who plays as a centre-back for Premier League club Crystal Palace. Born in Spain, he plays for the Morocco national team."
+      },
+      "career": {
+        "formerClubs": [
+          "巴塞罗那",
+          "皇家贝蒂斯"
+        ],
+        "nationalTeam": {
+          "caps": 6,
+          "goals": 1
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "youssef-belammari",
+      "team": "MAR",
+      "nameEn": "Youssef Belammari",
+      "nameZh": "优素福·贝拉马里",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Youssef_Belammari_vs_Niger_%28cropped%29.jpg/330px-Youssef_Belammari_vs_Niger_%28cropped%29.jpg",
+      "bio": {
+        "zh": "埃及联赛效力的摩洛哥后卫，防守稳健。",
+        "en": "Youssef Belammari is a Moroccan professional footballer who plays as a left-back for Egyptian Premier League club Al Ahly and the Morocco national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 18,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "ayoub-el-kaabi",
+      "team": "MAR",
+      "nameEn": "Ayoub El Kaabi",
+      "nameZh": "阿尤布·埃尔卡比",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ayoub_El_Kaabi_vs_Niger_%28cropped%29.jpg/330px-Ayoub_El_Kaabi_vs_Niger_%28cropped%29.jpg",
+      "bio": {
+        "zh": "奥林匹亚科斯主力射手，门前嗅觉敏锐。",
+        "en": "Ayoub El Kaabi is a Moroccan professional footballer who plays as a striker for Super League Greece club Olympiacos and the Morocco national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 71,
+          "goals": 35
+        },
+        "honours": [
+          "2022年世界杯殿军"
+        ]
+      }
+    },
+    {
+      "slug": "ayoube-amaimouni",
+      "team": "MAR",
+      "nameEn": "Ayoube Amaimouni",
+      "nameZh": "阿尤布·阿迈穆尼",
+      "photo": null,
+      "bio": {
+        "zh": "法兰克福年轻前锋，身体素质出色。",
+        "en": "Ayoube Amaimouni-Echghouyabe is a professional footballer who plays as a winger for German Bundesliga club Eintracht Frankfurt. Born in Spain, he plays for the Morocco national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 2,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "ahmed-reda-tagnaouti",
+      "team": "MAR",
+      "nameEn": "Ahmed Reda Tagnaouti",
+      "nameZh": "艾哈迈德·雷达·塔格瑙蒂",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ahmed_Reda_Tagnaouti_Morocco_v_Norway_7_June_2026-18.jpg/330px-Ahmed_Reda_Tagnaouti_Morocco_v_Norway_7_June_2026-18.jpg",
+      "bio": {
+        "zh": "摩洛哥联赛门将，国家队替补人选。",
+        "en": "Ahmed Reda Tagnaouti is a Moroccan professional footballer who plays as goalkeeper for Botola Pro club AS FAR and the Morocco national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 3,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "bilal-el-khannouss",
+      "team": "MAR",
+      "nameEn": "Bilal El Khannouss",
+      "nameZh": "比拉尔·埃尔汉努斯",
+      "photo": null,
+      "bio": {
+        "zh": "技术型中场，视野开阔，传球精准。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [
+          "亨克"
+        ],
+        "nationalTeam": {
+          "caps": 37,
+          "goals": 3
+        },
+        "honours": [
+          "2022年世界杯殿军"
+        ]
+      }
+    },
+    {
+      "slug": "neil-el-aynaoui",
+      "team": "MAR",
+      "nameEn": "Neil El Aynaoui",
+      "nameZh": "尼尔·埃尔艾纳维",
+      "photo": null,
+      "bio": {
+        "zh": "罗马中场，跑动积极，攻防转换能力强。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 16,
+          "goals": 2
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "redouane-halhal",
+      "team": "MAR",
+      "nameEn": "Redouane Halhal",
+      "nameZh": "雷杜安·哈尔哈尔",
+      "photo": null,
+      "bio": {
+        "zh": "比利时联赛后卫，身体对抗能力突出。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 3,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "anass-salah-eddine",
+      "team": "MAR",
+      "nameEn": "Anass Salah-Eddine",
+      "nameZh": "阿纳斯·萨拉赫丁",
+      "photo": null,
+      "bio": {
+        "zh": "PSV边后卫，速度快，助攻意识好。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 9,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "diogo-costa",
+      "team": "POR",
+      "nameEn": "Diogo Costa",
+      "nameZh": "迪奥戈·科斯塔",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Diogo_Costa_Croatia_v_Portugal_2_July_2026-188_%28cropped%29.jpg/330px-Diogo_Costa_Croatia_v_Portugal_2_July_2026-188_%28cropped%29.jpg",
+      "bio": {
+        "zh": "波尔图青训出身的葡萄牙国门，反应敏捷，擅长扑点。",
+        "en": "Diogo Meireles da Costa is a Portuguese professional footballer who plays as a goalkeeper for Primeira Liga club Porto, which he captains, and the Portugal national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 43,
+          "goals": 0
+        },
+        "honours": [
+          "2021–22赛季葡超冠军",
+          "2022–23赛季葡萄牙杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "nelson-semedo",
+      "team": "POR",
+      "nameEn": "Nélson Semedo",
+      "nameZh": "内尔松·塞梅多",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Nelson_Semedo_Croatia_v_Portugal_2_July_2026-227.jpg/330px-Nelson_Semedo_Croatia_v_Portugal_2_July_2026-227.jpg",
+      "bio": {
+        "zh": "速度出众的葡萄牙右后卫，曾效力巴萨与狼队。",
+        "en": "Nélson Cabral Semedo is a Portuguese professional footballer who plays as a right-back or right wing-back for Süper Lig club Fenerbahçe and the Portugal national team."
+      },
+      "career": {
+        "formerClubs": [
+          "本菲卡",
+          "巴塞罗那",
+          "狼队"
+        ],
+        "nationalTeam": {
+          "caps": 50,
+          "goals": 0
+        },
+        "honours": [
+          "2018–19赛季西甲冠军",
+          "2018–19赛季国王杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "ruben-dias",
+      "team": "POR",
+      "nameEn": "Rúben Dias",
+      "nameZh": "鲁本·迪亚斯",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Diogo_Costa_Ruben_Dias_Croatia_v_Portugal_2_July_2026-181.jpg/330px-Diogo_Costa_Ruben_Dias_Croatia_v_Portugal_2_July_2026-181.jpg",
+      "bio": {
+        "zh": "曼城后防核心，身体强壮、出球稳健的中卫领袖。",
+        "en": "Rúben dos Santos Gato Alves Dias is a Portuguese professional footballer who plays as a centre-back for Premier League club Manchester City and the Portugal national team. He is regarded as one of the best centre-backs in the world."
+      },
+      "career": {
+        "formerClubs": [
+          "本菲卡"
+        ],
+        "nationalTeam": {
+          "caps": 76,
+          "goals": 3
+        },
+        "honours": [
+          "2022–23赛季欧冠冠军",
+          "英超冠军"
+        ]
+      }
+    },
+    {
+      "slug": "tomas-araujo",
+      "team": "POR",
+      "nameEn": "Tomás Araújo",
+      "nameZh": "托马斯·阿劳霍",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Tom%C3%A1s_Ara%C3%BAjo_USMNT_v_Portugal_Mar_31_2026-40_%28cropped%29.jpg/330px-Tom%C3%A1s_Ara%C3%BAjo_USMNT_v_Portugal_Mar_31_2026-40_%28cropped%29.jpg",
+      "bio": {
+        "zh": "本菲卡青训后卫，可胜任中卫与右后卫位置。",
+        "en": "Tomás Lemos Araújo is a Portuguese professional footballer who plays as a centre-back or a right-back for Primeira Liga club Benfica and the Portugal national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 5,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "diogo-dalot",
+      "team": "POR",
+      "nameEn": "Diogo Dalot",
+      "nameZh": "迪奥戈·达洛特",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Diogo_Dalot_USMNT_v_Portugal_Mar_31_2026-12.jpg/330px-Diogo_Dalot_USMNT_v_Portugal_Mar_31_2026-12.jpg",
+      "bio": {
+        "zh": "曼联主力边后卫，攻防均衡，曾租借效力AC米兰。",
+        "en": "José Diogo Dalot Teixeira is a Portuguese professional footballer who plays as a full-back or a wing-back for Premier League club Manchester United and the Portugal national team."
+      },
+      "career": {
+        "formerClubs": [
+          "波尔图",
+          "AC米兰"
+        ],
+        "nationalTeam": {
+          "caps": 35,
+          "goals": 3
+        },
+        "honours": [
+          "2022–23赛季联赛杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "matheus-nunes",
+      "team": "POR",
+      "nameEn": "Matheus Nunes",
+      "nameZh": "马特乌斯·努内斯",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Matheus_Nunes_USMNT_v_Portugal_Mar_31_2026-21_%28cropped%29.jpg/330px-Matheus_Nunes_USMNT_v_Portugal_Mar_31_2026-21_%28cropped%29.jpg",
+      "bio": {
+        "zh": "曼城葡萄牙中场，盘带推进能力强，跑动覆盖大。",
+        "en": "Matheus Luiz Nunes is a professional footballer who plays as a right-back or midfielder for Premier League club Manchester City and the Portugal national team. Initially only a midfielder, he switched to right-back in the 2024–25 season."
+      },
+      "career": {
+        "formerClubs": [
+          "葡萄牙体育",
+          "狼队"
+        ],
+        "nationalTeam": {
+          "caps": 20,
+          "goals": 2
+        },
+        "honours": [
+          "2020–21赛季葡超冠军",
+          "英超冠军"
+        ]
+      }
+    },
+    {
+      "slug": "cristiano-ronaldo",
+      "team": "POR",
+      "nameEn": "Cristiano Ronaldo",
+      "nameZh": "克里斯蒂亚诺·罗纳尔多",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg/330px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg",
+      "bio": {
+        "zh": "葡萄牙历史射手王，五夺金球奖，国家队绝对核心。",
+        "en": "Cristiano Ronaldo dos Santos Aveiro is a Portuguese professional footballer who plays as a forward for and captains the Saudi Pro League club Al-Nassr and the Portugal national team. Widely regarded as one of the greatest players in history and the greatest Portuguese player ever, he has won numerous individual accolades throughout his career, including five Ballon d'Or awards, a record three UEFA Men's Player of the Year Awards, and four European Golden Shoes. He was named the world's best player five times by FIFA."
+      },
+      "career": {
+        "formerClubs": [
+          "葡萄牙体育",
+          "曼联",
+          "皇家马德里",
+          "尤文图斯"
+        ],
+        "nationalTeam": {
+          "caps": 228,
+          "goals": 143
+        },
+        "honours": [
+          "2016年欧洲杯冠军",
+          "5次欧冠冠军",
+          "5座金球奖"
+        ]
+      }
+    },
+    {
+      "slug": "bruno-fernandes",
+      "team": "POR",
+      "nameEn": "Bruno Fernandes",
+      "nameZh": "布鲁诺·费尔南德斯",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bruno_Fernandes_USMNT_v_Portugal_Mar_31_2026-27_%28cropped%29.jpg/330px-Bruno_Fernandes_USMNT_v_Portugal_Mar_31_2026-27_%28cropped%29.jpg",
+      "bio": {
+        "zh": "曼联队长，葡萄牙中场大脑，传射俱佳、跑动积极。",
+        "en": "Bruno Miguel Borges Fernandes is a Portuguese professional footballer who plays as an attacking midfielder for Premier League club Manchester United, which he captains, and the Portugal national team. He is widely regarded as one of the best attacking midfielders in the world."
+      },
+      "career": {
+        "formerClubs": [
+          "诺瓦拉",
+          "乌迪内斯",
+          "桑普多利亚",
+          "葡萄牙体育"
+        ],
+        "nationalTeam": {
+          "caps": 89,
+          "goals": 29
+        },
+        "honours": [
+          "2022–23赛季联赛杯冠军",
+          "2023–24赛季足总杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "goncalo-ramos",
+      "team": "POR",
+      "nameEn": "Gonçalo Ramos",
+      "nameZh": "贡萨洛·拉莫斯",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Goncalo_Ramos_Croatia_v_Portugal_2_July_2026-240.jpg/330px-Goncalo_Ramos_Croatia_v_Portugal_2_July_2026-240.jpg",
+      "bio": {
+        "zh": "巴黎圣日耳曼前锋，2022年世界杯顶替C罗首发戴帽成名。",
+        "en": "Gonçalo Matias Ramos is a Portuguese professional footballer who plays as a striker for Serie A club AC Milan and the Portugal national team."
+      },
+      "career": {
+        "formerClubs": [
+          "本菲卡"
+        ],
+        "nationalTeam": {
+          "caps": 25,
+          "goals": 10
+        },
+        "honours": [
+          "法甲冠军"
+        ]
+      }
+    },
+    {
+      "slug": "bernardo-silva",
+      "team": "POR",
+      "nameEn": "Bernardo Silva",
+      "nameZh": "贝尔纳多·席尔瓦",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Bernardo_Silva_Croatia_v_Portugal_2_July_2026-238.jpg/330px-Bernardo_Silva_Croatia_v_Portugal_2_July_2026-238.jpg",
+      "bio": {
+        "zh": "曼城进攻核心，技术细腻、跑动勤勉的葡萄牙中场。",
+        "en": "Bernardo Mota Veiga de Carvalho e Silva is a Portuguese professional footballer who plays as a midfielder for La Liga club Real Madrid and the Portugal national team."
+      },
+      "career": {
+        "formerClubs": [
+          "本菲卡",
+          "摩纳哥"
+        ],
+        "nationalTeam": {
+          "caps": 109,
+          "goals": 14
+        },
+        "honours": [
+          "2022–23赛季欧冠冠军",
+          "英超冠军"
+        ]
+      }
+    },
+    {
+      "slug": "joao-felix",
+      "team": "POR",
+      "nameEn": "João Félix",
+      "nameZh": "若昂·费利克斯",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Joao_Felix_Croatia_v_Portugal_2_July_2026-007.jpg/330px-Joao_Felix_Croatia_v_Portugal_2_July_2026-007.jpg",
+      "bio": {
+        "zh": "天赋异禀的葡萄牙前锋，盘带出色，曾效力马竞。",
+        "en": "João Félix Sequeira is a Portuguese professional footballer who plays as an attacking midfielder or forward for Saudi Pro League club Al-Nassr and the Portugal national team."
+      },
+      "career": {
+        "formerClubs": [
+          "本菲卡",
+          "马德里竞技",
+          "巴塞罗那",
+          "切尔西"
+        ],
+        "nationalTeam": {
+          "caps": 54,
+          "goals": 12
+        },
+        "honours": [
+          "2020–21赛季西甲冠军"
+        ]
+      }
+    },
+    {
+      "slug": "jose-sa",
+      "team": "POR",
+      "nameEn": "José Sá",
+      "nameZh": "若泽·萨",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jos%C3%A9_S%C3%A1_USMNT_v_Portugal_Mar_31_2026-185_%28cropped%29.jpg/330px-Jos%C3%A9_S%C3%A1_USMNT_v_Portugal_Mar_31_2026-185_%28cropped%29.jpg",
+      "bio": {
+        "zh": "狼队门将，反应迅速，曾长期效力希腊奥林匹亚科斯。",
+        "en": "José Pedro Malheiro de Sá is a Portuguese professional footballer who plays as a goalkeeper for EFL Championship club Wolverhampton Wanderers and the Portugal national team."
+      },
+      "career": {
+        "formerClubs": [
+          "波尔图",
+          "奥林匹亚科斯"
+        ],
+        "nationalTeam": {
+          "caps": 5,
+          "goals": 0
+        },
+        "honours": [
+          "希腊超级联赛冠军"
+        ]
+      }
+    },
+    {
+      "slug": "renato-veiga",
+      "team": "POR",
+      "nameEn": "Renato Veiga",
+      "nameZh": "雷纳托·韦加",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Renato_Veiga_USMNT_v_Portugal_Mar_31_2026-20.jpg/330px-Renato_Veiga_USMNT_v_Portugal_Mar_31_2026-20.jpg",
+      "bio": {
+        "zh": "葡萄牙多面手后卫，可踢中卫与边后卫，现效力西甲。",
+        "en": "Renato da Palma Veiga is a Portuguese professional footballer who plays for La Liga club Villarreal and the Portugal national team. Mainly a centre-back, he can also play as a left-back or defensive midfielder."
+      },
+      "career": {
+        "formerClubs": [
+          "葡萄牙体育",
+          "巴塞尔",
+          "罗马"
+        ],
+        "nationalTeam": {
+          "caps": 13,
+          "goals": 1
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "goncalo-inacio",
+      "team": "POR",
+      "nameEn": "Gonçalo Inácio",
+      "nameZh": "贡萨洛·伊纳西奥",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gon%C3%A7alo_In%C3%A1cio_USMNT_v_Portugal_Mar_31_2026-42_%28cropped%29.jpg/330px-Gon%C3%A7alo_In%C3%A1cio_USMNT_v_Portugal_Mar_31_2026-42_%28cropped%29.jpg",
+      "bio": {
+        "zh": "葡萄牙体育青训中卫，左脚出球型后卫，防守稳健。",
+        "en": "Gonçalo Bernardo Inácio is a Portuguese professional footballer who plays as a centre-back for Primeira Liga club Sporting CP and the Portugal national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 22,
+          "goals": 2
+        },
+        "honours": [
+          "2023–24赛季葡超冠军"
+        ]
+      }
+    },
+    {
+      "slug": "joao-neves",
+      "team": "POR",
+      "nameEn": "João Neves",
+      "nameZh": "若昂·内维斯",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Joao_Neves_Croatia_v_Portugal_2_July_2026-102.jpg/330px-Joao_Neves_Croatia_v_Portugal_2_July_2026-102.jpg",
+      "bio": {
+        "zh": "巴黎圣日耳曼年轻中场，跑动积极、拼抢凶狠。",
+        "en": "João Pedro Gonçalves Neves is a Portuguese professional footballer who plays as a midfielder for Ligue 1 club Paris Saint-Germain and the Portugal national team. Primarily a central midfielder, Neves is also able to play as a defensive midfielder and occasionally a right-back. He is regarded as one of the best young players in the world."
+      },
+      "career": {
+        "formerClubs": [
+          "本菲卡"
+        ],
+        "nationalTeam": {
+          "caps": 22,
+          "goals": 3
+        },
+        "honours": [
+          "2022–23赛季葡超冠军"
+        ]
+      }
+    },
+    {
+      "slug": "francisco-trincao",
+      "team": "POR",
+      "nameEn": "Francisco Trincão",
+      "nameZh": "弗朗西斯科·特林康",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Francisco_Trinc%C3%A3o_USMNT_v_Portugal_Mar_31_2026-55_%28cropped%29.jpg/330px-Francisco_Trinc%C3%A3o_USMNT_v_Portugal_Mar_31_2026-55_%28cropped%29.jpg",
+      "bio": {
+        "zh": "葡萄牙边路攻击手，技术细腻，曾效力巴塞罗那。",
+        "en": "Francisco António Machado Mota de Castro Trincão is a Portuguese professional footballer who plays as a winger for Primeira Liga club Sporting CP and the Portugal national team."
+      },
+      "career": {
+        "formerClubs": [
+          "布拉加",
+          "巴塞罗那",
+          "狼队"
+        ],
+        "nationalTeam": {
+          "caps": 18,
+          "goals": 3
+        },
+        "honours": [
+          "2020–21赛季国王杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "rafael-leao",
+      "team": "POR",
+      "nameEn": "Rafael Leão",
+      "nameZh": "拉斐尔·莱奥",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/RafaelLe%C3%A3oPortugal23.jpg/330px-RafaelLe%C3%A3oPortugal23.jpg",
+      "bio": {
+        "zh": "米兰边路爆点，速度快、盘带犀利，2022年意甲MVP。",
+        "en": "Rafael \"Rafa\" Alexandre da Conceição Leão is a Portuguese professional footballer who plays as a left winger for Serie A club AC Milan and the Portugal national team. He is known for his dribbling and speed."
+      },
+      "career": {
+        "formerClubs": [
+          "葡萄牙体育",
+          "里尔"
+        ],
+        "nationalTeam": {
+          "caps": 44,
+          "goals": 5
+        },
+        "honours": [
+          "2021–22赛季意甲冠军",
+          "意甲MVP"
+        ]
+      }
+    },
+    {
+      "slug": "pedro-neto",
+      "team": "POR",
+      "nameEn": "Pedro Neto",
+      "nameZh": "佩德罗·内托",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Pedro_Neto_Croatia_v_Portugal_2_July_2026-113.jpg/330px-Pedro_Neto_Croatia_v_Portugal_2_July_2026-113.jpg",
+      "bio": {
+        "zh": "切尔西边锋，突破能力强，曾效力狼队与拉齐奥。",
+        "en": "Pedro Lomba Neto is a Portuguese professional footballer who plays as a winger for Premier League club Chelsea and the Portugal national team."
+      },
+      "career": {
+        "formerClubs": [
+          "布拉加",
+          "拉齐奥",
+          "狼队"
+        ],
+        "nationalTeam": {
+          "caps": 25,
+          "goals": 3
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "goncalo-guedes",
+      "team": "POR",
+      "nameEn": "Gonçalo Guedes",
+      "nameZh": "贡萨洛·格德斯",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Gon%C3%A7alo_Guedes_USMNT_v_Portugal_Mar_31_2026-64_%28cropped%29.jpg/330px-Gon%C3%A7alo_Guedes_USMNT_v_Portugal_Mar_31_2026-64_%28cropped%29.jpg",
+      "bio": {
+        "zh": "葡萄牙边路快马，左右脚均衡，曾效力巴黎与瓦伦西亚。",
+        "en": "Gonçalo Manuel Ganchinho Guedes is a Portuguese professional footballer who plays as a winger or forward for La Liga club Real Sociedad and the Portugal national team."
+      },
+      "career": {
+        "formerClubs": [
+          "本菲卡",
+          "巴黎圣日耳曼",
+          "瓦伦西亚",
+          "狼队"
+        ],
+        "nationalTeam": {
+          "caps": 34,
+          "goals": 8
+        },
+        "honours": [
+          "2018–19赛季法甲冠军",
+          "2018–19赛季国王杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "joao-cancelo",
+      "team": "POR",
+      "nameEn": "João Cancelo",
+      "nameZh": "若昂·坎塞洛",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Joao_Cancelo_Croatia_v_Portugal_2_July_2026-002.jpg/330px-Joao_Cancelo_Croatia_v_Portugal_2_July_2026-002.jpg",
+      "bio": {
+        "zh": "进攻型边后卫，传中与内切出色，曾效力曼城与拜仁。",
+        "en": "João Pedro Cavaco Cancelo is a Portuguese professional footballer who plays as a right-back or left-back for Saudi Pro League club Al Hilal and the Portugal national team."
+      },
+      "career": {
+        "formerClubs": [
+          "本菲卡",
+          "瓦伦西亚",
+          "国际米兰",
+          "尤文图斯",
+          "曼城",
+          "拜仁慕尼黑"
+        ],
+        "nationalTeam": {
+          "caps": 68,
+          "goals": 12
+        },
+        "honours": [
+          "2022–23赛季欧冠冠军",
+          "英超冠军"
+        ]
+      }
+    },
+    {
+      "slug": "ruben-neves",
+      "team": "POR",
+      "nameEn": "Rúben Neves",
+      "nameZh": "鲁本·内维斯",
+      "photo": null,
+      "bio": {
+        "zh": "葡萄牙中场指挥官，长传调度精准，曾长期效力狼队。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [
+          "波尔图",
+          "狼队"
+        ],
+        "nationalTeam": {
+          "caps": 67,
+          "goals": 1
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "rui-silva",
+      "team": "POR",
+      "nameEn": "Rui Silva",
+      "nameZh": "鲁伊·席尔瓦",
+      "photo": null,
+      "bio": {
+        "zh": "葡萄牙体育门将，经验丰富，曾效力格拉纳达与贝蒂斯。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [
+          "科英布拉大学",
+          "里奥阿维",
+          "格拉纳达",
+          "皇家贝蒂斯"
+        ],
+        "nationalTeam": {
+          "caps": 3,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "vitinha",
+      "team": "POR",
+      "nameEn": "Vitinha",
+      "nameZh": "维蒂尼亚",
+      "photo": null,
+      "bio": {
+        "zh": "巴黎圣日耳曼中场，传球视野好，跑动覆盖能力强。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [
+          "波尔图",
+          "狼队"
+        ],
+        "nationalTeam": {
+          "caps": 38,
+          "goals": 0
+        },
+        "honours": [
+          "法甲冠军"
+        ]
+      }
+    },
+    {
+      "slug": "samu-costa",
+      "team": "POR",
+      "nameEn": "Samú Costa",
+      "nameZh": "萨穆·科斯塔",
+      "photo": null,
+      "bio": {
+        "zh": "马略卡防守型中场/后卫，身体强壮，拦截能力突出。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [
+          "法鲁人",
+          "阿尔梅里亚"
+        ],
+        "nationalTeam": {
+          "caps": 6,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "nuno-mendes",
+      "team": "POR",
+      "nameEn": "Nuno Mendes",
+      "nameZh": "努诺·门德斯",
+      "photo": null,
+      "bio": {
+        "zh": "巴黎圣日耳曼左边后卫，速度奇快，葡萄牙体育青训。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [
+          "葡萄牙体育"
+        ],
+        "nationalTeam": {
+          "caps": 44,
+          "goals": 1
+        },
+        "honours": [
+          "法甲冠军"
+        ]
+      }
+    },
+    {
+      "slug": "francisco-conceicao",
+      "team": "POR",
+      "nameEn": "Francisco Conceição",
+      "nameZh": "弗朗西斯科·孔塞桑",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Francisco_Conceicao_Croatia_v_Portugal_2_July_2026-256.jpg/330px-Francisco_Conceicao_Croatia_v_Portugal_2_July_2026-256.jpg",
+      "bio": {
+        "zh": "尤文图斯边锋，突破犀利，波尔图名帅之子。",
+        "en": "Francisco \"Chico\" Fernandes da Conceição is a Portuguese professional footballer who plays as a right winger for Serie A club Juventus and the Portugal national team."
+      },
+      "career": {
+        "formerClubs": [
+          "阿贾克斯",
+          "波尔图"
+        ],
+        "nationalTeam": {
+          "caps": 17,
+          "goals": 4
+        },
+        "honours": [
+          "葡超冠军"
+        ]
+      }
+    },
+    {
+      "slug": "bart-verbruggen",
+      "team": "NED",
+      "nameEn": "Bart Verbruggen",
+      "nameZh": "巴特·费尔布鲁亨",
+      "photo": null,
+      "bio": {
+        "zh": "荷兰年轻门将，反应敏捷，2023年加盟布莱顿后逐渐坐稳主力。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [
+          "安德莱赫特"
+        ],
+        "nationalTeam": {
+          "caps": 29,
+          "goals": 0
+        },
+        "honours": [
+          "2021-22赛季比利时甲级联赛冠军"
+        ]
+      }
+    },
+    {
+      "slug": "lutsharel-geertruida",
+      "team": "NED",
+      "nameEn": "Lutsharel Geertruida",
+      "nameZh": "卢特沙雷尔·海特勒伊达",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Go_Ahead_Eagles_-_Feyenoord_-_53679251479_%28Lutsharel_Geertruida%29.jpg/330px-Go_Ahead_Eagles_-_Feyenoord_-_53679251479_%28Lutsharel_Geertruida%29.jpg",
+      "bio": {
+        "zh": "费耶诺德青训出身的多面手后卫，可胜任右后卫与中后卫。",
+        "en": "Lutsharel Emiliano Geertruida is a Dutch professional footballer who plays for German Bundesliga club RB Leipzig and the Netherlands national team. Mainly a right-back, he can also play as a centre-back and defensive midfielder."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 21,
+          "goals": 0
+        },
+        "honours": [
+          "2022-23赛季荷兰甲级联赛冠军"
+        ]
+      }
+    },
+    {
+      "slug": "marten-de-roon",
+      "team": "NED",
+      "nameEn": "Marten de Roon",
+      "nameZh": "马滕·德罗恩",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Marten_de_Roon_03.jpg/330px-Marten_de_Roon_03.jpg",
+      "bio": {
+        "zh": "经验丰富的中场铁闸，曾征战英超，现效力于亚特兰大。",
+        "en": "Marten Elco de Roon is a Dutch professional footballer who plays as a defensive midfielder for Serie A club Atalanta and the Netherlands national team."
+      },
+      "career": {
+        "formerClubs": [
+          "海伦芬",
+          "米德尔斯堡",
+          "亚特兰大"
+        ],
+        "nationalTeam": {
+          "caps": 43,
+          "goals": 1
+        },
+        "honours": [
+          "2023-24赛季欧联杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "virgil-van-dijk",
+      "team": "NED",
+      "nameEn": "Virgil van Dijk",
+      "nameZh": "维吉尔·范戴克",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/20160604_AUT_NED_8876_%28cropped%29.jpg/330px-20160604_AUT_NED_8876_%28cropped%29.jpg",
+      "bio": {
+        "zh": "荷兰国家队队长，世界级中后卫，以领袖气质与制空能力著称。",
+        "en": "Virgil van Dijk is a Dutch professional footballer who plays as a centre-back for and captains both Premier League club Liverpool and the Netherlands national team. Widely regarded as one of the best defenders of his generation, and one of the greatest defenders in Premier League history, he is known for his strength, leadership, speed and aerial ability."
+      },
+      "career": {
+        "formerClubs": [
+          "格罗宁根",
+          "凯尔特人",
+          "南安普顿"
+        ],
+        "nationalTeam": {
+          "caps": 92,
+          "goals": 12
+        },
+        "honours": [
+          "2018-19赛季欧冠冠军",
+          "2019-20赛季英超冠军"
+        ]
+      }
+    },
+    {
+      "slug": "nathan-ake",
+      "team": "NED",
+      "nameEn": "Nathan Aké",
+      "nameZh": "内森·阿克",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Yokohama_F._Marinos_-_Manchester_City_%283-5%29_-_53075276224_%28Nathan_Ake%29.jpg/330px-Yokohama_F._Marinos_-_Manchester_City_%283-5%29_-_53075276224_%28Nathan_Ake%29.jpg",
+      "bio": {
+        "zh": "左脚中后卫，出球稳健，曾在切尔西青训，后于伯恩茅斯成名。",
+        "en": "Nathan Benjamin Aké is a Dutch professional footballer who plays as a centre-back or left-back for Süper Lig club Fenerbahçe and the Netherlands national team."
+      },
+      "career": {
+        "formerClubs": [
+          "切尔西",
+          "沃特福德",
+          "伯恩茅斯"
+        ],
+        "nationalTeam": {
+          "caps": 59,
+          "goals": 5
+        },
+        "honours": [
+          "2022-23赛季欧冠冠军",
+          "2022-23赛季英超冠军"
+        ]
+      }
+    },
+    {
+      "slug": "jan-paul-van-hecke",
+      "team": "NED",
+      "nameEn": "Jan Paul van Hecke",
+      "nameZh": "扬-保罗·范赫克",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Jan_Paul_van_Hecke_24012026_%282%29_%28cropped%29.jpg/330px-Jan_Paul_van_Hecke_24012026_%282%29_%28cropped%29.jpg",
+      "bio": {
+        "zh": "荷兰新生代中卫，身体强壮，出自布雷达青训，后登陆英超。",
+        "en": "Jan Paul van Hecke is a Dutch professional footballer who plays as a centre-back for Premier League club Tottenham Hotspur and the Netherlands national team."
+      },
+      "career": {
+        "formerClubs": [
+          "NAC布雷达"
+        ],
+        "nationalTeam": {
+          "caps": 12,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "justin-kluivert",
+      "team": "NED",
+      "nameEn": "Justin Kluivert",
+      "nameZh": "尤斯廷·克鲁伊维特",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Justin_Kluivert_2023.jpg/330px-Justin_Kluivert_2023.jpg",
+      "bio": {
+        "zh": "传奇前锋帕特里克·克鲁伊维特之子，司职边锋，速度快突破犀利。",
+        "en": "Justin Dean Kluivert is a Dutch professional footballer who plays as an attacking midfielder or winger for Premier League club Bournemouth and the Netherlands national team."
+      },
+      "career": {
+        "formerClubs": [
+          "阿贾克斯",
+          "罗马",
+          "莱比锡",
+          "尼斯",
+          "瓦伦西亚"
+        ],
+        "nationalTeam": {
+          "caps": 12,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "ryan-gravenberch",
+      "team": "NED",
+      "nameEn": "Ryan Gravenberch",
+      "nameZh": "赖安·赫拉芬贝赫",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/2022-07-30_Fu%C3%9Fball%2C_M%C3%A4nner%2C_DFL-Supercup%2C_RB_Leipzig_-_FC_Bayern_M%C3%BCnchen_1DX_3342_by_Stepro_%28cropped%29.jpg/330px-2022-07-30_Fu%C3%9Fball%2C_M%C3%A4nner%2C_DFL-Supercup%2C_RB_Leipzig_-_FC_Bayern_M%C3%BCnchen_1DX_3342_by_Stepro_%28cropped%29.jpg",
+      "bio": {
+        "zh": "荷兰中场新星，身材高大技术细腻，2023年自拜仁转投利物浦。",
+        "en": "Ryan Jiro Gravenberch is a Dutch professional footballer who plays as a midfielder for Premier League club Liverpool and the Netherlands national team."
+      },
+      "career": {
+        "formerClubs": [
+          "阿贾克斯",
+          "拜仁慕尼黑"
+        ],
+        "nationalTeam": {
+          "caps": 27,
+          "goals": 1
+        },
+        "honours": [
+          "2021-22赛季荷甲冠军",
+          "2022-23赛季德甲冠军"
+        ]
+      }
+    },
+    {
+      "slug": "wout-weghorst",
+      "team": "NED",
+      "nameEn": "Wout Weghorst",
+      "nameZh": "沃特·韦霍斯特",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Qaraba%C4%9F_vs_Ajax_%2824.10.2024%29_%284%29_%28Wout_Weghorst%29.jpg",
+      "bio": {
+        "zh": "高中锋，支点作用明显，曾租借效力曼联，经验丰富。",
+        "en": "Wout François Maria Weghorst is a Dutch professional footballer who plays as a striker for Eredivisie club Twente and the Netherlands national team."
+      },
+      "career": {
+        "formerClubs": [
+          "埃蒙",
+          "阿尔克马尔",
+          "沃尔夫斯堡",
+          "伯恩利",
+          "贝西克塔斯",
+          "曼联",
+          "霍芬海姆"
+        ],
+        "nationalTeam": {
+          "caps": 52,
+          "goals": 14
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "memphis-depay",
+      "team": "NED",
+      "nameEn": "Memphis Depay",
+      "nameZh": "孟菲斯·德佩",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Memphis_Depay_2019.jpg/330px-Memphis_Depay_2019.jpg",
+      "bio": {
+        "zh": "荷兰锋线核心，脚法出众，曾效力曼联、里昂与巴萨等豪门。",
+        "en": "Memphis Depay, commonly known simply as Memphis, is a Dutch professional footballer who plays as a forward for Corinthians in the Campeonato Brasileiro Série A and the Netherlands national team. He is the all-time top scorer for the national team with 55 goals. In addition to his football career, Memphis is also a musician."
+      },
+      "career": {
+        "formerClubs": [
+          "埃因霍温",
+          "曼联",
+          "里昂",
+          "巴塞罗那",
+          "马德里竞技"
+        ],
+        "nationalTeam": {
+          "caps": 109,
+          "goals": 55
+        },
+        "honours": [
+          "2020-21赛季西班牙国王杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "cody-gakpo",
+      "team": "NED",
+      "nameEn": "Cody Gakpo",
+      "nameZh": "科迪·哈克波",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Cody_Gakpo_06042025_%282%29_%28cropped%29.jpg/330px-Cody_Gakpo_06042025_%282%29_%28cropped%29.jpg",
+      "bio": {
+        "zh": "埃因霍温青训出品的攻击手，2023年加盟利物浦后表现亮眼。",
+        "en": "Cody Mathès Gakpo is a Dutch professional footballer who plays as a left winger or centre forward for Premier League club Liverpool and the Netherlands national team."
+      },
+      "career": {
+        "formerClubs": [
+          "埃因霍温"
+        ],
+        "nationalTeam": {
+          "caps": 50,
+          "goals": 21
+        },
+        "honours": [
+          "2023-24赛季英超冠军"
+        ]
+      }
+    },
+    {
+      "slug": "mats-wieffer",
+      "team": "NED",
+      "nameEn": "Mats Wieffer",
+      "nameZh": "马茨·韦弗",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/FC_RB_Salzburg_gegen_Feyenoord_Rotterdam_%28Testspiel_2022-07-09%29_39_%28cropped%29.jpg/330px-FC_RB_Salzburg_gegen_Feyenoord_Rotterdam_%28Testspiel_2022-07-09%29_39_%28cropped%29.jpg",
+      "bio": {
+        "zh": "荷兰后腰，跑动覆盖大，传球视野好，在费耶诺德崭露头角。",
+        "en": "Mats Henrik Berne Wieffer is a Dutch professional footballer who plays as a right-back or defensive midfielder for Premier League club Brighton & Hove Albion and the Netherlands national team."
+      },
+      "career": {
+        "formerClubs": [
+          "费耶诺德",
+          "SBV精英"
+        ],
+        "nationalTeam": {
+          "caps": 15,
+          "goals": 1
+        },
+        "honours": [
+          "2022-23赛季荷兰甲级联赛冠军"
+        ]
+      }
+    },
+    {
+      "slug": "robin-roefs",
+      "team": "NED",
+      "nameEn": "Robin Roefs",
+      "nameZh": "罗宾·鲁夫斯",
+      "photo": null,
+      "bio": {
+        "zh": "荷兰年轻门将，出自阿尔克马尔青训，曾效力于NEC奈梅亨。",
+        "en": "Robin Gerardus Petrus Roefs is a Dutch professional footballer who plays as a goalkeeper for Premier League club Sunderland and the Netherlands national team."
+      },
+      "career": {
+        "formerClubs": [
+          "阿尔克马尔",
+          "NEC奈梅亨"
+        ],
+        "nationalTeam": {
+          "caps": 1,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "tijjani-reijnders",
+      "team": "NED",
+      "nameEn": "Tijjani Reijnders",
+      "nameZh": "蒂贾尼·赖因德斯",
+      "photo": null,
+      "bio": {
+        "zh": "技术型中场，跑动积极，2023年从阿尔克马尔加盟AC米兰后迅速成为主力。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [
+          "阿尔克马尔",
+          "PEC兹沃勒"
+        ],
+        "nationalTeam": {
+          "caps": 32,
+          "goals": 7
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "micky-van-de-ven",
+      "team": "NED",
+      "nameEn": "Micky van de Ven",
+      "nameZh": "米基·范德芬",
+      "photo": null,
+      "bio": {
+        "zh": "速度极快的左脚中后卫，2023年从沃尔夫斯堡加盟热刺。",
+        "en": null
+      },
+      "career": {
+        "formerClubs": [
+          "福伦丹",
+          "沃尔夫斯堡"
+        ],
+        "nationalTeam": {
+          "caps": 21,
+          "goals": 1
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "guus-til",
+      "team": "NED",
+      "nameEn": "Guus Til",
+      "nameZh": "古斯·蒂尔",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Guus_Til_%28Spartak_Moscow%2C_19.08.2019%29.jpg/330px-Guus_Til_%28Spartak_Moscow%2C_19.08.2019%29.jpg",
+      "bio": {
+        "zh": "攻击型中场，后插上得分能力强，曾闯荡俄超与土超，现回归PSV。",
+        "en": "Guus Berend Til is a Dutch professional footballer who plays as an attacking midfielder for Eredivisie club PSV. Born in Zambia, he plays for the Netherlands national team."
+      },
+      "career": {
+        "formerClubs": [
+          "阿尔克马尔",
+          "莫斯科斯巴达",
+          "费耶诺德",
+          "朗斯"
+        ],
+        "nationalTeam": {
+          "caps": 7,
+          "goals": 1
+        },
+        "honours": [
+          "2023-24赛季荷兰甲级联赛冠军"
+        ]
+      }
+    },
+    {
+      "slug": "noa-lang",
+      "team": "NED",
+      "nameEn": "Noa Lang",
+      "nameZh": "诺亚·朗",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Austria_U-18_vs._Netherlands_U-18_2017-03-23_%28094%29.jpg/330px-Austria_U-18_vs._Netherlands_U-18_2017-03-23_%28094%29.jpg",
+      "bio": {
+        "zh": "荷兰边锋，盘带突破犀利，曾在阿贾克斯青训，后于布鲁日成名。",
+        "en": "Noa Noëll Lang is a Dutch professional footballer who plays as a left winger or left midfielder for Süper Lig club Galatasaray, on loan from Serie A club Napoli, and the Netherlands national team."
+      },
+      "career": {
+        "formerClubs": [
+          "阿贾克斯",
+          "特温特",
+          "布鲁日"
+        ],
+        "nationalTeam": {
+          "caps": 15,
+          "goals": 3
+        },
+        "honours": [
+          "2020-21赛季比利时甲级联赛冠军"
+        ]
+      }
+    },
+    {
+      "slug": "donyell-malen",
+      "team": "NED",
+      "nameEn": "Donyell Malen",
+      "nameZh": "唐耶尔·马伦",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/DONYELL_MALEN_%E2%80%93_2023.08.12.jpg/330px-DONYELL_MALEN_%E2%80%93_2023.08.12.jpg",
+      "bio": {
+        "zh": "速度快、射术好的边锋，出自阿森纳青训，后于多特蒙德打出高光。",
+        "en": "Donyell Malen is a Dutch professional footballer who plays as a winger or striker for Serie A club Roma and the Netherlands national team."
+      },
+      "career": {
+        "formerClubs": [
+          "阿森纳",
+          "埃因霍温",
+          "多特蒙德"
+        ],
+        "nationalTeam": {
+          "caps": 53,
+          "goals": 13
+        },
+        "honours": [
+          "2020-21赛季德国杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "brian-brobbey",
+      "team": "NED",
+      "nameEn": "Brian Brobbey",
+      "nameZh": "布赖恩·布罗比",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/GAE_-_Ajax_-_52788469380_%28Brobbey%29.jpg/330px-GAE_-_Ajax_-_52788469380_%28Brobbey%29.jpg",
+      "bio": {
+        "zh": "阿贾克斯青训出品的力量型中锋，冲击力强，曾在莱比锡短暂效力。",
+        "en": "Brian Ebenezer Adjei Brobbey is a Dutch professional footballer who plays as a striker for Premier League club Sunderland and the Netherlands national team."
+      },
+      "career": {
+        "formerClubs": [
+          "阿贾克斯青年队",
+          "莱比锡"
+        ],
+        "nationalTeam": {
+          "caps": 12,
+          "goals": 1
+        },
+        "honours": [
+          "2021-22赛季荷兰甲级联赛冠军"
+        ]
+      }
+    },
+    {
+      "slug": "teun-koopmeiners",
+      "team": "NED",
+      "nameEn": "Teun Koopmeiners",
+      "nameZh": "特恩·库普梅纳斯",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Teun_Koopmeiners_Manchester_United_v_Atalanta_BC%2C_20_October_2021_%2812%29_%28cropped%29.jpg/330px-Teun_Koopmeiners_Manchester_United_v_Atalanta_BC%2C_20_October_2021_%2812%29_%28cropped%29.jpg",
+      "bio": {
+        "zh": "全能中场，远射与头球俱佳，2024年从亚特兰大加盟尤文图斯。",
+        "en": "Teun Koopmeiners is a Dutch professional footballer who plays as a midfielder for Serie A club Juventus and the Netherlands national team."
+      },
+      "career": {
+        "formerClubs": [
+          "阿尔克马尔",
+          "亚特兰大"
+        ],
+        "nationalTeam": {
+          "caps": 28,
+          "goals": 3
+        },
+        "honours": [
+          "2023-24赛季欧联杯冠军"
+        ]
+      }
+    },
+    {
+      "slug": "frenkie-de-jong",
+      "team": "NED",
+      "nameEn": "Frenkie de Jong",
+      "nameZh": "弗伦基·德容",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/4/42/%D0%9C%D0%B0%D1%82%D1%87_%C2%AB%D0%94%D0%B8%D0%BD%D0%B0%D0%BC%D0%BE%C2%BB_-_%C2%AB%D0%91%D0%B0%D1%80%D1%81%D0%B5%D0%BB%D0%BE%D0%BD%D0%B0%C2%BB_0-1._2_%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F_2021_%D0%B3%D0%BE%D0%B4%D0%B0._II_%E2%80%94_1289671_%28cropped%29.jpg",
+      "bio": {
+        "zh": "荷兰中场大脑，控球摆脱能力顶级，2019年从阿贾克斯加盟巴萨。",
+        "en": "Frenkie de Jong is a Dutch professional footballer who plays as a midfielder for La Liga club Barcelona and the Netherlands national team."
+      },
+      "career": {
+        "formerClubs": [
+          "威廉二世",
+          "阿贾克斯"
+        ],
+        "nationalTeam": {
+          "caps": 66,
+          "goals": 2
+        },
+        "honours": [
+          "2018-19赛季荷甲冠军",
+          "2022-23赛季西甲冠军"
+        ]
+      }
+    },
+    {
+      "slug": "denzel-dumfries",
+      "team": "NED",
+      "nameEn": "Denzel Dumfries",
+      "nameZh": "丹泽尔·邓弗里斯",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Edison_ndreca_inter_egnati_%28cropped_Denzel_Dumfries%29.jpg",
+      "bio": {
+        "zh": "体能充沛的右翼卫，冲击力极强，2021年从埃因霍温加盟国际米兰。",
+        "en": "Denzel Justus Morris Dumfries is a Dutch professional footballer who plays as a right-back or right wing-back for La Liga club Real Madrid and the Netherlands national team."
+      },
+      "career": {
+        "formerClubs": [
+          "鹿特丹斯巴达",
+          "海伦芬",
+          "埃因霍温"
+        ],
+        "nationalTeam": {
+          "caps": 72,
+          "goals": 11
+        },
+        "honours": [
+          "2023-24赛季意甲冠军"
+        ]
+      }
+    },
+    {
+      "slug": "mark-flekken",
+      "team": "NED",
+      "nameEn": "Mark Flekken",
+      "nameZh": "马克·弗莱肯",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flekken%2C_Mark_Greuther_F%C3%BCrth_15-16_WP_%28cropped%29.jpg/330px-Flekken%2C_Mark_Greuther_F%C3%BCrth_15-16_WP_%28cropped%29.jpg",
+      "bio": {
+        "zh": "德国出生的荷兰门将，脚下技术出色，曾长期效力于弗赖堡。",
+        "en": "Mark Maria Hubertus Flekken is a Dutch professional footballer who plays as a goalkeeper for Bundesliga club Bayer Leverkusen and the Netherlands national team."
+      },
+      "career": {
+        "formerClubs": [
+          "赫拉克勒斯",
+          "弗赖堡",
+          "布伦特福德"
+        ],
+        "nationalTeam": {
+          "caps": 12,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "crysencio-summerville",
+      "team": "NED",
+      "nameEn": "Crysencio Summerville",
+      "nameZh": "克里森西奥·萨默维尔",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Crysencio_Summerville_of_West_Ham_United.jpeg/330px-Crysencio_Summerville_of_West_Ham_United.jpeg",
+      "bio": {
+        "zh": "荷兰边锋，突破速度快，出自费耶诺德青训，在利兹联打出名堂。",
+        "en": "Crysencio Jilbert Sylverio Cirro Summerville is a Dutch professional footballer who plays as a winger for EFL Championship football club West Ham United and the Netherlands national team."
+      },
+      "career": {
+        "formerClubs": [
+          "费耶诺德",
+          "多德雷赫特",
+          "特温特",
+          "利兹联"
+        ],
+        "nationalTeam": {
+          "caps": 2,
+          "goals": 0
+        },
+        "honours": []
+      }
+    },
+    {
+      "slug": "jorrel-hato",
+      "team": "NED",
+      "nameEn": "Jorrel Hato",
+      "nameZh": "约雷尔·哈托",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Jorrel_Hato_Chelsea_AC_Milan_warm_up.jpg/330px-Jorrel_Hato_Chelsea_AC_Milan_warm_up.jpg",
+      "bio": {
+        "zh": "阿贾克斯青训培养的左脚多面手，可胜任中卫与左后卫，潜力出众。",
+        "en": "Jorrel Evan Hato is a Dutch professional footballer who plays as a centre-back or left-back for Premier League club Chelsea and the Netherlands national team."
+      },
+      "career": {
+        "formerClubs": [],
+        "nationalTeam": {
+          "caps": 8,
+          "goals": 0
+        },
+        "honours": [
+          "2021-22赛季荷兰甲级联赛冠军"
+        ]
+      }
+    },
+    {
+      "slug": "quinten-timber",
+      "team": "NED",
+      "nameEn": "Quinten Timber",
+      "nameZh": "昆滕·廷贝尔",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Quinten_Timber.jpg/330px-Quinten_Timber.jpg",
+      "bio": {
+        "zh": "尤里安·廷贝尔的双胞胎兄弟，中场球员，2024年从费耶诺德加盟马赛。",
+        "en": "Quinten Ryan Crispito Timber is a Dutch professional footballer who plays as midfielder for Ligue 1 club Marseille and the Netherlands national team. He is the twin brother of Arsenal defender Jurriën Timber, and they have an elder brother, Dylan, who is also a professional footballer."
+      },
+      "career": {
+        "formerClubs": [
+          "阿贾克斯青年队",
+          "乌得勒支",
+          "费耶诺德"
+        ],
+        "nationalTeam": {
+          "caps": 11,
+          "goals": 1
+        },
+        "honours": [
+          "2022-23赛季荷兰甲级联赛冠军"
+        ]
+      }
+    }
+  ]
+}

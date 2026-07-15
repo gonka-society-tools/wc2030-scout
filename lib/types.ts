@@ -59,3 +59,27 @@ export interface PredictionsData {
   players: PlayerPrediction[];
   teams: TeamPredictions[];
 }
+
+/** One enriched player record — Wikipedia photo/bio + Gonka zh names/bio/career. */
+export interface PlayerEnrichment {
+  slug: string;
+  team: string; // team code
+  nameEn: string;
+  nameZh: string | null;
+  /** Hotlinkable upload.wikimedia.org thumbnail URL, or null if not found. */
+  photo: string | null;
+  bio: {
+    zh: string | null;
+    en: string | null;
+  };
+  career: {
+    formerClubs: string[];
+    nationalTeam: { caps: number; goals: number };
+    honours?: string[];
+  };
+}
+
+export interface EnrichmentData {
+  generatedAt: string;
+  players: PlayerEnrichment[];
+}

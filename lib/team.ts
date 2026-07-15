@@ -1,14 +1,19 @@
-import { loadSquads, loadPredictions } from "./data";
+import { loadSquads, loadPredictions, loadEnrichment } from "./data";
 import { computeRadarDims, type RadarDims } from "./heuristics";
-import type { Player, PlayerPrediction, Newcomer } from "./types";
+import { slugify } from "./slug";
+import type { Player, PlayerPrediction, Newcomer, PlayerEnrichment } from "./types";
 
 export interface RosterEntry {
   player: Player;
+  /** URL-safe slug for this player, used in /team/[code]/[player] routes. */
+  slug: string;
   prediction: PlayerPrediction | null;
   /** Displayable 2030 probability: real model mean if available, else a heuristic fallback. */
   displayProbability: number;
   isHeuristicFallback: boolean;
   radar: RadarDims;
+  /** Wikipedia photo/bio + Gonka zh name/career, if scripts/enrich.ts has been run. */
+  enrichment: PlayerEnrichment | null;
 }
 
 /** Cheap fallback score (0-100) derived purely from local heuristics, used when
@@ -20,6 +25,7 @@ function heuristicFallbackProbability(radar: RadarDims): number {
 export function getRoster(teamCode: string): RosterEntry[] {
   const squads = loadSquads();
   const predictions = loadPredictions();
+  const enrichment = loadEnrichment();
   const team = squads.teams.find((t) => t.code.toLowerCase() === teamCode.toLowerCase());
   if (!team) return [];
 
@@ -30,12 +36,19 @@ export function getRoster(teamCode: string): RosterEntry[] {
       ) ?? null;
     const radar = computeRadarDims(player);
     const displayProbability = prediction ? prediction.mean : heuristicFallbackProbability(radar);
+    const slug = slugify(player.name);
+    const playerEnrichment =
+      enrichment.players.find(
+        (e) => e.team.toLowerCase() === teamCode.toLowerCase() && e.slug === slug,
+      ) ?? null;
     return {
       player,
+      slug,
       prediction,
       displayProbability,
       isHeuristicFallback: !prediction,
       radar,
+      enrichment: playerEnrichment,
     };
   });
 }
@@ -72,4 +85,9 @@ export function getNewcomers(teamCode: string): Newcomer[] {
 
 export function getPlayerEntry(teamCode: string, playerName: string): RosterEntry | null {
   return getRoster(teamCode).find((r) => r.player.name === playerName) ?? null;
+}
+
+/** Look up a player by their route slug (see lib/slug.ts) within a team. */
+export function getPlayerEntryBySlug(teamCode: string, slug: string): RosterEntry | null {
+  return getRoster(teamCode).find((r) => r.slug === slug) ?? null;
 }

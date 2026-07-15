@@ -4,6 +4,7 @@ import { loadSquads } from "@/lib/data";
 import { getRosterSorted, getPredictedLineup, getNewcomers } from "@/lib/team";
 import { flagFor, COUNTRY_ZH } from "@/lib/flags";
 import { ProbabilityBar } from "@/components/ProbabilityBar";
+import { PlayerAvatar } from "@/components/PlayerAvatar";
 import type { Player } from "@/lib/types";
 
 export function generateStaticParams() {
@@ -64,11 +65,19 @@ export default async function TeamPage({
                 {lineup[pos].map((entry) => (
                   <Link
                     key={entry.player.name}
-                    href={`/team/${team.code}/${encodeURIComponent(entry.player.name)}`}
-                    className="block hover:bg-white/5 rounded-lg p-2 -m-2 transition-colors"
+                    href={`/team/${team.code}/${entry.slug}`}
+                    className="flex items-center gap-2.5 hover:bg-white/5 rounded-lg p-2 -m-2 transition-colors"
                   >
-                    <div className="text-sm font-medium truncate">{entry.player.name}</div>
-                    <ProbabilityBar value={entry.displayProbability} />
+                    <PlayerAvatar
+                      photo={entry.enrichment?.photo}
+                      flag={flagFor(team.code)}
+                      name={entry.player.name}
+                      size={28}
+                    />
+                    <div className="flex-1 min-w-0">
+                      <div className="text-sm font-medium truncate">{entry.player.name}</div>
+                      <ProbabilityBar value={entry.displayProbability} />
+                    </div>
                   </Link>
                 ))}
                 {lineup[pos].length === 0 && (
@@ -90,25 +99,38 @@ export default async function TeamPage({
           {roster.map((entry) => (
             <Link
               key={entry.player.name}
-              href={`/team/${team.code}/${encodeURIComponent(entry.player.name)}`}
-              className="flex items-center gap-4 p-4 hover:bg-white/5 transition-colors"
+              href={`/team/${team.code}/${entry.slug}`}
+              className="flex items-center gap-3 sm:gap-4 p-4 hover:bg-white/5 transition-colors"
             >
-              <span className="pill text-[10px] px-2 py-0.5 text-[var(--muted)] shrink-0 w-12 text-center">
+              <span className="pill text-[10px] px-2 py-0.5 text-[var(--muted)] shrink-0 w-10 sm:w-12 text-center">
                 {entry.player.position}
               </span>
+              <PlayerAvatar
+                photo={entry.enrichment?.photo}
+                flag={flagFor(team.code)}
+                name={entry.player.name}
+                size={32}
+              />
               <div className="flex-1 min-w-0">
                 <div className="flex items-center gap-2">
                   <span className="font-medium truncate">{entry.player.name}</span>
+                  {entry.enrichment?.nameZh && (
+                    <span className="text-xs text-[var(--muted)] truncate">
+                      {entry.enrichment.nameZh}
+                    </span>
+                  )}
                   {entry.prediction && entry.prediction.divergence >= 20 && (
                     <span
                       title={`模型分歧 ${entry.prediction.divergence}`}
-                      className="text-amber-400 text-xs"
+                      className="text-amber-400 text-xs shrink-0"
                     >
                       ⚠
                     </span>
                   )}
                   {entry.isHeuristicFallback && (
-                    <span className="text-[10px] text-[var(--muted)] pill px-1.5">启发式估算</span>
+                    <span className="text-[10px] text-[var(--muted)] pill px-1.5 shrink-0">
+                      启发式估算
+                    </span>
                   )}
                 </div>
                 <div className="text-xs text-[var(--muted)] truncate">
@@ -118,7 +140,7 @@ export default async function TeamPage({
               <div className="w-32 shrink-0 hidden sm:block">
                 <ProbabilityBar value={entry.displayProbability} />
               </div>
-              <span className="font-mono text-sm w-10 text-right sm:hidden">
+              <span className="font-mono text-sm w-10 text-right sm:hidden shrink-0">
                 {entry.displayProbability}%
               </span>
             </Link>
